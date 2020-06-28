@@ -45,6 +45,7 @@ Afghanistan,2020-06-23,65847.0,worldometers
 Afghanistan,2020-06-24,66800.0,worldometers
 Afghanistan,2020-06-25,68626.0,worldometers
 Afghanistan,2020-06-27,70087.0,worldometers
+Afghanistan,2020-06-28,70788.0,worldometers
 Albania,2020-04-03,2031.0,wiki
 Albania,2020-04-04,2247.0,worldometers
 Albania,2020-04-05,2396.0,wiki
@@ -120,6 +121,7 @@ Albania,2020-06-23,20762.0,worldometers
 Albania,2020-06-24,21090.0,worldometers
 Albania,2020-06-25,21781.0,worldometers
 Albania,2020-06-27,22183.0,worldometers
+Albania,2020-06-28,22538.0,worldometers
 Algeria,2020-04-04,3359.0,worldometers
 Algeria,2020-04-19,6500.0,worldometers
 Algeria,2020-06-02,18928.0,wiki
@@ -226,6 +228,7 @@ Argentina,2020-06-23,292511.0,owid/roser
 Argentina,2020-06-24,300345.0,owid/roser
 Argentina,2020-06-25,309601.0,owid/roser
 Argentina,2020-06-27,318721.0,worldometers
+Argentina,2020-06-28,329036.0,worldometers
 Armenia,2020-03-01,211.0,wiki
 Armenia,2020-03-12,262.0,wiki
 Armenia,2020-03-18,813.0,owid/ortiz
@@ -320,7 +323,8 @@ Armenia,2020-06-23,98117.0,lau
 Armenia,2020-06-24,100400.0,lau
 Armenia,2020-06-25,102736.0,lau
 Armenia,2020-06-26,105046.0,lau
-Armenia,2020-06-27,107108.0,worldometers
+Armenia,2020-06-27,107108.0,lau
+Armenia,2020-06-28,109173.0,lau
 Australia,2020-03-19,96612.0,wiki
 Australia,2020-03-20,113615.0,owid/ortiz
 Australia,2020-03-21,115000.0,lau
@@ -420,7 +424,8 @@ Australia,2020-06-23,2132821.0,owid/roser
 Australia,2020-06-24,2180424.0,owid/roser
 Australia,2020-06-25,2232341.0,lau
 Australia,2020-06-26,2281839.0,lau
-Australia,2020-06-27,2333296.0,worldometers
+Australia,2020-06-27,2336061.0,lau
+Australia,2020-06-28,2354175.0,worldometers
 Australia – Australian Capital Territory,2020-03-20,2062.0,owid/ortiz
 Australia – Australian Capital Territory,2020-04-05,5258.0,lau
 Australia – Australian Capital Territory,2020-04-06,5329.0,lau
@@ -504,6 +509,7 @@ Australia – Australian Capital Territory,2020-06-23,26480.0,lau
 Australia – Australian Capital Territory,2020-06-24,26937.0,lau
 Australia – Australian Capital Territory,2020-06-25,27529.0,lau
 Australia – Australian Capital Territory,2020-06-26,28053.0,lau
+Australia – Australian Capital Territory,2020-06-27,28364.0,lau
 Australia – New South Wales,2020-03-19,39089.0,owid/ortiz
 Australia – New South Wales,2020-04-05,121433.0,wiki
 Australia – New South Wales,2020-04-06,124038.0,wiki
@@ -587,6 +593,7 @@ Australia – New South Wales,2020-06-23,742962.0,lau
 Australia – New South Wales,2020-06-24,756240.0,lau
 Australia – New South Wales,2020-06-25,773415.0,lau
 Australia – New South Wales,2020-06-26,788693.0,lau
+Australia – New South Wales,2020-06-27,812427.0,lau
 Australia – Northern Territory,2020-04-05,2753.0,wiki
 Australia – Northern Territory,2020-04-06,2805.0,wiki
 Australia – Northern Territory,2020-04-07,2999.0,wiki
@@ -669,6 +676,7 @@ Australia – Northern Territory,2020-06-23,11878.0,lau
 Australia – Northern Territory,2020-06-24,12099.0,lau
 Australia – Northern Territory,2020-06-25,12325.0,lau
 Australia – Northern Territory,2020-06-26,12606.0,lau
+Australia – Northern Territory,2020-06-27,12932.0,lau
 Australia – Queensland,2020-03-19,27000.0,owid/ortiz
 Australia – Queensland,2020-04-05,56132.0,wiki
 Australia – Queensland,2020-04-06,59226.0,wiki
@@ -752,6 +760,7 @@ Australia – Queensland,2020-06-23,327530.0,lau
 Australia – Queensland,2020-06-24,334084.0,lau
 Australia – Queensland,2020-06-25,340581.0,lau
 Australia – Queensland,2020-06-26,347610.0,lau
+Australia – Queensland,2020-06-27,353085.0,lau
 Australia – South Australia,2020-03-20,16717.0,owid/ortiz
 Australia – South Australia,2020-04-05,32863.0,wiki
 Australia – South Australia,2020-04-06,33303.0,wiki
@@ -835,6 +844,7 @@ Australia – South Australia,2020-06-23,139594.0,lau
 Australia – South Australia,2020-06-24,141630.0,lau
 Australia – South Australia,2020-06-25,143905.0,lau
 Australia – South Australia,2020-06-26,146127.0,lau
+Australia – South Australia,2020-06-27,147846.0,lau
 Australia – Tasmania,2020-03-19,807.0,owid/ortiz
 Australia – Tasmania,2020-04-05,3016.0,wiki
 Australia – Tasmania,2020-04-07,3192.0,wiki
@@ -915,6 +925,7 @@ Australia – Tasmania,2020-06-23,44966.0,lau
 Australia – Tasmania,2020-06-24,45970.0,lau
 Australia – Tasmania,2020-06-25,46824.0,lau
 Australia – Tasmania,2020-06-26,47685.0,lau
+Australia – Tasmania,2020-06-27,48239.0,lau
 Australia – Victoria,2020-03-19,19337.0,owid/ortiz
 Australia – Victoria,2020-04-05,56000.0,wiki
 Australia – Victoria,2020-04-06,57000.0,wiki
@@ -994,6 +1005,7 @@ Australia – Victoria,2020-06-23,675264.0,lau
 Australia – Victoria,2020-06-24,696263.0,lau
 Australia – Victoria,2020-06-25,716567.0,lau
 Australia – Victoria,2020-06-26,736735.0,lau
+Australia – Victoria,2020-06-27,758838.0,lau
 Australia – Western Australia,2020-03-19,8603.0,owid/ortiz
 Australia – Western Australia,2020-04-05,18197.0,wiki
 Australia – Western Australia,2020-04-06,18726.0,wiki
@@ -1195,7 +1207,7 @@ Austria,2020-06-23,572473.0,owid/roser
 Austria,2020-06-24,578584.0,owid/roser
 Austria,2020-06-25,584243.0,owid/roser
 Austria,2020-06-26,590442.0,wiki
-Austria,2020-06-27,590442.0,worldometers
+Austria,2020-06-28,597495.0,worldometers
 Azerbaijan,2020-03-26,20000.0,lau
 Azerbaijan,2020-03-28,25000.0,lau
 Azerbaijan,2020-03-30,30000.0,lau
@@ -1273,7 +1285,8 @@ Azerbaijan,2020-06-23,432858.0,lau
 Azerbaijan,2020-06-24,441961.0,lau
 Azerbaijan,2020-06-25,449235.0,lau
 Azerbaijan,2020-06-26,456215.0,lau
-Azerbaijan,2020-06-27,456215.0,worldometers
+Azerbaijan,2020-06-27,461861.0,lau
+Azerbaijan,2020-06-28,461861.0,worldometers
 Bahamas,2020-05-01,1284.0,worldometers
 Bahamas,2020-05-02,1313.0,worldometers
 Bahamas,2020-05-03,1353.0,worldometers
@@ -1308,6 +1321,7 @@ Bahamas,2020-06-19,2326.0,worldometers
 Bahamas,2020-06-22,2347.0,worldometers
 Bahamas,2020-06-24,2360.0,worldometers
 Bahamas,2020-06-26,2366.0,worldometers
+Bahamas,2020-06-28,2388.0,worldometers
 Bahrain,2020-03-05,5334.0,owid/roser
 Bahrain,2020-03-07,6420.0,owid/roser
 Bahrain,2020-03-09,7830.0,owid/roser
@@ -1407,6 +1421,7 @@ Bahrain,2020-06-24,494028.0,owid/roser
 Bahrain,2020-06-25,502763.0,owid/roser
 Bahrain,2020-06-26,511458.0,owid/roser
 Bahrain,2020-06-27,521101.0,worldometers
+Bahrain,2020-06-28,529242.0,worldometers
 Bangladesh,2020-03-04,108.0,owid/roser
 Bangladesh,2020-03-05,111.0,owid/roser
 Bangladesh,2020-03-07,120.0,owid/roser
@@ -1521,7 +1536,7 @@ Bangladesh,2020-06-23,647011.0,owid/roser
 Bangladesh,2020-06-24,663444.0,owid/roser
 Bangladesh,2020-06-25,681443.0,worldometers
 Bangladesh,2020-06-26,699941.0,wiki
-Bangladesh,2020-06-27,699941.0,worldometers
+Bangladesh,2020-06-28,715098.0,worldometers
 Barbados,2020-02-20,94.0,lau
 Barbados,2020-03-29,287.0,lau
 Barbados,2020-03-30,309.0,lau
@@ -1687,6 +1702,7 @@ Belarus,2020-06-22,876639.0,owid/roser
 Belarus,2020-06-24,901904.0,owid/roser
 Belarus,2020-06-25,919139.0,owid/roser
 Belarus,2020-06-27,939524.0,worldometers
+Belarus,2020-06-28,959880.0,worldometers
 Belgium,2020-03-01,56.0,owid/roser
 Belgium,2020-03-02,324.0,owid/roser
 Belgium,2020-03-03,796.0,owid/roser
@@ -1805,6 +1821,7 @@ Belgium,2020-06-23,905354.0,owid/roser
 Belgium,2020-06-24,1131883.0,worldometers
 Belgium,2020-06-25,1161971.0,worldometers
 Belgium,2020-06-27,1178721.0,worldometers
+Belgium,2020-06-28,1191959.0,worldometers
 Belize,2020-04-04,25.0,worldometers
 Belize,2020-04-05,102.0,worldometers
 Belize,2020-04-07,268.0,worldometers
@@ -1853,6 +1870,7 @@ Benin,2020-06-23,54404.0,worldometers
 Benin,2020-06-24,54653.0,worldometers
 Benin,2020-06-25,55328.0,worldometers
 Benin,2020-06-27,55478.0,worldometers
+Benin,2020-06-28,55689.0,worldometers
 Bhutan,2020-04-07,1166.0,worldometers
 Bhutan,2020-04-17,7913.0,worldometers
 Bhutan,2020-04-18,8107.0,worldometers
@@ -1911,6 +1929,7 @@ Bhutan,2020-06-23,23368.0,worldometers
 Bhutan,2020-06-24,23749.0,worldometers
 Bhutan,2020-06-25,23857.0,worldometers
 Bhutan,2020-06-27,23988.0,worldometers
+Bhutan,2020-06-28,24509.0,worldometers
 Bolivia,2020-03-14,26.0,owid/roser
 Bolivia,2020-03-15,33.0,owid/roser
 Bolivia,2020-03-16,45.0,owid/roser
@@ -2008,7 +2027,7 @@ Bolivia,2020-06-22,61455.0,owid/roser
 Bolivia,2020-06-23,63211.0,owid/roser
 Bolivia,2020-06-24,64946.0,owid/roser
 Bolivia,2020-06-25,66597.0,owid/roser
-Bolivia,2020-06-27,68630.0,worldometers
+Bolivia,2020-06-28,70872.0,worldometers
 Bosnia and Herzegovina,2020-02-22,0.0,lau
 Bosnia and Herzegovina,2020-02-23,0.0,lau
 Bosnia and Herzegovina,2020-02-24,0.0,lau
@@ -2134,6 +2153,7 @@ Bosnia and Herzegovina,2020-06-24,49935.0,lau
 Bosnia and Herzegovina,2020-06-25,50603.0,lau
 Bosnia and Herzegovina,2020-06-26,51326.0,lau
 Bosnia and Herzegovina,2020-06-27,52434.0,lau
+Bosnia and Herzegovina,2020-06-28,53056.0,lau
 Botswana,2020-04-04,175.0,worldometers
 Botswana,2020-04-05,966.0,worldometers
 Botswana,2020-04-07,1154.0,worldometers
@@ -2278,7 +2298,8 @@ Brunei,2020-06-23,26848.0,lau
 Brunei,2020-06-24,27385.0,lau
 Brunei,2020-06-25,27802.0,lau
 Brunei,2020-06-26,28395.0,lau
-Brunei,2020-06-27,28395.0,worldometers
+Brunei,2020-06-27,28707.0,lau
+Brunei,2020-06-28,28707.0,worldometers
 Bulgaria,2020-03-29,7000.0,lau
 Bulgaria,2020-04-05,15889.0,lau
 Bulgaria,2020-04-10,18502.0,worldometers
@@ -2345,7 +2366,8 @@ Bulgaria,2020-06-23,122502.0,lau
 Bulgaria,2020-06-24,125518.0,lau
 Bulgaria,2020-06-25,128293.0,lau
 Bulgaria,2020-06-26,131043.0,lau
-Bulgaria,2020-06-27,131043.0,worldometers
+Bulgaria,2020-06-27,132571.0,lau
+Bulgaria,2020-06-28,132571.0,worldometers
 Burkina Faso,2020-04-29,1333.0,wiki
 Burkina Faso,2020-05-21,6642.0,wiki
 Burma,2020-04-03,1183.0,lau
@@ -2431,6 +2453,7 @@ Burundi,2020-04-04,2.0,worldometers
 Burundi,2020-04-17,80.0,worldometers
 Burundi,2020-04-22,284.0,worldometers
 Burundi,2020-06-07,382.0,worldometers
+Burundi,2020-06-28,493.0,worldometers
 Cabo Verde,2020-04-25,791.0,worldometers
 Cabo Verde,2020-05-24,1307.0,worldometers
 Cambodia,2020-01-22,2.0,lau
@@ -2581,6 +2604,7 @@ Cambodia,2020-06-23,32281.0,worldometers
 Cambodia,2020-06-25,33211.0,worldometers
 Cambodia,2020-06-26,33812.0,worldometers
 Cambodia,2020-06-27,34316.0,worldometers
+Cambodia,2020-06-28,35093.0,worldometers
 Cameroon,2020-04-26,6352.0,wiki
 Cameroon,2020-05-01,7687.0,wiki
 Cameroon,2020-05-05,9254.0,wiki
@@ -2689,6 +2713,7 @@ Canada,2020-06-24,2482793.0,owid/roser
 Canada,2020-06-25,2518574.0,owid/roser
 Canada,2020-06-26,2558287.0,owid/roser
 Canada,2020-06-27,2598243.0,worldometers
+Canada,2020-06-28,2640315.0,worldometers
 Canada – Alberta,2020-01-25,1.0,lau
 Canada – Alberta,2020-01-26,1.0,lau
 Canada – Alberta,2020-01-27,2.0,lau
@@ -2841,6 +2866,7 @@ Canada – Alberta,2020-06-23,357139.0,lau
 Canada – Alberta,2020-06-24,362699.0,lau
 Canada – Alberta,2020-06-25,367935.0,lau
 Canada – Alberta,2020-06-26,373437.0,lau
+Canada – Alberta,2020-06-27,378629.0,lau
 Canada – British Columbia,2020-01-20,1.0,lau
 Canada – British Columbia,2020-01-23,2.0,lau
 Canada – British Columbia,2020-01-26,28.0,lau
@@ -3161,6 +3187,7 @@ Canada – New Brunswick,2020-06-23,40832.0,lau
 Canada – New Brunswick,2020-06-24,41356.0,lau
 Canada – New Brunswick,2020-06-25,41690.0,lau
 Canada – New Brunswick,2020-06-26,42150.0,lau
+Canada – New Brunswick,2020-06-27,42493.0,lau
 Canada – Newfoundland,2020-03-20,791.0,wiki
 Canada – Newfoundland,2020-03-27,1689.0,wiki
 Canada – Newfoundland,2020-03-29,2107.0,wiki
@@ -3267,6 +3294,7 @@ Canada – Newfoundland and Labrador,2020-06-23,16430.0,lau
 Canada – Newfoundland and Labrador,2020-06-24,16620.0,lau
 Canada – Newfoundland and Labrador,2020-06-25,16901.0,lau
 Canada – Newfoundland and Labrador,2020-06-26,17058.0,lau
+Canada – Newfoundland and Labrador,2020-06-27,17270.0,lau
 Canada – Northwest Territories,2020-03-19,222.0,owid/ortiz
 Canada – Northwest Territories,2020-03-21,299.0,wiki
 Canada – Northwest Territories,2020-03-27,300.0,wiki
@@ -3420,6 +3448,7 @@ Canada – Nova Scotia,2020-06-23,52591.0,lau
 Canada – Nova Scotia,2020-06-24,52878.0,lau
 Canada – Nova Scotia,2020-06-25,53327.0,lau
 Canada – Nova Scotia,2020-06-26,53614.0,lau
+Canada – Nova Scotia,2020-06-27,53872.0,lau
 Canada – Nunavut,2020-04-22,250.0,wiki
 Canada – Nunavut,2020-04-24,277.0,wiki
 Canada – Nunavut,2020-04-30,406.0,wiki
@@ -3826,6 +3855,7 @@ Canada – Saskatchewan,2020-06-23,54423.0,lau
 Canada – Saskatchewan,2020-06-24,54926.0,lau
 Canada – Saskatchewan,2020-06-25,55410.0,lau
 Canada – Saskatchewan,2020-06-26,55940.0,lau
+Canada – Saskatchewan,2020-06-27,56768.0,lau
 Canada – Yukon,2020-03-19,398.0,wiki
 Canada – Yukon,2020-03-27,560.0,wiki
 Canada – Yukon,2020-03-30,598.0,wiki
@@ -3901,6 +3931,7 @@ Central African Republic,2020-06-13,18921.0,worldometers
 Central African Republic,2020-06-21,20901.0,worldometers
 Central African Republic,2020-06-25,22267.0,worldometers
 Central African Republic,2020-06-27,22884.0,worldometers
+Central African Republic,2020-06-28,23208.0,worldometers
 Chile,2020-03-24,7542.0,wiki
 Chile,2020-03-27,23105.0,wiki
 Chile,2020-03-31,35142.0,wiki
@@ -3989,6 +4020,7 @@ Chile,2020-06-23,995060.0,owid/roser
 Chile,2020-06-24,1007635.0,owid/roser
 Chile,2020-06-25,1025081.0,owid/roser
 Chile,2020-06-27,1043330.0,worldometers
+Chile,2020-06-28,1061274.0,worldometers
 China,2020-06-26,90410000.0,worldometers
 China – Guangdong,2020-02-01,320000.0,wiki
 China – Guangdong,2020-04-14,3650000.0,wiki
@@ -4124,6 +4156,7 @@ Colombia,2020-06-23,634611.0,owid/roser
 Colombia,2020-06-24,651592.0,owid/roser
 Colombia,2020-06-25,670093.0,owid/roser
 Colombia,2020-06-27,688959.0,worldometers
+Colombia,2020-06-28,707688.0,worldometers
 Congo (Kinshasa),2020-04-28,1495.0,wiki
 Congo (Kinshasa),2020-04-30,1733.0,wiki
 Congo (Kinshasa),2020-05-05,2256.0,wiki
@@ -4313,7 +4346,8 @@ Cote d'Ivoire,2020-06-23,47299.0,lau
 Cote d'Ivoire,2020-06-24,48340.0,lau
 Cote d'Ivoire,2020-06-25,49352.0,lau
 Cote d'Ivoire,2020-06-26,50914.0,lau
-Cote d'Ivoire,2020-06-27,50914.0,worldometers
+Cote d'Ivoire,2020-06-27,52261.0,lau
+Cote d'Ivoire,2020-06-28,52261.0,worldometers
 Croatia,2020-03-03,247.0,owid/roser
 Croatia,2020-03-04,255.0,owid/roser
 Croatia,2020-03-05,273.0,owid/roser
@@ -4519,6 +4553,7 @@ Cuba,2020-06-21,153233.0,owid/roser
 Cuba,2020-06-22,155381.0,owid/roser
 Cuba,2020-06-23,157387.0,owid/roser
 Cuba,2020-06-24,159571.0,owid/roser
+Cuba,2020-06-28,163962.0,worldometers
 Cyprus,2020-03-29,8186.0,lau
 Cyprus,2020-03-30,8442.0,lau
 Cyprus,2020-03-31,8659.0,lau
@@ -4601,6 +4636,7 @@ Cyprus,2020-06-22,184483.0,lau
 Cyprus,2020-06-23,185676.0,lau
 Cyprus,2020-06-24,187388.0,lau
 Cyprus,2020-06-25,188675.0,lau
+Cyprus,2020-06-27,190150.0,lau
 Czechia,2020-01-27,20.0,owid/roser
 Czechia,2020-01-28,28.0,owid/roser
 Czechia,2020-01-29,33.0,owid/roser
@@ -4745,7 +4781,8 @@ Czechia,2020-06-21,520813.0,owid/roser
 Czechia,2020-06-22,524624.0,owid/roser
 Czechia,2020-06-23,529222.0,owid/roser
 Czechia,2020-06-24,532987.0,owid/roser
-Czechia,2020-06-27,536312.0,worldometers
+Czechia,2020-06-26,541212.0,wiki
+Czechia,2020-06-28,541212.0,worldometers
 Denmark,2020-01-27,1.0,owid/roser
 Denmark,2020-02-02,2.0,owid/roser
 Denmark,2020-02-03,3.0,owid/roser
@@ -4996,7 +5033,8 @@ Denmark – Faroe Islands,2020-06-23,12219.0,lau
 Denmark – Faroe Islands,2020-06-24,12438.0,lau
 Denmark – Faroe Islands,2020-06-25,12558.0,lau
 Denmark – Faroe Islands,2020-06-26,12750.0,lau
-Denmark – Faroe Islands,2020-06-27,12750.0,worldometers
+Denmark – Faroe Islands,2020-06-27,12974.0,lau
+Denmark – Faroe Islands,2020-06-28,12974.0,worldometers
 Denmark – Greenland,2020-04-04,542.0,worldometers
 Denmark – Greenland,2020-04-07,752.0,worldometers
 Denmark – Greenland,2020-04-08,770.0,worldometers
@@ -5213,6 +5251,7 @@ Dominican Republic,2020-06-22,130745.0,lau
 Dominican Republic,2020-06-23,133718.0,lau
 Dominican Republic,2020-06-24,135969.0,lau
 Dominican Republic,2020-06-25,138698.0,lau
+Dominican Republic,2020-06-28,142340.0,worldometers
 Ecuador,2020-03-18,480.0,owid/roser
 Ecuador,2020-03-19,672.0,owid/roser
 Ecuador,2020-03-20,959.0,owid/roser
@@ -5296,6 +5335,7 @@ Ecuador,2020-06-23,102855.0,owid/roser
 Ecuador,2020-06-24,104572.0,owid/roser
 Ecuador,2020-06-25,106476.0,owid/roser
 Ecuador,2020-06-26,142715.0,worldometers
+Ecuador,2020-06-28,144751.0,worldometers
 Egypt,2020-03-25,25000.0,wiki
 Egypt,2020-04-17,55000.0,wiki
 Egypt,2020-04-24,90000.0,worldometers
@@ -5378,6 +5418,7 @@ El Salvador,2020-06-22,145341.0,owid/roser
 El Salvador,2020-06-23,147771.0,owid/roser
 El Salvador,2020-06-25,150252.0,worldometers
 El Salvador,2020-06-27,152729.0,worldometers
+El Salvador,2020-06-28,155301.0,worldometers
 Equatorial Guinea,2020-04-07,854.0,worldometers
 Equatorial Guinea,2020-06-01,8268.0,worldometers
 Equatorial Guinea,2020-06-17,16000.0,worldometers
@@ -5503,6 +5544,7 @@ Estonia,2020-06-22,103684.0,owid/roser
 Estonia,2020-06-23,103950.0,owid/roser
 Estonia,2020-06-24,104300.0,owid/roser
 Estonia,2020-06-27,105000.0,worldometers
+Estonia,2020-06-28,105310.0,worldometers
 Eswatini,2020-04-13,714.0,worldometers
 Eswatini,2020-05-13,2262.0,worldometers
 Eswatini,2020-05-16,4160.0,worldometers
@@ -5588,6 +5630,7 @@ Ethiopia,2020-06-23,223341.0,owid/roser
 Ethiopia,2020-06-24,227375.0,owid/roser
 Ethiopia,2020-06-25,232050.0,owid/roser
 Ethiopia,2020-06-27,237464.0,worldometers
+Ethiopia,2020-06-28,243016.0,worldometers
 Faeroe Islands,2020-03-20,1641.0,owid/ortiz
 Fiji,2020-04-24,900.0,worldometers
 Fiji,2020-04-27,1007.0,worldometers
@@ -6121,7 +6164,8 @@ Georgia,2020-06-23,90434.0,lau
 Georgia,2020-06-24,92756.0,lau
 Georgia,2020-06-25,95219.0,lau
 Georgia,2020-06-26,98486.0,lau
-Georgia,2020-06-27,98486.0,worldometers
+Georgia,2020-06-27,101753.0,lau
+Georgia,2020-06-28,101753.0,worldometers
 Germany,2020-03-08,124716.0,owid/roser
 Germany,2020-03-15,252173.0,owid/roser
 Germany,2020-03-22,600792.0,owid/roser
@@ -6193,6 +6237,7 @@ Ghana,2020-06-21,277550.0,owid/roser
 Ghana,2020-06-22,280116.0,owid/roser
 Ghana,2020-06-23,283124.0,owid/roser
 Ghana,2020-06-27,286453.0,worldometers
+Ghana,2020-06-28,288465.0,worldometers
 Greece,2020-03-03,570.0,owid/roser
 Greece,2020-03-12,2180.0,owid/roser
 Greece,2020-03-13,2700.0,owid/roser
@@ -6282,6 +6327,7 @@ Greece,2020-06-22,285989.0,owid/roser
 Greece,2020-06-23,291187.0,owid/roser
 Greece,2020-06-25,291840.0,owid/roser
 Greece,2020-06-27,295851.0,worldometers
+Greece,2020-06-28,301144.0,worldometers
 Grenada,2020-03-19,18.0,wiki
 Grenada,2020-04-01,37.0,wiki
 Grenada,2020-04-04,45.0,worldometers
@@ -6378,7 +6424,6 @@ Guyana,2020-06-23,2168.0,lau
 Guyana,2020-06-24,2246.0,lau
 Guyana,2020-06-25,2355.0,lau
 Guyana,2020-06-26,2423.0,lau
-Guyana,2020-06-27,2423.0,worldometers
 Haiti,2020-04-04,200.0,worldometers
 Haiti,2020-04-05,247.0,worldometers
 Haiti,2020-04-07,257.0,worldometers
@@ -6672,6 +6717,7 @@ Iceland,2020-06-18,65101.0,worldometers
 Iceland,2020-06-21,69190.0,wiki
 Iceland,2020-06-25,70072.0,worldometers
 Iceland,2020-06-27,73148.0,worldometers
+Iceland,2020-06-28,74424.0,worldometers
 India,2020-03-01,4058.0,wiki
 India,2020-03-13,6500.0,owid/roser
 India,2020-03-18,13125.0,owid/roser
@@ -6770,6 +6816,7 @@ India,2020-06-24,7352911.0,owid/roser
 India,2020-06-25,7560782.0,owid/roser
 India,2020-06-26,7776228.0,owid/roser
 India,2020-06-27,7996707.0,wiki
+India,2020-06-28,8227802.0,wiki
 India – Andaman and Nicobar Islands,2020-05-15,6541.0,wiki
 India – Andaman and Nicobar Islands,2020-05-17,6683.0,wiki
 India – Andaman and Nicobar Islands,2020-05-18,6859.0,wiki
@@ -6880,6 +6927,7 @@ India – Assam,2020-06-22,301557.0,wiki
 India – Assam,2020-06-24,336091.0,wiki
 India – Assam,2020-06-25,351753.0,wiki
 India – Assam,2020-06-26,362713.0,wiki
+India – Assam,2020-06-27,374519.0,wiki
 India – Bihar,2020-05-13,39149.0,wiki
 India – Bihar,2020-05-20,53361.0,wiki
 India – Bihar,2020-05-21,55692.0,wiki
@@ -7184,6 +7232,7 @@ India – Karnataka,2020-06-22,515969.0,wiki
 India – Karnataka,2020-06-24,539247.0,wiki
 India – Karnataka,2020-06-25,553325.0,wiki
 India – Karnataka,2020-06-26,568058.0,wiki
+India – Karnataka,2020-06-27,581635.0,wiki
 India – Kerala,2020-04-18,18774.0,wiki
 India – Kerala,2020-04-19,19351.0,wiki
 India – Kerala,2020-04-21,20252.0,wiki
@@ -7527,6 +7576,7 @@ India – Tamil Nadu,2020-06-22,919204.0,wiki
 India – Tamil Nadu,2020-06-24,976431.0,wiki
 India – Tamil Nadu,2020-06-25,1008974.0,wiki
 India – Tamil Nadu,2020-06-26,1042649.0,wiki
+India – Tamil Nadu,2020-06-27,1077454.0,wiki
 India – Tripura,2020-05-14,11804.0,wiki
 India – Tripura,2020-05-20,15822.0,wiki
 India – Tripura,2020-05-21,16873.0,wiki
@@ -7717,6 +7767,7 @@ Indonesia,2020-06-24,413919.0,owid/roser
 Indonesia,2020-06-25,427158.0,owid/roser
 Indonesia,2020-06-26,708962.0,worldometers
 Indonesia,2020-06-27,731781.0,worldometers
+Indonesia,2020-06-28,753370.0,worldometers
 Iran,2020-03-14,80000.0,owid/ortiz
 Iran,2020-04-04,186000.0,worldometers
 Iran,2020-04-05,189790.0,owid/roser
@@ -7797,6 +7848,7 @@ Iran,2020-06-23,1475331.0,owid/roser
 Iran,2020-06-24,1502525.0,owid/roser
 Iran,2020-06-25,1530437.0,worldometers
 Iran,2020-06-27,1557872.0,worldometers
+Iran,2020-06-28,1583542.0,worldometers
 Iraq,2020-04-07,26331.0,lau
 Iraq,2020-04-08,28414.0,lau
 Iraq,2020-04-09,30466.0,lau
@@ -7878,7 +7930,8 @@ Iraq,2020-06-23,465988.0,lau
 Iraq,2020-06-24,477433.0,lau
 Iraq,2020-06-25,488803.0,lau
 Iraq,2020-06-26,500723.0,lau
-Iraq,2020-06-27,500723.0,worldometers
+Iraq,2020-06-27,510353.0,lau
+Iraq,2020-06-28,510353.0,worldometers
 Ireland,2020-03-09,1784.0,owid/roser
 Ireland,2020-03-17,6636.0,owid/roser
 Ireland,2020-03-23,17992.0,owid/roser
@@ -7905,7 +7958,8 @@ Ireland,2020-06-21,399259.0,worldometers
 Ireland,2020-06-23,404989.0,owid/roser
 Ireland,2020-06-25,408344.0,worldometers
 Ireland,2020-06-26,411335.0,worldometers
-Ireland,2020-06-27,415028.0,worldometers
+Ireland,2020-06-27,419021.0,wiki
+Ireland,2020-06-28,419021.0,worldometers
 Israel,2020-01-26,3.0,owid/roser
 Israel,2020-01-27,4.0,owid/roser
 Israel,2020-01-29,7.0,owid/roser
@@ -8173,6 +8227,7 @@ Italy,2020-06-23,5053827.0,owid/roser
 Italy,2020-06-24,5107093.0,owid/roser
 Italy,2020-06-25,5163154.0,owid/roser
 Italy,2020-06-27,5215922.0,worldometers
+Italy,2020-06-28,5277273.0,worldometers
 Italy – Abruzzo,2020-04-17,25436.0,wiki
 Italy – Abruzzo,2020-04-19,27791.0,wiki
 Italy – Abruzzo,2020-04-21,29906.0,wiki
@@ -8780,6 +8835,7 @@ Jamaica,2020-06-24,21658.0,worldometers
 Jamaica,2020-06-25,22261.0,worldometers
 Jamaica,2020-06-26,22712.0,worldometers
 Jamaica,2020-06-27,23331.0,worldometers
+Jamaica,2020-06-28,23583.0,worldometers
 Japan,2020-02-21,1522.0,lau
 Japan,2020-02-22,5266.0,owid/roser
 Japan,2020-02-29,12924.0,owid/roser
@@ -8913,7 +8969,7 @@ Jordan,2020-06-23,341161.0,lau
 Jordan,2020-06-24,348679.0,lau
 Jordan,2020-06-25,355004.0,lau
 Jordan,2020-06-26,362326.0,lau
-Jordan,2020-06-27,362326.0,worldometers
+Jordan,2020-06-27,396560.0,lau
 Kazakhstan,2020-03-13,126.0,owid/roser
 Kazakhstan,2020-03-14,445.0,owid/roser
 Kazakhstan,2020-03-15,652.0,owid/roser
@@ -9105,6 +9161,7 @@ Kenya,2020-06-23,146537.0,owid/roser
 Kenya,2020-06-24,151396.0,owid/roser
 Kenya,2020-06-26,155314.0,worldometers
 Kenya,2020-06-27,158404.0,worldometers
+Kenya,2020-06-28,162478.0,worldometers
 Kosovo,2020-03-13,26.0,lau
 Kosovo,2020-03-14,125.0,lau
 Kosovo,2020-03-15,152.0,lau
@@ -9209,6 +9266,7 @@ Kosovo,2020-06-21,21096.0,lau
 Kosovo,2020-06-24,22035.0,lau
 Kosovo,2020-06-25,22316.0,lau
 Kosovo,2020-06-26,22521.0,lau
+Kosovo,2020-06-27,22728.0,lau
 Kuwait,2020-03-18,14000.0,lau
 Kuwait,2020-04-28,179000.0,worldometers
 Kuwait,2020-05-04,196397.0,worldometers
@@ -9257,7 +9315,7 @@ Kuwait,2020-06-23,361239.0,owid/roser
 Kuwait,2020-06-24,365224.0,owid/roser
 Kuwait,2020-06-25,368510.0,owid/roser
 Kuwait,2020-06-26,372284.0,owid/roser
-Kuwait,2020-06-27,372284.0,worldometers
+Kuwait,2020-06-28,375524.0,worldometers
 Kyrgyzstan,2020-03-13,1545.0,owid/ortiz
 Kyrgyzstan,2020-03-30,7096.0,lau
 Kyrgyzstan,2020-03-31,8186.0,lau
@@ -9343,6 +9401,8 @@ Kyrgyzstan,2020-06-23,184380.0,lau
 Kyrgyzstan,2020-06-24,188576.0,lau
 Kyrgyzstan,2020-06-25,192736.0,lau
 Kyrgyzstan,2020-06-26,196948.0,lau
+Kyrgyzstan,2020-06-27,200835.0,lau
+Kyrgyzstan,2020-06-28,212112.0,worldometers
 Laos,2020-04-04,437.0,worldometers
 Laos,2020-04-05,604.0,worldometers
 Laos,2020-04-06,621.0,worldometers
@@ -9415,6 +9475,7 @@ Laos,2020-06-24,13203.0,worldometers
 Laos,2020-06-25,13507.0,worldometers
 Laos,2020-06-26,13883.0,worldometers
 Laos,2020-06-27,14161.0,worldometers
+Laos,2020-06-28,14645.0,worldometers
 Latvia,2020-02-29,116.0,owid/roser
 Latvia,2020-03-01,126.0,owid/roser
 Latvia,2020-03-02,163.0,owid/roser
@@ -9534,6 +9595,7 @@ Latvia,2020-06-23,140437.0,owid/roser
 Latvia,2020-06-24,141713.0,owid/roser
 Latvia,2020-06-25,142794.0,owid/roser
 Latvia,2020-06-27,146874.0,worldometers
+Latvia,2020-06-28,147916.0,worldometers
 Lebanon,2020-03-25,6024.0,lau
 Lebanon,2020-03-26,6190.0,lau
 Lebanon,2020-03-27,6449.0,lau
@@ -9629,6 +9691,7 @@ Lebanon,2020-06-24,118534.0,worldometers
 Lebanon,2020-06-25,120315.0,worldometers
 Lebanon,2020-06-26,122351.0,worldometers
 Lebanon,2020-06-27,125058.0,worldometers
+Lebanon,2020-06-28,127693.0,worldometers
 Lesotho,2020-05-24,283.0,worldometers
 Lesotho,2020-06-04,1515.0,worldometers
 Lesotho,2020-06-23,2137.0,worldometers
@@ -9794,6 +9857,7 @@ Lithuania,2020-06-23,398417.0,owid/roser
 Lithuania,2020-06-24,403841.0,owid/roser
 Lithuania,2020-06-25,406557.0,owid/roser
 Lithuania,2020-06-27,410867.0,worldometers
+Lithuania,2020-06-28,414792.0,worldometers
 Luxembourg,2020-04-01,18690.0,owid/roser
 Luxembourg,2020-04-03,21463.0,owid/roser
 Luxembourg,2020-04-04,22793.0,owid/roser
@@ -9879,6 +9943,7 @@ Luxembourg,2020-06-23,154881.0,owid/roser
 Luxembourg,2020-06-24,156089.0,owid/roser
 Luxembourg,2020-06-25,163090.0,owid/roser
 Luxembourg,2020-06-27,168786.0,worldometers
+Luxembourg,2020-06-28,172292.0,worldometers
 Madagascar,2020-04-17,2357.0,worldometers
 Madagascar,2020-04-29,3107.0,worldometers
 Madagascar,2020-05-01,3228.0,worldometers
@@ -10064,6 +10129,7 @@ Malaysia,2020-06-23,693603.0,owid/roser
 Malaysia,2020-06-24,704336.0,owid/roser
 Malaysia,2020-06-25,716178.0,owid/roser
 Malaysia,2020-06-27,729116.0,worldometers
+Malaysia,2020-06-28,739458.0,worldometers
 Maldives,2020-03-16,221.0,owid/roser
 Maldives,2020-03-17,254.0,owid/roser
 Maldives,2020-03-18,463.0,owid/roser
@@ -10153,6 +10219,7 @@ Maldives,2020-06-23,43998.0,owid/roser
 Maldives,2020-06-24,45185.0,owid/roser
 Maldives,2020-06-26,46182.0,worldometers
 Maldives,2020-06-27,46891.0,worldometers
+Maldives,2020-06-28,47741.0,worldometers
 Mali,2020-04-23,2023.0,worldometers
 Mali,2020-04-25,2172.0,worldometers
 Mali,2020-05-17,3264.0,worldometers
@@ -10244,7 +10311,7 @@ Malta,2020-06-23,89600.0,lau
 Malta,2020-06-24,90500.0,lau
 Malta,2020-06-25,91600.0,lau
 Malta,2020-06-26,92500.0,lau
-Malta,2020-06-27,92517.0,worldometers
+Malta,2020-06-27,92500.0,lau
 Mauritania,2020-04-04,67.0,worldometers
 Mauritania,2020-04-09,258.0,worldometers
 Mauritania,2020-04-10,380.0,worldometers
@@ -10472,6 +10539,7 @@ Mexico,2020-06-24,501871.0,worldometers
 Mexico,2020-06-25,515658.0,worldometers
 Mexico,2020-06-26,528651.0,worldometers
 Mexico,2020-06-27,542120.0,worldometers
+Mexico,2020-06-28,551052.0,worldometers
 Moldova,2020-04-04,681.0,worldometers
 Moldova,2020-04-07,5108.0,worldometers
 Moldova,2020-04-10,6271.0,worldometers
@@ -10548,6 +10616,7 @@ Mongolia,2020-06-24,20975.0,worldometers
 Mongolia,2020-06-25,21308.0,worldometers
 Mongolia,2020-06-26,21479.0,worldometers
 Mongolia,2020-06-27,21651.0,worldometers
+Mongolia,2020-06-28,21959.0,worldometers
 Montenegro,2020-03-30,834.0,wiki
 Montenegro,2020-04-02,1063.0,wiki
 Montenegro,2020-04-04,1405.0,wiki
@@ -10706,7 +10775,8 @@ Morocco,2020-06-23,575176.0,owid/roser
 Morocco,2020-06-24,591757.0,owid/roser
 Morocco,2020-06-25,600383.0,worldometers
 Morocco,2020-06-26,620435.0,lau
-Morocco,2020-06-27,620435.0,worldometers
+Morocco,2020-06-27,633494.0,lau
+Morocco,2020-06-28,633494.0,worldometers
 Mozambique,2020-04-04,338.0,worldometers
 Mozambique,2020-04-06,363.0,worldometers
 Mozambique,2020-04-07,424.0,worldometers
@@ -10779,6 +10849,7 @@ Mozambique,2020-06-23,24348.0,worldometers
 Mozambique,2020-06-25,25446.0,worldometers
 Mozambique,2020-06-26,26204.0,worldometers
 Mozambique,2020-06-27,27123.0,worldometers
+Mozambique,2020-06-28,27956.0,worldometers
 Myanmar,2020-04-03,1183.0,owid/roser
 Myanmar,2020-04-04,1246.0,owid/roser
 Myanmar,2020-04-06,1340.0,owid/roser
@@ -10860,6 +10931,7 @@ Myanmar,2020-06-22,64532.0,owid/roser
 Myanmar,2020-06-24,64532.0,worldometers
 Myanmar,2020-06-25,66353.0,worldometers
 Myanmar,2020-06-26,68404.0,worldometers
+Myanmar,2020-06-28,71692.0,worldometers
 Namibia,2020-04-04,301.0,worldometers
 Namibia,2020-04-07,362.0,worldometers
 Namibia,2020-04-18,499.0,worldometers
@@ -10901,6 +10973,7 @@ Namibia,2020-06-24,7585.0,worldometers
 Namibia,2020-06-25,7925.0,worldometers
 Namibia,2020-06-26,8014.0,worldometers
 Namibia,2020-06-27,8180.0,worldometers
+Namibia,2020-06-28,8428.0,worldometers
 Nepal,2020-01-28,3.0,owid/roser
 Nepal,2020-01-29,4.0,owid/roser
 Nepal,2020-01-30,5.0,owid/roser
@@ -11121,6 +11194,7 @@ Netherlands – Aruba,2020-06-21,2261.0,worldometers
 Netherlands – Aruba,2020-06-22,2270.0,worldometers
 Netherlands – Aruba,2020-06-25,2284.0,worldometers
 Netherlands – Aruba,2020-06-27,2333.0,worldometers
+Netherlands – Aruba,2020-06-28,2343.0,worldometers
 Netherlands – Aruba ,2020-04-03,837.0,lau
 Netherlands – Aruba ,2020-04-10,1058.0,lau
 Netherlands – Aruba ,2020-04-13,1147.0,lau
@@ -11193,6 +11267,7 @@ Netherlands – Aruba ,2020-06-23,2272.0,lau
 Netherlands – Aruba ,2020-06-24,2284.0,lau
 Netherlands – Aruba ,2020-06-25,2316.0,lau
 Netherlands – Aruba ,2020-06-26,2333.0,lau
+Netherlands – Aruba ,2020-06-27,2343.0,lau
 Netherlands – Curacao,2020-04-14,230.0,worldometers
 Netherlands – Curacao,2020-04-17,269.0,worldometers
 Netherlands – Curacao,2020-04-18,286.0,worldometers
@@ -11234,6 +11309,8 @@ Netherlands – Sint Maarten,2020-06-06,470.0,worldometers
 Netherlands – Sint Maarten,2020-06-09,473.0,lau
 Netherlands – Sint Maarten,2020-06-12,477.0,lau
 Netherlands – Sint Maarten,2020-06-16,477.0,worldometers
+Netherlands – Sint Maarten,2020-06-26,500.0,lau
+Netherlands – Sint Maarten,2020-06-28,500.0,worldometers
 New Zealand,2020-03-01,286.0,wiki
 New Zealand,2020-03-08,300.0,lau
 New Zealand,2020-03-09,312.0,owid/roser
@@ -11346,7 +11423,8 @@ New Zealand,2020-06-23,357996.0,owid/roser
 New Zealand,2020-06-24,368432.0,owid/roser
 New Zealand,2020-06-25,378257.0,owid/roser
 New Zealand,2020-06-26,387435.0,lau
-New Zealand,2020-06-27,387435.0,worldometers
+New Zealand,2020-06-27,392756.0,lau
+New Zealand,2020-06-28,392756.0,worldometers
 Niger,2020-04-04,4012.0,worldometers
 Niger,2020-04-07,4199.0,worldometers
 Niger,2020-04-17,4688.0,worldometers
@@ -11456,6 +11534,7 @@ Nigeria,2020-06-23,117569.0,owid/roser
 Nigeria,2020-06-24,120108.0,owid/roser
 Nigeria,2020-06-25,122155.0,owid/roser
 Nigeria,2020-06-27,125090.0,worldometers
+Nigeria,2020-06-28,127158.0,worldometers
 North Korea,2020-04-02,709.0,wiki
 North Korea,2020-04-17,740.0,wiki
 North Macedonia,2020-03-08,5.0,lau
@@ -11561,8 +11640,9 @@ North Macedonia,2020-06-22,46572.0,lau
 North Macedonia,2020-06-23,47780.0,lau
 North Macedonia,2020-06-24,49059.0,lau
 North Macedonia,2020-06-25,50133.0,lau
-North Macedonia,2020-06-26,55735.0,worldometers
+North Macedonia,2020-06-26,51219.0,lau
 North Macedonia,2020-06-27,56809.0,worldometers
+North Macedonia,2020-06-28,57895.0,worldometers
 Northern Cyprus,2020-05-12,26073.0,wiki
 Northern Cyprus,2020-05-13,27633.0,wiki
 Northern Cyprus,2020-05-23,31005.0,wiki
@@ -11707,7 +11787,7 @@ Oman,2020-06-21,157036.0,worldometers
 Oman,2020-06-23,161580.0,worldometers
 Oman,2020-06-24,165520.0,worldometers
 Oman,2020-06-25,175278.0,wiki
-Oman,2020-06-27,176953.0,worldometers
+Oman,2020-06-28,179461.0,worldometers
 Pakistan,2020-03-11,471.0,owid/roser
 Pakistan,2020-03-12,531.0,owid/roser
 Pakistan,2020-03-13,609.0,owid/roser
@@ -11815,6 +11895,7 @@ Pakistan,2020-06-24,1150141.0,owid/roser
 Pakistan,2020-06-25,1171976.0,owid/roser
 Pakistan,2020-06-26,1193017.0,owid/roser
 Pakistan,2020-06-27,1214140.0,worldometers
+Pakistan,2020-06-28,1239153.0,worldometers
 Palestine,2020-03-01,712.0,wiki
 Palestine,2020-03-12,1833.0,wiki
 Palestine,2020-03-16,2519.0,owid/ortiz
@@ -11930,6 +12011,7 @@ Panama,2020-06-22,107201.0,owid/roser
 Panama,2020-06-23,108902.0,owid/roser
 Panama,2020-06-24,111197.0,owid/roser
 Panama,2020-06-26,117266.0,worldometers
+Panama,2020-06-28,122668.0,worldometers
 Papua New Guinea,2020-04-04,72.0,worldometers
 Papua New Guinea,2020-04-16,167.0,worldometers
 Papua New Guinea,2020-04-21,604.0,worldometers
@@ -12047,6 +12129,7 @@ Paraguay,2020-06-23,59454.0,owid/roser
 Paraguay,2020-06-24,60811.0,owid/roser
 Paraguay,2020-06-26,62384.0,worldometers
 Paraguay,2020-06-27,63974.0,worldometers
+Paraguay,2020-06-28,65605.0,worldometers
 Peru,2020-03-04,107.0,owid/roser
 Peru,2020-03-06,155.0,owid/roser
 Peru,2020-03-07,219.0,owid/roser
@@ -12156,7 +12239,8 @@ Peru,2020-06-23,1539746.0,wiki
 Peru,2020-06-24,1561653.0,wiki
 Peru,2020-06-25,1583605.0,wiki
 Peru,2020-06-26,1604521.0,wiki
-Peru,2020-06-27,1604521.0,worldometers
+Peru,2020-06-27,1625135.0,wiki
+Peru,2020-06-28,1625135.0,worldometers
 Philippines,2020-03-19,872.0,wiki
 Philippines,2020-03-20,1269.0,owid/ortiz
 Philippines,2020-03-25,1959.0,wiki
@@ -12245,7 +12329,8 @@ Philippines,2020-06-22,568633.0,owid/roser
 Philippines,2020-06-23,580560.0,owid/roser
 Philippines,2020-06-24,647804.0,wiki
 Philippines,2020-06-25,662647.0,wiki
-Philippines,2020-06-27,662647.0,worldometers
+Philippines,2020-06-26,675929.0,wiki
+Philippines,2020-06-28,675929.0,worldometers
 Poland,2020-03-06,855.0,owid/roser
 Poland,2020-03-08,1154.0,owid/roser
 Poland,2020-03-09,1384.0,owid/roser
@@ -12356,6 +12441,7 @@ Poland,2020-06-22,1356035.0,owid/roser
 Poland,2020-06-24,1377206.0,worldometers
 Poland,2020-06-25,1424843.0,worldometers
 Poland,2020-06-27,1447130.0,worldometers
+Poland,2020-06-28,1469962.0,worldometers
 Portugal,2020-03-01,25.0,owid/roser
 Portugal,2020-03-02,70.0,owid/roser
 Portugal,2020-03-03,131.0,owid/roser
@@ -12572,7 +12658,8 @@ Qatar,2020-06-23,328941.0,owid/roser
 Qatar,2020-06-24,333172.0,owid/roser
 Qatar,2020-06-25,337496.0,owid/roser
 Qatar,2020-06-26,341914.0,lau
-Qatar,2020-06-27,341914.0,worldometers
+Qatar,2020-06-27,345691.0,lau
+Qatar,2020-06-28,345691.0,worldometers
 Romania,2020-03-12,1921.0,owid/roser
 Romania,2020-03-13,2545.0,owid/roser
 Romania,2020-03-14,2929.0,owid/roser
@@ -12677,6 +12764,7 @@ Romania,2020-06-22,630374.0,owid/roser
 Romania,2020-06-23,639322.0,owid/roser
 Romania,2020-06-25,663558.0,owid/roser
 Romania,2020-06-27,675382.0,worldometers
+Romania,2020-06-28,687618.0,worldometers
 Russia,2020-03-05,46414.0,owid/roser
 Russia,2020-03-06,51366.0,owid/roser
 Russia,2020-03-07,55688.0,owid/roser
@@ -12787,7 +12875,8 @@ Russia,2020-06-22,17289691.0,owid/roser
 Russia,2020-06-23,17522752.0,owid/roser
 Russia,2020-06-24,17803955.0,owid/roser
 Russia,2020-06-25,18115830.0,owid/roser
-Russia,2020-06-27,18402719.0,worldometers
+Russia,2020-06-26,18707946.0,wiki
+Russia,2020-06-28,18707946.0,worldometers
 Russia – Moscow,2020-04-22,580000.0,wiki
 Russia – Moscow,2020-04-29,852432.0,wiki
 Russia – Moscow,2020-05-07,1225123.0,wiki
@@ -12929,7 +13018,8 @@ Rwanda,2020-06-23,118112.0,lau
 Rwanda,2020-06-24,121527.0,lau
 Rwanda,2020-06-25,126284.0,lau
 Rwanda,2020-06-26,130047.0,lau
-Rwanda,2020-06-27,130047.0,worldometers
+Rwanda,2020-06-27,134749.0,lau
+Rwanda,2020-06-28,134749.0,worldometers
 Saint Kitts and Nevis,2020-04-04,113.0,worldometers
 Saint Kitts and Nevis,2020-04-05,149.0,worldometers
 Saint Kitts and Nevis,2020-04-07,183.0,worldometers
@@ -13070,6 +13160,7 @@ Sao Tome and Principe,2020-06-24,1733.0,worldometers
 Sao Tome and Principe,2020-06-25,1743.0,worldometers
 Sao Tome and Principe,2020-06-26,1753.0,worldometers
 Sao Tome and Principe,2020-06-27,1763.0,worldometers
+Sao Tome and Principe,2020-06-28,1773.0,worldometers
 Saudi Arabia,2020-04-10,115585.0,lau
 Saudi Arabia,2020-04-14,150000.0,worldometers
 Saudi Arabia,2020-04-19,180000.0,lau
@@ -13128,6 +13219,7 @@ Saudi Arabia,2020-06-23,1345520.0,owid/roser
 Saudi Arabia,2020-06-24,1380031.0,owid/roser
 Saudi Arabia,2020-06-25,1417771.0,owid/roser
 Saudi Arabia,2020-06-26,1479759.0,worldometers
+Saudi Arabia,2020-06-28,1500516.0,worldometers
 Scotland,2020-04-02,18128.0,wiki
 Scotland,2020-04-03,19535.0,wiki
 Scotland,2020-04-05,23143.0,wiki
@@ -13267,6 +13359,7 @@ Senegal,2020-06-23,72065.0,owid/roser
 Senegal,2020-06-24,73052.0,owid/roser
 Senegal,2020-06-25,74037.0,owid/roser
 Senegal,2020-06-27,75294.0,worldometers
+Senegal,2020-06-28,76303.0,worldometers
 Serbia,2020-02-26,16.0,owid/roser
 Serbia,2020-02-27,25.0,owid/roser
 Serbia,2020-02-28,30.0,owid/roser
@@ -13389,6 +13482,7 @@ Serbia,2020-06-23,351285.0,owid/roser
 Serbia,2020-06-24,359069.0,owid/roser
 Serbia,2020-06-26,366380.0,worldometers
 Serbia,2020-06-27,374875.0,worldometers
+Serbia,2020-06-28,380808.0,worldometers
 Sierra Leone,2020-04-04,2.0,worldometers
 Singapore,2020-03-23,38000.0,wiki
 Singapore,2020-03-25,39000.0,wiki
@@ -13503,6 +13597,7 @@ Slovakia,2020-06-23,202654.0,owid/roser
 Slovakia,2020-06-24,203911.0,owid/roser
 Slovakia,2020-06-25,204847.0,owid/roser
 Slovakia,2020-06-27,206362.0,worldometers
+Slovakia,2020-06-28,207973.0,worldometers
 Slovenia,2020-03-04,352.0,lau
 Slovenia,2020-03-07,785.0,lau
 Slovenia,2020-03-09,1227.0,lau
@@ -13614,6 +13709,7 @@ Slovenia,2020-06-23,95387.0,owid/roser
 Slovenia,2020-06-24,96599.0,owid/roser
 Slovenia,2020-06-25,97967.0,worldometers
 Slovenia,2020-06-27,98810.0,worldometers
+Slovenia,2020-06-28,99688.0,worldometers
 South Africa,2020-02-07,42.0,owid/roser
 South Africa,2020-02-11,61.0,owid/roser
 South Africa,2020-02-13,67.0,owid/roser
@@ -13736,6 +13832,7 @@ South Africa,2020-06-23,1382772.0,owid/roser
 South Africa,2020-06-24,1416894.0,owid/roser
 South Africa,2020-06-25,1460012.0,owid/roser
 South Africa,2020-06-27,1493104.0,worldometers
+South Africa,2020-06-28,1529009.0,worldometers
 South Africa – Flag of the Western Cape Province.png Western Cape,2020-04-27,28704.0,wiki
 South Africa – Flag of the Western Cape Province.png Western Cape,2020-04-28,30803.0,wiki
 South Africa – Flag of the Western Cape Province.png Western Cape,2020-04-30,35867.0,wiki
@@ -13883,6 +13980,7 @@ South Korea,2020-06-24,1186319.0,owid/roser
 South Korea,2020-06-25,1200233.0,owid/roser
 South Korea,2020-06-26,1232315.0,worldometers
 South Korea,2020-06-27,1243780.0,worldometers
+South Korea,2020-06-28,1251695.0,worldometers
 South Sudan,2020-05-02,1247.0,worldometers
 South Sudan,2020-05-15,3356.0,worldometers
 South Sudan,2020-06-20,9829.0,worldometers
@@ -14134,6 +14232,7 @@ Switzerland,2020-06-22,518867.0,owid/roser
 Switzerland,2020-06-23,528674.0,owid/roser
 Switzerland,2020-06-24,534490.0,owid/roser
 Switzerland,2020-06-27,545177.0,worldometers
+Switzerland,2020-06-28,555315.0,worldometers
 Taiwan,2020-03-06,13555.0,owid/roser
 Taiwan,2020-03-07,13855.0,owid/roser
 Taiwan,2020-03-08,14154.0,owid/roser
@@ -14353,7 +14452,8 @@ Togo,2020-06-23,28509.0,lau
 Togo,2020-06-24,28687.0,lau
 Togo,2020-06-25,28911.0,lau
 Togo,2020-06-26,29347.0,lau
-Togo,2020-06-27,29347.0,worldometers
+Togo,2020-06-27,29882.0,lau
+Togo,2020-06-28,29882.0,worldometers
 Trinidad and Tobago,2020-03-27,453.0,wiki
 Trinidad and Tobago,2020-04-01,595.0,wiki
 Trinidad and Tobago,2020-04-04,736.0,worldometers
@@ -14435,6 +14535,7 @@ Trinidad and Tobago,2020-06-23,4331.0,worldometers
 Trinidad and Tobago,2020-06-25,4396.0,worldometers
 Trinidad and Tobago,2020-06-26,4543.0,worldometers
 Trinidad and Tobago,2020-06-27,4861.0,worldometers
+Trinidad and Tobago,2020-06-28,4866.0,worldometers
 Tunisia,2020-03-02,1.0,owid/roser
 Tunisia,2020-03-07,136.0,owid/roser
 Tunisia,2020-03-08,137.0,owid/roser
@@ -14624,6 +14725,7 @@ Turkey,2020-06-23,3029635.0,owid/roser
 Turkey,2020-06-24,3083121.0,owid/roser
 Turkey,2020-06-25,3135424.0,owid/roser
 Turkey,2020-06-27,3186622.0,worldometers
+Turkey,2020-06-28,3231835.0,worldometers
 US,2020-03-01,8554.0,wiki
 US,2020-03-14,19744.0,wiki
 US,2020-03-15,22713.0,wiki
@@ -14794,6 +14896,7 @@ US – Alabama,2020-06-23,354038.0,covidtracking.com
 US – Alabama,2020-06-24,358759.0,covidtracking.com
 US – Alabama,2020-06-25,369458.0,covidtracking.com
 US – Alabama,2020-06-26,378323.0,covidtracking.com
+US – Alabama,2020-06-27,384026.0,covidtracking.com
 US – Alaska,2020-03-06,8.0,covidtracking.com
 US – Alaska,2020-03-07,12.0,covidtracking.com
 US – Alaska,2020-03-08,14.0,covidtracking.com
@@ -14903,6 +15006,7 @@ US – Alaska,2020-06-23,92947.0,covidtracking.com
 US – Alaska,2020-06-24,96096.0,covidtracking.com
 US – Alaska,2020-06-25,99452.0,covidtracking.com
 US – Alaska,2020-06-26,101792.0,covidtracking.com
+US – Alaska,2020-06-27,105581.0,covidtracking.com
 US – American Samoa,2020-03-31,3.0,covidtracking.com
 US – American Samoa,2020-04-01,3.0,covidtracking.com
 US – American Samoa,2020-04-02,3.0,covidtracking.com
@@ -14991,6 +15095,7 @@ US – American Samoa,2020-06-23,174.0,covidtracking.com
 US – American Samoa,2020-06-24,174.0,covidtracking.com
 US – American Samoa,2020-06-25,696.0,covidtracking.com
 US – American Samoa,2020-06-26,696.0,covidtracking.com
+US – American Samoa,2020-06-27,696.0,covidtracking.com
 US – Arizona,2020-03-04,29.0,covidtracking.com
 US – Arizona,2020-03-05,30.0,covidtracking.com
 US – Arizona,2020-03-06,36.0,covidtracking.com
@@ -15105,6 +15210,7 @@ US – Arizona,2020-06-23,440518.0,covidtracking.com
 US – Arizona,2020-06-24,449188.0,covidtracking.com
 US – Arizona,2020-06-25,464196.0,covidtracking.com
 US – Arizona,2020-06-26,479823.0,covidtracking.com
+US – Arizona,2020-06-27,494747.0,covidtracking.com
 US – Arkansas,2020-03-06,6.0,covidtracking.com
 US – Arkansas,2020-03-07,6.0,covidtracking.com
 US – Arkansas,2020-03-08,6.0,covidtracking.com
@@ -15212,6 +15318,7 @@ US – Arkansas,2020-06-22,256339.0,covidtracking.com
 US – Arkansas,2020-06-23,264492.0,covidtracking.com
 US – Arkansas,2020-06-24,271866.0,covidtracking.com
 US – Arkansas,2020-06-25,277380.0,covidtracking.com
+US – Arkansas,2020-06-27,283965.0,covidtracking.com
 US – California,2020-03-04,515.0,covidtracking.com
 US – California,2020-03-09,804.0,covidtracking.com
 US – California,2020-03-11,1073.0,covidtracking.com
@@ -15314,6 +15421,7 @@ US – California,2020-06-23,3496929.0,covidtracking.com
 US – California,2020-06-24,3592899.0,covidtracking.com
 US – California,2020-06-25,3694345.0,covidtracking.com
 US – California,2020-06-26,3771314.0,covidtracking.com
+US – California,2020-06-27,3862310.0,covidtracking.com
 US – Colorado,2020-03-05,19.0,covidtracking.com
 US – Colorado,2020-03-06,48.0,covidtracking.com
 US – Colorado,2020-03-07,63.0,covidtracking.com
@@ -15423,6 +15531,7 @@ US – Colorado,2020-06-23,287876.0,covidtracking.com
 US – Colorado,2020-06-24,290834.0,covidtracking.com
 US – Colorado,2020-06-25,296065.0,covidtracking.com
 US – Colorado,2020-06-26,302577.0,covidtracking.com
+US – Colorado,2020-06-27,307583.0,covidtracking.com
 US – Connecticut,2020-03-08,30.0,covidtracking.com
 US – Connecticut,2020-03-09,47.0,covidtracking.com
 US – Connecticut,2020-03-10,56.0,covidtracking.com
@@ -15525,6 +15634,7 @@ US – Connecticut,2020-06-22,397552.0,covidtracking.com
 US – Connecticut,2020-06-23,403944.0,covidtracking.com
 US – Connecticut,2020-06-25,408943.0,covidtracking.com
 US – Connecticut,2020-06-26,416862.0,covidtracking.com
+US – Connecticut,2020-06-27,429548.0,covidtracking.com
 US – Delaware,2020-03-06,10.0,covidtracking.com
 US – Delaware,2020-03-07,10.0,covidtracking.com
 US – Delaware,2020-03-08,10.0,covidtracking.com
@@ -15618,6 +15728,7 @@ US – Delaware,2020-06-23,97536.0,covidtracking.com
 US – Delaware,2020-06-24,98201.0,covidtracking.com
 US – Delaware,2020-06-25,100992.0,covidtracking.com
 US – Delaware,2020-06-26,102100.0,covidtracking.com
+US – Delaware,2020-06-27,104262.0,covidtracking.com
 US – District of Columbia,2020-03-05,6.0,covidtracking.com
 US – District of Columbia,2020-03-06,8.0,covidtracking.com
 US – District of Columbia,2020-03-07,8.0,covidtracking.com
@@ -15725,6 +15836,7 @@ US – District of Columbia,2020-06-23,83302.0,covidtracking.com
 US – District of Columbia,2020-06-24,84173.0,covidtracking.com
 US – District of Columbia,2020-06-25,86731.0,covidtracking.com
 US – District of Columbia,2020-06-26,88123.0,covidtracking.com
+US – District of Columbia,2020-06-27,89271.0,covidtracking.com
 US – Florida,2020-03-04,26.0,covidtracking.com
 US – Florida,2020-03-05,40.0,covidtracking.com
 US – Florida,2020-03-06,64.0,covidtracking.com
@@ -15837,6 +15949,7 @@ US – Florida,2020-06-23,1640752.0,covidtracking.com
 US – Florida,2020-06-24,1668342.0,covidtracking.com
 US – Florida,2020-06-25,1720644.0,covidtracking.com
 US – Florida,2020-06-26,1768885.0,covidtracking.com
+US – Florida,2020-06-27,1829525.0,covidtracking.com
 US – Georgia,2020-03-18,1508.0,covidtracking.com
 US – Georgia,2020-03-19,1831.0,covidtracking.com
 US – Georgia,2020-03-20,2386.0,covidtracking.com
@@ -15932,6 +16045,7 @@ US – Georgia,2020-06-23,731261.0,covidtracking.com
 US – Georgia,2020-06-24,743234.0,covidtracking.com
 US – Georgia,2020-06-25,757924.0,covidtracking.com
 US – Georgia,2020-06-26,771028.0,covidtracking.com
+US – Georgia,2020-06-27,789813.0,covidtracking.com
 US – Guam,2020-03-16,26.0,covidtracking.com
 US – Guam,2020-03-17,46.0,covidtracking.com
 US – Guam,2020-03-18,65.0,covidtracking.com
@@ -16034,6 +16148,7 @@ US – Guam,2020-06-23,10651.0,covidtracking.com
 US – Guam,2020-06-24,11038.0,covidtracking.com
 US – Guam,2020-06-25,11418.0,covidtracking.com
 US – Guam,2020-06-26,11892.0,covidtracking.com
+US – Guam,2020-06-27,12151.0,covidtracking.com
 US – Hawaii,2020-03-18,107.0,covidtracking.com
 US – Hawaii,2020-03-20,150.0,covidtracking.com
 US – Hawaii,2020-03-21,161.0,covidtracking.com
@@ -16120,6 +16235,7 @@ US – Hawaii,2020-06-23,69340.0,covidtracking.com
 US – Hawaii,2020-06-24,70539.0,covidtracking.com
 US – Hawaii,2020-06-25,71935.0,covidtracking.com
 US – Hawaii,2020-06-26,73005.0,covidtracking.com
+US – Hawaii,2020-06-27,74301.0,covidtracking.com
 US – Idaho,2020-03-07,27.0,covidtracking.com
 US – Idaho,2020-03-08,27.0,covidtracking.com
 US – Idaho,2020-03-09,41.0,covidtracking.com
@@ -16225,6 +16341,7 @@ US – Idaho,2020-06-23,76164.0,covidtracking.com
 US – Idaho,2020-06-24,77835.0,covidtracking.com
 US – Idaho,2020-06-25,80539.0,covidtracking.com
 US – Idaho,2020-06-26,82370.0,covidtracking.com
+US – Idaho,2020-06-27,84056.0,covidtracking.com
 US – Illinois,2020-03-04,128.0,covidtracking.com
 US – Illinois,2020-03-05,170.0,covidtracking.com
 US – Illinois,2020-03-06,185.0,covidtracking.com
@@ -16338,6 +16455,7 @@ US – Illinois,2020-06-23,1400510.0,covidtracking.com
 US – Illinois,2020-06-24,1429841.0,covidtracking.com
 US – Illinois,2020-06-25,1461527.0,covidtracking.com
 US – Illinois,2020-06-26,1492005.0,covidtracking.com
+US – Illinois,2020-06-27,1522242.0,covidtracking.com
 US – Indiana,2020-03-12,64.0,covidtracking.com
 US – Indiana,2020-03-13,73.0,covidtracking.com
 US – Indiana,2020-03-14,89.0,covidtracking.com
@@ -16445,6 +16563,7 @@ US – Indiana,2020-06-23,426376.0,covidtracking.com
 US – Indiana,2020-06-24,431883.0,covidtracking.com
 US – Indiana,2020-06-25,444252.0,covidtracking.com
 US – Indiana,2020-06-26,453890.0,covidtracking.com
+US – Indiana,2020-06-27,463017.0,covidtracking.com
 US – Iowa,2020-03-07,15.0,covidtracking.com
 US – Iowa,2020-03-08,15.0,covidtracking.com
 US – Iowa,2020-03-09,29.0,covidtracking.com
@@ -16553,6 +16672,7 @@ US – Iowa,2020-06-23,264703.0,covidtracking.com
 US – Iowa,2020-06-24,269959.0,covidtracking.com
 US – Iowa,2020-06-25,277054.0,covidtracking.com
 US – Iowa,2020-06-26,283643.0,covidtracking.com
+US – Iowa,2020-06-27,289752.0,covidtracking.com
 US – Kansas,2020-03-06,4.0,covidtracking.com
 US – Kansas,2020-03-07,11.0,covidtracking.com
 US – Kansas,2020-03-08,12.0,covidtracking.com
@@ -16843,6 +16963,7 @@ US – Louisiana,2020-06-23,635939.0,covidtracking.com
 US – Louisiana,2020-06-24,648505.0,covidtracking.com
 US – Louisiana,2020-06-25,660665.0,covidtracking.com
 US – Louisiana,2020-06-26,678006.0,covidtracking.com
+US – Louisiana,2020-06-27,678006.0,covidtracking.com
 US – Maine,2020-03-07,1.0,covidtracking.com
 US – Maine,2020-03-08,1.0,covidtracking.com
 US – Maine,2020-03-09,1.0,covidtracking.com
@@ -16938,6 +17059,7 @@ US – Maine,2020-06-23,81707.0,covidtracking.com
 US – Maine,2020-06-24,85190.0,covidtracking.com
 US – Maine,2020-06-25,87598.0,covidtracking.com
 US – Maine,2020-06-26,89854.0,covidtracking.com
+US – Maine,2020-06-27,91932.0,covidtracking.com
 US – Maryland,2020-03-05,17.0,covidtracking.com
 US – Maryland,2020-03-06,29.0,covidtracking.com
 US – Maryland,2020-03-07,44.0,covidtracking.com
@@ -17039,6 +17161,7 @@ US – Maryland,2020-06-23,483535.0,covidtracking.com
 US – Maryland,2020-06-24,490457.0,covidtracking.com
 US – Maryland,2020-06-25,498959.0,covidtracking.com
 US – Maryland,2020-06-26,506397.0,covidtracking.com
+US – Maryland,2020-06-27,513816.0,covidtracking.com
 US – Massachusetts,2020-03-15,648.0,covidtracking.com
 US – Massachusetts,2020-03-16,1296.0,covidtracking.com
 US – Massachusetts,2020-03-17,1751.0,covidtracking.com
@@ -17142,6 +17265,7 @@ US – Massachusetts,2020-06-23,787642.0,covidtracking.com
 US – Massachusetts,2020-06-24,795072.0,covidtracking.com
 US – Massachusetts,2020-06-25,805456.0,covidtracking.com
 US – Massachusetts,2020-06-26,814085.0,covidtracking.com
+US – Massachusetts,2020-06-27,826342.0,covidtracking.com
 US – Michigan,2020-03-05,80.0,covidtracking.com
 US – Michigan,2020-03-06,106.0,covidtracking.com
 US – Michigan,2020-03-07,146.0,covidtracking.com
@@ -17248,6 +17372,7 @@ US – Michigan,2020-06-23,928668.0,covidtracking.com
 US – Michigan,2020-06-24,944805.0,covidtracking.com
 US – Michigan,2020-06-25,962839.0,covidtracking.com
 US – Michigan,2020-06-26,981706.0,covidtracking.com
+US – Michigan,2020-06-27,1000821.0,covidtracking.com
 US – Minnesota,2020-03-06,37.0,covidtracking.com
 US – Minnesota,2020-03-07,50.0,covidtracking.com
 US – Minnesota,2020-03-08,50.0,covidtracking.com
@@ -17359,6 +17484,7 @@ US – Minnesota,2020-06-23,520045.0,covidtracking.com
 US – Minnesota,2020-06-24,529643.0,covidtracking.com
 US – Minnesota,2020-06-25,542696.0,covidtracking.com
 US – Minnesota,2020-06-26,557278.0,covidtracking.com
+US – Minnesota,2020-06-27,568907.0,covidtracking.com
 US – Mississippi,2020-03-11,20.0,covidtracking.com
 US – Mississippi,2020-03-12,42.0,covidtracking.com
 US – Mississippi,2020-03-14,90.0,covidtracking.com
@@ -17456,6 +17582,7 @@ US – Mississippi,2020-06-23,253860.0,covidtracking.com
 US – Mississippi,2020-06-24,261661.0,covidtracking.com
 US – Mississippi,2020-06-25,265997.0,covidtracking.com
 US – Mississippi,2020-06-26,271894.0,covidtracking.com
+US – Mississippi,2020-06-27,277321.0,covidtracking.com
 US – Missouri,2020-03-12,65.0,covidtracking.com
 US – Missouri,2020-03-13,73.0,covidtracking.com
 US – Missouri,2020-03-14,94.0,covidtracking.com
@@ -17544,6 +17671,7 @@ US – Missouri,2020-06-22,317374.0,covidtracking.com
 US – Missouri,2020-06-24,327024.0,covidtracking.com
 US – Missouri,2020-06-25,341648.0,covidtracking.com
 US – Missouri,2020-06-26,348618.0,covidtracking.com
+US – Missouri,2020-06-27,355290.0,covidtracking.com
 US – Montana,2020-03-07,11.0,covidtracking.com
 US – Montana,2020-03-08,11.0,covidtracking.com
 US – Montana,2020-03-09,11.0,covidtracking.com
@@ -17656,6 +17784,7 @@ US – Montana,2020-06-23,73923.0,covidtracking.com
 US – Montana,2020-06-24,75066.0,covidtracking.com
 US – Montana,2020-06-25,78332.0,covidtracking.com
 US – Montana,2020-06-26,80161.0,covidtracking.com
+US – Montana,2020-06-27,81247.0,covidtracking.com
 US – Nebraska,2020-03-05,17.0,covidtracking.com
 US – Nebraska,2020-03-07,18.0,covidtracking.com
 US – Nebraska,2020-03-08,18.0,covidtracking.com
@@ -17763,6 +17892,7 @@ US – Nebraska,2020-06-23,158642.0,covidtracking.com
 US – Nebraska,2020-06-24,161301.0,covidtracking.com
 US – Nebraska,2020-06-25,163170.0,covidtracking.com
 US – Nebraska,2020-06-26,165002.0,covidtracking.com
+US – Nebraska,2020-06-27,168598.0,covidtracking.com
 US – Nevada,2020-03-05,15.0,covidtracking.com
 US – Nevada,2020-03-11,173.0,covidtracking.com
 US – Nevada,2020-03-14,188.0,covidtracking.com
@@ -17867,6 +17997,7 @@ US – Nevada,2020-06-23,248526.0,covidtracking.com
 US – Nevada,2020-06-24,252387.0,covidtracking.com
 US – Nevada,2020-06-25,255550.0,covidtracking.com
 US – Nevada,2020-06-26,258662.0,covidtracking.com
+US – Nevada,2020-06-27,263026.0,covidtracking.com
 US – New Hampshire,2020-03-05,18.0,covidtracking.com
 US – New Hampshire,2020-03-06,22.0,covidtracking.com
 US – New Hampshire,2020-03-07,22.0,covidtracking.com
@@ -18078,6 +18209,7 @@ US – New Jersey,2020-06-23,1283451.0,covidtracking.com
 US – New Jersey,2020-06-24,1299645.0,covidtracking.com
 US – New Jersey,2020-06-25,1320910.0,covidtracking.com
 US – New Jersey,2020-06-26,1346672.0,covidtracking.com
+US – New Jersey,2020-06-27,1367250.0,covidtracking.com
 US – New Mexico,2020-03-06,16.0,covidtracking.com
 US – New Mexico,2020-03-07,48.0,covidtracking.com
 US – New Mexico,2020-03-08,48.0,covidtracking.com
@@ -18187,6 +18319,7 @@ US – New Mexico,2020-06-23,298076.0,covidtracking.com
 US – New Mexico,2020-06-24,302083.0,covidtracking.com
 US – New Mexico,2020-06-25,308105.0,covidtracking.com
 US – New Mexico,2020-06-26,314670.0,covidtracking.com
+US – New Mexico,2020-06-27,320638.0,covidtracking.com
 US – New York,2020-03-04,54.0,covidtracking.com
 US – New York,2020-03-05,98.0,covidtracking.com
 US – New York,2020-03-06,125.0,covidtracking.com
@@ -18295,6 +18428,7 @@ US – New York,2020-06-23,3500808.0,covidtracking.com
 US – New York,2020-06-24,3551952.0,covidtracking.com
 US – New York,2020-06-25,3619594.0,covidtracking.com
 US – New York,2020-06-26,3681317.0,covidtracking.com
+US – New York,2020-06-27,3754579.0,covidtracking.com
 US – North Carolina,2020-03-12,72.0,covidtracking.com
 US – North Carolina,2020-03-13,101.0,covidtracking.com
 US – North Carolina,2020-03-14,160.0,covidtracking.com
@@ -18401,6 +18535,7 @@ US – North Carolina,2020-06-23,773828.0,covidtracking.com
 US – North Carolina,2020-06-24,791285.0,covidtracking.com
 US – North Carolina,2020-06-25,811278.0,covidtracking.com
 US – North Carolina,2020-06-26,836725.0,covidtracking.com
+US – North Carolina,2020-06-27,855131.0,covidtracking.com
 US – North Dakota,2020-03-07,0.0,covidtracking.com
 US – North Dakota,2020-03-08,0.0,covidtracking.com
 US – North Dakota,2020-03-09,0.0,covidtracking.com
@@ -18513,6 +18648,7 @@ US – North Dakota,2020-06-23,97553.0,covidtracking.com
 US – North Dakota,2020-06-24,98689.0,covidtracking.com
 US – North Dakota,2020-06-25,99444.0,covidtracking.com
 US – North Dakota,2020-06-26,100886.0,covidtracking.com
+US – North Dakota,2020-06-27,102519.0,covidtracking.com
 US – Northern Mariana Islands,2020-04-02,21.0,covidtracking.com
 US – Northern Mariana Islands,2020-04-07,23.0,covidtracking.com
 US – Northern Mariana Islands,2020-04-08,38.0,covidtracking.com
@@ -18592,6 +18728,7 @@ US – Northern Mariana Islands,2020-06-23,8217.0,covidtracking.com
 US – Northern Mariana Islands,2020-06-24,8217.0,covidtracking.com
 US – Northern Mariana Islands,2020-06-25,8217.0,covidtracking.com
 US – Northern Mariana Islands,2020-06-26,8217.0,covidtracking.com
+US – Northern Mariana Islands,2020-06-27,8217.0,covidtracking.com
 US – Ohio,2020-03-05,7.0,covidtracking.com
 US – Ohio,2020-03-06,8.0,covidtracking.com
 US – Ohio,2020-03-07,9.0,covidtracking.com
@@ -18696,6 +18833,7 @@ US – Ohio,2020-06-23,670437.0,covidtracking.com
 US – Ohio,2020-06-24,680687.0,covidtracking.com
 US – Ohio,2020-06-25,699630.0,covidtracking.com
 US – Ohio,2020-06-26,721552.0,covidtracking.com
+US – Ohio,2020-06-27,744839.0,covidtracking.com
 US – Oklahoma,2020-03-08,9.0,covidtracking.com
 US – Oklahoma,2020-03-09,9.0,covidtracking.com
 US – Oklahoma,2020-03-10,17.0,covidtracking.com
@@ -18801,6 +18939,7 @@ US – Oklahoma,2020-06-23,295057.0,covidtracking.com
 US – Oklahoma,2020-06-24,298278.0,covidtracking.com
 US – Oklahoma,2020-06-25,304965.0,covidtracking.com
 US – Oklahoma,2020-06-26,310777.0,covidtracking.com
+US – Oklahoma,2020-06-27,325663.0,covidtracking.com
 US – Oregon,2020-03-04,32.0,covidtracking.com
 US – Oregon,2020-03-05,48.0,covidtracking.com
 US – Oregon,2020-03-07,84.0,covidtracking.com
@@ -19179,6 +19318,7 @@ US – Rhode Island,2020-06-23,222163.0,covidtracking.com
 US – Rhode Island,2020-06-24,224993.0,covidtracking.com
 US – Rhode Island,2020-06-25,228140.0,covidtracking.com
 US – Rhode Island,2020-06-26,230508.0,covidtracking.com
+US – Rhode Island,2020-06-27,230508.0,covidtracking.com
 US – Scotland,2020-05-19,90421.0,wiki
 US – South Carolina,2020-03-04,5.0,covidtracking.com
 US – South Carolina,2020-03-05,5.0,covidtracking.com
@@ -19270,6 +19410,7 @@ US – South Carolina,2020-06-23,309251.0,covidtracking.com
 US – South Carolina,2020-06-24,318208.0,covidtracking.com
 US – South Carolina,2020-06-25,333358.0,covidtracking.com
 US – South Carolina,2020-06-26,334671.0,covidtracking.com
+US – South Carolina,2020-06-27,351164.0,covidtracking.com
 US – South Dakota,2020-03-07,5.0,covidtracking.com
 US – South Dakota,2020-03-08,5.0,covidtracking.com
 US – South Dakota,2020-03-09,5.0,covidtracking.com
@@ -19381,6 +19522,7 @@ US – South Dakota,2020-06-23,73986.0,covidtracking.com
 US – South Dakota,2020-06-24,75077.0,covidtracking.com
 US – South Dakota,2020-06-25,75854.0,covidtracking.com
 US – South Dakota,2020-06-26,77015.0,covidtracking.com
+US – South Dakota,2020-06-27,78100.0,covidtracking.com
 US – Tennessee,2020-03-11,57.0,covidtracking.com
 US – Tennessee,2020-03-12,97.0,covidtracking.com
 US – Tennessee,2020-03-13,142.0,covidtracking.com
@@ -19488,6 +19630,7 @@ US – Tennessee,2020-06-23,705419.0,covidtracking.com
 US – Tennessee,2020-06-24,718304.0,covidtracking.com
 US – Tennessee,2020-06-25,727549.0,covidtracking.com
 US – Tennessee,2020-06-26,742032.0,covidtracking.com
+US – Tennessee,2020-06-27,748553.0,covidtracking.com
 US – Texas,2020-03-17,1268.0,covidtracking.com
 US – Texas,2020-03-18,1907.0,covidtracking.com
 US – Texas,2020-03-19,2355.0,covidtracking.com
@@ -19587,6 +19730,7 @@ US – Texas,2020-06-23,1597290.0,covidtracking.com
 US – Texas,2020-06-24,1630258.0,covidtracking.com
 US – Texas,2020-06-25,1659340.0,covidtracking.com
 US – Texas,2020-06-26,1697334.0,covidtracking.com
+US – Texas,2020-06-27,1722826.0,covidtracking.com
 US – Utah,2020-03-12,135.0,covidtracking.com
 US – Utah,2020-03-15,159.0,covidtracking.com
 US – Utah,2020-03-16,170.0,covidtracking.com
@@ -19690,6 +19834,7 @@ US – Utah,2020-06-23,302276.0,covidtracking.com
 US – Utah,2020-06-24,304738.0,covidtracking.com
 US – Utah,2020-06-25,312054.0,covidtracking.com
 US – Utah,2020-06-26,317568.0,covidtracking.com
+US – Utah,2020-06-27,322802.0,covidtracking.com
 US – Vermont,2020-03-06,0.0,covidtracking.com
 US – Vermont,2020-03-07,26.0,covidtracking.com
 US – Vermont,2020-03-08,31.0,covidtracking.com
@@ -19800,6 +19945,7 @@ US – Vermont,2020-06-23,59328.0,covidtracking.com
 US – Vermont,2020-06-24,59860.0,covidtracking.com
 US – Vermont,2020-06-25,60709.0,covidtracking.com
 US – Vermont,2020-06-26,61589.0,covidtracking.com
+US – Vermont,2020-06-27,62723.0,covidtracking.com
 US – Virgin Islands,2020-03-25,72.0,covidtracking.com
 US – Virgin Islands,2020-03-26,72.0,covidtracking.com
 US – Virgin Islands,2020-03-27,74.0,covidtracking.com
@@ -19894,6 +20040,7 @@ US – Virgin Islands,2020-06-23,2620.0,covidtracking.com
 US – Virgin Islands,2020-06-24,2671.0,covidtracking.com
 US – Virgin Islands,2020-06-25,2734.0,covidtracking.com
 US – Virgin Islands,2020-06-26,2786.0,covidtracking.com
+US – Virgin Islands,2020-06-27,2827.0,covidtracking.com
 US – Virginia,2020-03-05,18.0,covidtracking.com
 US – Virginia,2020-03-06,21.0,covidtracking.com
 US – Virginia,2020-03-07,31.0,covidtracking.com
@@ -20003,6 +20150,7 @@ US – Virginia,2020-06-23,568377.0,covidtracking.com
 US – Virginia,2020-06-24,576571.0,covidtracking.com
 US – Virginia,2020-06-25,592966.0,covidtracking.com
 US – Virginia,2020-06-26,606463.0,covidtracking.com
+US – Virginia,2020-06-27,617926.0,covidtracking.com
 US – Washington,2020-01-22,2.0,covidtracking.com
 US – Washington,2020-01-23,2.0,covidtracking.com
 US – Washington,2020-01-24,2.0,covidtracking.com
@@ -20141,6 +20289,7 @@ US – Washington,2020-06-23,477204.0,covidtracking.com
 US – Washington,2020-06-24,487059.0,covidtracking.com
 US – Washington,2020-06-25,495498.0,covidtracking.com
 US – Washington,2020-06-26,505795.0,covidtracking.com
+US – Washington,2020-06-27,514428.0,covidtracking.com
 US – West Virginia,2020-03-06,1.0,covidtracking.com
 US – West Virginia,2020-03-07,2.0,covidtracking.com
 US – West Virginia,2020-03-08,2.0,covidtracking.com
@@ -20252,6 +20401,7 @@ US – West Virginia,2020-06-23,154328.0,covidtracking.com
 US – West Virginia,2020-06-24,157048.0,covidtracking.com
 US – West Virginia,2020-06-25,158704.0,covidtracking.com
 US – West Virginia,2020-06-26,161957.0,covidtracking.com
+US – West Virginia,2020-06-27,164655.0,covidtracking.com
 US – Wisconsin,2020-03-04,20.0,covidtracking.com
 US – Wisconsin,2020-03-05,20.0,covidtracking.com
 US – Wisconsin,2020-03-06,32.0,covidtracking.com
@@ -20364,6 +20514,7 @@ US – Wisconsin,2020-06-23,506340.0,covidtracking.com
 US – Wisconsin,2020-06-24,516444.0,covidtracking.com
 US – Wisconsin,2020-06-25,527666.0,covidtracking.com
 US – Wisconsin,2020-06-26,536836.0,covidtracking.com
+US – Wisconsin,2020-06-27,545950.0,covidtracking.com
 US – Wyoming,2020-03-10,0.0,covidtracking.com
 US – Wyoming,2020-03-17,105.0,covidtracking.com
 US – Wyoming,2020-03-18,193.0,covidtracking.com
@@ -20526,6 +20677,7 @@ USA,2020-06-24,29559564.0,worldometers
 USA,2020-06-25,30062259.0,worldometers
 USA,2020-06-26,30732552.0,worldometers
 USA,2020-06-27,31354678.0,worldometers
+USA,2020-06-28,32000928.0,worldometers
 Uganda,2020-04-04,2629.0,worldometers
 Uganda,2020-04-06,3160.0,owid/roser
 Uganda,2020-04-07,3310.0,owid/roser
@@ -20694,6 +20846,7 @@ Ukraine,2020-06-23,580814.0,owid/roser
 Ukraine,2020-06-24,594002.0,owid/roser
 Ukraine,2020-06-25,606766.0,owid/roser
 Ukraine,2020-06-27,631966.0,worldometers
+Ukraine,2020-06-28,641911.0,worldometers
 United Arab Emirates,2020-03-16,125000.0,owid/ortiz
 United Arab Emirates,2020-03-29,220000.0,wiki
 United Arab Emirates,2020-04-08,593095.0,wiki
@@ -20718,6 +20871,7 @@ United Arab Emirates,2020-06-10,2618566.0,wiki
 United Arab Emirates,2020-06-13,2626000.0,worldometers
 United Arab Emirates,2020-06-18,3000000.0,worldometers
 United Arab Emirates,2020-06-20,3038000.0,worldometers
+United Arab Emirates,2020-06-23,3055566.0,wiki
 United Arab Emirates,2020-06-26,3087000.0,worldometers
 United Arab Emirates,2020-06-27,3136000.0,worldometers
 United Kingdom,2020-03-01,26261.0,wiki
@@ -20813,6 +20967,7 @@ United Kingdom,2020-06-21,4350405.0,owid/roser
 United Kingdom,2020-06-22,4403405.0,owid/roser
 United Kingdom,2020-06-23,4461361.0,owid/roser
 United Kingdom,2020-06-24,4537055.0,owid/roser
+United Kingdom,2020-06-27,9067577.0,wiki
 United Kingdom Isle of Man,2020-04-04,1319.0,worldometers
 United Kingdom Isle of Man,2020-04-05,1334.0,worldometers
 United Kingdom Isle of Man,2020-04-06,1446.0,worldometers
@@ -20880,6 +21035,7 @@ United Kingdom Isle of Man,2020-06-19,5812.0,worldometers
 United Kingdom Isle of Man,2020-06-20,5867.0,worldometers
 United Kingdom Isle of Man,2020-06-23,6022.0,worldometers
 United Kingdom Isle of Man,2020-06-25,6158.0,worldometers
+United Kingdom Isle of Man,2020-06-28,6273.0,worldometers
 United Kingdom – Anguilla,2020-05-24,30.0,worldometers
 United Kingdom – Anguilla,2020-05-30,41.0,worldometers
 United Kingdom – Anguilla,2020-06-15,93.0,worldometers
@@ -20966,6 +21122,7 @@ United Kingdom – Bermuda,2020-06-23,10373.0,lau
 United Kingdom – Bermuda,2020-06-24,10414.0,lau
 United Kingdom – Bermuda,2020-06-25,10634.0,lau
 United Kingdom – Bermuda,2020-06-26,10794.0,lau
+United Kingdom – Bermuda,2020-06-28,10794.0,worldometers
 United Kingdom – British Virgin Islands,2020-05-07,132.0,worldometers
 United Kingdom – British Virgin Islands,2020-05-09,167.0,worldometers
 United Kingdom – British Virgin Islands,2020-06-12,212.0,worldometers
@@ -21164,6 +21321,7 @@ United Kingdom – Channel Islands,2020-06-23,19192.0,lau
 United Kingdom – Channel Islands,2020-06-24,19685.0,lau
 United Kingdom – Channel Islands,2020-06-25,19930.0,lau
 United Kingdom – Channel Islands,2020-06-26,20255.0,lau
+United Kingdom – Channel Islands,2020-06-27,20307.0,lau
 United Kingdom – Falkland Islands (Malvinas),2020-04-08,137.0,worldometers
 United Kingdom – Falkland Islands (Malvinas),2020-04-18,319.0,worldometers
 United Kingdom – Falkland Islands (Malvinas),2020-04-23,337.0,worldometers
@@ -21276,7 +21434,7 @@ United Kingdom – Gibraltar,2020-06-23,11356.0,lau
 United Kingdom – Gibraltar,2020-06-24,11604.0,lau
 United Kingdom – Gibraltar,2020-06-25,11855.0,lau
 United Kingdom – Gibraltar,2020-06-26,12057.0,lau
-United Kingdom – Gibraltar,2020-06-27,12057.0,worldometers
+United Kingdom – Gibraltar,2020-06-28,12446.0,worldometers
 United Kingdom – Isle of Man,2020-02-24,10.0,lau
 United Kingdom – Isle of Man,2020-02-25,10.0,lau
 United Kingdom – Isle of Man,2020-02-26,10.0,lau
@@ -21388,6 +21546,7 @@ United Kingdom – Turks and Caicos Islands,2020-06-15,245.0,worldometers
 United Kingdom – Turks and Caicos Islands,2020-06-20,366.0,worldometers
 United Kingdom – Turks and Caicos Islands,2020-06-23,416.0,worldometers
 United Kingdom – Turks and Caicos Islands,2020-06-25,444.0,worldometers
+United Kingdom – Turks and Caicos Islands,2020-06-28,562.0,worldometers
 United States,2020-03-19,103945.0,owid/ortiz
 United States,2020-05-12,9724879.0,owid/roser
 United States,2020-05-13,10217573.0,owid/roser
@@ -21527,7 +21686,8 @@ Uruguay,2020-06-23,58845.0,owid/roser
 Uruguay,2020-06-24,60318.0,owid/roser
 Uruguay,2020-06-25,61608.0,lau
 Uruguay,2020-06-26,62765.0,lau
-Uruguay,2020-06-27,62765.0,worldometers
+Uruguay,2020-06-27,64183.0,lau
+Uruguay,2020-06-28,64183.0,worldometers
 Uzbekistan,2020-04-09,70000.0,worldometers
 Uzbekistan,2020-04-16,100000.0,worldometers
 Uzbekistan,2020-04-17,136000.0,worldometers
@@ -21591,6 +21751,7 @@ Venezuela,2020-06-22,1149315.0,worldometers
 Venezuela,2020-06-25,1164315.0,worldometers
 Venezuela,2020-06-26,1176146.0,worldometers
 Venezuela,2020-06-27,1190307.0,worldometers
+Venezuela,2020-06-28,1219651.0,worldometers
 Vietnam,2020-02-10,803.0,lau
 Vietnam,2020-02-13,887.0,lau
 Vietnam,2020-02-23,1251.0,lau
@@ -21690,6 +21851,7 @@ West Bank and Gaza,2020-06-23,77631.0,lau
 West Bank and Gaza,2020-06-24,82581.0,lau
 West Bank and Gaza,2020-06-25,84621.0,lau
 West Bank and Gaza,2020-06-26,84955.0,lau
+West Bank and Gaza,2020-06-27,87828.0,lau
 Yemen,2020-04-24,120.0,worldometers
 Zambia,2020-04-04,619.0,worldometers
 Zambia,2020-04-07,1085.0,lau
@@ -21813,3 +21975,4 @@ Zimbabwe,2020-06-24,28253.0,owid/roser
 Zimbabwe,2020-06-25,64520.0,worldometers
 Zimbabwe,2020-06-26,65111.0,worldometers
 Zimbabwe,2020-06-27,65704.0,worldometers
+Zimbabwe,2020-06-28,66238.0,worldometers
