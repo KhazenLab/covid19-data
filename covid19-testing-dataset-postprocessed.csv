@@ -173,7 +173,8 @@ Afghanistan,2020-07-10,78959,worldometers,No
 Afghanistan,2020-07-11,79282,worldometers,No
 Afghanistan,2020-07-12,79732,worldometers,No
 Afghanistan,2020-07-13,79804,wiki,No
-Afghanistan,2020-07-14,80089,,Yes
+Afghanistan,2020-07-14,80881,,Yes
+Afghanistan,2020-07-15,81934,worldometers,No
 Albania,2020-01-22,,,No
 Albania,2020-01-23,,,No
 Albania,2020-01-24,,,No
@@ -349,6 +350,7 @@ Albania,2020-07-11,27878,worldometers,No
 Albania,2020-07-12,28070,,Yes
 Albania,2020-07-13,28298,worldometers,No
 Albania,2020-07-14,28883,worldometers,No
+Albania,2020-07-15,29334,worldometers,No
 Algeria,2020-01-22,,,No
 Algeria,2020-01-23,,,No
 Algeria,2020-01-24,,,No
@@ -524,6 +526,7 @@ Algeria,2020-07-11,29548,,Yes
 Algeria,2020-07-12,30031,,Yes
 Algeria,2020-07-13,30525,,Yes
 Algeria,2020-07-14,31052,,Yes
+Algeria,2020-07-15,31606,,Yes
 Andorra,2020-01-22,,,No
 Andorra,2020-01-23,,,No
 Andorra,2020-01-24,,,No
@@ -699,6 +702,7 @@ Andorra,2020-07-11,3844,,Yes
 Andorra,2020-07-12,3844,,Yes
 Andorra,2020-07-13,3847,,Yes
 Andorra,2020-07-14,3850,,Yes
+Andorra,2020-07-15,3851,,Yes
 Angola,2020-01-22,,,No
 Angola,2020-01-23,,,No
 Angola,2020-01-24,,,No
@@ -874,6 +878,7 @@ Angola,2020-07-11,10393,,Yes
 Angola,2020-07-12,10437,,Yes
 Angola,2020-07-13,10456,,Yes
 Angola,2020-07-14,10472,,Yes
+Angola,2020-07-15,10507,,Yes
 Antigua and Barbuda,2020-01-22,,,No
 Antigua and Barbuda,2020-01-23,,,No
 Antigua and Barbuda,2020-01-24,,,No
@@ -1049,6 +1054,7 @@ Antigua and Barbuda,2020-07-11,860,worldometers,No
 Antigua and Barbuda,2020-07-12,862,,Yes
 Antigua and Barbuda,2020-07-13,864,,Yes
 Antigua and Barbuda,2020-07-14,866,worldometers,No
+Antigua and Barbuda,2020-07-15,866,,Yes
 Argentina,2020-01-22,,,No
 Argentina,2020-01-23,,,No
 Argentina,2020-01-24,,,No
@@ -1223,7 +1229,8 @@ Argentina,2020-07-10,445733,owid/roser,No
 Argentina,2020-07-11,456042,owid/roser,No
 Argentina,2020-07-12,466308,owid/roser,No
 Argentina,2020-07-13,474422,owid/roser,No
-Argentina,2020-07-14,478067,,Yes
+Argentina,2020-07-14,478808,,Yes
+Argentina,2020-07-15,483799,worldometers,No
 Armenia,2020-01-22,,,No
 Armenia,2020-01-23,,,No
 Armenia,2020-01-24,,,No
@@ -1398,7 +1405,8 @@ Armenia,2020-07-10,131216,lau,No
 Armenia,2020-07-11,133104,lau,No
 Armenia,2020-07-12,134989,lau,No
 Armenia,2020-07-13,135687,lau,No
-Armenia,2020-07-14,136026,,Yes
+Armenia,2020-07-14,137360,,Yes
+Armenia,2020-07-15,139220,lau,No
 Australia – Australian Capital Territory,2020-01-22,,,No
 Australia – Australian Capital Territory,2020-01-23,,,No
 Australia – Australian Capital Territory,2020-01-24,,,No
@@ -1574,6 +1582,7 @@ Australia – Australian Capital Territory,2020-07-11,35872,lau,No
 Australia – Australian Capital Territory,2020-07-12,36632,lau,No
 Australia – Australian Capital Territory,2020-07-13,37233,lau,No
 Australia – Australian Capital Territory,2020-07-14,37556,lau,No
+Australia – Australian Capital Territory,2020-07-15,38685,lau,No
 Australia – New South Wales,2020-01-22,,,No
 Australia – New South Wales,2020-01-23,,,No
 Australia – New South Wales,2020-01-24,,,No
@@ -1749,6 +1758,7 @@ Australia – New South Wales,2020-07-11,1024410,lau,No
 Australia – New South Wales,2020-07-12,1039385,lau,No
 Australia – New South Wales,2020-07-13,1050171,lau,No
 Australia – New South Wales,2020-07-14,1062503,lau,No
+Australia – New South Wales,2020-07-15,1080163,lau,No
 Australia – Northern Territory,2020-01-22,,,No
 Australia – Northern Territory,2020-01-23,,,No
 Australia – Northern Territory,2020-01-24,,,No
@@ -1923,7 +1933,8 @@ Australia – Northern Territory,2020-07-10,16092,lau,No
 Australia – Northern Territory,2020-07-11,16734,lau,No
 Australia – Northern Territory,2020-07-12,16962,lau,No
 Australia – Northern Territory,2020-07-13,17028,lau,No
-Australia – Northern Territory,2020-07-14,19667,lau,No
+Australia – Northern Territory,2020-07-14,17836,,Yes
+Australia – Northern Territory,2020-07-15,18645,lau,No
 Australia – Queensland,2020-01-22,,,No
 Australia – Queensland,2020-01-23,,,No
 Australia – Queensland,2020-01-24,,,No
@@ -2099,6 +2110,7 @@ Australia – Queensland,2020-07-11,417970,lau,No
 Australia – Queensland,2020-07-12,421738,lau,No
 Australia – Queensland,2020-07-13,423911,lau,No
 Australia – Queensland,2020-07-14,428420,lau,No
+Australia – Queensland,2020-07-15,435198,lau,No
 Australia – South Australia,2020-01-22,,,No
 Australia – South Australia,2020-01-23,,,No
 Australia – South Australia,2020-01-24,,,No
@@ -2274,6 +2286,7 @@ Australia – South Australia,2020-07-11,169757,lau,No
 Australia – South Australia,2020-07-12,173296,lau,No
 Australia – South Australia,2020-07-13,174553,lau,No
 Australia – South Australia,2020-07-14,176370,lau,No
+Australia – South Australia,2020-07-15,178869,lau,No
 Australia – Tasmania,2020-01-22,,,No
 Australia – Tasmania,2020-01-23,,,No
 Australia – Tasmania,2020-01-24,,,No
@@ -2449,6 +2462,7 @@ Australia – Tasmania,2020-07-11,56602,lau,No
 Australia – Tasmania,2020-07-12,57132,lau,No
 Australia – Tasmania,2020-07-13,57463,lau,No
 Australia – Tasmania,2020-07-14,57802,lau,No
+Australia – Tasmania,2020-07-15,58504,lau,No
 Australia – Victoria,2020-01-22,,,No
 Australia – Victoria,2020-01-23,,,No
 Australia – Victoria,2020-01-24,,,No
@@ -2624,6 +2638,7 @@ Australia – Victoria,2020-07-11,1095219,lau,No
 Australia – Victoria,2020-07-12,1125414,lau,No
 Australia – Victoria,2020-07-13,1148357,lau,No
 Australia – Victoria,2020-07-14,1170352,lau,No
+Australia – Victoria,2020-07-15,1197392,lau,No
 Australia – Western Australia,2020-01-22,,,No
 Australia – Western Australia,2020-01-23,,,No
 Australia – Western Australia,2020-01-24,,,No
@@ -2799,6 +2814,7 @@ Australia – Western Australia,2020-07-11,206310,,Yes
 Australia – Western Australia,2020-07-12,207690,,Yes
 Australia – Western Australia,2020-07-13,209072,lau,No
 Australia – Western Australia,2020-07-14,209567,lau,No
+Australia – Western Australia,2020-07-15,214685,lau,No
 Austria,2020-01-22,,,No
 Austria,2020-01-23,,,No
 Austria,2020-01-24,,,No
@@ -2973,7 +2989,8 @@ Austria,2020-07-10,683484,owid/roser,No
 Austria,2020-07-11,691709,owid/roser,No
 Austria,2020-07-12,696740,owid/roser,No
 Austria,2020-07-13,700616,owid/roser,No
-Austria,2020-07-14,700689,,Yes
+Austria,2020-07-14,704341,,Yes
+Austria,2020-07-15,708128,worldometers,No
 Azerbaijan,2020-01-22,,,No
 Azerbaijan,2020-01-23,,,No
 Azerbaijan,2020-01-24,,,No
@@ -3149,6 +3166,7 @@ Azerbaijan,2020-07-11,552311,lau,No
 Azerbaijan,2020-07-12,560356,lau,No
 Azerbaijan,2020-07-13,568234,lau,No
 Azerbaijan,2020-07-14,576249,lau,No
+Azerbaijan,2020-07-15,584466,lau,No
 Bahamas,2020-01-22,,,No
 Bahamas,2020-01-23,,,No
 Bahamas,2020-01-24,,,No
@@ -3324,6 +3342,7 @@ Bahamas,2020-07-11,2519,worldometers,No
 Bahamas,2020-07-12,2526,worldometers,No
 Bahamas,2020-07-13,2532,,Yes
 Bahamas,2020-07-14,2540,worldometers,No
+Bahamas,2020-07-15,2545,worldometers,No
 Bahrain,2020-01-22,,,No
 Bahrain,2020-01-23,,,No
 Bahrain,2020-01-24,,,No
@@ -3499,6 +3518,7 @@ Bahrain,2020-07-11,649020,owid/roser,No
 Bahrain,2020-07-12,656659,owid/roser,No
 Bahrain,2020-07-13,666248,owid/roser,No
 Bahrain,2020-07-14,675451,worldometers,No
+Bahrain,2020-07-15,685318,worldometers,No
 Bangladesh,2020-01-22,,,No
 Bangladesh,2020-01-23,,,No
 Bangladesh,2020-01-24,,,No
@@ -3674,6 +3694,7 @@ Bangladesh,2020-07-11,932456,owid/roser,No
 Bangladesh,2020-07-12,937764,,Yes
 Bangladesh,2020-07-13,943524,worldometers,No
 Bangladesh,2020-07-14,955947,worldometers,No
+Bangladesh,2020-07-15,966400,worldometers,No
 Barbados,2020-01-22,,,No
 Barbados,2020-01-23,,,No
 Barbados,2020-01-24,,,No
@@ -3849,6 +3870,7 @@ Barbados,2020-07-11,8801,lau,No
 Barbados,2020-07-12,8834,lau,No
 Barbados,2020-07-13,8927,lau,No
 Barbados,2020-07-14,9026,lau,No
+Barbados,2020-07-15,9027,,Yes
 Belarus,2020-01-22,,,No
 Belarus,2020-01-23,,,No
 Belarus,2020-01-24,,,No
@@ -4024,6 +4046,7 @@ Belarus,2020-07-11,1123130,,Yes
 Belarus,2020-07-12,1134653,owid/roser,No
 Belarus,2020-07-13,1139687,,Yes
 Belarus,2020-07-14,1144696,wiki,No
+Belarus,2020-07-15,1144870,,Yes
 Belgium,2020-01-22,,,No
 Belgium,2020-01-23,,,No
 Belgium,2020-01-24,,,No
@@ -4196,9 +4219,10 @@ Belgium,2020-07-08,1045273,owid/roser,No
 Belgium,2020-07-09,1052518,owid/roser,No
 Belgium,2020-07-10,1349831,worldometers,No
 Belgium,2020-07-11,1361830,worldometers,No
-Belgium,2020-07-12,1362068,,Yes
-Belgium,2020-07-13,1362068,,Yes
-Belgium,2020-07-14,1362142,,Yes
+Belgium,2020-07-12,1369157,,Yes
+Belgium,2020-07-13,1376246,,Yes
+Belgium,2020-07-14,1383410,,Yes
+Belgium,2020-07-15,1390593,worldometers,No
 Belize,2020-01-22,,,No
 Belize,2020-01-23,,,No
 Belize,2020-01-24,,,No
@@ -4371,9 +4395,10 @@ Belize,2020-07-08,2459,worldometers,No
 Belize,2020-07-09,2475,,Yes
 Belize,2020-07-10,2499,worldometers,No
 Belize,2020-07-11,2577,worldometers,No
-Belize,2020-07-12,2577,,Yes
-Belize,2020-07-13,2577,,Yes
-Belize,2020-07-14,2579,,Yes
+Belize,2020-07-12,2598,,Yes
+Belize,2020-07-13,2619,,Yes
+Belize,2020-07-14,2643,,Yes
+Belize,2020-07-15,2665,worldometers,No
 Benin,2020-01-22,,,No
 Benin,2020-01-23,,,No
 Benin,2020-01-24,,,No
@@ -4550,6 +4575,7 @@ Benin,2020-07-11,66637,,Yes
 Benin,2020-07-12,67622,worldometers,No
 Benin,2020-07-13,67622,,Yes
 Benin,2020-07-14,67622,,Yes
+Benin,2020-07-15,67622,,Yes
 Bhutan,2020-01-22,,,No
 Bhutan,2020-01-23,,,No
 Bhutan,2020-01-24,,,No
@@ -4725,6 +4751,7 @@ Bhutan,2020-07-11,27127,worldometers,No
 Bhutan,2020-07-12,36619,worldometers,No
 Bhutan,2020-07-13,36717,worldometers,No
 Bhutan,2020-07-14,36867,worldometers,No
+Bhutan,2020-07-15,39270,worldometers,No
 Bolivia,2020-01-22,,,No
 Bolivia,2020-01-23,,,No
 Bolivia,2020-01-24,,,No
@@ -4900,6 +4927,7 @@ Bolivia,2020-07-11,99754,owid/roser,No
 Bolivia,2020-07-12,101623,owid/roser,No
 Bolivia,2020-07-13,107190,worldometers,No
 Bolivia,2020-07-14,108897,worldometers,No
+Bolivia,2020-07-15,111416,worldometers,No
 Bosnia and Herzegovina,2020-01-22,,,No
 Bosnia and Herzegovina,2020-01-23,,,No
 Bosnia and Herzegovina,2020-01-24,,,No
@@ -5075,6 +5103,7 @@ Bosnia and Herzegovina,2020-07-11,66265,lau,No
 Bosnia and Herzegovina,2020-07-12,67295,lau,No
 Bosnia and Herzegovina,2020-07-13,67803,lau,No
 Bosnia and Herzegovina,2020-07-14,68698,lau,No
+Bosnia and Herzegovina,2020-07-15,69722,lau,No
 Botswana,2020-01-22,,,No
 Botswana,2020-01-23,,,No
 Botswana,2020-01-24,,,No
@@ -5250,6 +5279,7 @@ Botswana,2020-07-11,50145,,Yes
 Botswana,2020-07-12,50806,,Yes
 Botswana,2020-07-13,51379,worldometers,No
 Botswana,2020-07-14,51379,,Yes
+Botswana,2020-07-15,51379,,Yes
 Brazil,2020-01-22,,,No
 Brazil,2020-01-23,,,No
 Brazil,2020-01-24,,,No
@@ -5425,6 +5455,7 @@ Brazil,2020-07-11,4971259,,Yes
 Brazil,2020-07-12,4996090,,Yes
 Brazil,2020-07-13,5016376,,Yes
 Brazil,2020-07-14,5058233,,Yes
+Brazil,2020-07-15,5098157,,Yes
 Brunei,2020-01-22,,,No
 Brunei,2020-01-23,,,No
 Brunei,2020-01-24,,,No
@@ -5599,7 +5630,8 @@ Brunei,2020-07-10,33327,lau,No
 Brunei,2020-07-11,33606,lau,No
 Brunei,2020-07-12,33877,lau,No
 Brunei,2020-07-13,34089,lau,No
-Brunei,2020-07-14,34089,,Yes
+Brunei,2020-07-14,34484,lau,No
+Brunei,2020-07-15,34797,lau,No
 Bulgaria,2020-01-22,,,No
 Bulgaria,2020-01-23,,,No
 Bulgaria,2020-01-24,,,No
@@ -5775,6 +5807,7 @@ Bulgaria,2020-07-11,175136,lau,No
 Bulgaria,2020-07-12,176334,lau,No
 Bulgaria,2020-07-13,179675,lau,No
 Bulgaria,2020-07-14,184560,lau,No
+Bulgaria,2020-07-15,189953,lau,No
 Burkina Faso,2020-01-22,,,No
 Burkina Faso,2020-01-23,,,No
 Burkina Faso,2020-01-24,,,No
@@ -5950,6 +5983,7 @@ Burkina Faso,2020-07-11,6863,,Yes
 Burkina Faso,2020-07-12,6866,,Yes
 Burkina Faso,2020-07-13,6866,,Yes
 Burkina Faso,2020-07-14,6867,,Yes
+Burkina Faso,2020-07-15,6868,,Yes
 Burma,2020-01-22,,,No
 Burma,2020-01-23,,,No
 Burma,2020-01-24,,,No
@@ -6125,6 +6159,7 @@ Burma,2020-07-11,91479,lau,No
 Burma,2020-07-12,93176,lau,No
 Burma,2020-07-13,94168,lau,No
 Burma,2020-07-14,94872,lau,No
+Burma,2020-07-15,96324,lau,No
 Burundi,2020-01-22,,,No
 Burundi,2020-01-23,,,No
 Burundi,2020-01-24,,,No
@@ -6300,6 +6335,7 @@ Burundi,2020-07-11,4470,,Yes
 Burundi,2020-07-12,5002,,Yes
 Burundi,2020-07-13,6110,,Yes
 Burundi,2020-07-14,6697,worldometers,No
+Burundi,2020-07-15,6697,,Yes
 Cabo Verde,2020-01-22,,,No
 Cabo Verde,2020-01-23,,,No
 Cabo Verde,2020-01-24,,,No
@@ -6475,6 +6511,7 @@ Cabo Verde,2020-07-11,39843,,Yes
 Cabo Verde,2020-07-12,39902,,Yes
 Cabo Verde,2020-07-13,40036,,Yes
 Cabo Verde,2020-07-14,40120,worldometers,No
+Cabo Verde,2020-07-15,40475,worldometers,No
 Cambodia,2020-01-22,2,lau,No
 Cambodia,2020-01-23,2,lau,No
 Cambodia,2020-01-24,7,lau,No
@@ -6650,6 +6687,7 @@ Cambodia,2020-07-11,44293,worldometers,No
 Cambodia,2020-07-12,45341,worldometers,No
 Cambodia,2020-07-13,46168,worldometers,No
 Cambodia,2020-07-14,46861,worldometers,No
+Cambodia,2020-07-15,47702,worldometers,No
 Cameroon,2020-01-22,,,No
 Cameroon,2020-01-23,,,No
 Cameroon,2020-01-24,,,No
@@ -6825,6 +6863,7 @@ Cameroon,2020-07-11,119281,,Yes
 Cameroon,2020-07-12,120837,worldometers,No
 Cameroon,2020-07-13,120837,,Yes
 Cameroon,2020-07-14,120837,,Yes
+Cameroon,2020-07-15,120837,,Yes
 Canada – Alberta,2020-01-22,,,No
 Canada – Alberta,2020-01-23,,,No
 Canada – Alberta,2020-01-24,,,No
@@ -7000,6 +7039,7 @@ Canada – Alberta,2020-07-11,453531,,Yes
 Canada – Alberta,2020-07-12,459881,,Yes
 Canada – Alberta,2020-07-13,466472,lau,No
 Canada – Alberta,2020-07-14,470871,lau,No
+Canada – Alberta,2020-07-15,475334,lau,No
 Canada – British Columbia,2020-01-22,,,No
 Canada – British Columbia,2020-01-23,2,lau,No
 Canada – British Columbia,2020-01-24,10,,Yes
@@ -7173,8 +7213,9 @@ Canada – British Columbia,2020-07-09,212459,lau,No
 Canada – British Columbia,2020-07-10,215181,lau,No
 Canada – British Columbia,2020-07-11,217514,lau,No
 Canada – British Columbia,2020-07-12,219603,lau,No
-Canada – British Columbia,2020-07-13,219603,,Yes
-Canada – British Columbia,2020-07-14,219678,,Yes
+Canada – British Columbia,2020-07-13,221097,lau,No
+Canada – British Columbia,2020-07-14,223493,lau,No
+Canada – British Columbia,2020-07-15,223514,,Yes
 Canada – Manitoba,2020-01-22,,,No
 Canada – Manitoba,2020-01-23,,,No
 Canada – Manitoba,2020-01-24,,,No
@@ -7350,6 +7391,7 @@ Canada – Manitoba,2020-07-11,69877,,Yes
 Canada – Manitoba,2020-07-12,70718,,Yes
 Canada – Manitoba,2020-07-13,71559,lau,No
 Canada – Manitoba,2020-07-14,71803,lau,No
+Canada – Manitoba,2020-07-15,72308,lau,No
 Canada – New Brunswick,2020-01-22,,,No
 Canada – New Brunswick,2020-01-23,,,No
 Canada – New Brunswick,2020-01-24,,,No
@@ -7525,6 +7567,7 @@ Canada – New Brunswick,2020-07-11,42755,,Yes
 Canada – New Brunswick,2020-07-12,42755,,Yes
 Canada – New Brunswick,2020-07-13,42755,,Yes
 Canada – New Brunswick,2020-07-14,42756,,Yes
+Canada – New Brunswick,2020-07-15,42757,,Yes
 Canada – Newfoundland and Labrador,2020-01-22,,,No
 Canada – Newfoundland and Labrador,2020-01-23,,,No
 Canada – Newfoundland and Labrador,2020-01-24,,,No
@@ -7700,6 +7743,7 @@ Canada – Newfoundland and Labrador,2020-07-11,20175,lau,No
 Canada – Newfoundland and Labrador,2020-07-12,20437,lau,No
 Canada – Newfoundland and Labrador,2020-07-13,20583,lau,No
 Canada – Newfoundland and Labrador,2020-07-14,20827,lau,No
+Canada – Newfoundland and Labrador,2020-07-15,21134,lau,No
 Canada – Northwest Territories,2020-01-22,,,No
 Canada – Northwest Territories,2020-01-23,,,No
 Canada – Northwest Territories,2020-01-24,,,No
@@ -7875,6 +7919,7 @@ Canada – Northwest Territories,2020-07-11,2813,,Yes
 Canada – Northwest Territories,2020-07-12,2836,,Yes
 Canada – Northwest Territories,2020-07-13,2859,lau,No
 Canada – Northwest Territories,2020-07-14,2874,lau,No
+Canada – Northwest Territories,2020-07-15,2914,lau,No
 Canada – Nova Scotia,2020-01-22,,,No
 Canada – Nova Scotia,2020-01-23,,,No
 Canada – Nova Scotia,2020-01-24,,,No
@@ -8050,6 +8095,7 @@ Canada – Nova Scotia,2020-07-11,58042,lau,No
 Canada – Nova Scotia,2020-07-12,58361,lau,No
 Canada – Nova Scotia,2020-07-13,58741,lau,No
 Canada – Nova Scotia,2020-07-14,59015,lau,No
+Canada – Nova Scotia,2020-07-15,59382,lau,No
 Canada – Ontario,2020-01-22,,,No
 Canada – Ontario,2020-01-23,,,No
 Canada – Ontario,2020-01-24,,,No
@@ -8224,7 +8270,8 @@ Canada – Ontario,2020-07-10,1665693,lau,No
 Canada – Ontario,2020-07-11,1691419,lau,No
 Canada – Ontario,2020-07-12,1712315,lau,No
 Canada – Ontario,2020-07-13,1729059,lau,No
-Canada – Ontario,2020-07-14,1729143,,Yes
+Canada – Ontario,2020-07-14,1752828,lau,No
+Canada – Ontario,2020-07-15,1752932,,Yes
 Canada – Prince Edward Island,2020-01-22,,,No
 Canada – Prince Edward Island,2020-01-23,,,No
 Canada – Prince Edward Island,2020-01-24,,,No
@@ -8400,6 +8447,7 @@ Canada – Prince Edward Island,2020-07-11,14222,,Yes
 Canada – Prince Edward Island,2020-07-12,14453,,Yes
 Canada – Prince Edward Island,2020-07-13,14684,lau,No
 Canada – Prince Edward Island,2020-07-14,15252,lau,No
+Canada – Prince Edward Island,2020-07-15,15941,lau,No
 Canada – Quebec,2020-01-22,,,No
 Canada – Quebec,2020-01-23,,,No
 Canada – Quebec,2020-01-24,,,No
@@ -8574,7 +8622,8 @@ Canada – Quebec,2020-07-10,671722,lau,No
 Canada – Quebec,2020-07-11,671833,lau,No
 Canada – Quebec,2020-07-12,682148,,Yes
 Canada – Quebec,2020-07-13,692453,lau,No
-Canada – Quebec,2020-07-14,692562,,Yes
+Canada – Quebec,2020-07-14,699895,lau,No
+Canada – Quebec,2020-07-15,700024,,Yes
 Canada – Saskatchewan,2020-01-22,,,No
 Canada – Saskatchewan,2020-01-23,,,No
 Canada – Saskatchewan,2020-01-24,,,No
@@ -8750,6 +8799,7 @@ Canada – Saskatchewan,2020-07-11,64252,lau,No
 Canada – Saskatchewan,2020-07-12,65064,lau,No
 Canada – Saskatchewan,2020-07-13,65667,lau,No
 Canada – Saskatchewan,2020-07-14,66150,lau,No
+Canada – Saskatchewan,2020-07-15,66895,lau,No
 Canada – Yukon,2020-01-22,,,No
 Canada – Yukon,2020-01-23,,,No
 Canada – Yukon,2020-01-24,,,No
@@ -8925,6 +8975,7 @@ Canada – Yukon,2020-07-11,1332,,Yes
 Canada – Yukon,2020-07-12,1337,,Yes
 Canada – Yukon,2020-07-13,1343,lau,No
 Canada – Yukon,2020-07-14,1356,lau,No
+Canada – Yukon,2020-07-15,1365,lau,No
 Central African Republic,2020-01-22,,,No
 Central African Republic,2020-01-23,,,No
 Central African Republic,2020-01-24,,,No
@@ -9100,6 +9151,7 @@ Central African Republic,2020-07-11,26806,worldometers,No
 Central African Republic,2020-07-12,26949,worldometers,No
 Central African Republic,2020-07-13,27165,,Yes
 Central African Republic,2020-07-14,27385,worldometers,No
+Central African Republic,2020-07-15,27561,worldometers,No
 Chad,2020-01-22,,,No
 Chad,2020-01-23,,,No
 Chad,2020-01-24,,,No
@@ -9275,6 +9327,7 @@ Chad,2020-07-11,,,No
 Chad,2020-07-12,,,No
 Chad,2020-07-13,,,No
 Chad,2020-07-14,,,No
+Chad,2020-07-15,,,No
 Chile,2020-01-22,,,No
 Chile,2020-01-23,,,No
 Chile,2020-01-24,,,No
@@ -9450,6 +9503,7 @@ Chile,2020-07-11,1273627,owid/roser,No
 Chile,2020-07-12,1292798,owid/roser,No
 Chile,2020-07-13,1310265,owid/roser,No
 Chile,2020-07-14,1322503,wiki,No
+Chile,2020-07-15,1324215,,Yes
 China – Anhui,2020-01-22,,,No
 China – Anhui,2020-01-23,,,No
 China – Anhui,2020-01-24,,,No
@@ -9625,6 +9679,7 @@ China – Anhui,2020-07-11,,,No
 China – Anhui,2020-07-12,,,No
 China – Anhui,2020-07-13,,,No
 China – Anhui,2020-07-14,,,No
+China – Anhui,2020-07-15,,,No
 China – Beijing,2020-01-22,,,No
 China – Beijing,2020-01-23,,,No
 China – Beijing,2020-01-24,,,No
@@ -9800,6 +9855,7 @@ China – Beijing,2020-07-11,,,No
 China – Beijing,2020-07-12,,,No
 China – Beijing,2020-07-13,,,No
 China – Beijing,2020-07-14,,,No
+China – Beijing,2020-07-15,,,No
 China – Chongqing,2020-01-22,,,No
 China – Chongqing,2020-01-23,,,No
 China – Chongqing,2020-01-24,,,No
@@ -9975,6 +10031,7 @@ China – Chongqing,2020-07-11,,,No
 China – Chongqing,2020-07-12,,,No
 China – Chongqing,2020-07-13,,,No
 China – Chongqing,2020-07-14,,,No
+China – Chongqing,2020-07-15,,,No
 China – Fujian,2020-01-22,,,No
 China – Fujian,2020-01-23,,,No
 China – Fujian,2020-01-24,,,No
@@ -10150,6 +10207,7 @@ China – Fujian,2020-07-11,,,No
 China – Fujian,2020-07-12,,,No
 China – Fujian,2020-07-13,,,No
 China – Fujian,2020-07-14,,,No
+China – Fujian,2020-07-15,,,No
 China – Gansu,2020-01-22,,,No
 China – Gansu,2020-01-23,,,No
 China – Gansu,2020-01-24,,,No
@@ -10325,6 +10383,7 @@ China – Gansu,2020-07-11,,,No
 China – Gansu,2020-07-12,,,No
 China – Gansu,2020-07-13,,,No
 China – Gansu,2020-07-14,,,No
+China – Gansu,2020-07-15,,,No
 China – Guangdong,2020-01-22,,,No
 China – Guangdong,2020-01-23,,,No
 China – Guangdong,2020-01-24,,,No
@@ -10500,6 +10559,7 @@ China – Guangdong,2020-07-11,6790059,,Yes
 China – Guangdong,2020-07-12,6790061,,Yes
 China – Guangdong,2020-07-13,6790061,,Yes
 China – Guangdong,2020-07-14,6790061,,Yes
+China – Guangdong,2020-07-15,6790061,,Yes
 China – Guangxi,2020-01-22,,,No
 China – Guangxi,2020-01-23,,,No
 China – Guangxi,2020-01-24,,,No
@@ -10675,6 +10735,7 @@ China – Guangxi,2020-07-11,,,No
 China – Guangxi,2020-07-12,,,No
 China – Guangxi,2020-07-13,,,No
 China – Guangxi,2020-07-14,,,No
+China – Guangxi,2020-07-15,,,No
 China – Guizhou,2020-01-22,,,No
 China – Guizhou,2020-01-23,,,No
 China – Guizhou,2020-01-24,,,No
@@ -10850,6 +10911,7 @@ China – Guizhou,2020-07-11,,,No
 China – Guizhou,2020-07-12,,,No
 China – Guizhou,2020-07-13,,,No
 China – Guizhou,2020-07-14,,,No
+China – Guizhou,2020-07-15,,,No
 China – Hainan,2020-01-22,,,No
 China – Hainan,2020-01-23,,,No
 China – Hainan,2020-01-24,,,No
@@ -11025,6 +11087,7 @@ China – Hainan,2020-07-11,,,No
 China – Hainan,2020-07-12,,,No
 China – Hainan,2020-07-13,,,No
 China – Hainan,2020-07-14,,,No
+China – Hainan,2020-07-15,,,No
 China – Hebei,2020-01-22,,,No
 China – Hebei,2020-01-23,,,No
 China – Hebei,2020-01-24,,,No
@@ -11200,6 +11263,7 @@ China – Hebei,2020-07-11,,,No
 China – Hebei,2020-07-12,,,No
 China – Hebei,2020-07-13,,,No
 China – Hebei,2020-07-14,,,No
+China – Hebei,2020-07-15,,,No
 China – Heilongjiang,2020-01-22,,,No
 China – Heilongjiang,2020-01-23,,,No
 China – Heilongjiang,2020-01-24,,,No
@@ -11375,6 +11439,7 @@ China – Heilongjiang,2020-07-11,784272,,Yes
 China – Heilongjiang,2020-07-12,784272,,Yes
 China – Heilongjiang,2020-07-13,784272,,Yes
 China – Heilongjiang,2020-07-14,784272,,Yes
+China – Heilongjiang,2020-07-15,784272,,Yes
 China – Henan,2020-01-22,,,No
 China – Henan,2020-01-23,,,No
 China – Henan,2020-01-24,,,No
@@ -11550,6 +11615,7 @@ China – Henan,2020-07-11,,,No
 China – Henan,2020-07-12,,,No
 China – Henan,2020-07-13,,,No
 China – Henan,2020-07-14,,,No
+China – Henan,2020-07-15,,,No
 China – Hong Kong,2020-01-22,,,No
 China – Hong Kong,2020-01-23,,,No
 China – Hong Kong,2020-01-24,,,No
@@ -11725,6 +11791,7 @@ China – Hong Kong,2020-07-11,369343,,Yes
 China – Hong Kong,2020-07-12,373014,,Yes
 China – Hong Kong,2020-07-13,376645,worldometers,No
 China – Hong Kong,2020-07-14,376745,,Yes
+China – Hong Kong,2020-07-15,376764,,Yes
 China – Hubei,2020-01-22,,,No
 China – Hubei,2020-01-23,,,No
 China – Hubei,2020-01-24,,,No
@@ -11900,6 +11967,7 @@ China – Hubei,2020-07-11,12537792,,Yes
 China – Hubei,2020-07-12,12537792,,Yes
 China – Hubei,2020-07-13,12537792,,Yes
 China – Hubei,2020-07-14,12537792,,Yes
+China – Hubei,2020-07-15,12537792,,Yes
 China – Hunan,2020-01-22,,,No
 China – Hunan,2020-01-23,,,No
 China – Hunan,2020-01-24,,,No
@@ -12075,6 +12143,7 @@ China – Hunan,2020-07-11,,,No
 China – Hunan,2020-07-12,,,No
 China – Hunan,2020-07-13,,,No
 China – Hunan,2020-07-14,,,No
+China – Hunan,2020-07-15,,,No
 China – Inner Mongolia,2020-01-22,,,No
 China – Inner Mongolia,2020-01-23,,,No
 China – Inner Mongolia,2020-01-24,,,No
@@ -12250,6 +12319,7 @@ China – Inner Mongolia,2020-07-11,,,No
 China – Inner Mongolia,2020-07-12,,,No
 China – Inner Mongolia,2020-07-13,,,No
 China – Inner Mongolia,2020-07-14,,,No
+China – Inner Mongolia,2020-07-15,,,No
 China – Jiangsu,2020-01-22,,,No
 China – Jiangsu,2020-01-23,,,No
 China – Jiangsu,2020-01-24,,,No
@@ -12425,6 +12495,7 @@ China – Jiangsu,2020-07-11,,,No
 China – Jiangsu,2020-07-12,,,No
 China – Jiangsu,2020-07-13,,,No
 China – Jiangsu,2020-07-14,,,No
+China – Jiangsu,2020-07-15,,,No
 China – Jiangxi,2020-01-22,,,No
 China – Jiangxi,2020-01-23,,,No
 China – Jiangxi,2020-01-24,,,No
@@ -12600,6 +12671,7 @@ China – Jiangxi,2020-07-11,,,No
 China – Jiangxi,2020-07-12,,,No
 China – Jiangxi,2020-07-13,,,No
 China – Jiangxi,2020-07-14,,,No
+China – Jiangxi,2020-07-15,,,No
 China – Jilin,2020-01-22,,,No
 China – Jilin,2020-01-23,,,No
 China – Jilin,2020-01-24,,,No
@@ -12775,6 +12847,7 @@ China – Jilin,2020-07-11,,,No
 China – Jilin,2020-07-12,,,No
 China – Jilin,2020-07-13,,,No
 China – Jilin,2020-07-14,,,No
+China – Jilin,2020-07-15,,,No
 China – Liaoning,2020-01-22,,,No
 China – Liaoning,2020-01-23,,,No
 China – Liaoning,2020-01-24,,,No
@@ -12950,6 +13023,7 @@ China – Liaoning,2020-07-11,,,No
 China – Liaoning,2020-07-12,,,No
 China – Liaoning,2020-07-13,,,No
 China – Liaoning,2020-07-14,,,No
+China – Liaoning,2020-07-15,,,No
 China – Macau,2020-01-22,,,No
 China – Macau,2020-01-23,,,No
 China – Macau,2020-01-24,,,No
@@ -13125,6 +13199,7 @@ China – Macau,2020-07-11,,,No
 China – Macau,2020-07-12,,,No
 China – Macau,2020-07-13,,,No
 China – Macau,2020-07-14,,,No
+China – Macau,2020-07-15,,,No
 China – Ningxia,2020-01-22,,,No
 China – Ningxia,2020-01-23,,,No
 China – Ningxia,2020-01-24,,,No
@@ -13300,6 +13375,7 @@ China – Ningxia,2020-07-11,,,No
 China – Ningxia,2020-07-12,,,No
 China – Ningxia,2020-07-13,,,No
 China – Ningxia,2020-07-14,,,No
+China – Ningxia,2020-07-15,,,No
 China – Qinghai,2020-01-22,,,No
 China – Qinghai,2020-01-23,,,No
 China – Qinghai,2020-01-24,,,No
@@ -13475,6 +13551,7 @@ China – Qinghai,2020-07-11,,,No
 China – Qinghai,2020-07-12,,,No
 China – Qinghai,2020-07-13,,,No
 China – Qinghai,2020-07-14,,,No
+China – Qinghai,2020-07-15,,,No
 China – Shaanxi,2020-01-22,,,No
 China – Shaanxi,2020-01-23,,,No
 China – Shaanxi,2020-01-24,,,No
@@ -13650,6 +13727,7 @@ China – Shaanxi,2020-07-11,,,No
 China – Shaanxi,2020-07-12,,,No
 China – Shaanxi,2020-07-13,,,No
 China – Shaanxi,2020-07-14,,,No
+China – Shaanxi,2020-07-15,,,No
 China – Shandong,2020-01-22,,,No
 China – Shandong,2020-01-23,,,No
 China – Shandong,2020-01-24,,,No
@@ -13825,6 +13903,7 @@ China – Shandong,2020-07-11,,,No
 China – Shandong,2020-07-12,,,No
 China – Shandong,2020-07-13,,,No
 China – Shandong,2020-07-14,,,No
+China – Shandong,2020-07-15,,,No
 China – Shanghai,2020-01-22,,,No
 China – Shanghai,2020-01-23,,,No
 China – Shanghai,2020-01-24,,,No
@@ -14000,6 +14079,7 @@ China – Shanghai,2020-07-11,,,No
 China – Shanghai,2020-07-12,,,No
 China – Shanghai,2020-07-13,,,No
 China – Shanghai,2020-07-14,,,No
+China – Shanghai,2020-07-15,,,No
 China – Shanxi,2020-01-22,,,No
 China – Shanxi,2020-01-23,,,No
 China – Shanxi,2020-01-24,,,No
@@ -14175,6 +14255,7 @@ China – Shanxi,2020-07-11,,,No
 China – Shanxi,2020-07-12,,,No
 China – Shanxi,2020-07-13,,,No
 China – Shanxi,2020-07-14,,,No
+China – Shanxi,2020-07-15,,,No
 China – Sichuan,2020-01-22,,,No
 China – Sichuan,2020-01-23,,,No
 China – Sichuan,2020-01-24,,,No
@@ -14350,6 +14431,7 @@ China – Sichuan,2020-07-11,,,No
 China – Sichuan,2020-07-12,,,No
 China – Sichuan,2020-07-13,,,No
 China – Sichuan,2020-07-14,,,No
+China – Sichuan,2020-07-15,,,No
 China – Tianjin,2020-01-22,,,No
 China – Tianjin,2020-01-23,,,No
 China – Tianjin,2020-01-24,,,No
@@ -14525,6 +14607,7 @@ China – Tianjin,2020-07-11,,,No
 China – Tianjin,2020-07-12,,,No
 China – Tianjin,2020-07-13,,,No
 China – Tianjin,2020-07-14,,,No
+China – Tianjin,2020-07-15,,,No
 China – Tibet,2020-01-22,,,No
 China – Tibet,2020-01-23,,,No
 China – Tibet,2020-01-24,,,No
@@ -14700,6 +14783,7 @@ China – Tibet,2020-07-11,,,No
 China – Tibet,2020-07-12,,,No
 China – Tibet,2020-07-13,,,No
 China – Tibet,2020-07-14,,,No
+China – Tibet,2020-07-15,,,No
 China – Xinjiang,2020-01-22,,,No
 China – Xinjiang,2020-01-23,,,No
 China – Xinjiang,2020-01-24,,,No
@@ -14875,6 +14959,7 @@ China – Xinjiang,2020-07-11,,,No
 China – Xinjiang,2020-07-12,,,No
 China – Xinjiang,2020-07-13,,,No
 China – Xinjiang,2020-07-14,,,No
+China – Xinjiang,2020-07-15,,,No
 China – Yunnan,2020-01-22,,,No
 China – Yunnan,2020-01-23,,,No
 China – Yunnan,2020-01-24,,,No
@@ -15050,6 +15135,7 @@ China – Yunnan,2020-07-11,,,No
 China – Yunnan,2020-07-12,,,No
 China – Yunnan,2020-07-13,,,No
 China – Yunnan,2020-07-14,,,No
+China – Yunnan,2020-07-15,,,No
 China – Zhejiang,2020-01-22,,,No
 China – Zhejiang,2020-01-23,,,No
 China – Zhejiang,2020-01-24,,,No
@@ -15225,6 +15311,7 @@ China – Zhejiang,2020-07-11,,,No
 China – Zhejiang,2020-07-12,,,No
 China – Zhejiang,2020-07-13,,,No
 China – Zhejiang,2020-07-14,,,No
+China – Zhejiang,2020-07-15,,,No
 Colombia,2020-01-22,,,No
 Colombia,2020-01-23,,,No
 Colombia,2020-01-24,,,No
@@ -15400,6 +15487,7 @@ Colombia,2020-07-11,1006093,owid/roser,No
 Colombia,2020-07-12,1031230,owid/roser,No
 Colombia,2020-07-13,1057370,,Yes
 Colombia,2020-07-14,1082415,wiki,No
+Colombia,2020-07-15,1088036,,Yes
 Comoros,2020-01-22,,,No
 Comoros,2020-01-23,,,No
 Comoros,2020-01-24,,,No
@@ -15575,6 +15663,7 @@ Comoros,2020-07-11,,,No
 Comoros,2020-07-12,,,No
 Comoros,2020-07-13,,,No
 Comoros,2020-07-14,,,No
+Comoros,2020-07-15,,,No
 Congo (Brazzaville),2020-01-22,,,No
 Congo (Brazzaville),2020-01-23,,,No
 Congo (Brazzaville),2020-01-24,,,No
@@ -15750,6 +15839,7 @@ Congo (Brazzaville),2020-07-11,,,No
 Congo (Brazzaville),2020-07-12,,,No
 Congo (Brazzaville),2020-07-13,,,No
 Congo (Brazzaville),2020-07-14,,,No
+Congo (Brazzaville),2020-07-15,,,No
 Congo (Kinshasa),2020-01-22,,,No
 Congo (Kinshasa),2020-01-23,,,No
 Congo (Kinshasa),2020-01-24,,,No
@@ -15925,6 +16015,7 @@ Congo (Kinshasa),2020-07-11,14153,,Yes
 Congo (Kinshasa),2020-07-12,14215,,Yes
 Congo (Kinshasa),2020-07-13,14257,,Yes
 Congo (Kinshasa),2020-07-14,14317,,Yes
+Congo (Kinshasa),2020-07-15,14345,,Yes
 Costa Rica,2020-01-22,,,No
 Costa Rica,2020-01-23,,,No
 Costa Rica,2020-01-24,,,No
@@ -16100,6 +16191,7 @@ Costa Rica,2020-07-11,45850,owid/roser,No
 Costa Rica,2020-07-12,51707,,Yes
 Costa Rica,2020-07-13,57745,worldometers,No
 Costa Rica,2020-07-14,59749,worldometers,No
+Costa Rica,2020-07-15,61216,worldometers,No
 Cote d'Ivoire,2020-01-22,,,No
 Cote d'Ivoire,2020-01-23,,,No
 Cote d'Ivoire,2020-01-24,,,No
@@ -16275,6 +16367,7 @@ Cote d'Ivoire,2020-07-11,74880,lau,No
 Cote d'Ivoire,2020-07-12,76250,lau,No
 Cote d'Ivoire,2020-07-13,77384,lau,No
 Cote d'Ivoire,2020-07-14,78066,lau,No
+Cote d'Ivoire,2020-07-15,79895,lau,No
 Croatia,2020-01-22,,,No
 Croatia,2020-01-23,,,No
 Croatia,2020-01-24,,,No
@@ -16449,7 +16542,8 @@ Croatia,2020-07-10,91486,owid/roser,No
 Croatia,2020-07-11,92808,owid/roser,No
 Croatia,2020-07-12,93571,owid/roser,No
 Croatia,2020-07-13,94175,owid/roser,No
-Croatia,2020-07-14,94227,,Yes
+Croatia,2020-07-14,95009,,Yes
+Croatia,2020-07-15,95920,worldometers,No
 Cuba,2020-01-22,,,No
 Cuba,2020-01-23,,,No
 Cuba,2020-01-24,,,No
@@ -16623,8 +16717,9 @@ Cuba,2020-07-09,198675,owid/roser,No
 Cuba,2020-07-10,202014,owid/roser,No
 Cuba,2020-07-11,205120,owid/roser,No
 Cuba,2020-07-12,208098,owid/roser,No
-Cuba,2020-07-13,208100,,Yes
-Cuba,2020-07-14,208104,,Yes
+Cuba,2020-07-13,209205,,Yes
+Cuba,2020-07-14,210315,,Yes
+Cuba,2020-07-15,211427,worldometers,No
 Cyprus,2020-01-22,,,No
 Cyprus,2020-01-23,,,No
 Cyprus,2020-01-24,,,No
@@ -16799,7 +16894,8 @@ Cyprus,2020-07-10,217380,lau,No
 Cyprus,2020-07-11,219424,,Yes
 Cyprus,2020-07-12,221475,lau,No
 Cyprus,2020-07-13,223497,lau,No
-Cyprus,2020-07-14,223498,,Yes
+Cyprus,2020-07-14,225804,lau,No
+Cyprus,2020-07-15,225806,,Yes
 Czechia,2020-01-22,,,No
 Czechia,2020-01-23,,,No
 Czechia,2020-01-24,,,No
@@ -16973,8 +17069,9 @@ Czechia,2020-07-09,589628,owid/roser,No
 Czechia,2020-07-10,594994,owid/roser,No
 Czechia,2020-07-11,597201,owid/roser,No
 Czechia,2020-07-12,598642,owid/roser,No
-Czechia,2020-07-13,598706,,Yes
-Czechia,2020-07-14,598809,,Yes
+Czechia,2020-07-13,599947,,Yes
+Czechia,2020-07-14,601293,,Yes
+Czechia,2020-07-15,602670,worldometers,No
 Denmark,2020-01-22,,,No
 Denmark,2020-01-23,,,No
 Denmark,2020-01-24,,,No
@@ -17150,6 +17247,7 @@ Denmark,2020-07-11,1218876,owid/roser,No
 Denmark,2020-07-12,1222188,owid/roser,No
 Denmark,2020-07-13,1233521,,Yes
 Denmark,2020-07-14,1244789,worldometers,No
+Denmark,2020-07-15,1257157,worldometers,No
 Denmark – Faroe Islands,2020-01-22,,,No
 Denmark – Faroe Islands,2020-01-23,,,No
 Denmark – Faroe Islands,2020-01-24,,,No
@@ -17325,6 +17423,7 @@ Denmark – Faroe Islands,2020-07-11,23142,lau,No
 Denmark – Faroe Islands,2020-07-12,23142,worldometers,No
 Denmark – Faroe Islands,2020-07-13,24704,lau,No
 Denmark – Faroe Islands,2020-07-14,24704,worldometers,No
+Denmark – Faroe Islands,2020-07-15,25276,lau,No
 Denmark – Greenland,2020-01-22,,,No
 Denmark – Greenland,2020-01-23,,,No
 Denmark – Greenland,2020-01-24,,,No
@@ -17500,6 +17599,7 @@ Denmark – Greenland,2020-07-11,4577,worldometers,No
 Denmark – Greenland,2020-07-12,4647,,Yes
 Denmark – Greenland,2020-07-13,4718,,Yes
 Denmark – Greenland,2020-07-14,4789,worldometers,No
+Denmark – Greenland,2020-07-15,4789,,Yes
 Diamond Princess,2020-01-22,,,No
 Diamond Princess,2020-01-23,,,No
 Diamond Princess,2020-01-24,,,No
@@ -17675,6 +17775,7 @@ Diamond Princess,2020-07-11,,,No
 Diamond Princess,2020-07-12,,,No
 Diamond Princess,2020-07-13,,,No
 Diamond Princess,2020-07-14,,,No
+Diamond Princess,2020-07-15,,,No
 Djibouti,2020-01-22,,,No
 Djibouti,2020-01-23,,,No
 Djibouti,2020-01-24,,,No
@@ -17850,6 +17951,7 @@ Djibouti,2020-07-11,50542,worldometers,No
 Djibouti,2020-07-12,50626,,Yes
 Djibouti,2020-07-13,50713,worldometers,No
 Djibouti,2020-07-14,51543,worldometers,No
+Djibouti,2020-07-15,51843,worldometers,No
 Dominica,2020-01-22,,,No
 Dominica,2020-01-23,,,No
 Dominica,2020-01-24,,,No
@@ -18025,6 +18127,7 @@ Dominica,2020-07-11,623,,Yes
 Dominica,2020-07-12,623,,Yes
 Dominica,2020-07-13,623,,Yes
 Dominica,2020-07-14,623,,Yes
+Dominica,2020-07-15,623,,Yes
 Dominican Republic,2020-01-22,,,No
 Dominican Republic,2020-01-23,,,No
 Dominican Republic,2020-01-24,,,No
@@ -18198,8 +18301,9 @@ Dominican Republic,2020-07-09,182263,lau,No
 Dominican Republic,2020-07-10,185853,lau,No
 Dominican Republic,2020-07-11,189391,lau,No
 Dominican Republic,2020-07-12,192360,lau,No
-Dominican Republic,2020-07-13,193334,,Yes
-Dominican Republic,2020-07-14,194133,,Yes
+Dominican Republic,2020-07-13,194461,lau,No
+Dominican Republic,2020-07-14,198496,lau,No
+Dominican Republic,2020-07-15,199862,,Yes
 Ecuador,2020-01-22,,,No
 Ecuador,2020-01-23,,,No
 Ecuador,2020-01-24,,,No
@@ -18374,7 +18478,8 @@ Ecuador,2020-07-10,134811,owid/roser,No
 Ecuador,2020-07-11,137802,,Yes
 Ecuador,2020-07-12,139271,owid/roser,No
 Ecuador,2020-07-13,182523,worldometers,No
-Ecuador,2020-07-14,183634,,Yes
+Ecuador,2020-07-14,184871,,Yes
+Ecuador,2020-07-15,186879,worldometers,No
 Egypt,2020-01-22,,,No
 Egypt,2020-01-23,,,No
 Egypt,2020-01-24,,,No
@@ -18550,6 +18655,7 @@ Egypt,2020-07-11,204439,,Yes
 Egypt,2020-07-12,205351,,Yes
 Egypt,2020-07-13,206282,,Yes
 Egypt,2020-07-14,207211,,Yes
+Egypt,2020-07-15,208124,,Yes
 El Salvador,2020-01-22,,,No
 El Salvador,2020-01-23,,,No
 El Salvador,2020-01-24,,,No
@@ -18725,6 +18831,7 @@ El Salvador,2020-07-11,190534,,Yes
 El Salvador,2020-07-12,191358,,Yes
 El Salvador,2020-07-13,192206,worldometers,No
 El Salvador,2020-07-14,194655,worldometers,No
+El Salvador,2020-07-15,197151,worldometers,No
 Equatorial Guinea,2020-01-22,,,No
 Equatorial Guinea,2020-01-23,,,No
 Equatorial Guinea,2020-01-24,,,No
@@ -18900,6 +19007,7 @@ Equatorial Guinea,2020-07-11,17407,,Yes
 Equatorial Guinea,2020-07-12,17407,,Yes
 Equatorial Guinea,2020-07-13,17407,,Yes
 Equatorial Guinea,2020-07-14,17407,,Yes
+Equatorial Guinea,2020-07-15,17407,,Yes
 Eritrea,2020-01-22,,,No
 Eritrea,2020-01-23,,,No
 Eritrea,2020-01-24,,,No
@@ -19075,6 +19183,7 @@ Eritrea,2020-07-11,,,No
 Eritrea,2020-07-12,,,No
 Eritrea,2020-07-13,,,No
 Eritrea,2020-07-14,,,No
+Eritrea,2020-07-15,,,No
 Estonia,2020-01-22,,,No
 Estonia,2020-01-23,,,No
 Estonia,2020-01-24,,,No
@@ -19248,8 +19357,9 @@ Estonia,2020-07-09,111463,owid/roser,No
 Estonia,2020-07-10,111802,owid/roser,No
 Estonia,2020-07-11,111955,owid/roser,No
 Estonia,2020-07-12,112175,owid/roser,No
-Estonia,2020-07-13,112175,,Yes
-Estonia,2020-07-14,112176,,Yes
+Estonia,2020-07-13,112313,,Yes
+Estonia,2020-07-14,112453,,Yes
+Estonia,2020-07-15,112594,worldometers,No
 Eswatini,2020-01-22,,,No
 Eswatini,2020-01-23,,,No
 Eswatini,2020-01-24,,,No
@@ -19425,6 +19535,7 @@ Eswatini,2020-07-11,16164,,Yes
 Eswatini,2020-07-12,16625,,Yes
 Eswatini,2020-07-13,17087,,Yes
 Eswatini,2020-07-14,17559,worldometers,No
+Eswatini,2020-07-15,17614,,Yes
 Ethiopia,2020-01-22,,,No
 Ethiopia,2020-01-23,,,No
 Ethiopia,2020-01-24,,,No
@@ -19600,6 +19711,7 @@ Ethiopia,2020-07-11,285628,wiki,No
 Ethiopia,2020-07-12,285786,,Yes
 Ethiopia,2020-07-13,285992,,Yes
 Ethiopia,2020-07-14,286195,,Yes
+Ethiopia,2020-07-15,286407,,Yes
 Fiji,2020-01-22,,,No
 Fiji,2020-01-23,,,No
 Fiji,2020-01-24,,,No
@@ -19775,6 +19887,7 @@ Fiji,2020-07-11,5621,,Yes
 Fiji,2020-07-12,5621,,Yes
 Fiji,2020-07-13,5621,,Yes
 Fiji,2020-07-14,5621,,Yes
+Fiji,2020-07-15,5621,,Yes
 Finland,2020-01-22,,,No
 Finland,2020-01-23,,,No
 Finland,2020-01-24,,,No
@@ -19950,6 +20063,7 @@ Finland,2020-07-11,278862,owid/roser,No
 Finland,2020-07-12,281993,,Yes
 Finland,2020-07-13,285123,,Yes
 Finland,2020-07-14,288258,wiki,No
+Finland,2020-07-15,288258,,Yes
 France,2020-01-22,,,No
 France,2020-01-23,,,No
 France,2020-01-24,,,No
@@ -20125,6 +20239,7 @@ France,2020-07-11,2758204,,Yes
 France,2020-07-12,2758204,,Yes
 France,2020-07-13,2759325,,Yes
 France,2020-07-14,2759325,,Yes
+France,2020-07-15,2760092,,Yes
 France – French Guiana,2020-01-22,,,No
 France – French Guiana,2020-01-23,,,No
 France – French Guiana,2020-01-24,,,No
@@ -20300,6 +20415,7 @@ France – French Guiana,2020-07-11,11569,,Yes
 France – French Guiana,2020-07-12,11569,,Yes
 France – French Guiana,2020-07-13,11790,,Yes
 France – French Guiana,2020-07-14,11849,,Yes
+France – French Guiana,2020-07-15,11919,,Yes
 France – French Polynesia,2020-01-22,,,No
 France – French Polynesia,2020-01-23,,,No
 France – French Polynesia,2020-01-24,,,No
@@ -20475,6 +20591,7 @@ France – French Polynesia,2020-07-11,4898,,Yes
 France – French Polynesia,2020-07-12,4898,,Yes
 France – French Polynesia,2020-07-13,4898,,Yes
 France – French Polynesia,2020-07-14,4898,,Yes
+France – French Polynesia,2020-07-15,4898,,Yes
 France – Guadeloupe,2020-01-22,,,No
 France – Guadeloupe,2020-01-23,,,No
 France – Guadeloupe,2020-01-24,,,No
@@ -20650,6 +20767,7 @@ France – Guadeloupe,2020-07-11,11538,worldometers,No
 France – Guadeloupe,2020-07-12,11538,,Yes
 France – Guadeloupe,2020-07-13,11538,,Yes
 France – Guadeloupe,2020-07-14,11538,,Yes
+France – Guadeloupe,2020-07-15,11538,,Yes
 France – Martinique,2020-01-22,,,No
 France – Martinique,2020-01-23,,,No
 France – Martinique,2020-01-24,,,No
@@ -20825,6 +20943,7 @@ France – Martinique,2020-07-11,4755,,Yes
 France – Martinique,2020-07-12,4755,,Yes
 France – Martinique,2020-07-13,4755,,Yes
 France – Martinique,2020-07-14,4755,,Yes
+France – Martinique,2020-07-15,4755,,Yes
 France – Mayotte,2020-01-22,,,No
 France – Mayotte,2020-01-23,,,No
 France – Mayotte,2020-01-24,,,No
@@ -20995,11 +21114,12 @@ France – Mayotte,2020-07-06,12398,,Yes
 France – Mayotte,2020-07-07,12500,lau,No
 France – Mayotte,2020-07-08,12742,,Yes
 France – Mayotte,2020-07-09,13000,lau,No
-France – Mayotte,2020-07-10,13009,,Yes
-France – Mayotte,2020-07-11,13009,,Yes
-France – Mayotte,2020-07-12,13009,,Yes
-France – Mayotte,2020-07-13,13022,,Yes
-France – Mayotte,2020-07-14,13022,,Yes
+France – Mayotte,2020-07-10,13068,,Yes
+France – Mayotte,2020-07-11,13128,,Yes
+France – Mayotte,2020-07-12,13188,,Yes
+France – Mayotte,2020-07-13,13260,,Yes
+France – Mayotte,2020-07-14,13320,,Yes
+France – Mayotte,2020-07-15,13400,lau,No
 France – New Caledonia,2020-01-22,,,No
 France – New Caledonia,2020-01-23,,,No
 France – New Caledonia,2020-01-24,,,No
@@ -21175,6 +21295,7 @@ France – New Caledonia,2020-07-11,9045,worldometers,No
 France – New Caledonia,2020-07-12,9124,worldometers,No
 France – New Caledonia,2020-07-13,9171,,Yes
 France – New Caledonia,2020-07-14,9218,worldometers,No
+France – New Caledonia,2020-07-15,9219,,Yes
 France – Reunion,2020-01-22,,,No
 France – Reunion,2020-01-23,,,No
 France – Reunion,2020-01-24,,,No
@@ -21350,6 +21471,7 @@ France – Reunion,2020-07-11,35468,,Yes
 France – Reunion,2020-07-12,35484,,Yes
 France – Reunion,2020-07-13,35487,,Yes
 France – Reunion,2020-07-14,35490,,Yes
+France – Reunion,2020-07-15,35499,,Yes
 France – Saint Barthelemy,2020-01-22,,,No
 France – Saint Barthelemy,2020-01-23,,,No
 France – Saint Barthelemy,2020-01-24,,,No
@@ -21525,6 +21647,7 @@ France – Saint Barthelemy,2020-07-11,507,,Yes
 France – Saint Barthelemy,2020-07-12,507,,Yes
 France – Saint Barthelemy,2020-07-13,507,,Yes
 France – Saint Barthelemy,2020-07-14,507,,Yes
+France – Saint Barthelemy,2020-07-15,507,,Yes
 France – Saint Pierre and Miquelon,2020-01-22,,,No
 France – Saint Pierre and Miquelon,2020-01-23,,,No
 France – Saint Pierre and Miquelon,2020-01-24,,,No
@@ -21700,6 +21823,7 @@ France – Saint Pierre and Miquelon,2020-07-11,,,No
 France – Saint Pierre and Miquelon,2020-07-12,,,No
 France – Saint Pierre and Miquelon,2020-07-13,,,No
 France – Saint Pierre and Miquelon,2020-07-14,,,No
+France – Saint Pierre and Miquelon,2020-07-15,,,No
 France – St Martin,2020-01-22,,,No
 France – St Martin,2020-01-23,,,No
 France – St Martin,2020-01-24,,,No
@@ -21875,6 +21999,7 @@ France – St Martin,2020-07-11,851,,Yes
 France – St Martin,2020-07-12,851,,Yes
 France – St Martin,2020-07-13,851,,Yes
 France – St Martin,2020-07-14,851,,Yes
+France – St Martin,2020-07-15,851,,Yes
 Gabon,2020-01-22,,,No
 Gabon,2020-01-23,,,No
 Gabon,2020-01-24,,,No
@@ -22050,6 +22175,7 @@ Gabon,2020-07-11,46725,worldometers,No
 Gabon,2020-07-12,47737,,Yes
 Gabon,2020-07-13,48838,,Yes
 Gabon,2020-07-14,49853,worldometers,No
+Gabon,2020-07-15,49948,,Yes
 Gambia,2020-01-22,,,No
 Gambia,2020-01-23,,,No
 Gambia,2020-01-24,,,No
@@ -22225,6 +22351,7 @@ Gambia,2020-07-11,3573,,Yes
 Gambia,2020-07-12,3573,,Yes
 Gambia,2020-07-13,3573,,Yes
 Gambia,2020-07-14,3573,,Yes
+Gambia,2020-07-15,3573,,Yes
 Georgia,2020-01-22,,,No
 Georgia,2020-01-23,,,No
 Georgia,2020-01-24,,,No
@@ -22400,6 +22527,7 @@ Georgia,2020-07-11,147209,lau,No
 Georgia,2020-07-12,150917,lau,No
 Georgia,2020-07-13,152847,lau,No
 Georgia,2020-07-14,160824,lau,No
+Georgia,2020-07-15,160829,,Yes
 Germany,2020-01-22,,,No
 Germany,2020-01-23,,,No
 Germany,2020-01-24,,,No
@@ -22575,6 +22703,7 @@ Germany,2020-07-11,6378240,,Yes
 Germany,2020-07-12,6378450,,Yes
 Germany,2020-07-13,6378711,,Yes
 Germany,2020-07-14,6378987,,Yes
+Germany,2020-07-15,6379421,,Yes
 Ghana,2020-01-22,,,No
 Ghana,2020-01-23,,,No
 Ghana,2020-01-24,,,No
@@ -22750,6 +22879,7 @@ Ghana,2020-07-11,329749,,Yes
 Ghana,2020-07-12,330311,,Yes
 Ghana,2020-07-13,331074,,Yes
 Ghana,2020-07-14,331366,worldometers,No
+Ghana,2020-07-15,331808,,Yes
 Greece,2020-01-22,,,No
 Greece,2020-01-23,,,No
 Greece,2020-01-24,,,No
@@ -22924,7 +23054,8 @@ Greece,2020-07-10,363412,owid/roser,No
 Greece,2020-07-11,371167,owid/roser,No
 Greece,2020-07-12,373932,owid/roser,No
 Greece,2020-07-13,382452,owid/roser,No
-Greece,2020-07-14,382509,,Yes
+Greece,2020-07-14,384394,,Yes
+Greece,2020-07-15,386307,worldometers,No
 Grenada,2020-01-22,,,No
 Grenada,2020-01-23,,,No
 Grenada,2020-01-24,,,No
@@ -23100,6 +23231,7 @@ Grenada,2020-07-11,5465,,Yes
 Grenada,2020-07-12,5465,,Yes
 Grenada,2020-07-13,5465,,Yes
 Grenada,2020-07-14,5465,,Yes
+Grenada,2020-07-15,5465,,Yes
 Guatemala,2020-01-22,,,No
 Guatemala,2020-01-23,,,No
 Guatemala,2020-01-24,,,No
@@ -23275,6 +23407,7 @@ Guatemala,2020-07-11,71895,,Yes
 Guatemala,2020-07-12,72652,,Yes
 Guatemala,2020-07-13,73039,,Yes
 Guatemala,2020-07-14,74169,,Yes
+Guatemala,2020-07-15,75371,,Yes
 Guinea,2020-01-22,,,No
 Guinea,2020-01-23,,,No
 Guinea,2020-01-24,,,No
@@ -23450,6 +23583,7 @@ Guinea,2020-07-11,17176,,Yes
 Guinea,2020-07-12,17273,,Yes
 Guinea,2020-07-13,17273,,Yes
 Guinea,2020-07-14,17332,,Yes
+Guinea,2020-07-15,17408,,Yes
 Guinea-Bissau,2020-01-22,,,No
 Guinea-Bissau,2020-01-23,,,No
 Guinea-Bissau,2020-01-24,,,No
@@ -23625,6 +23759,7 @@ Guinea-Bissau,2020-07-11,3306,,Yes
 Guinea-Bissau,2020-07-12,3306,,Yes
 Guinea-Bissau,2020-07-13,3306,,Yes
 Guinea-Bissau,2020-07-14,3306,,Yes
+Guinea-Bissau,2020-07-15,3306,,Yes
 Guyana,2020-01-22,,,No
 Guyana,2020-01-23,,,No
 Guyana,2020-01-24,,,No
@@ -23799,7 +23934,8 @@ Guyana,2020-07-10,3112,lau,No
 Guyana,2020-07-11,3179,,Yes
 Guyana,2020-07-12,3252,lau,No
 Guyana,2020-07-13,3330,lau,No
-Guyana,2020-07-14,3338,,Yes
+Guyana,2020-07-14,3379,lau,No
+Guyana,2020-07-15,3384,,Yes
 Haiti,2020-01-22,,,No
 Haiti,2020-01-23,,,No
 Haiti,2020-01-24,,,No
@@ -23975,6 +24111,7 @@ Haiti,2020-07-11,14176,worldometers,No
 Haiti,2020-07-12,14438,worldometers,No
 Haiti,2020-07-13,14544,worldometers,No
 Haiti,2020-07-14,14544,,Yes
+Haiti,2020-07-15,14648,,Yes
 Holy See,2020-01-22,,,No
 Holy See,2020-01-23,,,No
 Holy See,2020-01-24,,,No
@@ -24150,6 +24287,7 @@ Holy See,2020-07-11,,,No
 Holy See,2020-07-12,,,No
 Holy See,2020-07-13,,,No
 Holy See,2020-07-14,,,No
+Holy See,2020-07-15,,,No
 Honduras,2020-01-22,,,No
 Honduras,2020-01-23,,,No
 Honduras,2020-01-24,,,No
@@ -24324,7 +24462,8 @@ Honduras,2020-07-10,57543,,Yes
 Honduras,2020-07-11,58073,,Yes
 Honduras,2020-07-12,58580,,Yes
 Honduras,2020-07-13,59069,,Yes
-Honduras,2020-07-14,59069,,Yes
+Honduras,2020-07-14,59596,,Yes
+Honduras,2020-07-15,60526,,Yes
 Hungary,2020-01-22,,,No
 Hungary,2020-01-23,,,No
 Hungary,2020-01-24,,,No
@@ -24499,7 +24638,8 @@ Hungary,2020-07-10,292037,owid/roser,No
 Hungary,2020-07-11,293220,owid/roser,No
 Hungary,2020-07-12,294425,owid/roser,No
 Hungary,2020-07-13,295561,owid/roser,No
-Hungary,2020-07-14,295572,,Yes
+Hungary,2020-07-14,295962,,Yes
+Hungary,2020-07-15,296358,worldometers,No
 Iceland,2020-01-22,,,No
 Iceland,2020-01-23,,,No
 Iceland,2020-01-24,,,No
@@ -24672,9 +24812,10 @@ Iceland,2020-07-08,67377,owid/roser,No
 Iceland,2020-07-09,67518,owid/roser,No
 Iceland,2020-07-10,67729,owid/roser,No
 Iceland,2020-07-11,67792,owid/roser,No
-Iceland,2020-07-12,67800,,Yes
-Iceland,2020-07-13,67804,,Yes
-Iceland,2020-07-14,67809,,Yes
+Iceland,2020-07-12,77022,,Yes
+Iceland,2020-07-13,86250,,Yes
+Iceland,2020-07-14,95480,,Yes
+Iceland,2020-07-15,104713,worldometers,No
 India,2020-01-22,,,No
 India,2020-01-23,,,No
 India,2020-01-24,,,No
@@ -24850,6 +24991,7 @@ India,2020-07-11,11307002,owid/roser,No
 India,2020-07-12,11587153,owid/roser,No
 India,2020-07-13,11806256,owid/roser,No
 India,2020-07-14,12092503,wiki,No
+India,2020-07-15,12412664,worldometers,No
 Indonesia,2020-01-22,,,No
 Indonesia,2020-01-23,,,No
 Indonesia,2020-01-24,,,No
@@ -25025,6 +25167,7 @@ Indonesia,2020-07-11,610093,owid/roser,No
 Indonesia,2020-07-12,621087,owid/roser,No
 Indonesia,2020-07-13,630149,owid/roser,No
 Indonesia,2020-07-14,1074467,worldometers,No
+Indonesia,2020-07-15,1097468,worldometers,No
 Iran,2020-01-22,,,No
 Iran,2020-01-23,,,No
 Iran,2020-01-24,,,No
@@ -25199,7 +25342,8 @@ Iran,2020-07-10,1922501,owid/roser,No
 Iran,2020-07-11,1947114,owid/roser,No
 Iran,2020-07-12,1972207,owid/roser,No
 Iran,2020-07-13,1997967,owid/roser,No
-Iran,2020-07-14,2000488,,Yes
+Iran,2020-07-14,2010577,,Yes
+Iran,2020-07-15,2023079,worldometers,No
 Iraq,2020-01-22,,,No
 Iraq,2020-01-23,,,No
 Iraq,2020-01-24,,,No
@@ -25374,7 +25518,8 @@ Iraq,2020-07-10,661090,lau,No
 Iraq,2020-07-11,671478,lau,No
 Iraq,2020-07-12,682632,lau,No
 Iraq,2020-07-13,698012,lau,No
-Iraq,2020-07-14,700034,,Yes
+Iraq,2020-07-14,713552,lau,No
+Iraq,2020-07-15,728737,lau,No
 Ireland,2020-01-22,,,No
 Ireland,2020-01-23,,,No
 Ireland,2020-01-24,,,No
@@ -25549,7 +25694,8 @@ Ireland,2020-07-10,491649,owid/roser,No
 Ireland,2020-07-11,500578,owid/roser,No
 Ireland,2020-07-12,509295,owid/roser,No
 Ireland,2020-07-13,516958,owid/roser,No
-Ireland,2020-07-14,516990,,Yes
+Ireland,2020-07-14,520126,,Yes
+Ireland,2020-07-15,523277,worldometers,No
 Israel,2020-01-22,,,No
 Israel,2020-01-23,,,No
 Israel,2020-01-24,,,No
@@ -25725,6 +25871,7 @@ Israel,2020-07-11,1230258,,Yes
 Israel,2020-07-12,1268489,wiki,No
 Israel,2020-07-13,1294506,,Yes
 Israel,2020-07-14,1320355,wiki,No
+Israel,2020-07-15,1322183,,Yes
 Italy,2020-01-22,,,No
 Italy,2020-01-23,,,No
 Italy,2020-01-24,,,No
@@ -25900,6 +26047,7 @@ Italy,2020-07-11,5900552,owid/roser,No
 Italy,2020-07-12,5938811,owid/roser,No
 Italy,2020-07-13,5962744,owid/roser,No
 Italy,2020-07-14,6004611,wiki,No
+Italy,2020-07-15,6004773,,Yes
 Jamaica,2020-01-22,,,No
 Jamaica,2020-01-23,,,No
 Jamaica,2020-01-24,,,No
@@ -26075,6 +26223,7 @@ Jamaica,2020-07-11,27836,worldometers,No
 Jamaica,2020-07-12,28088,worldometers,No
 Jamaica,2020-07-13,28219,worldometers,No
 Jamaica,2020-07-14,28453,worldometers,No
+Jamaica,2020-07-15,28603,worldometers,No
 Japan,2020-01-22,,,No
 Japan,2020-01-23,,,No
 Japan,2020-01-24,,,No
@@ -26250,6 +26399,7 @@ Japan,2020-07-11,774017,owid/roser,No
 Japan,2020-07-12,779105,,Yes
 Japan,2020-07-13,784070,wiki,No
 Japan,2020-07-14,784382,,Yes
+Japan,2020-07-15,785117,,Yes
 Jordan,2020-01-22,,,No
 Jordan,2020-01-23,,,No
 Jordan,2020-01-24,,,No
@@ -26425,6 +26575,7 @@ Jordan,2020-07-11,460314,,Yes
 Jordan,2020-07-12,466055,lau,No
 Jordan,2020-07-13,471801,lau,No
 Jordan,2020-07-14,477448,lau,No
+Jordan,2020-07-15,483111,lau,No
 Kazakhstan,2020-01-22,,,No
 Kazakhstan,2020-01-23,,,No
 Kazakhstan,2020-01-24,,,No
@@ -26600,6 +26751,7 @@ Kazakhstan,2020-07-11,1698862,,Yes
 Kazakhstan,2020-07-12,1701341,,Yes
 Kazakhstan,2020-07-13,1707337,worldometers,No
 Kazakhstan,2020-07-14,1719295,worldometers,No
+Kazakhstan,2020-07-15,1737546,worldometers,No
 Kenya,2020-01-22,,,No
 Kenya,2020-01-23,,,No
 Kenya,2020-01-24,,,No
@@ -26775,6 +26927,7 @@ Kenya,2020-07-11,207234,,Yes
 Kenya,2020-07-12,207987,worldometers,No
 Kenya,2020-07-13,215037,worldometers,No
 Kenya,2020-07-14,216242,worldometers,No
+Kenya,2020-07-15,221234,worldometers,No
 Kosovo,2020-01-22,,,No
 Kosovo,2020-01-23,,,No
 Kosovo,2020-01-24,,,No
@@ -26950,6 +27103,7 @@ Kosovo,2020-07-11,27251,lau,No
 Kosovo,2020-07-12,27744,lau,No
 Kosovo,2020-07-13,28168,lau,No
 Kosovo,2020-07-14,28592,lau,No
+Kosovo,2020-07-15,29012,lau,No
 Kuwait,2020-01-22,,,No
 Kuwait,2020-01-23,,,No
 Kuwait,2020-01-24,,,No
@@ -27124,7 +27278,8 @@ Kuwait,2020-07-10,427006,owid/roser,No
 Kuwait,2020-07-11,429501,owid/roser,No
 Kuwait,2020-07-12,433336,owid/roser,No
 Kuwait,2020-07-13,437422,owid/roser,No
-Kuwait,2020-07-14,438088,,Yes
+Kuwait,2020-07-14,439262,,Yes
+Kuwait,2020-07-15,441143,worldometers,No
 Kyrgyzstan,2020-01-22,,,No
 Kyrgyzstan,2020-01-23,,,No
 Kyrgyzstan,2020-01-24,,,No
@@ -27300,6 +27455,7 @@ Kyrgyzstan,2020-07-11,241160,lau,No
 Kyrgyzstan,2020-07-12,243639,lau,No
 Kyrgyzstan,2020-07-13,245095,lau,No
 Kyrgyzstan,2020-07-14,248190,lau,No
+Kyrgyzstan,2020-07-15,251285,lau,No
 Laos,2020-01-22,,,No
 Laos,2020-01-23,,,No
 Laos,2020-01-24,,,No
@@ -27475,6 +27631,7 @@ Laos,2020-07-11,20088,worldometers,No
 Laos,2020-07-12,20226,worldometers,No
 Laos,2020-07-13,20339,,Yes
 Laos,2020-07-14,20454,worldometers,No
+Laos,2020-07-15,20769,worldometers,No
 Latvia,2020-01-22,,,No
 Latvia,2020-01-23,,,No
 Latvia,2020-01-24,,,No
@@ -27650,6 +27807,7 @@ Latvia,2020-07-11,167480,owid/roser,No
 Latvia,2020-07-12,168947,owid/roser,No
 Latvia,2020-07-13,169943,owid/roser,No
 Latvia,2020-07-14,169943,worldometers,No
+Latvia,2020-07-15,172078,worldometers,No
 Lebanon,2020-01-22,,,No
 Lebanon,2020-01-23,,,No
 Lebanon,2020-01-24,,,No
@@ -27825,6 +27983,7 @@ Lebanon,2020-07-11,164616,worldometers,No
 Lebanon,2020-07-12,171444,worldometers,No
 Lebanon,2020-07-13,175327,worldometers,No
 Lebanon,2020-07-14,178945,worldometers,No
+Lebanon,2020-07-15,184425,worldometers,No
 Lesotho,2020-01-22,,,No
 Lesotho,2020-01-23,,,No
 Lesotho,2020-01-24,,,No
@@ -28000,6 +28159,7 @@ Lesotho,2020-07-11,5206,worldometers,No
 Lesotho,2020-07-12,5450,,Yes
 Lesotho,2020-07-13,5659,worldometers,No
 Lesotho,2020-07-14,5849,worldometers,No
+Lesotho,2020-07-15,6033,worldometers,No
 Liberia,2020-01-22,,,No
 Liberia,2020-01-23,,,No
 Liberia,2020-01-24,,,No
@@ -28175,6 +28335,7 @@ Liberia,2020-07-11,,,No
 Liberia,2020-07-12,,,No
 Liberia,2020-07-13,,,No
 Liberia,2020-07-14,,,No
+Liberia,2020-07-15,,,No
 Libya,2020-01-22,,,No
 Libya,2020-01-23,,,No
 Libya,2020-01-24,,,No
@@ -28350,6 +28511,7 @@ Libya,2020-07-11,33734,worldometers,No
 Libya,2020-07-12,34060,,Yes
 Libya,2020-07-13,34423,worldometers,No
 Libya,2020-07-14,35695,worldometers,No
+Libya,2020-07-15,36524,worldometers,No
 Liechtenstein,2020-01-22,,,No
 Liechtenstein,2020-01-23,,,No
 Liechtenstein,2020-01-24,,,No
@@ -28525,6 +28687,7 @@ Liechtenstein,2020-07-11,1716,,Yes
 Liechtenstein,2020-07-12,1716,,Yes
 Liechtenstein,2020-07-13,1716,,Yes
 Liechtenstein,2020-07-14,1716,,Yes
+Liechtenstein,2020-07-15,1716,,Yes
 Lithuania,2020-01-22,,,No
 Lithuania,2020-01-23,,,No
 Lithuania,2020-01-24,,,No
@@ -28699,7 +28862,8 @@ Lithuania,2020-07-10,455833,owid/roser,No
 Lithuania,2020-07-11,459404,worldometers,No
 Lithuania,2020-07-12,460534,,Yes
 Lithuania,2020-07-13,461666,owid/roser,No
-Lithuania,2020-07-14,461667,,Yes
+Lithuania,2020-07-14,463527,,Yes
+Lithuania,2020-07-15,465396,worldometers,No
 Luxembourg,2020-01-22,,,No
 Luxembourg,2020-01-23,,,No
 Luxembourg,2020-01-24,,,No
@@ -28874,7 +29038,8 @@ Luxembourg,2020-07-10,266437,owid/roser,No
 Luxembourg,2020-07-11,273866,owid/roser,No
 Luxembourg,2020-07-12,278388,owid/roser,No
 Luxembourg,2020-07-13,281431,owid/roser,No
-Luxembourg,2020-07-14,281531,,Yes
+Luxembourg,2020-07-14,287086,,Yes
+Luxembourg,2020-07-15,292711,worldometers,No
 MS Zaandam,2020-01-22,,,No
 MS Zaandam,2020-01-23,,,No
 MS Zaandam,2020-01-24,,,No
@@ -29050,6 +29215,7 @@ MS Zaandam,2020-07-11,,,No
 MS Zaandam,2020-07-12,,,No
 MS Zaandam,2020-07-13,,,No
 MS Zaandam,2020-07-14,,,No
+MS Zaandam,2020-07-15,,,No
 Madagascar,2020-01-22,,,No
 Madagascar,2020-01-23,,,No
 Madagascar,2020-01-24,,,No
@@ -29225,6 +29391,7 @@ Madagascar,2020-07-11,27504,worldometers,No
 Madagascar,2020-07-12,28388,worldometers,No
 Madagascar,2020-07-13,29053,worldometers,No
 Madagascar,2020-07-14,29539,worldometers,No
+Madagascar,2020-07-15,30100,worldometers,No
 Malawi,2020-01-22,,,No
 Malawi,2020-01-23,,,No
 Malawi,2020-01-24,,,No
@@ -29400,6 +29567,7 @@ Malawi,2020-07-11,19433,,Yes
 Malawi,2020-07-12,19969,,Yes
 Malawi,2020-07-13,20469,,Yes
 Malawi,2020-07-14,20974,worldometers,No
+Malawi,2020-07-15,21532,worldometers,No
 Malaysia,2020-01-22,,,No
 Malaysia,2020-01-23,,,No
 Malaysia,2020-01-24,,,No
@@ -29575,6 +29743,7 @@ Malaysia,2020-07-11,842476,owid/roser,No
 Malaysia,2020-07-12,847510,owid/roser,No
 Malaysia,2020-07-13,850423,owid/roser,No
 Malaysia,2020-07-14,850427,,Yes
+Malaysia,2020-07-15,850432,,Yes
 Maldives,2020-01-22,,,No
 Maldives,2020-01-23,,,No
 Maldives,2020-01-24,,,No
@@ -29749,7 +29918,8 @@ Maldives,2020-07-10,59981,owid/roser,No
 Maldives,2020-07-11,60217,owid/roser,No
 Maldives,2020-07-12,61819,owid/roser,No
 Maldives,2020-07-13,62767,owid/roser,No
-Maldives,2020-07-14,62806,,Yes
+Maldives,2020-07-14,63167,,Yes
+Maldives,2020-07-15,63559,worldometers,No
 Mali,2020-01-22,,,No
 Mali,2020-01-23,,,No
 Mali,2020-01-24,,,No
@@ -29925,6 +30095,7 @@ Mali,2020-07-11,16375,,Yes
 Mali,2020-07-12,16380,,Yes
 Mali,2020-07-13,16381,,Yes
 Mali,2020-07-14,16392,,Yes
+Mali,2020-07-15,16402,,Yes
 Malta,2020-01-22,,,No
 Malta,2020-01-23,,,No
 Malta,2020-01-24,,,No
@@ -30100,6 +30271,7 @@ Malta,2020-07-11,106400,lau,No
 Malta,2020-07-12,107200,lau,No
 Malta,2020-07-13,107600,lau,No
 Malta,2020-07-14,108600,lau,No
+Malta,2020-07-15,109500,lau,No
 Mauritania,2020-01-22,,,No
 Mauritania,2020-01-23,,,No
 Mauritania,2020-01-24,,,No
@@ -30275,6 +30447,7 @@ Mauritania,2020-07-11,17230,,Yes
 Mauritania,2020-07-12,17310,,Yes
 Mauritania,2020-07-13,17401,,Yes
 Mauritania,2020-07-14,17473,,Yes
+Mauritania,2020-07-15,17519,,Yes
 Mauritius,2020-01-22,,,No
 Mauritius,2020-01-23,,,No
 Mauritius,2020-01-24,,,No
@@ -30450,6 +30623,7 @@ Mauritius,2020-07-11,193561,,No
 Mauritius,2020-07-12,193561,,No
 Mauritius,2020-07-13,193561,,No
 Mauritius,2020-07-14,193561,wiki,No
+Mauritius,2020-07-15,204773,lau,No
 Mexico,2020-01-22,680,owid/roser,No
 Mexico,2020-01-23,726,owid/roser,No
 Mexico,2020-01-24,772,owid/roser,No
@@ -30625,6 +30799,7 @@ Mexico,2020-07-11,715295,worldometers,No
 Mexico,2020-07-12,723668,worldometers,No
 Mexico,2020-07-13,728484,worldometers,No
 Mexico,2020-07-14,739922,worldometers,No
+Mexico,2020-07-15,756137,worldometers,No
 Moldova,2020-01-22,,,No
 Moldova,2020-01-23,,,No
 Moldova,2020-01-24,,,No
@@ -30800,6 +30975,7 @@ Moldova,2020-07-11,102943,,Yes
 Moldova,2020-07-12,103117,,Yes
 Moldova,2020-07-13,103174,,Yes
 Moldova,2020-07-14,103443,,Yes
+Moldova,2020-07-15,103775,,Yes
 Monaco,2020-01-22,,,No
 Monaco,2020-01-23,,,No
 Monaco,2020-01-24,,,No
@@ -30975,6 +31151,7 @@ Monaco,2020-07-11,16210,,Yes
 Monaco,2020-07-12,16210,,Yes
 Monaco,2020-07-13,16210,,Yes
 Monaco,2020-07-14,16210,,Yes
+Monaco,2020-07-15,16210,,Yes
 Mongolia,2020-01-22,,,No
 Mongolia,2020-01-23,,,No
 Mongolia,2020-01-24,,,No
@@ -31150,6 +31327,7 @@ Mongolia,2020-07-11,27217,worldometers,No
 Mongolia,2020-07-12,27594,worldometers,No
 Mongolia,2020-07-13,27737,worldometers,No
 Mongolia,2020-07-14,27905,worldometers,No
+Mongolia,2020-07-15,28313,worldometers,No
 Montenegro,2020-01-22,,,No
 Montenegro,2020-01-23,,,No
 Montenegro,2020-01-24,,,No
@@ -31322,9 +31500,10 @@ Montenegro,2020-07-08,14999,,Yes
 Montenegro,2020-07-09,15226,worldometers,No
 Montenegro,2020-07-10,15618,worldometers,No
 Montenegro,2020-07-11,16183,worldometers,No
-Montenegro,2020-07-12,16240,,Yes
-Montenegro,2020-07-13,16306,,Yes
-Montenegro,2020-07-14,16306,,Yes
+Montenegro,2020-07-12,18397,,Yes
+Montenegro,2020-07-13,20639,,Yes
+Montenegro,2020-07-14,22805,,Yes
+Montenegro,2020-07-15,24972,worldometers,No
 Morocco,2020-01-22,,,No
 Morocco,2020-01-23,,,No
 Morocco,2020-01-24,,,No
@@ -31500,6 +31679,7 @@ Morocco,2020-07-11,864594,owid/roser,No
 Morocco,2020-07-12,878626,owid/roser,No
 Morocco,2020-07-13,896638,lau,No
 Morocco,2020-07-14,915140,lau,No
+Morocco,2020-07-15,934048,lau,No
 Mozambique,2020-01-22,,,No
 Mozambique,2020-01-23,,,No
 Mozambique,2020-01-24,,,No
@@ -31675,6 +31855,7 @@ Mozambique,2020-07-11,38010,worldometers,No
 Mozambique,2020-07-12,39091,worldometers,No
 Mozambique,2020-07-13,39948,worldometers,No
 Mozambique,2020-07-14,40861,worldometers,No
+Mozambique,2020-07-15,40923,,Yes
 Namibia,2020-01-22,,,No
 Namibia,2020-01-23,,,No
 Namibia,2020-01-24,,,No
@@ -31850,6 +32031,7 @@ Namibia,2020-07-11,12789,worldometers,No
 Namibia,2020-07-12,13411,,Yes
 Namibia,2020-07-13,13999,worldometers,No
 Namibia,2020-07-14,14698,worldometers,No
+Namibia,2020-07-15,15439,worldometers,No
 Nepal,2020-01-22,,,No
 Nepal,2020-01-23,,,No
 Nepal,2020-01-24,,,No
@@ -32025,6 +32207,7 @@ Nepal,2020-07-11,581765,,Yes
 Nepal,2020-07-12,588800,,Yes
 Nepal,2020-07-13,595917,worldometers,No
 Nepal,2020-07-14,601773,wiki,No
+Nepal,2020-07-15,601889,,Yes
 Netherlands,2020-01-22,,,No
 Netherlands,2020-01-23,,,No
 Netherlands,2020-01-24,,,No
@@ -32186,20 +32369,21 @@ Netherlands,2020-06-27,605256,,Yes
 Netherlands,2020-06-28,614372,owid/roser,No
 Netherlands,2020-06-29,623126,,Yes
 Netherlands,2020-06-30,631856,,Yes
-Netherlands,2020-07-01,640535,,Yes
-Netherlands,2020-07-02,649280,,Yes
-Netherlands,2020-07-03,657960,,Yes
-Netherlands,2020-07-04,666640,,Yes
+Netherlands,2020-07-01,640600,,Yes
+Netherlands,2020-07-02,649361,,Yes
+Netherlands,2020-07-03,658123,,Yes
+Netherlands,2020-07-04,666871,,Yes
 Netherlands,2020-07-05,675635,owid/roser,No
 Netherlands,2020-07-06,681931,owid/roser,No
-Netherlands,2020-07-07,681968,,Yes
-Netherlands,2020-07-08,682020,,Yes
-Netherlands,2020-07-09,682072,,Yes
-Netherlands,2020-07-10,682114,,Yes
-Netherlands,2020-07-11,682195,,Yes
-Netherlands,2020-07-12,682296,,Yes
-Netherlands,2020-07-13,682367,,Yes
-Netherlands,2020-07-14,682420,,Yes
+Netherlands,2020-07-07,691022,,Yes
+Netherlands,2020-07-08,700129,,Yes
+Netherlands,2020-07-09,709238,,Yes
+Netherlands,2020-07-10,718337,,Yes
+Netherlands,2020-07-11,727480,,Yes
+Netherlands,2020-07-12,736646,,Yes
+Netherlands,2020-07-13,745782,,Yes
+Netherlands,2020-07-14,754900,,Yes
+Netherlands,2020-07-15,764079,worldometers,No
 Netherlands – Aruba,2020-01-22,,,No
 Netherlands – Aruba,2020-01-23,,,No
 Netherlands – Aruba,2020-01-24,,,No
@@ -32375,6 +32559,7 @@ Netherlands – Aruba,2020-07-11,3051,,Yes
 Netherlands – Aruba,2020-07-12,3095,worldometers,No
 Netherlands – Aruba,2020-07-13,3398,,Yes
 Netherlands – Aruba,2020-07-14,3703,worldometers,No
+Netherlands – Aruba,2020-07-15,4012,worldometers,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-22,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-23,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-24,,,No
@@ -32550,6 +32735,7 @@ Netherlands – Aruba,2020-07-14,3703,worldometers,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-07-12,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-07-13,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-07-14,,,No
+"Netherlands – Bonaire, Sint Eustatius and Saba",2020-07-15,,,No
 Netherlands – Curacao,2020-01-22,,,No
 Netherlands – Curacao,2020-01-23,,,No
 Netherlands – Curacao,2020-01-24,,,No
@@ -32725,6 +32911,7 @@ Netherlands – Curacao,2020-07-11,1083,,Yes
 Netherlands – Curacao,2020-07-12,1083,,Yes
 Netherlands – Curacao,2020-07-13,1083,,Yes
 Netherlands – Curacao,2020-07-14,1083,,Yes
+Netherlands – Curacao,2020-07-15,1084,,Yes
 Netherlands – Sint Maarten,2020-01-22,,,No
 Netherlands – Sint Maarten,2020-01-23,,,No
 Netherlands – Sint Maarten,2020-01-24,,,No
@@ -32900,6 +33087,7 @@ Netherlands – Sint Maarten,2020-07-11,524,,Yes
 Netherlands – Sint Maarten,2020-07-12,524,,Yes
 Netherlands – Sint Maarten,2020-07-13,524,,Yes
 Netherlands – Sint Maarten,2020-07-14,524,,Yes
+Netherlands – Sint Maarten,2020-07-15,524,,Yes
 New Zealand,2020-01-22,,,No
 New Zealand,2020-01-23,,,No
 New Zealand,2020-01-24,,,No
@@ -33075,6 +33263,7 @@ New Zealand,2020-07-11,428600,owid/roser,No
 New Zealand,2020-07-12,429643,owid/roser,No
 New Zealand,2020-07-13,431263,lau,No
 New Zealand,2020-07-14,433324,lau,No
+New Zealand,2020-07-15,436223,lau,No
 Nicaragua,2020-01-22,,,No
 Nicaragua,2020-01-23,,,No
 Nicaragua,2020-01-24,,,No
@@ -33250,6 +33439,7 @@ Nicaragua,2020-07-11,,,No
 Nicaragua,2020-07-12,,,No
 Nicaragua,2020-07-13,,,No
 Nicaragua,2020-07-14,,,No
+Nicaragua,2020-07-15,,,No
 Niger,2020-01-22,,,No
 Niger,2020-01-23,,,No
 Niger,2020-01-24,,,No
@@ -33425,6 +33615,7 @@ Niger,2020-07-11,6636,worldometers,No
 Niger,2020-07-12,6643,,Yes
 Niger,2020-07-13,6650,,Yes
 Niger,2020-07-14,6658,worldometers,No
+Niger,2020-07-15,6659,,Yes
 Nigeria,2020-01-22,,,No
 Nigeria,2020-01-23,,,No
 Nigeria,2020-01-24,,,No
@@ -33599,7 +33790,8 @@ Nigeria,2020-07-10,175656,owid/roser,No
 Nigeria,2020-07-11,178265,owid/roser,No
 Nigeria,2020-07-12,181248,owid/roser,No
 Nigeria,2020-07-13,183294,owid/roser,No
-Nigeria,2020-07-14,183757,,Yes
+Nigeria,2020-07-14,184708,,Yes
+Nigeria,2020-07-15,186309,worldometers,No
 North Macedonia,2020-01-22,,,No
 North Macedonia,2020-01-23,,,No
 North Macedonia,2020-01-24,,,No
@@ -33774,7 +33966,8 @@ North Macedonia,2020-07-10,69284,lau,No
 North Macedonia,2020-07-11,70275,lau,No
 North Macedonia,2020-07-12,71248,lau,No
 North Macedonia,2020-07-13,72507,lau,No
-North Macedonia,2020-07-14,78133,worldometers,No
+North Macedonia,2020-07-14,73889,lau,No
+North Macedonia,2020-07-15,79392,worldometers,No
 Norway,2020-01-22,,,No
 Norway,2020-01-23,,,No
 Norway,2020-01-24,,,No
@@ -33950,6 +34143,7 @@ Norway,2020-07-11,360090,owid/roser,No
 Norway,2020-07-12,366749,,Yes
 Norway,2020-07-13,373408,,Yes
 Norway,2020-07-14,380082,worldometers,No
+Norway,2020-07-15,383149,worldometers,No
 Oman,2020-01-22,,,No
 Oman,2020-01-23,,,No
 Oman,2020-01-24,,,No
@@ -34125,6 +34319,7 @@ Oman,2020-07-11,235044,worldometers,No
 Oman,2020-07-12,236405,,Yes
 Oman,2020-07-13,238614,worldometers,No
 Oman,2020-07-14,244787,worldometers,No
+Oman,2020-07-15,246466,,Yes
 Pakistan,2020-01-22,,,No
 Pakistan,2020-01-23,,,No
 Pakistan,2020-01-24,,,No
@@ -34300,6 +34495,7 @@ Pakistan,2020-07-11,1538427,owid/roser,No
 Pakistan,2020-07-12,1562638,owid/roser,No
 Pakistan,2020-07-13,1585170,owid/roser,No
 Pakistan,2020-07-14,1606190,worldometers,No
+Pakistan,2020-07-15,1627939,worldometers,No
 Panama,2020-01-22,,,No
 Panama,2020-01-23,,,No
 Panama,2020-01-24,,,No
@@ -34474,7 +34670,8 @@ Panama,2020-07-10,155664,owid/roser,No
 Panama,2020-07-11,158570,owid/roser,No
 Panama,2020-07-12,162005,owid/roser,No
 Panama,2020-07-13,168517,wiki,No
-Panama,2020-07-14,169440,,Yes
+Panama,2020-07-14,169702,,Yes
+Panama,2020-07-15,171116,worldometers,No
 Papua New Guinea,2020-01-22,,,No
 Papua New Guinea,2020-01-23,,,No
 Papua New Guinea,2020-01-24,,,No
@@ -34650,6 +34847,7 @@ Papua New Guinea,2020-07-11,7147,,Yes
 Papua New Guinea,2020-07-12,7147,,Yes
 Papua New Guinea,2020-07-13,7147,,Yes
 Papua New Guinea,2020-07-14,7147,,Yes
+Papua New Guinea,2020-07-15,7147,,Yes
 Paraguay,2020-01-22,,,No
 Paraguay,2020-01-23,,,No
 Paraguay,2020-01-24,,,No
@@ -34825,6 +35023,7 @@ Paraguay,2020-07-11,88250,,Yes
 Paraguay,2020-07-12,89344,worldometers,No
 Paraguay,2020-07-13,91281,worldometers,No
 Paraguay,2020-07-14,94328,wiki,No
+Paraguay,2020-07-15,94452,,Yes
 Peru,2020-01-22,,,No
 Peru,2020-01-23,,,No
 Peru,2020-01-24,,,No
@@ -35000,6 +35199,7 @@ Peru,2020-07-11,1904242,wiki,No
 Peru,2020-07-12,1925231,wiki,No
 Peru,2020-07-13,1944572,,Yes
 Peru,2020-07-14,1963921,wiki,No
+Peru,2020-07-15,1967805,,Yes
 Philippines,2020-01-22,,,No
 Philippines,2020-01-23,,,No
 Philippines,2020-01-24,,,No
@@ -35175,6 +35375,7 @@ Philippines,2020-07-11,910924,owid/roser,No
 Philippines,2020-07-12,959684,worldometers,No
 Philippines,2020-07-13,978844,worldometers,No
 Philippines,2020-07-14,999439,worldometers,No
+Philippines,2020-07-15,1017723,worldometers,No
 Poland,2020-01-22,,,No
 Poland,2020-01-23,,,No
 Poland,2020-01-24,,,No
@@ -35350,6 +35551,7 @@ Poland,2020-07-11,1779643,owid/roser,No
 Poland,2020-07-12,1797612,owid/roser,No
 Poland,2020-07-13,1813365,owid/roser,No
 Poland,2020-07-14,1813632,,Yes
+Poland,2020-07-15,1813896,,Yes
 Portugal,2020-01-22,,,No
 Portugal,2020-01-23,,,No
 Portugal,2020-01-24,,,No
@@ -35525,6 +35727,7 @@ Portugal,2020-07-11,1316425,worldometers,No
 Portugal,2020-07-12,1331013,,Yes
 Portugal,2020-07-13,1345622,,Yes
 Portugal,2020-07-14,1360164,worldometers,No
+Portugal,2020-07-15,1366864,worldometers,No
 Qatar,2020-01-22,,,No
 Qatar,2020-01-23,,,No
 Qatar,2020-01-24,,,No
@@ -35699,7 +35902,8 @@ Qatar,2020-07-10,404868,owid/roser,No
 Qatar,2020-07-11,409199,owid/roser,No
 Qatar,2020-07-12,412682,owid/roser,No
 Qatar,2020-07-13,416327,lau,No
-Qatar,2020-07-14,416844,,Yes
+Qatar,2020-07-14,420649,lau,No
+Qatar,2020-07-15,424858,lau,No
 Romania,2020-01-22,,,No
 Romania,2020-01-23,,,No
 Romania,2020-01-24,,,No
@@ -35874,7 +36078,8 @@ Romania,2020-07-10,824343,owid/roser,No
 Romania,2020-07-11,838953,owid/roser,No
 Romania,2020-07-12,847586,owid/roser,No
 Romania,2020-07-13,854241,owid/roser,No
-Romania,2020-07-14,854878,,Yes
+Romania,2020-07-14,861352,,Yes
+Romania,2020-07-15,868478,worldometers,No
 Russia,2020-01-22,,,No
 Russia,2020-01-23,,,No
 Russia,2020-01-24,,,No
@@ -36049,7 +36254,8 @@ Russia,2020-07-10,22388195,owid/roser,No
 Russia,2020-07-11,22708416,owid/roser,No
 Russia,2020-07-12,23031056,owid/roser,No
 Russia,2020-07-13,23292630,owid/roser,No
-Russia,2020-07-14,23298870,,Yes
+Russia,2020-07-14,23394079,,Yes
+Russia,2020-07-15,23495752,worldometers,No
 Rwanda,2020-01-22,,,No
 Rwanda,2020-01-23,,,No
 Rwanda,2020-01-24,,,No
@@ -36224,7 +36430,8 @@ Rwanda,2020-07-10,176260,lau,No
 Rwanda,2020-07-11,180320,lau,No
 Rwanda,2020-07-12,183341,lau,No
 Rwanda,2020-07-13,186674,lau,No
-Rwanda,2020-07-14,186712,,Yes
+Rwanda,2020-07-14,192379,lau,No
+Rwanda,2020-07-15,194802,lau,No
 Saint Kitts and Nevis,2020-01-22,,,No
 Saint Kitts and Nevis,2020-01-23,,,No
 Saint Kitts and Nevis,2020-01-24,,,No
@@ -36400,6 +36607,7 @@ Saint Kitts and Nevis,2020-07-11,651,worldometers,No
 Saint Kitts and Nevis,2020-07-12,657,,Yes
 Saint Kitts and Nevis,2020-07-13,664,,Yes
 Saint Kitts and Nevis,2020-07-14,671,worldometers,No
+Saint Kitts and Nevis,2020-07-15,671,,Yes
 Saint Lucia,2020-01-22,,,No
 Saint Lucia,2020-01-23,,,No
 Saint Lucia,2020-01-24,,,No
@@ -36575,6 +36783,7 @@ Saint Lucia,2020-07-11,2002,worldometers,No
 Saint Lucia,2020-07-12,2017,,Yes
 Saint Lucia,2020-07-13,2032,,Yes
 Saint Lucia,2020-07-14,2048,worldometers,No
+Saint Lucia,2020-07-15,2048,,Yes
 Saint Vincent and the Grenadines,2020-01-22,,,No
 Saint Vincent and the Grenadines,2020-01-23,,,No
 Saint Vincent and the Grenadines,2020-01-24,,,No
@@ -36749,7 +36958,8 @@ Saint Vincent and the Grenadines,2020-07-10,1023,worldometers,No
 Saint Vincent and the Grenadines,2020-07-11,1079,,Yes
 Saint Vincent and the Grenadines,2020-07-12,1142,,Yes
 Saint Vincent and the Grenadines,2020-07-13,1199,worldometers,No
-Saint Vincent and the Grenadines,2020-07-14,1199,,Yes
+Saint Vincent and the Grenadines,2020-07-14,1206,,Yes
+Saint Vincent and the Grenadines,2020-07-15,1213,worldometers,No
 San Marino,2020-01-22,,,No
 San Marino,2020-01-23,,,No
 San Marino,2020-01-24,,,No
@@ -36925,6 +37135,7 @@ San Marino,2020-07-11,23146,,Yes
 San Marino,2020-07-12,23146,,Yes
 San Marino,2020-07-13,23146,,Yes
 San Marino,2020-07-14,23146,,Yes
+San Marino,2020-07-15,23146,,Yes
 Sao Tome and Principe,2020-01-22,,,No
 Sao Tome and Principe,2020-01-23,,,No
 Sao Tome and Principe,2020-01-24,,,No
@@ -37100,6 +37311,7 @@ Sao Tome and Principe,2020-07-11,1917,,Yes
 Sao Tome and Principe,2020-07-12,1937,worldometers,No
 Sao Tome and Principe,2020-07-13,1955,worldometers,No
 Sao Tome and Principe,2020-07-14,1973,worldometers,No
+Sao Tome and Principe,2020-07-15,1978,,Yes
 Saudi Arabia,2020-01-22,,,No
 Saudi Arabia,2020-01-23,,,No
 Saudi Arabia,2020-01-24,,,No
@@ -37275,6 +37487,7 @@ Saudi Arabia,2020-07-11,2217002,owid/roser,No
 Saudi Arabia,2020-07-12,2261431,owid/roser,No
 Saudi Arabia,2020-07-13,2327586,owid/roser,No
 Saudi Arabia,2020-07-14,2336874,worldometers,No
+Saudi Arabia,2020-07-15,2339545,,Yes
 Senegal,2020-01-22,,,No
 Senegal,2020-01-23,,,No
 Senegal,2020-01-24,,,No
@@ -37450,6 +37663,7 @@ Senegal,2020-07-11,89229,owid/roser,No
 Senegal,2020-07-12,90337,owid/roser,No
 Senegal,2020-07-13,91047,owid/roser,No
 Senegal,2020-07-14,91337,worldometers,No
+Senegal,2020-07-15,92101,worldometers,No
 Serbia,2020-01-22,,,No
 Serbia,2020-01-23,,,No
 Serbia,2020-01-24,,,No
@@ -37624,7 +37838,8 @@ Serbia,2020-07-10,480346,owid/roser,No
 Serbia,2020-07-11,487378,owid/roser,No
 Serbia,2020-07-12,491428,owid/roser,No
 Serbia,2020-07-13,498343,owid/roser,No
-Serbia,2020-07-14,498687,,Yes
+Serbia,2020-07-14,502666,,Yes
+Serbia,2020-07-15,507002,worldometers,No
 Seychelles,2020-01-22,,,No
 Seychelles,2020-01-23,,,No
 Seychelles,2020-01-24,,,No
@@ -37800,6 +38015,7 @@ Seychelles,2020-07-11,,,No
 Seychelles,2020-07-12,,,No
 Seychelles,2020-07-13,,,No
 Seychelles,2020-07-14,,,No
+Seychelles,2020-07-15,,,No
 Sierra Leone,2020-01-22,,,No
 Sierra Leone,2020-01-23,,,No
 Sierra Leone,2020-01-24,,,No
@@ -37975,6 +38191,7 @@ Sierra Leone,2020-07-11,1618,,Yes
 Sierra Leone,2020-07-12,1635,,Yes
 Sierra Leone,2020-07-13,1642,,Yes
 Sierra Leone,2020-07-14,1651,,Yes
+Sierra Leone,2020-07-15,1668,,Yes
 Singapore,2020-01-22,,,No
 Singapore,2020-01-23,,,No
 Singapore,2020-01-24,,,No
@@ -38142,14 +38359,15 @@ Singapore,2020-07-03,819863,,Yes
 Singapore,2020-07-04,835392,,Yes
 Singapore,2020-07-05,850873,,Yes
 Singapore,2020-07-06,866414,owid/roser,No
-Singapore,2020-07-07,866571,,Yes
-Singapore,2020-07-08,866729,,Yes
-Singapore,2020-07-09,866854,,Yes
-Singapore,2020-07-10,867045,,Yes
-Singapore,2020-07-11,867214,,Yes
-Singapore,2020-07-12,867392,,Yes
-Singapore,2020-07-13,867714,,Yes
-Singapore,2020-07-14,868061,,Yes
+Singapore,2020-07-07,882231,,Yes
+Singapore,2020-07-08,898054,,Yes
+Singapore,2020-07-09,913849,,Yes
+Singapore,2020-07-10,929719,,Yes
+Singapore,2020-07-11,945572,,Yes
+Singapore,2020-07-12,961441,,Yes
+Singapore,2020-07-13,977478,,Yes
+Singapore,2020-07-14,993556,,Yes
+Singapore,2020-07-15,1009532,worldometers,No
 Slovakia,2020-01-22,,,No
 Slovakia,2020-01-23,,,No
 Slovakia,2020-01-24,,,No
@@ -38325,6 +38543,7 @@ Slovakia,2020-07-11,228829,owid/roser,No
 Slovakia,2020-07-12,229789,owid/roser,No
 Slovakia,2020-07-13,230507,,Yes
 Slovakia,2020-07-14,231231,wiki,No
+Slovakia,2020-07-15,231250,,Yes
 Slovenia,2020-01-22,,,No
 Slovenia,2020-01-23,,,No
 Slovenia,2020-01-24,,,No
@@ -38500,6 +38719,7 @@ Slovenia,2020-07-11,114215,owid/roser,No
 Slovenia,2020-07-12,114665,owid/roser,No
 Slovenia,2020-07-13,117241,wiki,No
 Slovenia,2020-07-14,117251,,Yes
+Slovenia,2020-07-15,117270,,Yes
 Somalia,2020-01-22,,,No
 Somalia,2020-01-23,,,No
 Somalia,2020-01-24,,,No
@@ -38675,6 +38895,7 @@ Somalia,2020-07-11,,,No
 Somalia,2020-07-12,,,No
 Somalia,2020-07-13,,,No
 Somalia,2020-07-14,,,No
+Somalia,2020-07-15,,,No
 South Africa,2020-01-22,,,No
 South Africa,2020-01-23,,,No
 South Africa,2020-01-24,,,No
@@ -38850,6 +39071,7 @@ South Africa,2020-07-11,2108570,owid/roser,No
 South Africa,2020-07-12,2154391,owid/roser,No
 South Africa,2020-07-13,2174992,,Yes
 South Africa,2020-07-14,2194624,worldometers,No
+South Africa,2020-07-15,2232738,worldometers,No
 South Korea,2020-01-22,16,owid/roser,No
 South Korea,2020-01-23,19,,Yes
 South Korea,2020-01-24,25,owid/roser,No
@@ -39025,6 +39247,7 @@ South Korea,2020-07-11,1373414,owid/roser,No
 South Korea,2020-07-12,1379194,owid/roser,No
 South Korea,2020-07-13,1386467,owid/roser,No
 South Korea,2020-07-14,1420616,worldometers,No
+South Korea,2020-07-15,1431316,worldometers,No
 South Sudan,2020-01-22,,,No
 South Sudan,2020-01-23,,,No
 South Sudan,2020-01-24,,,No
@@ -39188,18 +39411,19 @@ South Sudan,2020-06-29,10508,,Yes
 South Sudan,2020-06-30,10586,,Yes
 South Sudan,2020-07-01,10660,worldometers,No
 South Sudan,2020-07-02,10824,worldometers,No
-South Sudan,2020-07-03,10824,,Yes
-South Sudan,2020-07-04,10824,,Yes
-South Sudan,2020-07-05,10824,,Yes
-South Sudan,2020-07-06,10824,,Yes
-South Sudan,2020-07-07,10824,,Yes
-South Sudan,2020-07-08,10824,,Yes
-South Sudan,2020-07-09,10824,,Yes
-South Sudan,2020-07-10,10824,,Yes
-South Sudan,2020-07-11,10824,,Yes
-South Sudan,2020-07-12,10824,,Yes
-South Sudan,2020-07-13,10951,,Yes
-South Sudan,2020-07-14,10951,,Yes
+South Sudan,2020-07-03,10906,,Yes
+South Sudan,2020-07-04,10989,,Yes
+South Sudan,2020-07-05,11072,,Yes
+South Sudan,2020-07-06,11154,,Yes
+South Sudan,2020-07-07,11237,,Yes
+South Sudan,2020-07-08,11320,,Yes
+South Sudan,2020-07-09,11402,,Yes
+South Sudan,2020-07-10,11485,,Yes
+South Sudan,2020-07-11,11568,,Yes
+South Sudan,2020-07-12,11650,,Yes
+South Sudan,2020-07-13,11871,,Yes
+South Sudan,2020-07-14,11954,,Yes
+South Sudan,2020-07-15,12044,worldometers,No
 Spain,2020-01-22,,,No
 Spain,2020-01-23,,,No
 Spain,2020-01-24,,,No
@@ -39375,6 +39599,7 @@ Spain,2020-07-11,4719214,,Yes
 Spain,2020-07-12,5153544,,Yes
 Spain,2020-07-13,5590843,,Yes
 Spain,2020-07-14,6026446,worldometers,No
+Spain,2020-07-15,6027321,,Yes
 Sri Lanka,2020-01-22,,,No
 Sri Lanka,2020-01-23,,,No
 Sri Lanka,2020-01-24,,,No
@@ -39550,6 +39775,7 @@ Sri Lanka,2020-07-11,119683,,Yes
 Sri Lanka,2020-07-12,120917,,Yes
 Sri Lanka,2020-07-13,122071,worldometers,No
 Sri Lanka,2020-07-14,125632,worldometers,No
+Sri Lanka,2020-07-15,127920,worldometers,No
 Sudan,2020-01-22,,,No
 Sudan,2020-01-23,,,No
 Sudan,2020-01-24,,,No
@@ -39725,6 +39951,7 @@ Sudan,2020-07-11,12765,,Yes
 Sudan,2020-07-12,12765,,Yes
 Sudan,2020-07-13,12831,,Yes
 Sudan,2020-07-14,12932,,Yes
+Sudan,2020-07-15,13042,,Yes
 Suriname,2020-01-22,,,No
 Suriname,2020-01-23,,,No
 Suriname,2020-01-24,,,No
@@ -39900,6 +40127,7 @@ Suriname,2020-07-11,1784,,Yes
 Suriname,2020-07-12,1784,,Yes
 Suriname,2020-07-13,1823,,Yes
 Suriname,2020-07-14,1844,,Yes
+Suriname,2020-07-15,1880,,Yes
 Sweden,2020-01-22,,,No
 Sweden,2020-01-23,,,No
 Sweden,2020-01-24,,,No
@@ -40066,15 +40294,16 @@ Sweden,2020-07-02,567664,,Yes
 Sweden,2020-07-03,579010,,Yes
 Sweden,2020-07-04,589514,,Yes
 Sweden,2020-07-05,600019,owid/roser,No
-Sweden,2020-07-06,601661,,Yes
-Sweden,2020-07-07,601944,,Yes
-Sweden,2020-07-08,602458,,Yes
-Sweden,2020-07-09,602933,,Yes
-Sweden,2020-07-10,603498,,Yes
-Sweden,2020-07-11,603498,,Yes
-Sweden,2020-07-12,603498,,Yes
-Sweden,2020-07-13,604426,,Yes
-Sweden,2020-07-14,604601,,Yes
+Sweden,2020-07-06,609290,,Yes
+Sweden,2020-07-07,617209,,Yes
+Sweden,2020-07-08,625376,,Yes
+Sweden,2020-07-09,633514,,Yes
+Sweden,2020-07-10,641760,,Yes
+Sweden,2020-07-11,649413,,Yes
+Sweden,2020-07-12,657066,,Yes
+Sweden,2020-07-13,665740,,Yes
+Sweden,2020-07-14,673600,,Yes
+Sweden,2020-07-15,681820,worldometers,No
 Switzerland,2020-01-22,,,No
 Switzerland,2020-01-23,,,No
 Switzerland,2020-01-24,3,owid/roser,No
@@ -40250,6 +40479,7 @@ Switzerland,2020-07-11,684766,owid/roser,No
 Switzerland,2020-07-12,685293,,Yes
 Switzerland,2020-07-13,685817,,Yes
 Switzerland,2020-07-14,686349,worldometers,No
+Switzerland,2020-07-15,690701,worldometers,No
 Syria,2020-01-22,,,No
 Syria,2020-01-23,,,No
 Syria,2020-01-24,,,No
@@ -40425,6 +40655,7 @@ Syria,2020-07-11,,,No
 Syria,2020-07-12,,,No
 Syria,2020-07-13,,,No
 Syria,2020-07-14,,,No
+Syria,2020-07-15,,,No
 Taiwan,2020-01-22,,,No
 Taiwan,2020-01-23,,,No
 Taiwan,2020-01-24,,,No
@@ -40600,6 +40831,7 @@ Taiwan,2020-07-11,78355,,Yes
 Taiwan,2020-07-12,78496,worldometers,No
 Taiwan,2020-07-13,78622,worldometers,No
 Taiwan,2020-07-14,78747,worldometers,No
+Taiwan,2020-07-15,78897,worldometers,No
 Tajikistan,2020-01-22,,,No
 Tajikistan,2020-01-23,,,No
 Tajikistan,2020-01-24,,,No
@@ -40775,6 +41007,7 @@ Tajikistan,2020-07-11,,,No
 Tajikistan,2020-07-12,,,No
 Tajikistan,2020-07-13,,,No
 Tajikistan,2020-07-14,,,No
+Tajikistan,2020-07-15,,,No
 Tanzania,2020-01-22,,,No
 Tanzania,2020-01-23,,,No
 Tanzania,2020-01-24,,,No
@@ -40950,6 +41183,7 @@ Tanzania,2020-07-11,2680,,Yes
 Tanzania,2020-07-12,2680,,Yes
 Tanzania,2020-07-13,2680,,Yes
 Tanzania,2020-07-14,2680,,Yes
+Tanzania,2020-07-15,2680,,Yes
 Thailand,2020-01-22,,,No
 Thailand,2020-01-23,,,No
 Thailand,2020-01-24,,,No
@@ -41125,6 +41359,7 @@ Thailand,2020-07-11,603711,,Yes
 Thailand,2020-07-12,603712,,Yes
 Thailand,2020-07-13,603715,,Yes
 Thailand,2020-07-14,603722,,Yes
+Thailand,2020-07-15,603727,,Yes
 Timor-Leste,2020-01-22,,,No
 Timor-Leste,2020-01-23,,,No
 Timor-Leste,2020-01-24,,,No
@@ -41300,6 +41535,7 @@ Timor-Leste,2020-07-11,1568,,Yes
 Timor-Leste,2020-07-12,1568,,Yes
 Timor-Leste,2020-07-13,1568,,Yes
 Timor-Leste,2020-07-14,1568,,Yes
+Timor-Leste,2020-07-15,1568,,Yes
 Togo,2020-01-22,,,No
 Togo,2020-01-23,,,No
 Togo,2020-01-24,,,No
@@ -41474,7 +41710,8 @@ Togo,2020-07-10,34627,owid/roser,No
 Togo,2020-07-11,35156,lau,No
 Togo,2020-07-12,35457,lau,No
 Togo,2020-07-13,35841,lau,No
-Togo,2020-07-14,35851,,Yes
+Togo,2020-07-14,36277,lau,No
+Togo,2020-07-15,36706,lau,No
 Trinidad and Tobago,2020-01-22,,,No
 Trinidad and Tobago,2020-01-23,,,No
 Trinidad and Tobago,2020-01-24,,,No
@@ -41650,6 +41887,7 @@ Trinidad and Tobago,2020-07-11,5776,worldometers,No
 Trinidad and Tobago,2020-07-12,5799,worldometers,No
 Trinidad and Tobago,2020-07-13,5804,worldometers,No
 Trinidad and Tobago,2020-07-14,5842,worldometers,No
+Trinidad and Tobago,2020-07-15,5847,worldometers,No
 Tunisia,2020-01-22,,,No
 Tunisia,2020-01-23,,,No
 Tunisia,2020-01-24,,,No
@@ -41825,6 +42063,7 @@ Tunisia,2020-07-11,76418,worldometers,No
 Tunisia,2020-07-12,77593,worldometers,No
 Tunisia,2020-07-13,78567,worldometers,No
 Tunisia,2020-07-14,79144,worldometers,No
+Tunisia,2020-07-15,79157,,Yes
 Turkey,2020-01-22,,,No
 Turkey,2020-01-23,,,No
 Turkey,2020-01-24,,,No
@@ -41999,7 +42238,8 @@ Turkey,2020-07-10,3881410,owid/roser,No
 Turkey,2020-07-11,3930223,owid/roser,No
 Turkey,2020-07-12,3975455,owid/roser,No
 Turkey,2020-07-13,4021947,owid/roser,No
-Turkey,2020-07-14,4022939,,Yes
+Turkey,2020-07-14,4043580,,Yes
+Turkey,2020-07-15,4065178,worldometers,No
 US – Alabama,2020-01-22,,,No
 US – Alabama,2020-01-23,,,No
 US – Alabama,2020-01-24,,,No
@@ -42175,6 +42415,7 @@ US – Alabama,2020-07-11,502020,covidtracking.com,No
 US – Alabama,2020-07-12,511506,covidtracking.com,No
 US – Alabama,2020-07-13,519604,covidtracking.com,No
 US – Alabama,2020-07-14,529089,covidtracking.com,No
+US – Alabama,2020-07-15,541049,covidtracking.com,No
 US – Alaska,2020-01-22,,,No
 US – Alaska,2020-01-23,,,No
 US – Alaska,2020-01-24,,,No
@@ -42350,6 +42591,7 @@ US – Alaska,2020-07-11,143376,covidtracking.com,No
 US – Alaska,2020-07-12,145475,covidtracking.com,No
 US – Alaska,2020-07-13,146590,covidtracking.com,No
 US – Alaska,2020-07-14,149473,covidtracking.com,No
+US – Alaska,2020-07-15,156093,covidtracking.com,No
 US – American Samoa,2020-01-22,,,No
 US – American Samoa,2020-01-23,,,No
 US – American Samoa,2020-01-24,,,No
@@ -42525,6 +42767,7 @@ US – American Samoa,2020-07-11,816,covidtracking.com,No
 US – American Samoa,2020-07-12,816,covidtracking.com,No
 US – American Samoa,2020-07-13,816,covidtracking.com,No
 US – American Samoa,2020-07-14,816,covidtracking.com,No
+US – American Samoa,2020-07-15,816,covidtracking.com,No
 US – Arizona,2020-01-22,,,No
 US – Arizona,2020-01-23,,,No
 US – Arizona,2020-01-24,,,No
@@ -42700,6 +42943,7 @@ US – Arizona,2020-07-11,683990,covidtracking.com,No
 US – Arizona,2020-07-12,696172,covidtracking.com,No
 US – Arizona,2020-07-13,702426,covidtracking.com,No
 US – Arizona,2020-07-14,721943,covidtracking.com,No
+US – Arizona,2020-07-15,735962,covidtracking.com,No
 US – Arkansas,2020-01-22,,,No
 US – Arkansas,2020-01-23,,,No
 US – Arkansas,2020-01-24,,,No
@@ -42875,6 +43119,7 @@ US – Arkansas,2020-07-11,369649,covidtracking.com,No
 US – Arkansas,2020-07-12,382402,covidtracking.com,No
 US – Arkansas,2020-07-13,382974,covidtracking.com,No
 US – Arkansas,2020-07-14,390299,covidtracking.com,No
+US – Arkansas,2020-07-15,395776,covidtracking.com,No
 US – California,2020-01-22,,,No
 US – California,2020-01-23,,,No
 US – California,2020-01-24,,,No
@@ -43050,6 +43295,7 @@ US – California,2020-07-11,5275695,covidtracking.com,No
 US – California,2020-07-12,5406599,covidtracking.com,No
 US – California,2020-07-13,5544365,covidtracking.com,No
 US – California,2020-07-14,5674955,covidtracking.com,No
+US – California,2020-07-15,5793276,covidtracking.com,No
 US – Colorado,2020-01-22,,,No
 US – Colorado,2020-01-23,,,No
 US – Colorado,2020-01-24,,,No
@@ -43225,6 +43471,7 @@ US – Colorado,2020-07-11,385861,covidtracking.com,No
 US – Colorado,2020-07-12,392103,covidtracking.com,No
 US – Colorado,2020-07-13,399365,covidtracking.com,No
 US – Colorado,2020-07-14,404955,covidtracking.com,No
+US – Colorado,2020-07-15,409990,covidtracking.com,No
 US – Connecticut,2020-01-22,,,No
 US – Connecticut,2020-01-23,,,No
 US – Connecticut,2020-01-24,,,No
@@ -43400,6 +43647,7 @@ US – Connecticut,2020-07-11,558209,covidtracking.com,No
 US – Connecticut,2020-07-12,558209,covidtracking.com,No
 US – Connecticut,2020-07-13,589318,covidtracking.com,No
 US – Connecticut,2020-07-14,591761,covidtracking.com,No
+US – Connecticut,2020-07-15,604099,covidtracking.com,No
 US – Delaware,2020-01-22,,,No
 US – Delaware,2020-01-23,,,No
 US – Delaware,2020-01-24,,,No
@@ -43575,6 +43823,7 @@ US – Delaware,2020-07-11,134115,covidtracking.com,No
 US – Delaware,2020-07-12,137409,covidtracking.com,No
 US – Delaware,2020-07-13,139363,covidtracking.com,No
 US – Delaware,2020-07-14,141600,covidtracking.com,No
+US – Delaware,2020-07-15,143388,covidtracking.com,No
 US – District of Columbia,2020-01-22,,,No
 US – District of Columbia,2020-01-23,,,No
 US – District of Columbia,2020-01-24,,,No
@@ -43750,6 +43999,7 @@ US – District of Columbia,2020-07-11,124050,covidtracking.com,No
 US – District of Columbia,2020-07-12,126883,covidtracking.com,No
 US – District of Columbia,2020-07-13,130220,covidtracking.com,No
 US – District of Columbia,2020-07-14,133916,covidtracking.com,No
+US – District of Columbia,2020-07-15,137944,covidtracking.com,No
 US – Florida,2020-01-22,,,No
 US – Florida,2020-01-23,,,No
 US – Florida,2020-01-24,,,No
@@ -43925,6 +44175,7 @@ US – Florida,2020-07-11,2475299,covidtracking.com,No
 US – Florida,2020-07-12,2574007,covidtracking.com,No
 US – Florida,2020-07-13,2639574,covidtracking.com,No
 US – Florida,2020-07-14,2685243,covidtracking.com,No
+US – Florida,2020-07-15,2735953,covidtracking.com,No
 US – Georgia,2020-01-22,,,No
 US – Georgia,2020-01-23,,,No
 US – Georgia,2020-01-24,,,No
@@ -44100,6 +44351,7 @@ US – Georgia,2020-07-11,1064873,covidtracking.com,No
 US – Georgia,2020-07-12,1083416,covidtracking.com,No
 US – Georgia,2020-07-13,1107967,covidtracking.com,No
 US – Georgia,2020-07-14,1131034,covidtracking.com,No
+US – Georgia,2020-07-15,1154983,covidtracking.com,No
 US – Guam,2020-01-22,,,No
 US – Guam,2020-01-23,,,No
 US – Guam,2020-01-24,,,No
@@ -44275,6 +44527,7 @@ US – Guam,2020-07-11,16979,covidtracking.com,No
 US – Guam,2020-07-12,16979,covidtracking.com,No
 US – Guam,2020-07-13,17342,covidtracking.com,No
 US – Guam,2020-07-14,17537,covidtracking.com,No
+US – Guam,2020-07-15,17827,covidtracking.com,No
 US – Hawaii,2020-01-22,,,No
 US – Hawaii,2020-01-23,,,No
 US – Hawaii,2020-01-24,,,No
@@ -44450,6 +44703,7 @@ US – Hawaii,2020-07-11,92234,covidtracking.com,No
 US – Hawaii,2020-07-12,93920,covidtracking.com,No
 US – Hawaii,2020-07-13,95170,covidtracking.com,No
 US – Hawaii,2020-07-14,96070,covidtracking.com,No
+US – Hawaii,2020-07-15,97557,covidtracking.com,No
 US – Idaho,2020-01-22,,,No
 US – Idaho,2020-01-23,,,No
 US – Idaho,2020-01-24,,,No
@@ -44625,6 +44879,7 @@ US – Idaho,2020-07-11,122349,covidtracking.com,No
 US – Idaho,2020-07-12,125261,covidtracking.com,No
 US – Idaho,2020-07-13,127132,covidtracking.com,No
 US – Idaho,2020-07-14,130284,covidtracking.com,No
+US – Idaho,2020-07-15,133914,covidtracking.com,No
 US – Illinois,2020-01-22,,,No
 US – Illinois,2020-01-23,,,No
 US – Illinois,2020-01-24,,,No
@@ -44800,6 +45055,7 @@ US – Illinois,2020-07-11,1945220,covidtracking.com,No
 US – Illinois,2020-07-12,1984114,covidtracking.com,No
 US – Illinois,2020-07-13,2014126,covidtracking.com,No
 US – Illinois,2020-07-14,2042572,covidtracking.com,No
+US – Illinois,2020-07-15,2080733,covidtracking.com,No
 US – Indiana,2020-01-22,,,No
 US – Indiana,2020-01-23,,,No
 US – Indiana,2020-01-24,,,No
@@ -44975,6 +45231,7 @@ US – Indiana,2020-07-11,558146,covidtracking.com,No
 US – Indiana,2020-07-12,564647,covidtracking.com,No
 US – Indiana,2020-07-13,570409,covidtracking.com,No
 US – Indiana,2020-07-14,578409,covidtracking.com,No
+US – Indiana,2020-07-15,586589,covidtracking.com,No
 US – Iowa,2020-01-22,,,No
 US – Iowa,2020-01-23,,,No
 US – Iowa,2020-01-24,,,No
@@ -45150,6 +45407,7 @@ US – Iowa,2020-07-11,368361,covidtracking.com,No
 US – Iowa,2020-07-12,374413,covidtracking.com,No
 US – Iowa,2020-07-13,376716,covidtracking.com,No
 US – Iowa,2020-07-14,380408,covidtracking.com,No
+US – Iowa,2020-07-15,387312,covidtracking.com,No
 US – Kansas,2020-01-22,,,No
 US – Kansas,2020-01-23,,,No
 US – Kansas,2020-01-24,,,No
@@ -45324,7 +45582,8 @@ US – Kansas,2020-07-10,217779,covidtracking.com,No
 US – Kansas,2020-07-11,222163,,Yes
 US – Kansas,2020-07-12,226468,,Yes
 US – Kansas,2020-07-13,231175,covidtracking.com,No
-US – Kansas,2020-07-14,231417,,Yes
+US – Kansas,2020-07-14,235157,,Yes
+US – Kansas,2020-07-15,239374,covidtracking.com,No
 US – Kentucky,2020-01-22,,,No
 US – Kentucky,2020-01-23,,,No
 US – Kentucky,2020-01-24,,,No
@@ -45500,6 +45759,7 @@ US – Kentucky,2020-07-11,437902,covidtracking.com,No
 US – Kentucky,2020-07-12,438170,covidtracking.com,No
 US – Kentucky,2020-07-13,441885,covidtracking.com,No
 US – Kentucky,2020-07-14,455556,covidtracking.com,No
+US – Kentucky,2020-07-15,459187,covidtracking.com,No
 US – Louisiana,2020-01-22,,,No
 US – Louisiana,2020-01-23,,,No
 US – Louisiana,2020-01-24,,,No
@@ -45675,6 +45935,7 @@ US – Louisiana,2020-07-11,924447,covidtracking.com,No
 US – Louisiana,2020-07-12,934995,covidtracking.com,No
 US – Louisiana,2020-07-13,953426,covidtracking.com,No
 US – Louisiana,2020-07-14,976455,covidtracking.com,No
+US – Louisiana,2020-07-15,1001200,covidtracking.com,No
 US – Maine,2020-01-22,,,No
 US – Maine,2020-01-23,,,No
 US – Maine,2020-01-24,,,No
@@ -45850,6 +46111,7 @@ US – Maine,2020-07-11,119890,covidtracking.com,No
 US – Maine,2020-07-12,122314,covidtracking.com,No
 US – Maine,2020-07-13,123962,covidtracking.com,No
 US – Maine,2020-07-14,125475,covidtracking.com,No
+US – Maine,2020-07-15,127931,covidtracking.com,No
 US – Maryland,2020-01-22,,,No
 US – Maryland,2020-01-23,,,No
 US – Maryland,2020-01-24,,,No
@@ -46025,6 +46287,7 @@ US – Maryland,2020-07-11,629277,covidtracking.com,No
 US – Maryland,2020-07-12,643391,covidtracking.com,No
 US – Maryland,2020-07-13,651957,covidtracking.com,No
 US – Maryland,2020-07-14,666069,covidtracking.com,No
+US – Maryland,2020-07-15,680088,covidtracking.com,No
 US – Massachusetts,2020-01-22,,,No
 US – Massachusetts,2020-01-23,,,No
 US – Massachusetts,2020-01-24,,,No
@@ -46200,6 +46463,7 @@ US – Massachusetts,2020-07-11,946334,covidtracking.com,No
 US – Massachusetts,2020-07-12,957480,covidtracking.com,No
 US – Massachusetts,2020-07-13,966143,covidtracking.com,No
 US – Massachusetts,2020-07-14,978214,covidtracking.com,No
+US – Massachusetts,2020-07-15,988713,covidtracking.com,No
 US – Michigan,2020-01-22,,,No
 US – Michigan,2020-01-23,,,No
 US – Michigan,2020-01-24,,,No
@@ -46375,6 +46639,7 @@ US – Michigan,2020-07-11,1274122,covidtracking.com,No
 US – Michigan,2020-07-12,1296155,covidtracking.com,No
 US – Michigan,2020-07-13,1313427,covidtracking.com,No
 US – Michigan,2020-07-14,1333786,covidtracking.com,No
+US – Michigan,2020-07-15,1367919,covidtracking.com,No
 US – Minnesota,2020-01-22,,,No
 US – Minnesota,2020-01-23,,,No
 US – Minnesota,2020-01-24,,,No
@@ -46550,6 +46815,7 @@ US – Minnesota,2020-07-11,742095,covidtracking.com,No
 US – Minnesota,2020-07-12,755052,covidtracking.com,No
 US – Minnesota,2020-07-13,768989,covidtracking.com,No
 US – Minnesota,2020-07-14,777614,covidtracking.com,No
+US – Minnesota,2020-07-15,790497,covidtracking.com,No
 US – Mississippi,2020-01-22,,,No
 US – Mississippi,2020-01-23,,,No
 US – Mississippi,2020-01-24,,,No
@@ -46725,6 +46991,7 @@ US – Mississippi,2020-07-11,334343,covidtracking.com,No
 US – Mississippi,2020-07-12,335211,covidtracking.com,No
 US – Mississippi,2020-07-13,343415,covidtracking.com,No
 US – Mississippi,2020-07-14,350213,covidtracking.com,No
+US – Mississippi,2020-07-15,356857,covidtracking.com,No
 US – Missouri,2020-01-22,,,No
 US – Missouri,2020-01-23,,,No
 US – Missouri,2020-01-24,,,No
@@ -46900,6 +47167,7 @@ US – Missouri,2020-07-11,474550,covidtracking.com,No
 US – Missouri,2020-07-12,485508,covidtracking.com,No
 US – Missouri,2020-07-13,495777,covidtracking.com,No
 US – Missouri,2020-07-14,505103,covidtracking.com,No
+US – Missouri,2020-07-15,517947,covidtracking.com,No
 US – Montana,2020-01-22,,,No
 US – Montana,2020-01-23,,,No
 US – Montana,2020-01-24,,,No
@@ -47075,6 +47343,7 @@ US – Montana,2020-07-11,113359,covidtracking.com,No
 US – Montana,2020-07-12,114661,covidtracking.com,No
 US – Montana,2020-07-13,118695,covidtracking.com,No
 US – Montana,2020-07-14,121396,covidtracking.com,No
+US – Montana,2020-07-15,123758,covidtracking.com,No
 US – Nebraska,2020-01-22,,,No
 US – Nebraska,2020-01-23,,,No
 US – Nebraska,2020-01-24,,,No
@@ -47250,6 +47519,7 @@ US – Nebraska,2020-07-11,203854,covidtracking.com,No
 US – Nebraska,2020-07-12,208103,covidtracking.com,No
 US – Nebraska,2020-07-13,211659,covidtracking.com,No
 US – Nebraska,2020-07-14,216235,covidtracking.com,No
+US – Nebraska,2020-07-15,219743,covidtracking.com,No
 US – Nevada,2020-01-22,,,No
 US – Nevada,2020-01-23,,,No
 US – Nevada,2020-01-24,,,No
@@ -47425,6 +47695,7 @@ US – Nevada,2020-07-11,341233,covidtracking.com,No
 US – Nevada,2020-07-12,347556,covidtracking.com,No
 US – Nevada,2020-07-13,353193,covidtracking.com,No
 US – Nevada,2020-07-14,360180,covidtracking.com,No
+US – Nevada,2020-07-15,364425,covidtracking.com,No
 US – New Hampshire,2020-01-22,,,No
 US – New Hampshire,2020-01-23,,,No
 US – New Hampshire,2020-01-24,,,No
@@ -47600,6 +47871,7 @@ US – New Hampshire,2020-07-11,132302,covidtracking.com,No
 US – New Hampshire,2020-07-12,133389,covidtracking.com,No
 US – New Hampshire,2020-07-13,134866,covidtracking.com,No
 US – New Hampshire,2020-07-14,136028,covidtracking.com,No
+US – New Hampshire,2020-07-15,137109,covidtracking.com,No
 US – New Jersey,2020-01-22,,,No
 US – New Jersey,2020-01-23,,,No
 US – New Jersey,2020-01-24,,,No
@@ -47775,6 +48047,7 @@ US – New Jersey,2020-07-11,1661284,covidtracking.com,No
 US – New Jersey,2020-07-12,1685604,covidtracking.com,No
 US – New Jersey,2020-07-13,1700385,covidtracking.com,No
 US – New Jersey,2020-07-14,1721231,covidtracking.com,No
+US – New Jersey,2020-07-15,1742347,covidtracking.com,No
 US – New Mexico,2020-01-22,,,No
 US – New Mexico,2020-01-23,,,No
 US – New Mexico,2020-01-24,,,No
@@ -47950,6 +48223,7 @@ US – New Mexico,2020-07-11,403581,covidtracking.com,No
 US – New Mexico,2020-07-12,410754,covidtracking.com,No
 US – New Mexico,2020-07-13,418357,covidtracking.com,No
 US – New Mexico,2020-07-14,424355,covidtracking.com,No
+US – New Mexico,2020-07-15,430006,covidtracking.com,No
 US – New York,2020-01-22,,,No
 US – New York,2020-01-23,,,No
 US – New York,2020-01-24,,,No
@@ -48125,6 +48399,7 @@ US – New York,2020-07-11,4610777,covidtracking.com,No
 US – New York,2020-07-12,4673195,covidtracking.com,No
 US – New York,2020-07-13,4724882,covidtracking.com,No
 US – New York,2020-07-14,4784927,covidtracking.com,No
+US – New York,2020-07-15,4848525,covidtracking.com,No
 US – North Carolina,2020-01-22,,,No
 US – North Carolina,2020-01-23,,,No
 US – North Carolina,2020-01-24,,,No
@@ -48300,6 +48575,7 @@ US – North Carolina,2020-07-11,1176058,covidtracking.com,No
 US – North Carolina,2020-07-12,1199575,covidtracking.com,No
 US – North Carolina,2020-07-13,1220486,covidtracking.com,No
 US – North Carolina,2020-07-14,1254846,covidtracking.com,No
+US – North Carolina,2020-07-15,1284637,covidtracking.com,No
 US – North Dakota,2020-01-22,,,No
 US – North Dakota,2020-01-23,,,No
 US – North Dakota,2020-01-24,,,No
@@ -48475,6 +48751,7 @@ US – North Dakota,2020-07-11,120851,covidtracking.com,No
 US – North Dakota,2020-07-12,122479,covidtracking.com,No
 US – North Dakota,2020-07-13,123878,covidtracking.com,No
 US – North Dakota,2020-07-14,125033,covidtracking.com,No
+US – North Dakota,2020-07-15,126564,covidtracking.com,No
 US – Northern Mariana Islands,2020-01-22,,,No
 US – Northern Mariana Islands,2020-01-23,,,No
 US – Northern Mariana Islands,2020-01-24,,,No
@@ -48650,6 +48927,7 @@ US – Northern Mariana Islands,2020-07-11,10767,,Yes
 US – Northern Mariana Islands,2020-07-12,10767,covidtracking.com,No
 US – Northern Mariana Islands,2020-07-13,10767,covidtracking.com,No
 US – Northern Mariana Islands,2020-07-14,10770,,Yes
+US – Northern Mariana Islands,2020-07-15,10770,,Yes
 US – Ohio,2020-01-22,,,No
 US – Ohio,2020-01-23,,,No
 US – Ohio,2020-01-24,,,No
@@ -48825,6 +49103,7 @@ US – Ohio,2020-07-11,983035,covidtracking.com,No
 US – Ohio,2020-07-12,1006386,covidtracking.com,No
 US – Ohio,2020-07-13,1024751,covidtracking.com,No
 US – Ohio,2020-07-14,1043749,covidtracking.com,No
+US – Ohio,2020-07-15,1062623,covidtracking.com,No
 US – Oklahoma,2020-01-22,,,No
 US – Oklahoma,2020-01-23,,,No
 US – Oklahoma,2020-01-24,,,No
@@ -48983,8 +49262,8 @@ US – Oklahoma,2020-06-24,298278,covidtracking.com,No
 US – Oklahoma,2020-06-25,304965,covidtracking.com,No
 US – Oklahoma,2020-06-26,310777,covidtracking.com,No
 US – Oklahoma,2020-06-27,325663,covidtracking.com,No
-US – Oklahoma,2020-06-28,326015,covidtracking.com,No
-US – Oklahoma,2020-06-29,333615,,Yes
+US – Oklahoma,2020-06-28,325965,covidtracking.com,No
+US – Oklahoma,2020-06-29,333590,,Yes
 US – Oklahoma,2020-06-30,341597,covidtracking.com,No
 US – Oklahoma,2020-07-01,346313,covidtracking.com,No
 US – Oklahoma,2020-07-02,353050,covidtracking.com,No
@@ -49000,6 +49279,7 @@ US – Oklahoma,2020-07-11,419816,covidtracking.com,No
 US – Oklahoma,2020-07-12,420272,covidtracking.com,No
 US – Oklahoma,2020-07-13,430518,,Yes
 US – Oklahoma,2020-07-14,441294,covidtracking.com,No
+US – Oklahoma,2020-07-15,447325,covidtracking.com,No
 US – Oregon,2020-01-22,,,No
 US – Oregon,2020-01-23,,,No
 US – Oregon,2020-01-24,,,No
@@ -49175,6 +49455,7 @@ US – Oregon,2020-07-11,292183,covidtracking.com,No
 US – Oregon,2020-07-12,296172,covidtracking.com,No
 US – Oregon,2020-07-13,300712,covidtracking.com,No
 US – Oregon,2020-07-14,305456,covidtracking.com,No
+US – Oregon,2020-07-15,305732,,Yes
 US – Pennsylvania,2020-01-22,,,No
 US – Pennsylvania,2020-01-23,,,No
 US – Pennsylvania,2020-01-24,,,No
@@ -49350,6 +49631,7 @@ US – Pennsylvania,2020-07-11,912323,covidtracking.com,No
 US – Pennsylvania,2020-07-12,924284,covidtracking.com,No
 US – Pennsylvania,2020-07-13,931474,covidtracking.com,No
 US – Pennsylvania,2020-07-14,947283,covidtracking.com,No
+US – Pennsylvania,2020-07-15,968649,covidtracking.com,No
 US – Puerto Rico,2020-01-22,,,No
 US – Puerto Rico,2020-01-23,,,No
 US – Puerto Rico,2020-01-24,,,No
@@ -49525,6 +49807,7 @@ US – Puerto Rico,2020-07-11,202052,covidtracking.com,No
 US – Puerto Rico,2020-07-12,202340,covidtracking.com,No
 US – Puerto Rico,2020-07-13,202696,covidtracking.com,No
 US – Puerto Rico,2020-07-14,202809,covidtracking.com,No
+US – Puerto Rico,2020-07-15,203065,covidtracking.com,No
 US – Rhode Island,2020-01-22,,,No
 US – Rhode Island,2020-01-23,,,No
 US – Rhode Island,2020-01-24,,,No
@@ -49700,6 +49983,7 @@ US – Rhode Island,2020-07-11,166655,covidtracking.com,No
 US – Rhode Island,2020-07-12,166655,covidtracking.com,No
 US – Rhode Island,2020-07-13,173243,covidtracking.com,No
 US – Rhode Island,2020-07-14,174658,covidtracking.com,No
+US – Rhode Island,2020-07-15,175875,covidtracking.com,No
 US – South Carolina,2020-01-22,,,No
 US – South Carolina,2020-01-23,,,No
 US – South Carolina,2020-01-24,,,No
@@ -49875,6 +50159,7 @@ US – South Carolina,2020-07-11,488090,covidtracking.com,No
 US – South Carolina,2020-07-12,492508,covidtracking.com,No
 US – South Carolina,2020-07-13,507101,covidtracking.com,No
 US – South Carolina,2020-07-14,517481,covidtracking.com,No
+US – South Carolina,2020-07-15,525983,covidtracking.com,No
 US – South Dakota,2020-01-22,,,No
 US – South Dakota,2020-01-23,,,No
 US – South Dakota,2020-01-24,,,No
@@ -50050,6 +50335,7 @@ US – South Dakota,2020-07-11,89606,covidtracking.com,No
 US – South Dakota,2020-07-12,90608,covidtracking.com,No
 US – South Dakota,2020-07-13,91378,covidtracking.com,No
 US – South Dakota,2020-07-14,92164,covidtracking.com,No
+US – South Dakota,2020-07-15,93543,covidtracking.com,No
 US – Tennessee,2020-01-22,,,No
 US – Tennessee,2020-01-23,,,No
 US – Tennessee,2020-01-24,,,No
@@ -50225,6 +50511,7 @@ US – Tennessee,2020-07-11,1007114,covidtracking.com,No
 US – Tennessee,2020-07-12,1018015,covidtracking.com,No
 US – Tennessee,2020-07-13,1053961,covidtracking.com,No
 US – Tennessee,2020-07-14,1071888,covidtracking.com,No
+US – Tennessee,2020-07-15,1097673,covidtracking.com,No
 US – Texas,2020-01-22,,,No
 US – Texas,2020-01-23,,,No
 US – Texas,2020-01-24,,,No
@@ -50400,6 +50687,7 @@ US – Texas,2020-07-11,2429624,covidtracking.com,No
 US – Texas,2020-07-12,2492754,covidtracking.com,No
 US – Texas,2020-07-13,2540125,covidtracking.com,No
 US – Texas,2020-07-14,2598680,covidtracking.com,No
+US – Texas,2020-07-15,2642199,covidtracking.com,No
 US – Utah,2020-01-22,,,No
 US – Utah,2020-01-23,,,No
 US – Utah,2020-01-24,,,No
@@ -50575,6 +50863,7 @@ US – Utah,2020-07-11,405352,covidtracking.com,No
 US – Utah,2020-07-12,413058,covidtracking.com,No
 US – Utah,2020-07-13,418335,covidtracking.com,No
 US – Utah,2020-07-14,424521,covidtracking.com,No
+US – Utah,2020-07-15,432080,covidtracking.com,No
 US – Vermont,2020-01-22,,,No
 US – Vermont,2020-01-23,,,No
 US – Vermont,2020-01-24,,,No
@@ -50750,6 +51039,7 @@ US – Vermont,2020-07-11,75032,covidtracking.com,No
 US – Vermont,2020-07-12,75851,covidtracking.com,No
 US – Vermont,2020-07-13,76581,covidtracking.com,No
 US – Vermont,2020-07-14,77624,covidtracking.com,No
+US – Vermont,2020-07-15,78358,covidtracking.com,No
 US – Virgin Islands,2020-01-22,,,No
 US – Virgin Islands,2020-01-23,,,No
 US – Virgin Islands,2020-01-24,,,No
@@ -50925,6 +51215,7 @@ US – Virgin Islands,2020-07-11,3807,covidtracking.com,No
 US – Virgin Islands,2020-07-12,4089,covidtracking.com,No
 US – Virgin Islands,2020-07-13,4290,covidtracking.com,No
 US – Virgin Islands,2020-07-14,4290,covidtracking.com,No
+US – Virgin Islands,2020-07-15,4880,covidtracking.com,No
 US – Virginia,2020-01-22,,,No
 US – Virginia,2020-01-23,,,No
 US – Virginia,2020-01-24,,,No
@@ -51100,6 +51391,7 @@ US – Virginia,2020-07-11,786335,covidtracking.com,No
 US – Virginia,2020-07-12,804045,covidtracking.com,No
 US – Virginia,2020-07-13,814015,covidtracking.com,No
 US – Virginia,2020-07-14,830850,covidtracking.com,No
+US – Virginia,2020-07-15,844982,covidtracking.com,No
 US – Washington,2020-01-22,2,covidtracking.com,No
 US – Washington,2020-01-23,2,covidtracking.com,No
 US – Washington,2020-01-24,2,covidtracking.com,No
@@ -51275,6 +51567,7 @@ US – Washington,2020-07-11,668466,covidtracking.com,No
 US – Washington,2020-07-12,677391,,Yes
 US – Washington,2020-07-13,686005,covidtracking.com,No
 US – Washington,2020-07-14,708274,covidtracking.com,No
+US – Washington,2020-07-15,718234,covidtracking.com,No
 US – West Virginia,2020-01-22,,,No
 US – West Virginia,2020-01-23,,,No
 US – West Virginia,2020-01-24,,,No
@@ -51450,6 +51743,7 @@ US – West Virginia,2020-07-11,203823,covidtracking.com,No
 US – West Virginia,2020-07-12,207036,covidtracking.com,No
 US – West Virginia,2020-07-13,208225,covidtracking.com,No
 US – West Virginia,2020-07-14,214012,covidtracking.com,No
+US – West Virginia,2020-07-15,217904,covidtracking.com,No
 US – Wisconsin,2020-01-22,,,No
 US – Wisconsin,2020-01-23,,,No
 US – Wisconsin,2020-01-24,,,No
@@ -51625,6 +51919,7 @@ US – Wisconsin,2020-07-11,685584,covidtracking.com,No
 US – Wisconsin,2020-07-12,693229,covidtracking.com,No
 US – Wisconsin,2020-07-13,699861,covidtracking.com,No
 US – Wisconsin,2020-07-14,714544,covidtracking.com,No
+US – Wisconsin,2020-07-15,728496,covidtracking.com,No
 US – Wyoming,2020-01-22,,,No
 US – Wyoming,2020-01-23,,,No
 US – Wyoming,2020-01-24,,,No
@@ -51800,6 +52095,7 @@ US – Wyoming,2020-07-11,39916,covidtracking.com,No
 US – Wyoming,2020-07-12,39939,covidtracking.com,No
 US – Wyoming,2020-07-13,39980,,Yes
 US – Wyoming,2020-07-14,40028,covidtracking.com,No
+US – Wyoming,2020-07-15,42914,covidtracking.com,No
 Uganda,2020-01-22,,,No
 Uganda,2020-01-23,,,No
 Uganda,2020-01-24,,,No
@@ -51975,6 +52271,7 @@ Uganda,2020-07-11,200057,owid/roser,No
 Uganda,2020-07-12,201759,owid/roser,No
 Uganda,2020-07-13,226403,worldometers,No
 Uganda,2020-07-14,228105,worldometers,No
+Uganda,2020-07-15,230680,worldometers,No
 Ukraine,2020-01-22,,,No
 Ukraine,2020-01-23,,,No
 Ukraine,2020-01-24,,,No
@@ -52149,7 +52446,8 @@ Ukraine,2020-07-10,773831,owid/roser,No
 Ukraine,2020-07-11,786843,owid/roser,No
 Ukraine,2020-07-12,796680,owid/roser,No
 Ukraine,2020-07-13,803657,owid/roser,No
-Ukraine,2020-07-14,804303,,Yes
+Ukraine,2020-07-14,815294,,Yes
+Ukraine,2020-07-15,827157,worldometers,No
 United Arab Emirates,2020-01-22,,,No
 United Arab Emirates,2020-01-23,,,No
 United Arab Emirates,2020-01-24,,,No
@@ -52325,6 +52623,7 @@ United Arab Emirates,2020-07-11,3816000,worldometers,No
 United Arab Emirates,2020-07-12,3877349,,Yes
 United Arab Emirates,2020-07-13,3938653,,Yes
 United Arab Emirates,2020-07-14,4000000,worldometers,No
+United Arab Emirates,2020-07-15,4000275,,Yes
 United Kingdom,2020-01-22,,,No
 United Kingdom,2020-01-23,,,No
 United Kingdom,2020-01-24,,,No
@@ -52500,6 +52799,7 @@ United Kingdom,2020-07-11,7101830,owid/roser,No
 United Kingdom,2020-07-12,7188816,owid/roser,No
 United Kingdom,2020-07-13,7188816,,Yes
 United Kingdom,2020-07-14,7188816,,Yes
+United Kingdom,2020-07-15,7188816,,Yes
 United Kingdom – Anguilla,2020-01-22,,,No
 United Kingdom – Anguilla,2020-01-23,,,No
 United Kingdom – Anguilla,2020-01-24,,,No
@@ -52675,6 +52975,7 @@ United Kingdom – Anguilla,2020-07-11,355,,Yes
 United Kingdom – Anguilla,2020-07-12,367,,Yes
 United Kingdom – Anguilla,2020-07-13,380,worldometers,No
 United Kingdom – Anguilla,2020-07-14,380,,Yes
+United Kingdom – Anguilla,2020-07-15,380,,Yes
 United Kingdom – Bermuda,2020-01-22,,,No
 United Kingdom – Bermuda,2020-01-23,,,No
 United Kingdom – Bermuda,2020-01-24,,,No
@@ -52850,6 +53151,7 @@ United Kingdom – Bermuda,2020-07-11,13710,lau,No
 United Kingdom – Bermuda,2020-07-12,13710,worldometers,No
 United Kingdom – Bermuda,2020-07-13,14208,lau,No
 United Kingdom – Bermuda,2020-07-14,14467,lau,No
+United Kingdom – Bermuda,2020-07-15,14751,lau,No
 United Kingdom – British Virgin Islands,2020-01-22,,,No
 United Kingdom – British Virgin Islands,2020-01-23,,,No
 United Kingdom – British Virgin Islands,2020-01-24,,,No
@@ -53025,6 +53327,7 @@ United Kingdom – British Virgin Islands,2020-07-11,439,,Yes
 United Kingdom – British Virgin Islands,2020-07-12,439,,Yes
 United Kingdom – British Virgin Islands,2020-07-13,439,,Yes
 United Kingdom – British Virgin Islands,2020-07-14,439,,Yes
+United Kingdom – British Virgin Islands,2020-07-15,439,,Yes
 United Kingdom – Cayman Islands,2020-01-22,,,No
 United Kingdom – Cayman Islands,2020-01-23,,,No
 United Kingdom – Cayman Islands,2020-01-24,,,No
@@ -53200,6 +53503,7 @@ United Kingdom – Cayman Islands,2020-07-11,26177,worldometers,No
 United Kingdom – Cayman Islands,2020-07-12,26451,,Yes
 United Kingdom – Cayman Islands,2020-07-13,26729,lau,No
 United Kingdom – Cayman Islands,2020-07-14,26729,worldometers,No
+United Kingdom – Cayman Islands,2020-07-15,27206,lau,No
 United Kingdom – Channel Islands,2020-01-22,,,No
 United Kingdom – Channel Islands,2020-01-23,,,No
 United Kingdom – Channel Islands,2020-01-24,,,No
@@ -53375,6 +53679,7 @@ United Kingdom – Channel Islands,2020-07-11,26093,,Yes
 United Kingdom – Channel Islands,2020-07-12,26126,lau,No
 United Kingdom – Channel Islands,2020-07-13,27881,lau,No
 United Kingdom – Channel Islands,2020-07-14,28377,lau,No
+United Kingdom – Channel Islands,2020-07-15,29328,lau,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-22,,,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-23,,,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-24,,,No
@@ -53550,6 +53855,7 @@ United Kingdom – Falkland Islands (Malvinas),2020-07-11,1393,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-07-12,1393,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-07-13,1393,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-07-14,1393,,Yes
+United Kingdom – Falkland Islands (Malvinas),2020-07-15,1393,,Yes
 United Kingdom – Gibraltar,2020-01-22,,,No
 United Kingdom – Gibraltar,2020-01-23,,,No
 United Kingdom – Gibraltar,2020-01-24,,,No
@@ -53725,6 +54031,7 @@ United Kingdom – Gibraltar,2020-07-11,15999,lau,No
 United Kingdom – Gibraltar,2020-07-12,16190,lau,No
 United Kingdom – Gibraltar,2020-07-13,16231,lau,No
 United Kingdom – Gibraltar,2020-07-14,16523,lau,No
+United Kingdom – Gibraltar,2020-07-15,16532,worldometers,No
 United Kingdom – Isle of Man,2020-01-22,,,No
 United Kingdom – Isle of Man,2020-01-23,,,No
 United Kingdom – Isle of Man,2020-01-24,,,No
@@ -53900,6 +54207,7 @@ United Kingdom – Isle of Man,2020-07-11,7071,,Yes
 United Kingdom – Isle of Man,2020-07-12,7134,,Yes
 United Kingdom – Isle of Man,2020-07-13,7197,,Yes
 United Kingdom – Isle of Man,2020-07-14,7261,lau,No
+United Kingdom – Isle of Man,2020-07-15,7261,,Yes
 United Kingdom – Montserrat,2020-01-22,,,No
 United Kingdom – Montserrat,2020-01-23,,,No
 United Kingdom – Montserrat,2020-01-24,,,No
@@ -54075,6 +54383,7 @@ United Kingdom – Montserrat,2020-07-11,62,,Yes
 United Kingdom – Montserrat,2020-07-12,62,,Yes
 United Kingdom – Montserrat,2020-07-13,62,,Yes
 United Kingdom – Montserrat,2020-07-14,62,,Yes
+United Kingdom – Montserrat,2020-07-15,62,,Yes
 United Kingdom – Turks and Caicos Islands,2020-01-22,,,No
 United Kingdom – Turks and Caicos Islands,2020-01-23,,,No
 United Kingdom – Turks and Caicos Islands,2020-01-24,,,No
@@ -54250,6 +54559,7 @@ United Kingdom – Turks and Caicos Islands,2020-07-11,909,,Yes
 United Kingdom – Turks and Caicos Islands,2020-07-12,943,worldometers,No
 United Kingdom – Turks and Caicos Islands,2020-07-13,945,,Yes
 United Kingdom – Turks and Caicos Islands,2020-07-14,946,worldometers,No
+United Kingdom – Turks and Caicos Islands,2020-07-15,946,,Yes
 Uruguay,2020-01-22,,,No
 Uruguay,2020-01-23,,,No
 Uruguay,2020-01-24,,,No
@@ -54425,6 +54735,7 @@ Uruguay,2020-07-11,78117,owid/roser,No
 Uruguay,2020-07-12,78586,owid/roser,No
 Uruguay,2020-07-13,79963,lau,No
 Uruguay,2020-07-14,81446,lau,No
+Uruguay,2020-07-15,82772,lau,No
 Uzbekistan,2020-01-22,,,No
 Uzbekistan,2020-01-23,,,No
 Uzbekistan,2020-01-24,,,No
@@ -54600,6 +54911,7 @@ Uzbekistan,2020-07-11,1360572,,Yes
 Uzbekistan,2020-07-12,1377915,worldometers,No
 Uzbekistan,2020-07-13,1378509,,Yes
 Uzbekistan,2020-07-14,1379003,,Yes
+Uzbekistan,2020-07-15,1379499,,Yes
 Venezuela,2020-01-22,,,No
 Venezuela,2020-01-23,,,No
 Venezuela,2020-01-24,,,No
@@ -54775,6 +55087,7 @@ Venezuela,2020-07-11,1414223,,Yes
 Venezuela,2020-07-12,1414510,,Yes
 Venezuela,2020-07-13,1414752,,Yes
 Venezuela,2020-07-14,1415055,,Yes
+Venezuela,2020-07-15,1415473,,Yes
 Vietnam,2020-01-22,,,No
 Vietnam,2020-01-23,,,No
 Vietnam,2020-01-24,,,No
@@ -54950,6 +55263,7 @@ Vietnam,2020-07-11,261104,,Yes
 Vietnam,2020-07-12,261106,,Yes
 Vietnam,2020-07-13,261107,,Yes
 Vietnam,2020-07-14,261107,,Yes
+Vietnam,2020-07-15,261115,,Yes
 West Bank and Gaza,2020-01-22,,,No
 West Bank and Gaza,2020-01-23,,,No
 West Bank and Gaza,2020-01-24,,,No
@@ -55125,6 +55439,7 @@ West Bank and Gaza,2020-07-11,135843,lau,No
 West Bank and Gaza,2020-07-12,137955,lau,No
 West Bank and Gaza,2020-07-13,141444,lau,No
 West Bank and Gaza,2020-07-14,144581,lau,No
+West Bank and Gaza,2020-07-15,147494,lau,No
 Western Sahara,2020-01-22,,,No
 Western Sahara,2020-01-23,,,No
 Western Sahara,2020-01-24,,,No
@@ -55300,6 +55615,7 @@ Western Sahara,2020-07-11,,,No
 Western Sahara,2020-07-12,,,No
 Western Sahara,2020-07-13,,,No
 Western Sahara,2020-07-14,,,No
+Western Sahara,2020-07-15,,,No
 Yemen,2020-01-22,,,No
 Yemen,2020-01-23,,,No
 Yemen,2020-01-24,,,No
@@ -55475,6 +55791,7 @@ Yemen,2020-07-11,1508,,Yes
 Yemen,2020-07-12,1584,,Yes
 Yemen,2020-07-13,1617,,Yes
 Yemen,2020-07-14,1635,,Yes
+Yemen,2020-07-15,1645,,Yes
 Zambia,2020-01-22,,,No
 Zambia,2020-01-23,,,No
 Zambia,2020-01-24,,,No
@@ -55650,6 +55967,7 @@ Zambia,2020-07-11,57088,,Yes
 Zambia,2020-07-12,57088,,Yes
 Zambia,2020-07-13,57088,,Yes
 Zambia,2020-07-14,57088,,Yes
+Zambia,2020-07-15,57088,,Yes
 Zimbabwe,2020-01-22,,,No
 Zimbabwe,2020-01-23,,,No
 Zimbabwe,2020-01-24,,,No
@@ -55825,3 +56143,4 @@ Zimbabwe,2020-07-11,87264,worldometers,No
 Zimbabwe,2020-07-12,88436,worldometers,No
 Zimbabwe,2020-07-13,88984,worldometers,No
 Zimbabwe,2020-07-14,91103,worldometers,No
+Zimbabwe,2020-07-15,93248,worldometers,No
