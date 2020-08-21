@@ -209,6 +209,7 @@ Afghanistan,2020-08-15,98291,worldometers,No
 Afghanistan,2020-08-16,98525,,Yes
 Afghanistan,2020-08-17,98718,worldometers,No
 Afghanistan,2020-08-18,98772,worldometers,No
+Afghanistan,2020-08-19,98772,,Yes
 Albania,2020-01-22,,,No
 Albania,2020-01-23,,,No
 Albania,2020-01-24,,,No
@@ -419,6 +420,7 @@ Albania,2020-08-15,46094,,Yes
 Albania,2020-08-16,46227,,Yes
 Albania,2020-08-17,46360,,Yes
 Albania,2020-08-18,46529,worldometers,No
+Albania,2020-08-19,47461,worldometers,No
 Algeria,2020-01-22,,,No
 Algeria,2020-01-23,,,No
 Algeria,2020-01-24,,,No
@@ -629,6 +631,7 @@ Algeria,2020-08-15,85059,,Yes
 Algeria,2020-08-16,85509,,Yes
 Algeria,2020-08-17,85951,,Yes
 Algeria,2020-08-18,86370,,Yes
+Algeria,2020-08-19,86773,,Yes
 Andorra,2020-01-22,,,No
 Andorra,2020-01-23,,,No
 Andorra,2020-01-24,,,No
@@ -839,6 +842,7 @@ Andorra,2020-08-15,3978,,Yes
 Andorra,2020-08-16,3978,,Yes
 Andorra,2020-08-17,3994,,Yes
 Andorra,2020-08-18,3994,,Yes
+Andorra,2020-08-19,4013,,Yes
 Angola,2020-01-22,,,No
 Angola,2020-01-23,,,No
 Angola,2020-01-24,,,No
@@ -1049,6 +1053,7 @@ Angola,2020-08-15,65346,,Yes
 Angola,2020-08-16,65373,,Yes
 Angola,2020-08-17,65402,,Yes
 Angola,2020-08-18,65433,,Yes
+Angola,2020-08-19,65482,,Yes
 Antigua and Barbuda,2020-01-22,,,No
 Antigua and Barbuda,2020-01-23,,,No
 Antigua and Barbuda,2020-01-24,,,No
@@ -1259,6 +1264,7 @@ Antigua and Barbuda,2020-08-15,1780,,Yes
 Antigua and Barbuda,2020-08-16,1780,,Yes
 Antigua and Barbuda,2020-08-17,1780,,Yes
 Antigua and Barbuda,2020-08-18,1780,,Yes
+Antigua and Barbuda,2020-08-19,1781,,Yes
 Argentina,2020-01-22,,,No
 Argentina,2020-01-23,,,No
 Argentina,2020-01-24,,,No
@@ -1336,139 +1342,140 @@ Argentina,2020-04-04,12107,owid/roser,No
 Argentina,2020-04-05,13107,owid/roser,No
 Argentina,2020-04-06,14405,owid/roser,No
 Argentina,2020-04-07,16084,owid/roser,No
-Argentina,2020-04-08,17975,owid/roser,No
-Argentina,2020-04-09,19756,owid/roser,No
-Argentina,2020-04-10,21461,owid/roser,No
-Argentina,2020-04-11,23188,owid/roser,No
-Argentina,2020-04-12,24599,owid/roser,No
-Argentina,2020-04-13,26500,,Yes
-Argentina,2020-04-14,28415,owid/roser,No
-Argentina,2020-04-15,30577,owid/roser,No
-Argentina,2020-04-16,32875,owid/roser,No
-Argentina,2020-04-17,35019,owid/roser,No
-Argentina,2020-04-18,37077,owid/roser,No
-Argentina,2020-04-19,38572,owid/roser,No
-Argentina,2020-04-20,40812,owid/roser,No
-Argentina,2020-04-21,43651,owid/roser,No
-Argentina,2020-04-22,46235,owid/roser,No
-Argentina,2020-04-23,48921,owid/roser,No
-Argentina,2020-04-24,51946,owid/roser,No
-Argentina,2020-04-25,54428,owid/roser,No
-Argentina,2020-04-26,56099,owid/roser,No
-Argentina,2020-04-27,58316,owid/roser,No
-Argentina,2020-04-28,60982,owid/roser,No
-Argentina,2020-04-29,63983,owid/roser,No
-Argentina,2020-04-30,66744,owid/roser,No
-Argentina,2020-05-01,69202,owid/roser,No
-Argentina,2020-05-02,71048,owid/roser,No
-Argentina,2020-05-03,72627,owid/roser,No
-Argentina,2020-05-04,74912,owid/roser,No
-Argentina,2020-05-05,77937,owid/roser,No
-Argentina,2020-05-06,80756,owid/roser,No
-Argentina,2020-05-07,83673,owid/roser,No
-Argentina,2020-05-08,86328,owid/roser,No
-Argentina,2020-05-09,88769,owid/roser,No
-Argentina,2020-05-10,90572,owid/roser,No
-Argentina,2020-05-11,93539,owid/roser,No
-Argentina,2020-05-12,96570,owid/roser,No
-Argentina,2020-05-13,99882,owid/roser,No
-Argentina,2020-05-14,103047,owid/roser,No
-Argentina,2020-05-15,106493,owid/roser,No
-Argentina,2020-05-16,109428,owid/roser,No
-Argentina,2020-05-17,111614,owid/roser,No
-Argentina,2020-05-18,114967,owid/roser,No
-Argentina,2020-05-19,119482,owid/roser,No
-Argentina,2020-05-20,124026,owid/roser,No
-Argentina,2020-05-21,128723,owid/roser,No
-Argentina,2020-05-22,133499,owid/roser,No
-Argentina,2020-05-23,137278,owid/roser,No
-Argentina,2020-05-24,140095,owid/roser,No
-Argentina,2020-05-25,143537,owid/roser,No
-Argentina,2020-05-26,147690,owid/roser,No
-Argentina,2020-05-27,152492,owid/roser,No
-Argentina,2020-05-28,157610,owid/roser,No
-Argentina,2020-05-29,163297,owid/roser,No
-Argentina,2020-05-30,167715,owid/roser,No
-Argentina,2020-05-31,170864,owid/roser,No
-Argentina,2020-06-01,175378,owid/roser,No
-Argentina,2020-06-02,180397,owid/roser,No
-Argentina,2020-06-03,186378,owid/roser,No
-Argentina,2020-06-04,191926,owid/roser,No
-Argentina,2020-06-05,197782,owid/roser,No
-Argentina,2020-06-06,203212,owid/roser,No
-Argentina,2020-06-07,206352,owid/roser,No
-Argentina,2020-06-08,211874,owid/roser,No
-Argentina,2020-06-09,218396,owid/roser,No
-Argentina,2020-06-10,225093,owid/roser,No
-Argentina,2020-06-11,232195,owid/roser,No
-Argentina,2020-06-12,240118,owid/roser,No
-Argentina,2020-06-13,247173,owid/roser,No
-Argentina,2020-06-14,251581,owid/roser,No
-Argentina,2020-06-15,256780,owid/roser,No
-Argentina,2020-06-16,263388,owid/roser,No
-Argentina,2020-06-17,271522,owid/roser,No
-Argentina,2020-06-18,280354,owid/roser,No
-Argentina,2020-06-19,289127,owid/roser,No
-Argentina,2020-06-20,297886,owid/roser,No
-Argentina,2020-06-21,303074,owid/roser,No
-Argentina,2020-06-22,311256,owid/roser,No
-Argentina,2020-06-23,321329,owid/roser,No
-Argentina,2020-06-24,331131,owid/roser,No
-Argentina,2020-06-25,341528,owid/roser,No
-Argentina,2020-06-26,352376,owid/roser,No
-Argentina,2020-06-27,361231,owid/roser,No
-Argentina,2020-06-28,366877,owid/roser,No
-Argentina,2020-06-29,375930,owid/roser,No
-Argentina,2020-06-30,385807,owid/roser,No
-Argentina,2020-07-01,395581,owid/roser,No
-Argentina,2020-07-02,405367,owid/roser,No
-Argentina,2020-07-03,416325,owid/roser,No
-Argentina,2020-07-04,426615,owid/roser,No
-Argentina,2020-07-05,432578,owid/roser,No
-Argentina,2020-07-06,442057,owid/roser,No
-Argentina,2020-07-07,453195,owid/roser,No
-Argentina,2020-07-08,466258,owid/roser,No
-Argentina,2020-07-09,477728,owid/roser,No
-Argentina,2020-07-10,488178,owid/roser,No
-Argentina,2020-07-11,498192,owid/roser,No
-Argentina,2020-07-12,504847,owid/roser,No
-Argentina,2020-07-13,515580,owid/roser,No
-Argentina,2020-07-14,528657,owid/roser,No
-Argentina,2020-07-15,541780,owid/roser,No
-Argentina,2020-07-16,555084,owid/roser,No
-Argentina,2020-07-17,569852,owid/roser,No
-Argentina,2020-07-18,581991,owid/roser,No
-Argentina,2020-07-19,590748,owid/roser,No
-Argentina,2020-07-20,603697,owid/roser,No
-Argentina,2020-07-21,619153,owid/roser,No
-Argentina,2020-07-22,635521,owid/roser,No
-Argentina,2020-07-23,651699,owid/roser,No
-Argentina,2020-07-24,668961,owid/roser,No
-Argentina,2020-07-25,682564,owid/roser,No
-Argentina,2020-07-26,691479,owid/roser,No
-Argentina,2020-07-27,705747,owid/roser,No
-Argentina,2020-07-28,722984,owid/roser,No
-Argentina,2020-07-29,740492,owid/roser,No
-Argentina,2020-07-30,757370,owid/roser,No
-Argentina,2020-07-31,775752,owid/roser,No
-Argentina,2020-08-01,789446,owid/roser,No
-Argentina,2020-08-02,800979,owid/roser,No
-Argentina,2020-08-03,816963,owid/roser,No
-Argentina,2020-08-04,836209,owid/roser,No
-Argentina,2020-08-05,855380,,Yes
-Argentina,2020-08-06,875132,owid/roser,No
-Argentina,2020-08-07,894662,owid/roser,No
-Argentina,2020-08-08,910152,owid/roser,No
-Argentina,2020-08-09,922932,,Yes
-Argentina,2020-08-10,938524,owid/roser,No
-Argentina,2020-08-11,958045,,Yes
-Argentina,2020-08-12,978390,owid/roser,No
-Argentina,2020-08-13,996967,,Yes
-Argentina,2020-08-14,1014556,owid/roser,No
-Argentina,2020-08-15,1029110,owid/roser,No
-Argentina,2020-08-16,1038863,,Yes
-Argentina,2020-08-17,1047742,owid/roser,No
-Argentina,2020-08-18,1054582,,Yes
+Argentina,2020-04-08,17978,owid/roser,No
+Argentina,2020-04-09,19761,owid/roser,No
+Argentina,2020-04-10,21467,owid/roser,No
+Argentina,2020-04-11,23196,owid/roser,No
+Argentina,2020-04-12,24607,owid/roser,No
+Argentina,2020-04-13,26508,,Yes
+Argentina,2020-04-14,28424,owid/roser,No
+Argentina,2020-04-15,30587,owid/roser,No
+Argentina,2020-04-16,32885,owid/roser,No
+Argentina,2020-04-17,35030,owid/roser,No
+Argentina,2020-04-18,37088,owid/roser,No
+Argentina,2020-04-19,38583,owid/roser,No
+Argentina,2020-04-20,40823,owid/roser,No
+Argentina,2020-04-21,43662,owid/roser,No
+Argentina,2020-04-22,46249,owid/roser,No
+Argentina,2020-04-23,48935,owid/roser,No
+Argentina,2020-04-24,51961,owid/roser,No
+Argentina,2020-04-25,54443,owid/roser,No
+Argentina,2020-04-26,56114,owid/roser,No
+Argentina,2020-04-27,58331,owid/roser,No
+Argentina,2020-04-28,60997,owid/roser,No
+Argentina,2020-04-29,63998,owid/roser,No
+Argentina,2020-04-30,66759,owid/roser,No
+Argentina,2020-05-01,69217,owid/roser,No
+Argentina,2020-05-02,71064,owid/roser,No
+Argentina,2020-05-03,72642,owid/roser,No
+Argentina,2020-05-04,74928,owid/roser,No
+Argentina,2020-05-05,77953,owid/roser,No
+Argentina,2020-05-06,80771,owid/roser,No
+Argentina,2020-05-07,83688,owid/roser,No
+Argentina,2020-05-08,86343,owid/roser,No
+Argentina,2020-05-09,88786,owid/roser,No
+Argentina,2020-05-10,90589,owid/roser,No
+Argentina,2020-05-11,93556,owid/roser,No
+Argentina,2020-05-12,96587,owid/roser,No
+Argentina,2020-05-13,99899,owid/roser,No
+Argentina,2020-05-14,103064,owid/roser,No
+Argentina,2020-05-15,106510,owid/roser,No
+Argentina,2020-05-16,109446,owid/roser,No
+Argentina,2020-05-17,111631,owid/roser,No
+Argentina,2020-05-18,114984,owid/roser,No
+Argentina,2020-05-19,119500,owid/roser,No
+Argentina,2020-05-20,124044,owid/roser,No
+Argentina,2020-05-21,128743,owid/roser,No
+Argentina,2020-05-22,133522,owid/roser,No
+Argentina,2020-05-23,137303,owid/roser,No
+Argentina,2020-05-24,140120,owid/roser,No
+Argentina,2020-05-25,143562,owid/roser,No
+Argentina,2020-05-26,147715,owid/roser,No
+Argentina,2020-05-27,152517,owid/roser,No
+Argentina,2020-05-28,157637,owid/roser,No
+Argentina,2020-05-29,163325,owid/roser,No
+Argentina,2020-05-30,167744,owid/roser,No
+Argentina,2020-05-31,170893,owid/roser,No
+Argentina,2020-06-01,175407,owid/roser,No
+Argentina,2020-06-02,180426,owid/roser,No
+Argentina,2020-06-03,186408,owid/roser,No
+Argentina,2020-06-04,191960,owid/roser,No
+Argentina,2020-06-05,197818,owid/roser,No
+Argentina,2020-06-06,203248,owid/roser,No
+Argentina,2020-06-07,206390,owid/roser,No
+Argentina,2020-06-08,211912,owid/roser,No
+Argentina,2020-06-09,218434,owid/roser,No
+Argentina,2020-06-10,225133,owid/roser,No
+Argentina,2020-06-11,232239,owid/roser,No
+Argentina,2020-06-12,240168,owid/roser,No
+Argentina,2020-06-13,247225,owid/roser,No
+Argentina,2020-06-14,251633,owid/roser,No
+Argentina,2020-06-15,256833,owid/roser,No
+Argentina,2020-06-16,263442,owid/roser,No
+Argentina,2020-06-17,271577,owid/roser,No
+Argentina,2020-06-18,280411,owid/roser,No
+Argentina,2020-06-19,289184,owid/roser,No
+Argentina,2020-06-20,297943,owid/roser,No
+Argentina,2020-06-21,303132,owid/roser,No
+Argentina,2020-06-22,311313,owid/roser,No
+Argentina,2020-06-23,321387,owid/roser,No
+Argentina,2020-06-24,331191,owid/roser,No
+Argentina,2020-06-25,341587,owid/roser,No
+Argentina,2020-06-26,352435,owid/roser,No
+Argentina,2020-06-27,361299,owid/roser,No
+Argentina,2020-06-28,366980,owid/roser,No
+Argentina,2020-06-29,376034,owid/roser,No
+Argentina,2020-06-30,385915,owid/roser,No
+Argentina,2020-07-01,395692,owid/roser,No
+Argentina,2020-07-02,405489,owid/roser,No
+Argentina,2020-07-03,416447,owid/roser,No
+Argentina,2020-07-04,426738,owid/roser,No
+Argentina,2020-07-05,432702,owid/roser,No
+Argentina,2020-07-06,442182,owid/roser,No
+Argentina,2020-07-07,453320,owid/roser,No
+Argentina,2020-07-08,466383,owid/roser,No
+Argentina,2020-07-09,477853,owid/roser,No
+Argentina,2020-07-10,488303,owid/roser,No
+Argentina,2020-07-11,498320,owid/roser,No
+Argentina,2020-07-12,504975,owid/roser,No
+Argentina,2020-07-13,515714,owid/roser,No
+Argentina,2020-07-14,528807,owid/roser,No
+Argentina,2020-07-15,541938,owid/roser,No
+Argentina,2020-07-16,555243,owid/roser,No
+Argentina,2020-07-17,570054,owid/roser,No
+Argentina,2020-07-18,582259,owid/roser,No
+Argentina,2020-07-19,591017,owid/roser,No
+Argentina,2020-07-20,604018,owid/roser,No
+Argentina,2020-07-21,619475,owid/roser,No
+Argentina,2020-07-22,635845,owid/roser,No
+Argentina,2020-07-23,652058,owid/roser,No
+Argentina,2020-07-24,669324,owid/roser,No
+Argentina,2020-07-25,682949,owid/roser,No
+Argentina,2020-07-26,691923,owid/roser,No
+Argentina,2020-07-27,706196,owid/roser,No
+Argentina,2020-07-28,723439,owid/roser,No
+Argentina,2020-07-29,741037,owid/roser,No
+Argentina,2020-07-30,757936,owid/roser,No
+Argentina,2020-07-31,776373,owid/roser,No
+Argentina,2020-08-01,790094,owid/roser,No
+Argentina,2020-08-02,801647,owid/roser,No
+Argentina,2020-08-03,817679,owid/roser,No
+Argentina,2020-08-04,836953,owid/roser,No
+Argentina,2020-08-05,856231,,Yes
+Argentina,2020-08-06,876091,owid/roser,No
+Argentina,2020-08-07,895781,owid/roser,No
+Argentina,2020-08-08,911412,owid/roser,No
+Argentina,2020-08-09,924406,,Yes
+Argentina,2020-08-10,940215,owid/roser,No
+Argentina,2020-08-11,960335,,Yes
+Argentina,2020-08-12,981287,owid/roser,No
+Argentina,2020-08-13,1000217,,Yes
+Argentina,2020-08-14,1018163,owid/roser,No
+Argentina,2020-08-15,1033339,owid/roser,No
+Argentina,2020-08-16,1043946,,Yes
+Argentina,2020-08-17,1053687,owid/roser,No
+Argentina,2020-08-18,1063103,,Yes
+Argentina,2020-08-19,1072406,owid/roser,No
 Armenia,2020-01-22,,,No
 Armenia,2020-01-23,,,No
 Armenia,2020-01-24,,,No
@@ -1679,6 +1686,7 @@ Armenia,2020-08-15,183789,lau,No
 Armenia,2020-08-16,185310,lau,No
 Armenia,2020-08-17,185594,lau,No
 Armenia,2020-08-18,186661,lau,No
+Armenia,2020-08-19,188567,lau,No
 Australia – Australian Capital Territory,2020-01-22,,,No
 Australia – Australian Capital Territory,2020-01-23,,,No
 Australia – Australian Capital Territory,2020-01-24,,,No
@@ -1889,6 +1897,7 @@ Australia – Australian Capital Territory,2020-08-15,64828,lau,No
 Australia – Australian Capital Territory,2020-08-16,65008,lau,No
 Australia – Australian Capital Territory,2020-08-17,65008,lau,No
 Australia – Australian Capital Territory,2020-08-18,65008,lau,No
+Australia – Australian Capital Territory,2020-08-19,67514,lau,No
 Australia – New South Wales,2020-01-22,,,No
 Australia – New South Wales,2020-01-23,,,No
 Australia – New South Wales,2020-01-24,,,No
@@ -2099,6 +2108,7 @@ Australia – New South Wales,2020-08-15,1808887,lau,No
 Australia – New South Wales,2020-08-16,1832980,lau,No
 Australia – New South Wales,2020-08-17,1843786,lau,No
 Australia – New South Wales,2020-08-18,1857522,lau,No
+Australia – New South Wales,2020-08-19,1876936,lau,No
 Australia – Northern Territory,2020-01-22,,,No
 Australia – Northern Territory,2020-01-23,,,No
 Australia – Northern Territory,2020-01-24,,,No
@@ -2309,6 +2319,7 @@ Australia – Northern Territory,2020-08-15,30369,lau,No
 Australia – Northern Territory,2020-08-16,30527,lau,No
 Australia – Northern Territory,2020-08-17,30724,lau,No
 Australia – Northern Territory,2020-08-18,31052,lau,No
+Australia – Northern Territory,2020-08-19,31448,lau,No
 Australia – Queensland,2020-01-22,,,No
 Australia – Queensland,2020-01-23,,,No
 Australia – Queensland,2020-01-24,,,No
@@ -2519,6 +2530,7 @@ Australia – Queensland,2020-08-15,722095,lau,No
 Australia – Queensland,2020-08-16,725394,lau,No
 Australia – Queensland,2020-08-17,727913,lau,No
 Australia – Queensland,2020-08-18,735640,lau,No
+Australia – Queensland,2020-08-19,747180,lau,No
 Australia – South Australia,2020-01-22,,,No
 Australia – South Australia,2020-01-23,,,No
 Australia – South Australia,2020-01-24,,,No
@@ -2729,6 +2741,7 @@ Australia – South Australia,2020-08-15,316425,lau,No
 Australia – South Australia,2020-08-16,320526,lau,No
 Australia – South Australia,2020-08-17,323111,lau,No
 Australia – South Australia,2020-08-18,326109,lau,No
+Australia – South Australia,2020-08-19,331732,lau,No
 Australia – Tasmania,2020-01-22,,,No
 Australia – Tasmania,2020-01-23,,,No
 Australia – Tasmania,2020-01-24,,,No
@@ -2939,6 +2952,7 @@ Australia – Tasmania,2020-08-15,78376,lau,No
 Australia – Tasmania,2020-08-16,78753,lau,No
 Australia – Tasmania,2020-08-17,79127,lau,No
 Australia – Tasmania,2020-08-18,79469,lau,No
+Australia – Tasmania,2020-08-19,80253,lau,No
 Australia – Victoria,2020-01-22,,,No
 Australia – Victoria,2020-01-23,,,No
 Australia – Victoria,2020-01-24,,,No
@@ -3149,6 +3163,7 @@ Australia – Victoria,2020-08-15,1937736,lau,No
 Australia – Victoria,2020-08-16,1959302,lau,No
 Australia – Victoria,2020-08-17,1975030,lau,No
 Australia – Victoria,2020-08-18,1992521,lau,No
+Australia – Victoria,2020-08-19,2008630,lau,No
 Australia – Western Australia,2020-01-22,,,No
 Australia – Western Australia,2020-01-23,,,No
 Australia – Western Australia,2020-01-24,,,No
@@ -3359,6 +3374,7 @@ Australia – Western Australia,2020-08-15,285068,lau,No
 Australia – Western Australia,2020-08-16,285068,lau,No
 Australia – Western Australia,2020-08-17,291398,lau,No
 Australia – Western Australia,2020-08-18,293292,lau,No
+Australia – Western Australia,2020-08-19,296802,lau,No
 Austria,2020-01-22,,,No
 Austria,2020-01-23,,,No
 Austria,2020-01-24,,,No
@@ -3569,6 +3585,7 @@ Austria,2020-08-15,1009354,owid/roser,No
 Austria,2020-08-16,1018490,owid/roser,No
 Austria,2020-08-17,1024067,owid/roser,No
 Austria,2020-08-18,1037888,owid/roser,No
+Austria,2020-08-19,1048216,owid/roser,No
 Azerbaijan,2020-01-22,,,No
 Azerbaijan,2020-01-23,,,No
 Azerbaijan,2020-01-24,,,No
@@ -3779,6 +3796,7 @@ Azerbaijan,2020-08-15,820020,lau,No
 Azerbaijan,2020-08-16,826043,lau,No
 Azerbaijan,2020-08-17,831755,lau,No
 Azerbaijan,2020-08-18,836908,lau,No
+Azerbaijan,2020-08-19,843269,lau,No
 Bahamas,2020-01-22,,,No
 Bahamas,2020-01-23,,,No
 Bahamas,2020-01-24,,,No
@@ -3988,7 +4006,8 @@ Bahamas,2020-08-14,7242,worldometers,No
 Bahamas,2020-08-15,7422,,Yes
 Bahamas,2020-08-16,7533,worldometers,No
 Bahamas,2020-08-17,7639,worldometers,No
-Bahamas,2020-08-18,7734,,Yes
+Bahamas,2020-08-18,7798,,Yes
+Bahamas,2020-08-19,7971,worldometers,No
 Bahrain,2020-01-22,,,No
 Bahrain,2020-01-23,,,No
 Bahrain,2020-01-24,,,No
@@ -4199,6 +4218,7 @@ Bahrain,2020-08-15,954192,owid/roser,No
 Bahrain,2020-08-16,962334,owid/roser,No
 Bahrain,2020-08-17,972003,owid/roser,No
 Bahrain,2020-08-18,981208,owid/roser,No
+Bahrain,2020-08-19,1000787,owid/roser,No
 Bangladesh,2020-01-22,,,No
 Bangladesh,2020-01-23,,,No
 Bangladesh,2020-01-24,,,No
@@ -4409,6 +4429,7 @@ Bangladesh,2020-08-15,1341648,owid/roser,No
 Bangladesh,2020-08-16,1346366,,Yes
 Bangladesh,2020-08-17,1351666,worldometers,No
 Bangladesh,2020-08-18,1364189,worldometers,No
+Bangladesh,2020-08-19,1378819,worldometers,No
 Barbados,2020-01-22,,,No
 Barbados,2020-01-23,,,No
 Barbados,2020-01-24,,,No
@@ -4619,6 +4640,7 @@ Barbados,2020-08-15,14217,lau,No
 Barbados,2020-08-16,14423,lau,No
 Barbados,2020-08-17,14542,lau,No
 Barbados,2020-08-18,14674,lau,No
+Barbados,2020-08-19,14879,lau,No
 Belarus,2020-01-22,,,No
 Belarus,2020-01-23,,,No
 Belarus,2020-01-24,,,No
@@ -4828,7 +4850,8 @@ Belarus,2020-08-14,1392662,worldometers,No
 Belarus,2020-08-15,1402346,worldometers,No
 Belarus,2020-08-16,1412589,worldometers,No
 Belarus,2020-08-17,1422158,worldometers,No
-Belarus,2020-08-18,1422242,,Yes
+Belarus,2020-08-18,1425822,,Yes
+Belarus,2020-08-19,1429532,worldometers,No
 Belgium,2020-01-22,,,No
 Belgium,2020-01-23,,,No
 Belgium,2020-01-24,,,No
@@ -4903,142 +4926,143 @@ Belgium,2020-04-01,75009,owid/roser,No
 Belgium,2020-04-02,81057,owid/roser,No
 Belgium,2020-04-03,87692,owid/roser,No
 Belgium,2020-04-04,92967,owid/roser,No
-Belgium,2020-04-05,96768,owid/roser,No
-Belgium,2020-04-06,102603,owid/roser,No
-Belgium,2020-04-07,110112,owid/roser,No
-Belgium,2020-04-08,118084,owid/roser,No
-Belgium,2020-04-09,126309,owid/roser,No
-Belgium,2020-04-10,134849,owid/roser,No
-Belgium,2020-04-11,143002,owid/roser,No
-Belgium,2020-04-12,150292,owid/roser,No
-Belgium,2020-04-13,156993,owid/roser,No
-Belgium,2020-04-14,165157,owid/roser,No
-Belgium,2020-04-15,176141,owid/roser,No
-Belgium,2020-04-16,186890,owid/roser,No
-Belgium,2020-04-17,198209,owid/roser,No
-Belgium,2020-04-18,208580,owid/roser,No
-Belgium,2020-04-19,215788,owid/roser,No
-Belgium,2020-04-20,227710,owid/roser,No
-Belgium,2020-04-21,238591,owid/roser,No
-Belgium,2020-04-22,254194,owid/roser,No
-Belgium,2020-04-23,271586,owid/roser,No
-Belgium,2020-04-24,290670,owid/roser,No
-Belgium,2020-04-25,307886,owid/roser,No
-Belgium,2020-04-26,321785,owid/roser,No
-Belgium,2020-04-27,339286,owid/roser,No
-Belgium,2020-04-28,359691,owid/roser,No
-Belgium,2020-04-29,382385,owid/roser,No
-Belgium,2020-04-30,407287,owid/roser,No
-Belgium,2020-05-01,430954,owid/roser,No
-Belgium,2020-05-02,447522,owid/roser,No
-Belgium,2020-05-03,460969,owid/roser,No
-Belgium,2020-05-04,484228,owid/roser,No
-Belgium,2020-05-05,505765,owid/roser,No
-Belgium,2020-05-06,526568,owid/roser,No
-Belgium,2020-05-07,548649,owid/roser,No
-Belgium,2020-05-08,574569,owid/roser,No
-Belgium,2020-05-09,595601,owid/roser,No
-Belgium,2020-05-10,607912,owid/roser,No
-Belgium,2020-05-11,618976,owid/roser,No
-Belgium,2020-05-12,639518,owid/roser,No
-Belgium,2020-05-13,662678,owid/roser,No
-Belgium,2020-05-14,682978,owid/roser,No
-Belgium,2020-05-15,703880,owid/roser,No
-Belgium,2020-05-16,718308,owid/roser,No
-Belgium,2020-05-17,728417,owid/roser,No
-Belgium,2020-05-18,739127,owid/roser,No
-Belgium,2020-05-19,755853,owid/roser,No
-Belgium,2020-05-20,774630,owid/roser,No
-Belgium,2020-05-21,784508,owid/roser,No
-Belgium,2020-05-22,797794,owid/roser,No
-Belgium,2020-05-23,807021,owid/roser,No
-Belgium,2020-05-24,814054,owid/roser,No
-Belgium,2020-05-25,824043,owid/roser,No
-Belgium,2020-05-26,840272,owid/roser,No
-Belgium,2020-05-27,858068,owid/roser,No
-Belgium,2020-05-28,871170,owid/roser,No
-Belgium,2020-05-29,884799,owid/roser,No
-Belgium,2020-05-30,894535,owid/roser,No
-Belgium,2020-05-31,901332,owid/roser,No
-Belgium,2020-06-01,906772,owid/roser,No
-Belgium,2020-06-02,917428,owid/roser,No
-Belgium,2020-06-03,932239,owid/roser,No
-Belgium,2020-06-04,945092,owid/roser,No
-Belgium,2020-06-05,958179,owid/roser,No
-Belgium,2020-06-06,970057,owid/roser,No
-Belgium,2020-06-07,977369,owid/roser,No
-Belgium,2020-06-08,988382,owid/roser,No
-Belgium,2020-06-09,1003473,owid/roser,No
-Belgium,2020-06-10,1017807,owid/roser,No
-Belgium,2020-06-11,1031757,owid/roser,No
-Belgium,2020-06-12,1045507,owid/roser,No
-Belgium,2020-06-13,1058038,owid/roser,No
-Belgium,2020-06-14,1064283,owid/roser,No
-Belgium,2020-06-15,1076189,owid/roser,No
-Belgium,2020-06-16,1091388,owid/roser,No
-Belgium,2020-06-17,1106721,owid/roser,No
-Belgium,2020-06-18,1120686,owid/roser,No
-Belgium,2020-06-19,1134093,owid/roser,No
-Belgium,2020-06-20,1146644,owid/roser,No
-Belgium,2020-06-21,1153250,owid/roser,No
-Belgium,2020-06-22,1164383,owid/roser,No
-Belgium,2020-06-23,1181783,owid/roser,No
-Belgium,2020-06-24,1200258,owid/roser,No
-Belgium,2020-06-25,1215472,owid/roser,No
-Belgium,2020-06-26,1230038,owid/roser,No
-Belgium,2020-06-27,1240992,owid/roser,No
-Belgium,2020-06-28,1247176,owid/roser,No
-Belgium,2020-06-29,1259182,owid/roser,No
-Belgium,2020-06-30,1275265,owid/roser,No
-Belgium,2020-07-01,1290449,owid/roser,No
-Belgium,2020-07-02,1304065,owid/roser,No
-Belgium,2020-07-03,1316446,owid/roser,No
-Belgium,2020-07-04,1326454,owid/roser,No
-Belgium,2020-07-05,1332255,owid/roser,No
-Belgium,2020-07-06,1342979,owid/roser,No
-Belgium,2020-07-07,1356911,owid/roser,No
-Belgium,2020-07-08,1370786,owid/roser,No
-Belgium,2020-07-09,1383325,owid/roser,No
-Belgium,2020-07-10,1395357,owid/roser,No
-Belgium,2020-07-11,1404664,owid/roser,No
-Belgium,2020-07-12,1410287,owid/roser,No
-Belgium,2020-07-13,1420528,owid/roser,No
-Belgium,2020-07-14,1435606,owid/roser,No
-Belgium,2020-07-15,1451975,owid/roser,No
-Belgium,2020-07-16,1466462,owid/roser,No
-Belgium,2020-07-17,1480466,owid/roser,No
-Belgium,2020-07-18,1490932,owid/roser,No
-Belgium,2020-07-19,1497217,owid/roser,No
-Belgium,2020-07-20,1509121,owid/roser,No
-Belgium,2020-07-21,1521124,owid/roser,No
-Belgium,2020-07-22,1534411,owid/roser,No
-Belgium,2020-07-23,1552710,owid/roser,No
-Belgium,2020-07-24,1571411,owid/roser,No
-Belgium,2020-07-25,1585921,owid/roser,No
-Belgium,2020-07-26,1596930,owid/roser,No
-Belgium,2020-07-27,1611500,owid/roser,No
+Belgium,2020-04-05,96784,owid/roser,No
+Belgium,2020-04-06,102624,owid/roser,No
+Belgium,2020-04-07,110133,owid/roser,No
+Belgium,2020-04-08,118105,owid/roser,No
+Belgium,2020-04-09,126330,owid/roser,No
+Belgium,2020-04-10,134869,owid/roser,No
+Belgium,2020-04-11,143022,owid/roser,No
+Belgium,2020-04-12,150312,owid/roser,No
+Belgium,2020-04-13,157013,owid/roser,No
+Belgium,2020-04-14,165177,owid/roser,No
+Belgium,2020-04-15,176161,owid/roser,No
+Belgium,2020-04-16,186910,owid/roser,No
+Belgium,2020-04-17,198227,owid/roser,No
+Belgium,2020-04-18,208597,owid/roser,No
+Belgium,2020-04-19,215805,owid/roser,No
+Belgium,2020-04-20,227727,owid/roser,No
+Belgium,2020-04-21,238608,owid/roser,No
+Belgium,2020-04-22,254211,owid/roser,No
+Belgium,2020-04-23,271603,owid/roser,No
+Belgium,2020-04-24,290687,owid/roser,No
+Belgium,2020-04-25,307903,owid/roser,No
+Belgium,2020-04-26,321802,owid/roser,No
+Belgium,2020-04-27,339303,owid/roser,No
+Belgium,2020-04-28,359708,owid/roser,No
+Belgium,2020-04-29,382402,owid/roser,No
+Belgium,2020-04-30,407304,owid/roser,No
+Belgium,2020-05-01,430971,owid/roser,No
+Belgium,2020-05-02,447538,owid/roser,No
+Belgium,2020-05-03,460985,owid/roser,No
+Belgium,2020-05-04,484244,owid/roser,No
+Belgium,2020-05-05,505781,owid/roser,No
+Belgium,2020-05-06,526584,owid/roser,No
+Belgium,2020-05-07,548663,owid/roser,No
+Belgium,2020-05-08,574582,owid/roser,No
+Belgium,2020-05-09,595614,owid/roser,No
+Belgium,2020-05-10,607925,owid/roser,No
+Belgium,2020-05-11,618989,owid/roser,No
+Belgium,2020-05-12,639531,owid/roser,No
+Belgium,2020-05-13,662691,owid/roser,No
+Belgium,2020-05-14,682991,owid/roser,No
+Belgium,2020-05-15,703893,owid/roser,No
+Belgium,2020-05-16,718321,owid/roser,No
+Belgium,2020-05-17,728429,owid/roser,No
+Belgium,2020-05-18,739139,owid/roser,No
+Belgium,2020-05-19,755865,owid/roser,No
+Belgium,2020-05-20,774642,owid/roser,No
+Belgium,2020-05-21,784520,owid/roser,No
+Belgium,2020-05-22,797806,owid/roser,No
+Belgium,2020-05-23,807033,owid/roser,No
+Belgium,2020-05-24,814065,owid/roser,No
+Belgium,2020-05-25,824054,owid/roser,No
+Belgium,2020-05-26,840283,owid/roser,No
+Belgium,2020-05-27,858079,owid/roser,No
+Belgium,2020-05-28,871181,owid/roser,No
+Belgium,2020-05-29,884810,owid/roser,No
+Belgium,2020-05-30,894545,owid/roser,No
+Belgium,2020-05-31,901341,owid/roser,No
+Belgium,2020-06-01,906781,owid/roser,No
+Belgium,2020-06-02,917437,owid/roser,No
+Belgium,2020-06-03,932248,owid/roser,No
+Belgium,2020-06-04,945101,owid/roser,No
+Belgium,2020-06-05,958188,owid/roser,No
+Belgium,2020-06-06,970066,owid/roser,No
+Belgium,2020-06-07,977378,owid/roser,No
+Belgium,2020-06-08,988391,owid/roser,No
+Belgium,2020-06-09,1003482,owid/roser,No
+Belgium,2020-06-10,1017816,owid/roser,No
+Belgium,2020-06-11,1031766,owid/roser,No
+Belgium,2020-06-12,1045516,owid/roser,No
+Belgium,2020-06-13,1058047,owid/roser,No
+Belgium,2020-06-14,1064292,owid/roser,No
+Belgium,2020-06-15,1076198,owid/roser,No
+Belgium,2020-06-16,1091397,owid/roser,No
+Belgium,2020-06-17,1106728,owid/roser,No
+Belgium,2020-06-18,1120693,owid/roser,No
+Belgium,2020-06-19,1134100,owid/roser,No
+Belgium,2020-06-20,1146651,owid/roser,No
+Belgium,2020-06-21,1153257,owid/roser,No
+Belgium,2020-06-22,1164390,owid/roser,No
+Belgium,2020-06-23,1181790,owid/roser,No
+Belgium,2020-06-24,1200264,owid/roser,No
+Belgium,2020-06-25,1215477,owid/roser,No
+Belgium,2020-06-26,1230043,owid/roser,No
+Belgium,2020-06-27,1240997,owid/roser,No
+Belgium,2020-06-28,1247181,owid/roser,No
+Belgium,2020-06-29,1259187,owid/roser,No
+Belgium,2020-06-30,1275269,owid/roser,No
+Belgium,2020-07-01,1290453,owid/roser,No
+Belgium,2020-07-02,1304069,owid/roser,No
+Belgium,2020-07-03,1316450,owid/roser,No
+Belgium,2020-07-04,1326458,owid/roser,No
+Belgium,2020-07-05,1332259,owid/roser,No
+Belgium,2020-07-06,1342983,owid/roser,No
+Belgium,2020-07-07,1356915,owid/roser,No
+Belgium,2020-07-08,1370789,owid/roser,No
+Belgium,2020-07-09,1383328,owid/roser,No
+Belgium,2020-07-10,1395360,owid/roser,No
+Belgium,2020-07-11,1404667,owid/roser,No
+Belgium,2020-07-12,1410290,owid/roser,No
+Belgium,2020-07-13,1420531,owid/roser,No
+Belgium,2020-07-14,1435609,owid/roser,No
+Belgium,2020-07-15,1451977,owid/roser,No
+Belgium,2020-07-16,1466463,owid/roser,No
+Belgium,2020-07-17,1480467,owid/roser,No
+Belgium,2020-07-18,1490933,owid/roser,No
+Belgium,2020-07-19,1497218,owid/roser,No
+Belgium,2020-07-20,1509122,owid/roser,No
+Belgium,2020-07-21,1521125,owid/roser,No
+Belgium,2020-07-22,1534412,owid/roser,No
+Belgium,2020-07-23,1552711,owid/roser,No
+Belgium,2020-07-24,1571412,owid/roser,No
+Belgium,2020-07-25,1585922,owid/roser,No
+Belgium,2020-07-26,1596931,owid/roser,No
+Belgium,2020-07-27,1611501,owid/roser,No
 Belgium,2020-07-28,1637039,owid/roser,No
 Belgium,2020-07-29,1662543,owid/roser,No
 Belgium,2020-07-30,1688707,owid/roser,No
-Belgium,2020-07-31,1710255,owid/roser,No
-Belgium,2020-08-01,1730389,owid/roser,No
-Belgium,2020-08-02,1742309,owid/roser,No
-Belgium,2020-08-03,1758707,owid/roser,No
-Belgium,2020-08-04,1783860,owid/roser,No
-Belgium,2020-08-05,1809985,owid/roser,No
-Belgium,2020-08-06,1833201,owid/roser,No
-Belgium,2020-08-07,1855967,owid/roser,No
-Belgium,2020-08-08,1872633,owid/roser,No
-Belgium,2020-08-09,1882639,owid/roser,No
-Belgium,2020-08-10,1899579,owid/roser,No
-Belgium,2020-08-11,1925223,owid/roser,No
-Belgium,2020-08-12,1947303,owid/roser,No
-Belgium,2020-08-13,1969148,owid/roser,No
-Belgium,2020-08-14,1987910,owid/roser,No
-Belgium,2020-08-15,2000835,owid/roser,No
-Belgium,2020-08-16,2009520,owid/roser,No
-Belgium,2020-08-17,2022851,owid/roser,No
-Belgium,2020-08-18,2023214,,Yes
+Belgium,2020-07-31,1710254,owid/roser,No
+Belgium,2020-08-01,1730388,owid/roser,No
+Belgium,2020-08-02,1742308,owid/roser,No
+Belgium,2020-08-03,1758706,owid/roser,No
+Belgium,2020-08-04,1783859,owid/roser,No
+Belgium,2020-08-05,1809984,owid/roser,No
+Belgium,2020-08-06,1833199,owid/roser,No
+Belgium,2020-08-07,1855963,owid/roser,No
+Belgium,2020-08-08,1872627,owid/roser,No
+Belgium,2020-08-09,1882631,owid/roser,No
+Belgium,2020-08-10,1899571,owid/roser,No
+Belgium,2020-08-11,1925214,owid/roser,No
+Belgium,2020-08-12,1947293,owid/roser,No
+Belgium,2020-08-13,1969135,owid/roser,No
+Belgium,2020-08-14,1987874,owid/roser,No
+Belgium,2020-08-15,2000740,owid/roser,No
+Belgium,2020-08-16,2009681,owid/roser,No
+Belgium,2020-08-17,2026430,owid/roser,No
+Belgium,2020-08-18,2049288,owid/roser,No
+Belgium,2020-08-19,2049870,,Yes
 Belize,2020-01-22,,,No
 Belize,2020-01-23,,,No
 Belize,2020-01-24,,,No
@@ -5249,6 +5273,7 @@ Belize,2020-08-15,4860,worldometers,No
 Belize,2020-08-16,5117,worldometers,No
 Belize,2020-08-17,5210,,Yes
 Belize,2020-08-18,5281,worldometers,No
+Belize,2020-08-19,5592,worldometers,No
 Benin,2020-01-22,,,No
 Benin,2020-01-23,,,No
 Benin,2020-01-24,,,No
@@ -5460,6 +5485,7 @@ Benin,2020-08-15,105801,,Yes
 Benin,2020-08-16,107057,worldometers,No
 Benin,2020-08-17,107057,,Yes
 Benin,2020-08-18,107057,,Yes
+Benin,2020-08-19,107089,,Yes
 Bhutan,2020-01-22,,,No
 Bhutan,2020-01-23,,,No
 Bhutan,2020-01-24,,,No
@@ -5669,7 +5695,8 @@ Bhutan,2020-08-14,56276,,Yes
 Bhutan,2020-08-15,56340,worldometers,No
 Bhutan,2020-08-16,57890,,Yes
 Bhutan,2020-08-17,59440,worldometers,No
-Bhutan,2020-08-18,59446,,Yes
+Bhutan,2020-08-18,61279,,Yes
+Bhutan,2020-08-19,63112,worldometers,No
 Bolivia,2020-01-22,,,No
 Bolivia,2020-01-23,,,No
 Bolivia,2020-01-24,,,No
@@ -5879,7 +5906,8 @@ Bolivia,2020-08-14,192425,owid/roser,No
 Bolivia,2020-08-15,195977,owid/roser,No
 Bolivia,2020-08-16,198698,owid/roser,No
 Bolivia,2020-08-17,200211,owid/roser,No
-Bolivia,2020-08-18,216774,worldometers,No
+Bolivia,2020-08-18,204818,owid/roser,No
+Bolivia,2020-08-19,221379,worldometers,No
 Bosnia and Herzegovina,2020-01-22,,,No
 Bosnia and Herzegovina,2020-01-23,,,No
 Bosnia and Herzegovina,2020-01-24,,,No
@@ -6090,6 +6118,7 @@ Bosnia and Herzegovina,2020-08-15,100990,lau,No
 Bosnia and Herzegovina,2020-08-16,101658,lau,No
 Bosnia and Herzegovina,2020-08-17,102177,lau,No
 Bosnia and Herzegovina,2020-08-18,103629,lau,No
+Bosnia and Herzegovina,2020-08-19,105575,lau,No
 Botswana,2020-01-22,,,No
 Botswana,2020-01-23,,,No
 Botswana,2020-01-24,,,No
@@ -6296,10 +6325,11 @@ Botswana,2020-08-11,80163,worldometers,No
 Botswana,2020-08-12,82481,,Yes
 Botswana,2020-08-13,84957,,Yes
 Botswana,2020-08-14,87280,worldometers,No
-Botswana,2020-08-15,87280,,Yes
-Botswana,2020-08-16,87280,,Yes
-Botswana,2020-08-17,87374,,Yes
-Botswana,2020-08-18,87374,,Yes
+Botswana,2020-08-15,88487,,Yes
+Botswana,2020-08-16,89695,,Yes
+Botswana,2020-08-17,91001,,Yes
+Botswana,2020-08-18,92210,,Yes
+Botswana,2020-08-19,93420,worldometers,No
 Brazil,2020-01-22,,,No
 Brazil,2020-01-23,,,No
 Brazil,2020-01-24,,,No
@@ -6436,80 +6466,81 @@ Brazil,2020-06-02,863278,,Yes
 Brazil,2020-06-03,902125,,Yes
 Brazil,2020-06-04,944084,,Yes
 Brazil,2020-06-05,986365,worldometers,No
-Brazil,2020-06-06,1013759,,Yes
-Brazil,2020-06-07,1033003,,Yes
-Brazil,2020-06-08,1048998,,Yes
-Brazil,2020-06-09,1081460,,Yes
-Brazil,2020-06-10,1114766,,Yes
-Brazil,2020-06-11,1145587,,Yes
-Brazil,2020-06-12,1171987,,Yes
-Brazil,2020-06-13,1194115,,Yes
-Brazil,2020-06-14,1211650,,Yes
-Brazil,2020-06-15,1232743,,Yes
-Brazil,2020-06-16,1268171,,Yes
-Brazil,2020-06-17,1300879,,Yes
-Brazil,2020-06-18,1324147,,Yes
-Brazil,2020-06-19,1379576,,Yes
-Brazil,2020-06-20,1414840,,Yes
-Brazil,2020-06-21,1431126,,Yes
-Brazil,2020-06-22,1454829,,Yes
-Brazil,2020-06-23,1494945,,Yes
-Brazil,2020-06-24,1538396,,Yes
-Brazil,2020-06-25,1578611,,Yes
-Brazil,2020-06-26,1626277,,Yes
-Brazil,2020-06-27,1665748,,Yes
-Brazil,2020-06-28,1696968,,Yes
-Brazil,2020-06-29,1721734,,Yes
-Brazil,2020-06-30,1756386,,Yes
-Brazil,2020-07-01,1804032,,Yes
-Brazil,2020-07-02,1853112,,Yes
-Brazil,2020-07-03,1896288,,Yes
-Brazil,2020-07-04,1935151,,Yes
-Brazil,2020-07-05,1962054,,Yes
-Brazil,2020-07-06,1983095,,Yes
-Brazil,2020-07-07,2029477,,Yes
-Brazil,2020-07-08,2075147,,Yes
-Brazil,2020-07-09,2118871,,Yes
-Brazil,2020-07-10,2165079,,Yes
-Brazil,2020-07-11,2205221,,Yes
-Brazil,2020-07-12,2231030,,Yes
-Brazil,2020-07-13,2252256,,Yes
-Brazil,2020-07-14,2295331,,Yes
-Brazil,2020-07-15,2336475,,Yes
-Brazil,2020-07-16,2383193,,Yes
-Brazil,2020-07-17,2418566,,Yes
-Brazil,2020-07-18,2448239,,Yes
-Brazil,2020-07-19,2472857,,Yes
-Brazil,2020-07-20,2494172,,Yes
-Brazil,2020-07-21,2536552,owid/roser,No
-Brazil,2020-07-22,4110467,,Yes
-Brazil,2020-07-23,5745832,,Yes
-Brazil,2020-07-24,7439413,,Yes
-Brazil,2020-07-25,9181917,,Yes
-Brazil,2020-07-26,10880185,,Yes
-Brazil,2020-07-27,12601096,worldometers,No
-Brazil,2020-07-28,12687017,,Yes
-Brazil,2020-07-29,12801689,,Yes
-Brazil,2020-07-30,12905496,,Yes
-Brazil,2020-07-31,13004185,,Yes
-Brazil,2020-08-01,13096132,worldometers,No
-Brazil,2020-08-02,13123907,,Yes
-Brazil,2020-08-03,13142528,,Yes
-Brazil,2020-08-04,13196132,worldometers,No
-Brazil,2020-08-05,13329028,worldometers,No
-Brazil,2020-08-06,13382167,,Yes
-Brazil,2020-08-07,13432397,,Yes
-Brazil,2020-08-08,13482367,,Yes
-Brazil,2020-08-09,13505377,,Yes
-Brazil,2020-08-10,13527425,,Yes
-Brazil,2020-08-11,13579585,,Yes
-Brazil,2020-08-12,13634740,,Yes
-Brazil,2020-08-13,13694831,,Yes
-Brazil,2020-08-14,13745475,,Yes
-Brazil,2020-08-15,13787051,,Yes
-Brazil,2020-08-16,13810152,,Yes
-Brazil,2020-08-17,13829525,,Yes
-Brazil,2020-08-18,13877309,,Yes
+Brazil,2020-06-06,1017205,,Yes
+Brazil,2020-06-07,1040023,,Yes
+Brazil,2020-06-08,1059687,,Yes
+Brazil,2020-06-09,1096149,,Yes
+Brazil,2020-06-10,1133687,,Yes
+Brazil,2020-06-11,1168912,,Yes
+Brazil,2020-06-12,1199819,,Yes
+Brazil,2020-06-13,1226513,,Yes
+Brazil,2020-06-14,1248621,,Yes
+Brazil,2020-06-15,1274524,,Yes
+Brazil,2020-06-16,1315435,,Yes
+Brazil,2020-06-17,1353754,,Yes
+Brazil,2020-06-18,1382434,,Yes
+Brazil,2020-06-19,1444954,,Yes
+Brazil,2020-06-20,1486655,,Yes
+Brazil,2020-06-21,1508587,,Yes
+Brazil,2020-06-22,1538467,,Yes
+Brazil,2020-06-23,1585917,,Yes
+Brazil,2020-06-24,1637182,,Yes
+Brazil,2020-06-25,1685281,,Yes
+Brazil,2020-06-26,1741626,,Yes
+Brazil,2020-06-27,1789485,,Yes
+Brazil,2020-06-28,1828712,,Yes
+Brazil,2020-06-29,1861168,,Yes
+Brazil,2020-06-30,1904507,,Yes
+Brazil,2020-07-01,1962207,,Yes
+Brazil,2020-07-02,2021786,,Yes
+Brazil,2020-07-03,2075229,,Yes
+Brazil,2020-07-04,2124223,owid/roser,No
+Brazil,2020-07-05,2151071,,Yes
+Brazil,2020-07-06,2172112,,Yes
+Brazil,2020-07-07,2218272,,Yes
+Brazil,2020-07-08,2263730,,Yes
+Brazil,2020-07-09,2307266,,Yes
+Brazil,2020-07-10,2353268,,Yes
+Brazil,2020-07-11,2393263,,Yes
+Brazil,2020-07-12,2419052,,Yes
+Brazil,2020-07-13,2440300,,Yes
+Brazil,2020-07-14,2483214,,Yes
+Brazil,2020-07-15,2524218,,Yes
+Brazil,2020-07-16,2570755,,Yes
+Brazil,2020-07-17,2606045,,Yes
+Brazil,2020-07-18,2635687,,Yes
+Brazil,2020-07-19,2660319,,Yes
+Brazil,2020-07-20,2681676,,Yes
+Brazil,2020-07-21,2723931,,Yes
+Brazil,2020-07-22,2793247,,Yes
+Brazil,2020-07-23,2854659,,Yes
+Brazil,2020-07-24,2912016,,Yes
+Brazil,2020-07-25,2964632,,Yes
+Brazil,2020-07-26,2990501,,Yes
+Brazil,2020-07-27,3015083,,Yes
+Brazil,2020-07-28,3057371,,Yes
+Brazil,2020-07-29,3128208,,Yes
+Brazil,2020-07-30,3187752,,Yes
+Brazil,2020-07-31,3241829,,Yes
+Brazil,2020-08-01,3288882,,Yes
+Brazil,2020-08-02,3316167,owid/roser,No
+Brazil,2020-08-03,3366093,,Yes
+Brazil,2020-08-04,3452013,,Yes
+Brazil,2020-08-05,3544678,,Yes
+Brazil,2020-08-06,3634312,,Yes
+Brazil,2020-08-07,3721953,,Yes
+Brazil,2020-08-08,3810322,owid/roser,No
+Brazil,2020-08-09,3838341,,Yes
+Brazil,2020-08-10,3865457,,Yes
+Brazil,2020-08-11,3922860,,Yes
+Brazil,2020-08-12,3983410,,Yes
+Brazil,2020-08-13,4049073,,Yes
+Brazil,2020-08-14,4105371,,Yes
+Brazil,2020-08-15,4152652,owid/roser,No
+Brazil,2020-08-16,6471153,,Yes
+Brazil,2020-08-17,8807226,,Yes
+Brazil,2020-08-18,11239861,,Yes
+Brazil,2020-08-19,13729872,worldometers,No
 Brunei,2020-01-22,,,No
 Brunei,2020-01-23,,,No
 Brunei,2020-01-24,,,No
@@ -6720,6 +6751,7 @@ Brunei,2020-08-15,46783,lau,No
 Brunei,2020-08-16,47172,lau,No
 Brunei,2020-08-17,47397,lau,No
 Brunei,2020-08-18,47844,lau,No
+Brunei,2020-08-19,49399,lau,No
 Bulgaria,2020-01-22,,,No
 Bulgaria,2020-01-23,,,No
 Bulgaria,2020-01-24,,,No
@@ -6930,6 +6962,7 @@ Bulgaria,2020-08-15,330785,owid/roser,No
 Bulgaria,2020-08-16,333530,owid/roser,No
 Bulgaria,2020-08-17,334311,owid/roser,No
 Bulgaria,2020-08-18,339563,owid/roser,No
+Bulgaria,2020-08-19,343230,owid/roser,No
 Burkina Faso,2020-01-22,,,No
 Burkina Faso,2020-01-23,,,No
 Burkina Faso,2020-01-24,,,No
@@ -7140,6 +7173,7 @@ Burkina Faso,2020-08-15,17535,,Yes
 Burkina Faso,2020-08-16,17562,,Yes
 Burkina Faso,2020-08-17,17575,,Yes
 Burkina Faso,2020-08-18,17575,,Yes
+Burkina Faso,2020-08-19,17580,,Yes
 Burma,2020-01-22,,,No
 Burma,2020-01-23,,,No
 Burma,2020-01-24,,,No
@@ -7350,6 +7384,7 @@ Burma,2020-08-15,130539,lau,No
 Burma,2020-08-16,135402,lau,No
 Burma,2020-08-17,136153,lau,No
 Burma,2020-08-18,137749,lau,No
+Burma,2020-08-19,137767,,Yes
 Burundi,2020-01-22,,,No
 Burundi,2020-01-23,,,No
 Burundi,2020-01-24,,,No
@@ -7560,6 +7595,7 @@ Burundi,2020-08-15,18983,,Yes
 Burundi,2020-08-16,19319,,Yes
 Burundi,2020-08-17,19654,,Yes
 Burundi,2020-08-18,19993,worldometers,No
+Burundi,2020-08-19,19999,,Yes
 Cabo Verde,2020-01-22,,,No
 Cabo Verde,2020-01-23,,,No
 Cabo Verde,2020-01-24,,,No
@@ -7770,6 +7806,7 @@ Cabo Verde,2020-08-15,62107,,Yes
 Cabo Verde,2020-08-16,62123,,Yes
 Cabo Verde,2020-08-17,62147,,Yes
 Cabo Verde,2020-08-18,62197,,Yes
+Cabo Verde,2020-08-19,62265,,Yes
 Cambodia,2020-01-22,2,lau,No
 Cambodia,2020-01-23,2,lau,No
 Cambodia,2020-01-24,7,lau,No
@@ -7979,7 +8016,8 @@ Cambodia,2020-08-14,77380,worldometers,No
 Cambodia,2020-08-15,78631,worldometers,No
 Cambodia,2020-08-16,79860,worldometers,No
 Cambodia,2020-08-17,80632,worldometers,No
-Cambodia,2020-08-18,80632,,Yes
+Cambodia,2020-08-18,81761,,Yes
+Cambodia,2020-08-19,82891,worldometers,No
 Cameroon,2020-01-22,,,No
 Cameroon,2020-01-23,,,No
 Cameroon,2020-01-24,,,No
@@ -8190,6 +8228,7 @@ Cameroon,2020-08-15,150214,,Yes
 Cameroon,2020-08-16,150214,,Yes
 Cameroon,2020-08-17,150327,,Yes
 Cameroon,2020-08-18,150344,,Yes
+Cameroon,2020-08-19,150369,,Yes
 Canada – Alberta,2020-01-22,,,No
 Canada – Alberta,2020-01-23,,,No
 Canada – Alberta,2020-01-24,,,No
@@ -8400,6 +8439,7 @@ Canada – Alberta,2020-08-15,652819,lau,No
 Canada – Alberta,2020-08-16,652819,lau,No
 Canada – Alberta,2020-08-17,672138,lau,No
 Canada – Alberta,2020-08-18,677754,lau,No
+Canada – Alberta,2020-08-19,684041,lau,No
 Canada – British Columbia,2020-01-22,,,No
 Canada – British Columbia,2020-01-23,2,lau,No
 Canada – British Columbia,2020-01-24,10,,Yes
@@ -8609,7 +8649,8 @@ Canada – British Columbia,2020-08-14,304285,lau,No
 Canada – British Columbia,2020-08-15,308017,lau,No
 Canada – British Columbia,2020-08-16,310960,lau,No
 Canada – British Columbia,2020-08-17,313285,lau,No
-Canada – British Columbia,2020-08-18,313604,,Yes
+Canada – British Columbia,2020-08-18,316782,lau,No
+Canada – British Columbia,2020-08-19,316850,,Yes
 Canada – Manitoba,2020-01-22,,,No
 Canada – Manitoba,2020-01-23,,,No
 Canada – Manitoba,2020-01-24,,,No
@@ -8820,6 +8861,7 @@ Canada – Manitoba,2020-08-15,112283,lau,No
 Canada – Manitoba,2020-08-16,113952,lau,No
 Canada – Manitoba,2020-08-17,115963,lau,No
 Canada – Manitoba,2020-08-18,116990,lau,No
+Canada – Manitoba,2020-08-19,118364,lau,No
 Canada – New Brunswick,2020-01-22,,,No
 Canada – New Brunswick,2020-01-23,,,No
 Canada – New Brunswick,2020-01-24,,,No
@@ -8979,57 +9021,58 @@ Canada – New Brunswick,2020-06-25,41690,lau,No
 Canada – New Brunswick,2020-06-26,42150,lau,No
 Canada – New Brunswick,2020-06-27,42493,lau,No
 Canada – New Brunswick,2020-06-28,42754,lau,No
-Canada – New Brunswick,2020-06-29,42754,,Yes
-Canada – New Brunswick,2020-06-30,42754,,Yes
-Canada – New Brunswick,2020-07-01,42754,,Yes
-Canada – New Brunswick,2020-07-02,42754,,Yes
-Canada – New Brunswick,2020-07-03,42754,,Yes
-Canada – New Brunswick,2020-07-04,42754,,Yes
-Canada – New Brunswick,2020-07-05,42754,,Yes
-Canada – New Brunswick,2020-07-06,42754,,Yes
-Canada – New Brunswick,2020-07-07,42754,,Yes
-Canada – New Brunswick,2020-07-08,42754,,Yes
-Canada – New Brunswick,2020-07-09,42755,,Yes
-Canada – New Brunswick,2020-07-10,42755,,Yes
-Canada – New Brunswick,2020-07-11,42755,,Yes
-Canada – New Brunswick,2020-07-12,42755,,Yes
-Canada – New Brunswick,2020-07-13,42755,,Yes
-Canada – New Brunswick,2020-07-14,42756,,Yes
-Canada – New Brunswick,2020-07-15,42757,,Yes
-Canada – New Brunswick,2020-07-16,42757,,Yes
-Canada – New Brunswick,2020-07-17,42757,,Yes
-Canada – New Brunswick,2020-07-18,42757,,Yes
-Canada – New Brunswick,2020-07-19,42758,,Yes
-Canada – New Brunswick,2020-07-20,42759,,Yes
-Canada – New Brunswick,2020-07-21,42759,,Yes
-Canada – New Brunswick,2020-07-22,42759,,Yes
-Canada – New Brunswick,2020-07-23,42759,,Yes
-Canada – New Brunswick,2020-07-24,42759,,Yes
-Canada – New Brunswick,2020-07-25,42759,,Yes
-Canada – New Brunswick,2020-07-26,42759,,Yes
-Canada – New Brunswick,2020-07-27,42759,,Yes
-Canada – New Brunswick,2020-07-28,42759,,Yes
-Canada – New Brunswick,2020-07-29,42759,,Yes
-Canada – New Brunswick,2020-07-30,42759,,Yes
-Canada – New Brunswick,2020-07-31,42759,,Yes
-Canada – New Brunswick,2020-08-01,42759,,Yes
-Canada – New Brunswick,2020-08-02,42759,,Yes
-Canada – New Brunswick,2020-08-03,42759,,Yes
-Canada – New Brunswick,2020-08-04,42759,,Yes
-Canada – New Brunswick,2020-08-05,42763,,Yes
-Canada – New Brunswick,2020-08-06,42765,,Yes
-Canada – New Brunswick,2020-08-07,42765,,Yes
-Canada – New Brunswick,2020-08-08,42765,,Yes
-Canada – New Brunswick,2020-08-09,42765,,Yes
-Canada – New Brunswick,2020-08-10,42765,,Yes
-Canada – New Brunswick,2020-08-11,42766,,Yes
-Canada – New Brunswick,2020-08-12,42767,,Yes
-Canada – New Brunswick,2020-08-13,42769,,Yes
-Canada – New Brunswick,2020-08-14,42769,,Yes
-Canada – New Brunswick,2020-08-15,42773,,Yes
-Canada – New Brunswick,2020-08-16,42775,,Yes
-Canada – New Brunswick,2020-08-17,42775,,Yes
-Canada – New Brunswick,2020-08-18,42775,,Yes
+Canada – New Brunswick,2020-06-29,42958,,Yes
+Canada – New Brunswick,2020-06-30,43162,lau,No
+Canada – New Brunswick,2020-07-01,43434,lau,No
+Canada – New Brunswick,2020-07-02,43614,lau,No
+Canada – New Brunswick,2020-07-03,43851,,Yes
+Canada – New Brunswick,2020-07-04,44088,,Yes
+Canada – New Brunswick,2020-07-05,44324,,Yes
+Canada – New Brunswick,2020-07-06,44562,lau,No
+Canada – New Brunswick,2020-07-07,44881,,Yes
+Canada – New Brunswick,2020-07-08,45201,,Yes
+Canada – New Brunswick,2020-07-09,45522,lau,No
+Canada – New Brunswick,2020-07-10,45522,,Yes
+Canada – New Brunswick,2020-07-11,45522,,Yes
+Canada – New Brunswick,2020-07-12,45522,,Yes
+Canada – New Brunswick,2020-07-13,45522,,Yes
+Canada – New Brunswick,2020-07-14,45523,,Yes
+Canada – New Brunswick,2020-07-15,45524,,Yes
+Canada – New Brunswick,2020-07-16,45524,,Yes
+Canada – New Brunswick,2020-07-17,45524,,Yes
+Canada – New Brunswick,2020-07-18,45524,,Yes
+Canada – New Brunswick,2020-07-19,45525,,Yes
+Canada – New Brunswick,2020-07-20,45526,,Yes
+Canada – New Brunswick,2020-07-21,45526,,Yes
+Canada – New Brunswick,2020-07-22,45526,,Yes
+Canada – New Brunswick,2020-07-23,45526,,Yes
+Canada – New Brunswick,2020-07-24,45526,,Yes
+Canada – New Brunswick,2020-07-25,45526,,Yes
+Canada – New Brunswick,2020-07-26,45526,,Yes
+Canada – New Brunswick,2020-07-27,45526,,Yes
+Canada – New Brunswick,2020-07-28,45526,,Yes
+Canada – New Brunswick,2020-07-29,45526,,Yes
+Canada – New Brunswick,2020-07-30,45526,,Yes
+Canada – New Brunswick,2020-07-31,45526,,Yes
+Canada – New Brunswick,2020-08-01,45526,,Yes
+Canada – New Brunswick,2020-08-02,45526,,Yes
+Canada – New Brunswick,2020-08-03,45526,,Yes
+Canada – New Brunswick,2020-08-04,45526,,Yes
+Canada – New Brunswick,2020-08-05,45530,,Yes
+Canada – New Brunswick,2020-08-06,45532,,Yes
+Canada – New Brunswick,2020-08-07,45532,,Yes
+Canada – New Brunswick,2020-08-08,45532,,Yes
+Canada – New Brunswick,2020-08-09,45532,,Yes
+Canada – New Brunswick,2020-08-10,45532,,Yes
+Canada – New Brunswick,2020-08-11,45533,,Yes
+Canada – New Brunswick,2020-08-12,45534,,Yes
+Canada – New Brunswick,2020-08-13,45536,,Yes
+Canada – New Brunswick,2020-08-14,45536,,Yes
+Canada – New Brunswick,2020-08-15,45540,,Yes
+Canada – New Brunswick,2020-08-16,45542,,Yes
+Canada – New Brunswick,2020-08-17,45542,,Yes
+Canada – New Brunswick,2020-08-18,45542,,Yes
+Canada – New Brunswick,2020-08-19,45542,,Yes
 Canada – Newfoundland and Labrador,2020-01-22,,,No
 Canada – Newfoundland and Labrador,2020-01-23,,,No
 Canada – Newfoundland and Labrador,2020-01-24,,,No
@@ -9240,6 +9283,7 @@ Canada – Newfoundland and Labrador,2020-08-15,28284,lau,No
 Canada – Newfoundland and Labrador,2020-08-16,28479,lau,No
 Canada – Newfoundland and Labrador,2020-08-17,28668,lau,No
 Canada – Newfoundland and Labrador,2020-08-18,28884,lau,No
+Canada – Newfoundland and Labrador,2020-08-19,29176,lau,No
 Canada – Northwest Territories,2020-01-22,,,No
 Canada – Northwest Territories,2020-01-23,,,No
 Canada – Northwest Territories,2020-01-24,,,No
@@ -9450,6 +9494,7 @@ Canada – Northwest Territories,2020-08-15,3590,,Yes
 Canada – Northwest Territories,2020-08-16,3619,,Yes
 Canada – Northwest Territories,2020-08-17,3649,lau,No
 Canada – Northwest Territories,2020-08-18,3667,lau,No
+Canada – Northwest Territories,2020-08-19,3683,lau,No
 Canada – Nova Scotia,2020-01-22,,,No
 Canada – Nova Scotia,2020-01-23,,,No
 Canada – Nova Scotia,2020-01-24,,,No
@@ -9660,6 +9705,7 @@ Canada – Nova Scotia,2020-08-15,69194,lau,No
 Canada – Nova Scotia,2020-08-16,69537,lau,No
 Canada – Nova Scotia,2020-08-17,69713,lau,No
 Canada – Nova Scotia,2020-08-18,69976,lau,No
+Canada – Nova Scotia,2020-08-19,70388,lau,No
 Canada – Ontario,2020-01-22,,,No
 Canada – Ontario,2020-01-23,,,No
 Canada – Ontario,2020-01-24,,,No
@@ -9869,7 +9915,8 @@ Canada – Ontario,2020-08-14,2558839,lau,No
 Canada – Ontario,2020-08-15,2582652,lau,No
 Canada – Ontario,2020-08-16,2608219,lau,No
 Canada – Ontario,2020-08-17,2631286,lau,No
-Canada – Ontario,2020-08-18,2631400,,Yes
+Canada – Ontario,2020-08-18,2656928,lau,No
+Canada – Ontario,2020-08-19,2657018,,Yes
 Canada – Prince Edward Island,2020-01-22,,,No
 Canada – Prince Edward Island,2020-01-23,,,No
 Canada – Prince Edward Island,2020-01-24,,,No
@@ -10080,6 +10127,7 @@ Canada – Prince Edward Island,2020-08-15,22329,,Yes
 Canada – Prince Edward Island,2020-08-16,22329,,Yes
 Canada – Prince Edward Island,2020-08-17,22329,,Yes
 Canada – Prince Edward Island,2020-08-18,22332,,Yes
+Canada – Prince Edward Island,2020-08-19,22332,,Yes
 Canada – Quebec,2020-01-22,,,No
 Canada – Quebec,2020-01-23,,,No
 Canada – Quebec,2020-01-24,,,No
@@ -10289,7 +10337,8 @@ Canada – Quebec,2020-08-14,966677,lau,No
 Canada – Quebec,2020-08-15,975856,lau,No
 Canada – Quebec,2020-08-16,983814,lau,No
 Canada – Quebec,2020-08-17,990392,lau,No
-Canada – Quebec,2020-08-18,990438,,Yes
+Canada – Quebec,2020-08-18,998424,lau,No
+Canada – Quebec,2020-08-19,998488,,Yes
 Canada – Saskatchewan,2020-01-22,,,No
 Canada – Saskatchewan,2020-01-23,,,No
 Canada – Saskatchewan,2020-01-24,,,No
@@ -10500,6 +10549,7 @@ Canada – Saskatchewan,2020-08-15,103346,lau,No
 Canada – Saskatchewan,2020-08-16,104777,lau,No
 Canada – Saskatchewan,2020-08-17,105531,,Yes
 Canada – Saskatchewan,2020-08-18,106286,lau,No
+Canada – Saskatchewan,2020-08-19,107027,lau,No
 Canada – Yukon,2020-01-22,,,No
 Canada – Yukon,2020-01-23,,,No
 Canada – Yukon,2020-01-24,,,No
@@ -10710,6 +10760,7 @@ Canada – Yukon,2020-08-15,2178,,Yes
 Canada – Yukon,2020-08-16,2201,,Yes
 Canada – Yukon,2020-08-17,2224,,Yes
 Canada – Yukon,2020-08-18,2247,lau,No
+Canada – Yukon,2020-08-19,2270,lau,No
 Central African Republic,2020-01-22,,,No
 Central African Republic,2020-01-23,,,No
 Central African Republic,2020-01-24,,,No
@@ -10920,6 +10971,7 @@ Central African Republic,2020-08-15,30219,,Yes
 Central African Republic,2020-08-16,30364,,Yes
 Central African Republic,2020-08-17,30523,,Yes
 Central African Republic,2020-08-18,30681,worldometers,No
+Central African Republic,2020-08-19,30681,,Yes
 Chad,2020-01-22,,,No
 Chad,2020-01-23,,,No
 Chad,2020-01-24,,,No
@@ -11130,6 +11182,7 @@ Chad,2020-08-15,,,No
 Chad,2020-08-16,,,No
 Chad,2020-08-17,,,No
 Chad,2020-08-18,,,No
+Chad,2020-08-19,,,No
 Chile,2020-01-22,,,No
 Chile,2020-01-23,,,No
 Chile,2020-01-24,,,No
@@ -11340,6 +11393,7 @@ Chile,2020-08-15,1988709,owid/roser,No
 Chile,2020-08-16,2019591,owid/roser,No
 Chile,2020-08-17,2044880,owid/roser,No
 Chile,2020-08-18,2068079,owid/roser,No
+Chile,2020-08-19,2087354,owid/roser,No
 China – Anhui,2020-01-22,,,No
 China – Anhui,2020-01-23,,,No
 China – Anhui,2020-01-24,,,No
@@ -11550,6 +11604,7 @@ China – Anhui,2020-08-15,,,No
 China – Anhui,2020-08-16,,,No
 China – Anhui,2020-08-17,,,No
 China – Anhui,2020-08-18,,,No
+China – Anhui,2020-08-19,,,No
 China – Beijing,2020-01-22,,,No
 China – Beijing,2020-01-23,,,No
 China – Beijing,2020-01-24,,,No
@@ -11760,6 +11815,7 @@ China – Beijing,2020-08-15,,,No
 China – Beijing,2020-08-16,,,No
 China – Beijing,2020-08-17,,,No
 China – Beijing,2020-08-18,,,No
+China – Beijing,2020-08-19,,,No
 China – Chongqing,2020-01-22,,,No
 China – Chongqing,2020-01-23,,,No
 China – Chongqing,2020-01-24,,,No
@@ -11970,6 +12026,7 @@ China – Chongqing,2020-08-15,,,No
 China – Chongqing,2020-08-16,,,No
 China – Chongqing,2020-08-17,,,No
 China – Chongqing,2020-08-18,,,No
+China – Chongqing,2020-08-19,,,No
 China – Fujian,2020-01-22,,,No
 China – Fujian,2020-01-23,,,No
 China – Fujian,2020-01-24,,,No
@@ -12180,6 +12237,7 @@ China – Fujian,2020-08-15,,,No
 China – Fujian,2020-08-16,,,No
 China – Fujian,2020-08-17,,,No
 China – Fujian,2020-08-18,,,No
+China – Fujian,2020-08-19,,,No
 China – Gansu,2020-01-22,,,No
 China – Gansu,2020-01-23,,,No
 China – Gansu,2020-01-24,,,No
@@ -12390,6 +12448,7 @@ China – Gansu,2020-08-15,,,No
 China – Gansu,2020-08-16,,,No
 China – Gansu,2020-08-17,,,No
 China – Gansu,2020-08-18,,,No
+China – Gansu,2020-08-19,,,No
 China – Guangdong,2020-01-22,,,No
 China – Guangdong,2020-01-23,,,No
 China – Guangdong,2020-01-24,,,No
@@ -12600,6 +12659,7 @@ China – Guangdong,2020-08-15,24930025,,Yes
 China – Guangdong,2020-08-16,24930033,,Yes
 China – Guangdong,2020-08-17,24930034,,Yes
 China – Guangdong,2020-08-18,24930038,,Yes
+China – Guangdong,2020-08-19,24930038,,Yes
 China – Guangxi,2020-01-22,,,No
 China – Guangxi,2020-01-23,,,No
 China – Guangxi,2020-01-24,,,No
@@ -12810,6 +12870,7 @@ China – Guangxi,2020-08-15,,,No
 China – Guangxi,2020-08-16,,,No
 China – Guangxi,2020-08-17,,,No
 China – Guangxi,2020-08-18,,,No
+China – Guangxi,2020-08-19,,,No
 China – Guizhou,2020-01-22,,,No
 China – Guizhou,2020-01-23,,,No
 China – Guizhou,2020-01-24,,,No
@@ -13020,6 +13081,7 @@ China – Guizhou,2020-08-15,,,No
 China – Guizhou,2020-08-16,,,No
 China – Guizhou,2020-08-17,,,No
 China – Guizhou,2020-08-18,,,No
+China – Guizhou,2020-08-19,,,No
 China – Hainan,2020-01-22,,,No
 China – Hainan,2020-01-23,,,No
 China – Hainan,2020-01-24,,,No
@@ -13230,6 +13292,7 @@ China – Hainan,2020-08-15,,,No
 China – Hainan,2020-08-16,,,No
 China – Hainan,2020-08-17,,,No
 China – Hainan,2020-08-18,,,No
+China – Hainan,2020-08-19,,,No
 China – Hebei,2020-01-22,,,No
 China – Hebei,2020-01-23,,,No
 China – Hebei,2020-01-24,,,No
@@ -13440,6 +13503,7 @@ China – Hebei,2020-08-15,,,No
 China – Hebei,2020-08-16,,,No
 China – Hebei,2020-08-17,,,No
 China – Hebei,2020-08-18,,,No
+China – Hebei,2020-08-19,,,No
 China – Heilongjiang,2020-01-22,,,No
 China – Heilongjiang,2020-01-23,,,No
 China – Heilongjiang,2020-01-24,,,No
@@ -13650,6 +13714,7 @@ China – Heilongjiang,2020-08-15,784273,,Yes
 China – Heilongjiang,2020-08-16,784273,,Yes
 China – Heilongjiang,2020-08-17,784273,,Yes
 China – Heilongjiang,2020-08-18,784273,,Yes
+China – Heilongjiang,2020-08-19,784273,,Yes
 China – Henan,2020-01-22,,,No
 China – Henan,2020-01-23,,,No
 China – Henan,2020-01-24,,,No
@@ -13860,6 +13925,7 @@ China – Henan,2020-08-15,,,No
 China – Henan,2020-08-16,,,No
 China – Henan,2020-08-17,,,No
 China – Henan,2020-08-18,,,No
+China – Henan,2020-08-19,,,No
 China – Hong Kong,2020-01-22,,,No
 China – Hong Kong,2020-01-23,,,No
 China – Hong Kong,2020-01-24,,,No
@@ -14070,6 +14136,7 @@ China – Hong Kong,2020-08-15,780461,,Yes
 China – Hong Kong,2020-08-16,780535,,Yes
 China – Hong Kong,2020-08-17,780579,,Yes
 China – Hong Kong,2020-08-18,780615,,Yes
+China – Hong Kong,2020-08-19,780641,,Yes
 China – Hubei,2020-01-22,,,No
 China – Hubei,2020-01-23,,,No
 China – Hubei,2020-01-24,,,No
@@ -14280,6 +14347,7 @@ China – Hubei,2020-08-15,12537796,,Yes
 China – Hubei,2020-08-16,12537796,,Yes
 China – Hubei,2020-08-17,12537796,,Yes
 China – Hubei,2020-08-18,12537796,,Yes
+China – Hubei,2020-08-19,12537796,,Yes
 China – Hunan,2020-01-22,,,No
 China – Hunan,2020-01-23,,,No
 China – Hunan,2020-01-24,,,No
@@ -14490,6 +14558,7 @@ China – Hunan,2020-08-15,,,No
 China – Hunan,2020-08-16,,,No
 China – Hunan,2020-08-17,,,No
 China – Hunan,2020-08-18,,,No
+China – Hunan,2020-08-19,,,No
 China – Inner Mongolia,2020-01-22,,,No
 China – Inner Mongolia,2020-01-23,,,No
 China – Inner Mongolia,2020-01-24,,,No
@@ -14700,6 +14769,7 @@ China – Inner Mongolia,2020-08-15,,,No
 China – Inner Mongolia,2020-08-16,,,No
 China – Inner Mongolia,2020-08-17,,,No
 China – Inner Mongolia,2020-08-18,,,No
+China – Inner Mongolia,2020-08-19,,,No
 China – Jiangsu,2020-01-22,,,No
 China – Jiangsu,2020-01-23,,,No
 China – Jiangsu,2020-01-24,,,No
@@ -14910,6 +14980,7 @@ China – Jiangsu,2020-08-15,,,No
 China – Jiangsu,2020-08-16,,,No
 China – Jiangsu,2020-08-17,,,No
 China – Jiangsu,2020-08-18,,,No
+China – Jiangsu,2020-08-19,,,No
 China – Jiangxi,2020-01-22,,,No
 China – Jiangxi,2020-01-23,,,No
 China – Jiangxi,2020-01-24,,,No
@@ -15120,6 +15191,7 @@ China – Jiangxi,2020-08-15,,,No
 China – Jiangxi,2020-08-16,,,No
 China – Jiangxi,2020-08-17,,,No
 China – Jiangxi,2020-08-18,,,No
+China – Jiangxi,2020-08-19,,,No
 China – Jilin,2020-01-22,,,No
 China – Jilin,2020-01-23,,,No
 China – Jilin,2020-01-24,,,No
@@ -15330,6 +15402,7 @@ China – Jilin,2020-08-15,,,No
 China – Jilin,2020-08-16,,,No
 China – Jilin,2020-08-17,,,No
 China – Jilin,2020-08-18,,,No
+China – Jilin,2020-08-19,,,No
 China – Liaoning,2020-01-22,,,No
 China – Liaoning,2020-01-23,,,No
 China – Liaoning,2020-01-24,,,No
@@ -15540,6 +15613,7 @@ China – Liaoning,2020-08-15,,,No
 China – Liaoning,2020-08-16,,,No
 China – Liaoning,2020-08-17,,,No
 China – Liaoning,2020-08-18,,,No
+China – Liaoning,2020-08-19,,,No
 China – Macau,2020-01-22,,,No
 China – Macau,2020-01-23,,,No
 China – Macau,2020-01-24,,,No
@@ -15750,6 +15824,7 @@ China – Macau,2020-08-15,,,No
 China – Macau,2020-08-16,,,No
 China – Macau,2020-08-17,,,No
 China – Macau,2020-08-18,,,No
+China – Macau,2020-08-19,,,No
 China – Ningxia,2020-01-22,,,No
 China – Ningxia,2020-01-23,,,No
 China – Ningxia,2020-01-24,,,No
@@ -15960,6 +16035,7 @@ China – Ningxia,2020-08-15,,,No
 China – Ningxia,2020-08-16,,,No
 China – Ningxia,2020-08-17,,,No
 China – Ningxia,2020-08-18,,,No
+China – Ningxia,2020-08-19,,,No
 China – Qinghai,2020-01-22,,,No
 China – Qinghai,2020-01-23,,,No
 China – Qinghai,2020-01-24,,,No
@@ -16170,6 +16246,7 @@ China – Qinghai,2020-08-15,,,No
 China – Qinghai,2020-08-16,,,No
 China – Qinghai,2020-08-17,,,No
 China – Qinghai,2020-08-18,,,No
+China – Qinghai,2020-08-19,,,No
 China – Shaanxi,2020-01-22,,,No
 China – Shaanxi,2020-01-23,,,No
 China – Shaanxi,2020-01-24,,,No
@@ -16380,6 +16457,7 @@ China – Shaanxi,2020-08-15,,,No
 China – Shaanxi,2020-08-16,,,No
 China – Shaanxi,2020-08-17,,,No
 China – Shaanxi,2020-08-18,,,No
+China – Shaanxi,2020-08-19,,,No
 China – Shandong,2020-01-22,,,No
 China – Shandong,2020-01-23,,,No
 China – Shandong,2020-01-24,,,No
@@ -16590,6 +16668,7 @@ China – Shandong,2020-08-15,,,No
 China – Shandong,2020-08-16,,,No
 China – Shandong,2020-08-17,,,No
 China – Shandong,2020-08-18,,,No
+China – Shandong,2020-08-19,,,No
 China – Shanghai,2020-01-22,,,No
 China – Shanghai,2020-01-23,,,No
 China – Shanghai,2020-01-24,,,No
@@ -16800,6 +16879,7 @@ China – Shanghai,2020-08-15,,,No
 China – Shanghai,2020-08-16,,,No
 China – Shanghai,2020-08-17,,,No
 China – Shanghai,2020-08-18,,,No
+China – Shanghai,2020-08-19,,,No
 China – Shanxi,2020-01-22,,,No
 China – Shanxi,2020-01-23,,,No
 China – Shanxi,2020-01-24,,,No
@@ -17010,6 +17090,7 @@ China – Shanxi,2020-08-15,,,No
 China – Shanxi,2020-08-16,,,No
 China – Shanxi,2020-08-17,,,No
 China – Shanxi,2020-08-18,,,No
+China – Shanxi,2020-08-19,,,No
 China – Sichuan,2020-01-22,,,No
 China – Sichuan,2020-01-23,,,No
 China – Sichuan,2020-01-24,,,No
@@ -17220,6 +17301,7 @@ China – Sichuan,2020-08-15,,,No
 China – Sichuan,2020-08-16,,,No
 China – Sichuan,2020-08-17,,,No
 China – Sichuan,2020-08-18,,,No
+China – Sichuan,2020-08-19,,,No
 China – Tianjin,2020-01-22,,,No
 China – Tianjin,2020-01-23,,,No
 China – Tianjin,2020-01-24,,,No
@@ -17430,6 +17512,7 @@ China – Tianjin,2020-08-15,,,No
 China – Tianjin,2020-08-16,,,No
 China – Tianjin,2020-08-17,,,No
 China – Tianjin,2020-08-18,,,No
+China – Tianjin,2020-08-19,,,No
 China – Tibet,2020-01-22,,,No
 China – Tibet,2020-01-23,,,No
 China – Tibet,2020-01-24,,,No
@@ -17640,6 +17723,7 @@ China – Tibet,2020-08-15,,,No
 China – Tibet,2020-08-16,,,No
 China – Tibet,2020-08-17,,,No
 China – Tibet,2020-08-18,,,No
+China – Tibet,2020-08-19,,,No
 China – Xinjiang,2020-01-22,,,No
 China – Xinjiang,2020-01-23,,,No
 China – Xinjiang,2020-01-24,,,No
@@ -17850,6 +17934,7 @@ China – Xinjiang,2020-08-15,,,No
 China – Xinjiang,2020-08-16,,,No
 China – Xinjiang,2020-08-17,,,No
 China – Xinjiang,2020-08-18,,,No
+China – Xinjiang,2020-08-19,,,No
 China – Yunnan,2020-01-22,,,No
 China – Yunnan,2020-01-23,,,No
 China – Yunnan,2020-01-24,,,No
@@ -18060,6 +18145,7 @@ China – Yunnan,2020-08-15,,,No
 China – Yunnan,2020-08-16,,,No
 China – Yunnan,2020-08-17,,,No
 China – Yunnan,2020-08-18,,,No
+China – Yunnan,2020-08-19,,,No
 China – Zhejiang,2020-01-22,,,No
 China – Zhejiang,2020-01-23,,,No
 China – Zhejiang,2020-01-24,,,No
@@ -18270,6 +18356,7 @@ China – Zhejiang,2020-08-15,,,No
 China – Zhejiang,2020-08-16,,,No
 China – Zhejiang,2020-08-17,,,No
 China – Zhejiang,2020-08-18,,,No
+China – Zhejiang,2020-08-19,,,No
 Colombia,2020-01-22,,,No
 Colombia,2020-01-23,,,No
 Colombia,2020-01-24,,,No
@@ -18480,6 +18567,7 @@ Colombia,2020-08-15,2143097,owid/roser,No
 Colombia,2020-08-16,2177989,owid/roser,No
 Colombia,2020-08-17,2210712,owid/roser,No
 Colombia,2020-08-18,2246595,owid/roser,No
+Colombia,2020-08-19,2299226,worldometers,No
 Comoros,2020-01-22,,,No
 Comoros,2020-01-23,,,No
 Comoros,2020-01-24,,,No
@@ -18690,6 +18778,7 @@ Comoros,2020-08-15,,,No
 Comoros,2020-08-16,,,No
 Comoros,2020-08-17,,,No
 Comoros,2020-08-18,,,No
+Comoros,2020-08-19,,,No
 Congo (Brazzaville),2020-01-22,,,No
 Congo (Brazzaville),2020-01-23,,,No
 Congo (Brazzaville),2020-01-24,,,No
@@ -18900,6 +18989,7 @@ Congo (Brazzaville),2020-08-15,,,No
 Congo (Brazzaville),2020-08-16,,,No
 Congo (Brazzaville),2020-08-17,,,No
 Congo (Brazzaville),2020-08-18,,,No
+Congo (Brazzaville),2020-08-19,,,No
 Congo (Kinshasa),2020-01-22,,,No
 Congo (Kinshasa),2020-01-23,,,No
 Congo (Kinshasa),2020-01-24,,,No
@@ -19110,6 +19200,7 @@ Congo (Kinshasa),2020-08-15,44816,,Yes
 Congo (Kinshasa),2020-08-16,44854,,Yes
 Congo (Kinshasa),2020-08-17,44884,,Yes
 Congo (Kinshasa),2020-08-18,44899,,Yes
+Congo (Kinshasa),2020-08-19,44919,,Yes
 Costa Rica,2020-01-22,,,No
 Costa Rica,2020-01-23,,,No
 Costa Rica,2020-01-24,,,No
@@ -19319,7 +19410,8 @@ Costa Rica,2020-08-14,100637,owid/roser,No
 Costa Rica,2020-08-15,102834,owid/roser,No
 Costa Rica,2020-08-16,105078,owid/roser,No
 Costa Rica,2020-08-17,106613,owid/roser,No
-Costa Rica,2020-08-18,107172,,Yes
+Costa Rica,2020-08-18,107672,owid/roser,No
+Costa Rica,2020-08-19,123223,worldometers,No
 Cote d'Ivoire,2020-01-22,,,No
 Cote d'Ivoire,2020-01-23,,,No
 Cote d'Ivoire,2020-01-24,,,No
@@ -19530,6 +19622,7 @@ Cote d'Ivoire,2020-08-15,112931,owid/roser,No
 Cote d'Ivoire,2020-08-16,113388,owid/roser,No
 Cote d'Ivoire,2020-08-17,114420,owid/roser,No
 Cote d'Ivoire,2020-08-18,115338,owid/roser,No
+Cote d'Ivoire,2020-08-19,116785,lau,No
 Croatia,2020-01-22,,,No
 Croatia,2020-01-23,,,No
 Croatia,2020-01-24,,,No
@@ -19740,6 +19833,7 @@ Croatia,2020-08-15,136280,owid/roser,No
 Croatia,2020-08-16,137657,owid/roser,No
 Croatia,2020-08-17,138647,owid/roser,No
 Croatia,2020-08-18,140471,owid/roser,No
+Croatia,2020-08-19,142124,owid/roser,No
 Cuba,2020-01-22,,,No
 Cuba,2020-01-23,,,No
 Cuba,2020-01-24,,,No
@@ -19949,7 +20043,8 @@ Cuba,2020-08-14,324043,owid/roser,No
 Cuba,2020-08-15,327689,owid/roser,No
 Cuba,2020-08-16,332039,owid/roser,No
 Cuba,2020-08-17,336333,owid/roser,No
-Cuba,2020-08-18,336377,,Yes
+Cuba,2020-08-18,341323,owid/roser,No
+Cuba,2020-08-19,341397,,Yes
 Cyprus,2020-01-22,,,No
 Cyprus,2020-01-23,,,No
 Cyprus,2020-01-24,,,No
@@ -20160,6 +20255,7 @@ Cyprus,2020-08-15,347391,,Yes
 Cyprus,2020-08-16,352625,,Yes
 Cyprus,2020-08-17,357865,lau,No
 Cyprus,2020-08-18,357873,,Yes
+Cyprus,2020-08-19,357899,,Yes
 Czechia,2020-01-22,,,No
 Czechia,2020-01-23,,,No
 Czechia,2020-01-24,,,No
@@ -20368,8 +20464,9 @@ Czechia,2020-08-13,783545,owid/roser,No
 Czechia,2020-08-14,791295,owid/roser,No
 Czechia,2020-08-15,796064,owid/roser,No
 Czechia,2020-08-16,798801,owid/roser,No
-Czechia,2020-08-17,805609,owid/roser,No
-Czechia,2020-08-18,805890,,Yes
+Czechia,2020-08-17,805629,owid/roser,No
+Czechia,2020-08-18,812835,owid/roser,No
+Czechia,2020-08-19,813150,,Yes
 Denmark,2020-01-22,,,No
 Denmark,2020-01-23,,,No
 Denmark,2020-01-24,,,No
@@ -20551,35 +20648,36 @@ Denmark,2020-07-17,1309700,owid/roser,No
 Denmark,2020-07-18,1320369,owid/roser,No
 Denmark,2020-07-19,1331305,owid/roser,No
 Denmark,2020-07-20,1349513,owid/roser,No
-Denmark,2020-07-21,1366167,owid/roser,No
-Denmark,2020-07-22,1382798,owid/roser,No
-Denmark,2020-07-23,1398588,owid/roser,No
-Denmark,2020-07-24,1414695,owid/roser,No
-Denmark,2020-07-25,1426422,owid/roser,No
-Denmark,2020-07-26,1439223,owid/roser,No
-Denmark,2020-07-27,1459938,owid/roser,No
-Denmark,2020-07-28,1480315,owid/roser,No
-Denmark,2020-07-29,1500532,owid/roser,No
-Denmark,2020-07-30,1521076,owid/roser,No
-Denmark,2020-07-31,1540992,owid/roser,No
-Denmark,2020-08-01,1555290,owid/roser,No
-Denmark,2020-08-02,1571002,owid/roser,No
-Denmark,2020-08-03,1594444,owid/roser,No
-Denmark,2020-08-04,1619384,owid/roser,No
-Denmark,2020-08-05,1644259,owid/roser,No
-Denmark,2020-08-06,1671107,owid/roser,No
-Denmark,2020-08-07,1698169,owid/roser,No
-Denmark,2020-08-08,1718954,owid/roser,No
-Denmark,2020-08-09,1739883,owid/roser,No
-Denmark,2020-08-10,1770825,owid/roser,No
-Denmark,2020-08-11,1804339,owid/roser,No
-Denmark,2020-08-12,1839060,owid/roser,No
-Denmark,2020-08-13,1872726,owid/roser,No
-Denmark,2020-08-14,1905264,owid/roser,No
-Denmark,2020-08-15,1929837,owid/roser,No
-Denmark,2020-08-16,1948676,owid/roser,No
-Denmark,2020-08-17,1956472,owid/roser,No
-Denmark,2020-08-18,1966834,worldometers,No
+Denmark,2020-07-21,1366168,owid/roser,No
+Denmark,2020-07-22,1382799,owid/roser,No
+Denmark,2020-07-23,1398590,owid/roser,No
+Denmark,2020-07-24,1414697,owid/roser,No
+Denmark,2020-07-25,1426424,owid/roser,No
+Denmark,2020-07-26,1439225,owid/roser,No
+Denmark,2020-07-27,1459940,owid/roser,No
+Denmark,2020-07-28,1480317,owid/roser,No
+Denmark,2020-07-29,1500534,owid/roser,No
+Denmark,2020-07-30,1521078,owid/roser,No
+Denmark,2020-07-31,1540994,owid/roser,No
+Denmark,2020-08-01,1555292,owid/roser,No
+Denmark,2020-08-02,1571004,owid/roser,No
+Denmark,2020-08-03,1594446,owid/roser,No
+Denmark,2020-08-04,1619386,owid/roser,No
+Denmark,2020-08-05,1644261,owid/roser,No
+Denmark,2020-08-06,1671112,owid/roser,No
+Denmark,2020-08-07,1698174,owid/roser,No
+Denmark,2020-08-08,1718959,owid/roser,No
+Denmark,2020-08-09,1739888,owid/roser,No
+Denmark,2020-08-10,1770832,owid/roser,No
+Denmark,2020-08-11,1804351,owid/roser,No
+Denmark,2020-08-12,1839074,owid/roser,No
+Denmark,2020-08-13,1872744,owid/roser,No
+Denmark,2020-08-14,1905297,owid/roser,No
+Denmark,2020-08-15,1930536,owid/roser,No
+Denmark,2020-08-16,1955798,owid/roser,No
+Denmark,2020-08-17,1983173,owid/roser,No
+Denmark,2020-08-18,1990371,owid/roser,No
+Denmark,2020-08-19,1994602,worldometers,No
 Denmark – Faroe Islands,2020-01-22,,,No
 Denmark – Faroe Islands,2020-01-23,,,No
 Denmark – Faroe Islands,2020-01-24,,,No
@@ -20790,6 +20888,7 @@ Denmark – Faroe Islands,2020-08-15,68620,lau,No
 Denmark – Faroe Islands,2020-08-16,71738,lau,No
 Denmark – Faroe Islands,2020-08-17,72346,lau,No
 Denmark – Faroe Islands,2020-08-18,73898,lau,No
+Denmark – Faroe Islands,2020-08-19,78471,lau,No
 Denmark – Greenland,2020-01-22,,,No
 Denmark – Greenland,2020-01-23,,,No
 Denmark – Greenland,2020-01-24,,,No
@@ -21000,6 +21099,7 @@ Denmark – Greenland,2020-08-15,6296,worldometers,No
 Denmark – Greenland,2020-08-16,6310,,Yes
 Denmark – Greenland,2020-08-17,6325,,Yes
 Denmark – Greenland,2020-08-18,6340,worldometers,No
+Denmark – Greenland,2020-08-19,6340,,Yes
 Diamond Princess,2020-01-22,,,No
 Diamond Princess,2020-01-23,,,No
 Diamond Princess,2020-01-24,,,No
@@ -21210,6 +21310,7 @@ Diamond Princess,2020-08-15,,,No
 Diamond Princess,2020-08-16,,,No
 Diamond Princess,2020-08-17,,,No
 Diamond Princess,2020-08-18,,,No
+Diamond Princess,2020-08-19,,,No
 Djibouti,2020-01-22,,,No
 Djibouti,2020-01-23,,,No
 Djibouti,2020-01-24,,,No
@@ -21420,6 +21521,7 @@ Djibouti,2020-08-15,62731,worldometers,No
 Djibouti,2020-08-16,62865,,Yes
 Djibouti,2020-08-17,63001,worldometers,No
 Djibouti,2020-08-18,63299,worldometers,No
+Djibouti,2020-08-19,63299,,Yes
 Dominica,2020-01-22,,,No
 Dominica,2020-01-23,,,No
 Dominica,2020-01-24,,,No
@@ -21606,30 +21708,31 @@ Dominica,2020-07-22,953,,Yes
 Dominica,2020-07-23,970,,Yes
 Dominica,2020-07-24,987,,Yes
 Dominica,2020-07-25,1005,worldometers,No
-Dominica,2020-07-26,1005,,Yes
-Dominica,2020-07-27,1005,,Yes
-Dominica,2020-07-28,1005,,Yes
-Dominica,2020-07-29,1005,,Yes
-Dominica,2020-07-30,1005,,Yes
-Dominica,2020-07-31,1005,,Yes
-Dominica,2020-08-01,1005,,Yes
-Dominica,2020-08-02,1005,,Yes
-Dominica,2020-08-03,1005,,Yes
-Dominica,2020-08-04,1005,,Yes
-Dominica,2020-08-05,1005,,Yes
-Dominica,2020-08-06,1005,,Yes
-Dominica,2020-08-07,1005,,Yes
-Dominica,2020-08-08,1005,,Yes
-Dominica,2020-08-09,1005,,Yes
-Dominica,2020-08-10,1005,,Yes
-Dominica,2020-08-11,1005,,Yes
-Dominica,2020-08-12,1005,,Yes
-Dominica,2020-08-13,1005,,Yes
-Dominica,2020-08-14,1005,,Yes
-Dominica,2020-08-15,1005,,Yes
-Dominica,2020-08-16,1005,,Yes
-Dominica,2020-08-17,1005,,Yes
-Dominica,2020-08-18,1005,,Yes
+Dominica,2020-07-26,1030,,Yes
+Dominica,2020-07-27,1056,,Yes
+Dominica,2020-07-28,1081,,Yes
+Dominica,2020-07-29,1107,,Yes
+Dominica,2020-07-30,1133,,Yes
+Dominica,2020-07-31,1158,,Yes
+Dominica,2020-08-01,1184,,Yes
+Dominica,2020-08-02,1210,,Yes
+Dominica,2020-08-03,1235,,Yes
+Dominica,2020-08-04,1261,,Yes
+Dominica,2020-08-05,1287,,Yes
+Dominica,2020-08-06,1312,,Yes
+Dominica,2020-08-07,1338,,Yes
+Dominica,2020-08-08,1363,,Yes
+Dominica,2020-08-09,1389,,Yes
+Dominica,2020-08-10,1415,,Yes
+Dominica,2020-08-11,1440,,Yes
+Dominica,2020-08-12,1466,,Yes
+Dominica,2020-08-13,1492,,Yes
+Dominica,2020-08-14,1517,,Yes
+Dominica,2020-08-15,1543,,Yes
+Dominica,2020-08-16,1569,,Yes
+Dominica,2020-08-17,1594,,Yes
+Dominica,2020-08-18,1620,,Yes
+Dominica,2020-08-19,1646,worldometers,No
 Dominican Republic,2020-01-22,,,No
 Dominican Republic,2020-01-23,,,No
 Dominican Republic,2020-01-24,,,No
@@ -21839,7 +21942,8 @@ Dominican Republic,2020-08-14,317643,lau,No
 Dominican Republic,2020-08-15,322056,lau,No
 Dominican Republic,2020-08-16,324463,lau,No
 Dominican Republic,2020-08-17,326644,lau,No
-Dominican Republic,2020-08-18,327030,,Yes
+Dominican Republic,2020-08-18,331160,lau,No
+Dominican Republic,2020-08-19,332164,,Yes
 Ecuador,2020-01-22,,,No
 Ecuador,2020-01-23,,,No
 Ecuador,2020-01-24,,,No
@@ -22050,6 +22154,7 @@ Ecuador,2020-08-15,221163,owid/roser,No
 Ecuador,2020-08-16,223842,owid/roser,No
 Ecuador,2020-08-17,224835,owid/roser,No
 Ecuador,2020-08-18,228038,owid/roser,No
+Ecuador,2020-08-19,231883,owid/roser,No
 Egypt,2020-01-22,,,No
 Egypt,2020-01-23,,,No
 Egypt,2020-01-24,,,No
@@ -22260,6 +22365,7 @@ Egypt,2020-08-15,452948,,Yes
 Egypt,2020-08-16,453087,,Yes
 Egypt,2020-08-17,453202,,Yes
 Egypt,2020-08-18,453365,,Yes
+Egypt,2020-08-19,453526,,Yes
 El Salvador,2020-01-22,,,No
 El Salvador,2020-01-23,,,No
 El Salvador,2020-01-24,,,No
@@ -22468,8 +22574,9 @@ El Salvador,2020-08-13,273509,owid/roser,No
 El Salvador,2020-08-14,275993,owid/roser,No
 El Salvador,2020-08-15,278445,owid/roser,No
 El Salvador,2020-08-16,280943,owid/roser,No
-El Salvador,2020-08-17,281224,,Yes
-El Salvador,2020-08-18,281493,,Yes
+El Salvador,2020-08-17,281771,,Yes
+El Salvador,2020-08-18,282590,,Yes
+El Salvador,2020-08-19,283395,worldometers,No
 Equatorial Guinea,2020-01-22,,,No
 Equatorial Guinea,2020-01-23,,,No
 Equatorial Guinea,2020-01-24,,,No
@@ -22680,6 +22787,7 @@ Equatorial Guinea,2020-08-15,44356,,Yes
 Equatorial Guinea,2020-08-16,44356,,Yes
 Equatorial Guinea,2020-08-17,44356,,Yes
 Equatorial Guinea,2020-08-18,44356,,Yes
+Equatorial Guinea,2020-08-19,44427,,Yes
 Eritrea,2020-01-22,,,No
 Eritrea,2020-01-23,,,No
 Eritrea,2020-01-24,,,No
@@ -22890,6 +22998,7 @@ Eritrea,2020-08-15,,,No
 Eritrea,2020-08-16,,,No
 Eritrea,2020-08-17,,,No
 Eritrea,2020-08-18,,,No
+Eritrea,2020-08-19,,,No
 Estonia,2020-01-22,,,No
 Estonia,2020-01-23,,,No
 Estonia,2020-01-24,,,No
@@ -23091,15 +23200,16 @@ Estonia,2020-08-06,123820,owid/roser,No
 Estonia,2020-08-07,125217,owid/roser,No
 Estonia,2020-08-08,125597,owid/roser,No
 Estonia,2020-08-09,126710,owid/roser,No
-Estonia,2020-08-10,128199,owid/roser,No
-Estonia,2020-08-11,129624,owid/roser,No
-Estonia,2020-08-12,130815,owid/roser,No
-Estonia,2020-08-13,132266,owid/roser,No
-Estonia,2020-08-14,133502,owid/roser,No
-Estonia,2020-08-15,134544,owid/roser,No
-Estonia,2020-08-16,134851,owid/roser,No
-Estonia,2020-08-17,136124,owid/roser,No
-Estonia,2020-08-18,137286,owid/roser,No
+Estonia,2020-08-10,128200,owid/roser,No
+Estonia,2020-08-11,129625,owid/roser,No
+Estonia,2020-08-12,130816,owid/roser,No
+Estonia,2020-08-13,132267,owid/roser,No
+Estonia,2020-08-14,133503,owid/roser,No
+Estonia,2020-08-15,134545,owid/roser,No
+Estonia,2020-08-16,134852,owid/roser,No
+Estonia,2020-08-17,136122,owid/roser,No
+Estonia,2020-08-18,137281,owid/roser,No
+Estonia,2020-08-19,138166,owid/roser,No
 Eswatini,2020-01-22,,,No
 Eswatini,2020-01-23,,,No
 Eswatini,2020-01-24,,,No
@@ -23310,6 +23420,7 @@ Eswatini,2020-08-15,28455,,Yes
 Eswatini,2020-08-16,28549,,Yes
 Eswatini,2020-08-17,28604,,Yes
 Eswatini,2020-08-18,28699,,Yes
+Eswatini,2020-08-19,28768,,Yes
 Ethiopia,2020-01-22,,,No
 Ethiopia,2020-01-23,,,No
 Ethiopia,2020-01-24,,,No
@@ -23520,6 +23631,7 @@ Ethiopia,2020-08-15,567442,worldometers,No
 Ethiopia,2020-08-16,589694,worldometers,No
 Ethiopia,2020-08-17,609463,worldometers,No
 Ethiopia,2020-08-18,629210,worldometers,No
+Ethiopia,2020-08-19,651311,worldometers,No
 Fiji,2020-01-22,,,No
 Fiji,2020-01-23,,,No
 Fiji,2020-01-24,,,No
@@ -23730,6 +23842,7 @@ Fiji,2020-08-15,7606,owid/roser,No
 Fiji,2020-08-16,7623,owid/roser,No
 Fiji,2020-08-17,7623,,Yes
 Fiji,2020-08-18,7623,,Yes
+Fiji,2020-08-19,7623,,Yes
 Finland,2020-01-22,,,No
 Finland,2020-01-23,,,No
 Finland,2020-01-24,,,No
@@ -23938,8 +24051,9 @@ Finland,2020-08-13,469483,owid/roser,No
 Finland,2020-08-14,478617,owid/roser,No
 Finland,2020-08-15,488573,owid/roser,No
 Finland,2020-08-16,499094,owid/roser,No
-Finland,2020-08-17,509569,owid/roser,No
-Finland,2020-08-18,510300,owid/roser,No
+Finland,2020-08-17,509754,owid/roser,No
+Finland,2020-08-18,517645,owid/roser,No
+Finland,2020-08-19,517674,,Yes
 France,2020-01-22,,,No
 France,2020-01-23,,,No
 France,2020-01-24,,,No
@@ -24150,6 +24264,7 @@ France,2020-08-15,6000000,worldometers,No
 France,2020-08-16,6000000,,Yes
 France,2020-08-17,6003305,,Yes
 France,2020-08-18,6003305,,Yes
+France,2020-08-19,6003305,,Yes
 France – French Guiana,2020-01-22,,,No
 France – French Guiana,2020-01-23,,,No
 France – French Guiana,2020-01-24,,,No
@@ -24360,6 +24475,7 @@ France – French Guiana,2020-08-15,44435,worldometers,No
 France – French Guiana,2020-08-16,46077,worldometers,No
 France – French Guiana,2020-08-17,46319,,Yes
 France – French Guiana,2020-08-18,46563,worldometers,No
+France – French Guiana,2020-08-19,46617,,Yes
 France – French Polynesia,2020-01-22,,,No
 France – French Polynesia,2020-01-23,,,No
 France – French Polynesia,2020-01-24,,,No
@@ -24566,10 +24682,11 @@ France – French Polynesia,2020-08-11,8168,,Yes
 France – French Polynesia,2020-08-12,8707,lau,No
 France – French Polynesia,2020-08-13,9294,,Yes
 France – French Polynesia,2020-08-14,9912,lau,No
-France – French Polynesia,2020-08-15,9912,,Yes
-France – French Polynesia,2020-08-16,9912,,Yes
-France – French Polynesia,2020-08-17,9957,,Yes
-France – French Polynesia,2020-08-18,9957,,Yes
+France – French Polynesia,2020-08-15,10097,,Yes
+France – French Polynesia,2020-08-16,10283,,Yes
+France – French Polynesia,2020-08-17,10517,,Yes
+France – French Polynesia,2020-08-18,10704,,Yes
+France – French Polynesia,2020-08-19,10891,lau,No
 France – Guadeloupe,2020-01-22,,,No
 France – Guadeloupe,2020-01-23,,,No
 France – Guadeloupe,2020-01-24,,,No
@@ -24777,9 +24894,10 @@ France – Guadeloupe,2020-08-12,20812,,Yes
 France – Guadeloupe,2020-08-13,21269,worldometers,No
 France – Guadeloupe,2020-08-14,22022,,Yes
 France – Guadeloupe,2020-08-15,22696,worldometers,No
-France – Guadeloupe,2020-08-16,22696,,Yes
-France – Guadeloupe,2020-08-17,22760,,Yes
-France – Guadeloupe,2020-08-18,22760,,Yes
+France – Guadeloupe,2020-08-16,22901,,Yes
+France – Guadeloupe,2020-08-17,23172,,Yes
+France – Guadeloupe,2020-08-18,23378,,Yes
+France – Guadeloupe,2020-08-19,23585,worldometers,No
 France – Martinique,2020-01-22,,,No
 France – Martinique,2020-01-23,,,No
 France – Martinique,2020-01-24,,,No
@@ -24990,6 +25108,7 @@ France – Martinique,2020-08-15,12301,,Yes
 France – Martinique,2020-08-16,12301,,Yes
 France – Martinique,2020-08-17,12301,,Yes
 France – Martinique,2020-08-18,12301,,Yes
+France – Martinique,2020-08-19,12301,,Yes
 France – Mayotte,2020-01-22,,,No
 France – Mayotte,2020-01-23,,,No
 France – Mayotte,2020-01-24,,,No
@@ -25200,6 +25319,7 @@ France – Mayotte,2020-08-15,16851,,Yes
 France – Mayotte,2020-08-16,16851,,Yes
 France – Mayotte,2020-08-17,16892,,Yes
 France – Mayotte,2020-08-18,16892,,Yes
+France – Mayotte,2020-08-19,16892,,Yes
 France – New Caledonia,2020-01-22,,,No
 France – New Caledonia,2020-01-23,,,No
 France – New Caledonia,2020-01-24,,,No
@@ -25409,7 +25529,8 @@ France – New Caledonia,2020-08-14,11445,,Yes
 France – New Caledonia,2020-08-15,11481,,Yes
 France – New Caledonia,2020-08-16,11516,,Yes
 France – New Caledonia,2020-08-17,11553,worldometers,No
-France – New Caledonia,2020-08-18,11553,,Yes
+France – New Caledonia,2020-08-18,11577,,Yes
+France – New Caledonia,2020-08-19,11602,worldometers,No
 France – Reunion,2020-01-22,,,No
 France – Reunion,2020-01-23,,,No
 France – Reunion,2020-01-24,,,No
@@ -25620,6 +25741,7 @@ France – Reunion,2020-08-15,35707,,Yes
 France – Reunion,2020-08-16,35746,,Yes
 France – Reunion,2020-08-17,35771,,Yes
 France – Reunion,2020-08-18,35794,,Yes
+France – Reunion,2020-08-19,35794,,Yes
 France – Saint Barthelemy,2020-01-22,,,No
 France – Saint Barthelemy,2020-01-23,,,No
 France – Saint Barthelemy,2020-01-24,,,No
@@ -25830,6 +25952,7 @@ France – Saint Barthelemy,2020-08-15,1699,worldometers,No
 France – Saint Barthelemy,2020-08-16,1699,,Yes
 France – Saint Barthelemy,2020-08-17,1702,,Yes
 France – Saint Barthelemy,2020-08-18,1702,,Yes
+France – Saint Barthelemy,2020-08-19,1702,,Yes
 France – Saint Pierre and Miquelon,2020-01-22,,,No
 France – Saint Pierre and Miquelon,2020-01-23,,,No
 France – Saint Pierre and Miquelon,2020-01-24,,,No
@@ -26040,6 +26163,7 @@ France – Saint Pierre and Miquelon,2020-08-15,,,No
 France – Saint Pierre and Miquelon,2020-08-16,,,No
 France – Saint Pierre and Miquelon,2020-08-17,,,No
 France – Saint Pierre and Miquelon,2020-08-18,,,No
+France – Saint Pierre and Miquelon,2020-08-19,,,No
 France – St Martin,2020-01-22,,,No
 France – St Martin,2020-01-23,,,No
 France – St Martin,2020-01-24,,,No
@@ -26250,6 +26374,7 @@ France – St Martin,2020-08-15,2321,worldometers,No
 France – St Martin,2020-08-16,2359,,Yes
 France – St Martin,2020-08-17,2410,,Yes
 France – St Martin,2020-08-18,2449,worldometers,No
+France – St Martin,2020-08-19,2449,,Yes
 Gabon,2020-01-22,,,No
 Gabon,2020-01-23,,,No
 Gabon,2020-01-24,,,No
@@ -26460,6 +26585,7 @@ Gabon,2020-08-15,100298,worldometers,No
 Gabon,2020-08-16,100908,,Yes
 Gabon,2020-08-17,101564,,Yes
 Gabon,2020-08-18,102175,worldometers,No
+Gabon,2020-08-19,102224,,Yes
 Gambia,2020-01-22,,,No
 Gambia,2020-01-23,,,No
 Gambia,2020-01-24,,,No
@@ -26670,6 +26796,7 @@ Gambia,2020-08-15,6312,worldometers,No
 Gambia,2020-08-16,6495,,Yes
 Gambia,2020-08-17,6495,,Yes
 Gambia,2020-08-18,6739,,Yes
+Gambia,2020-08-19,6911,,Yes
 Georgia,2020-01-22,,,No
 Georgia,2020-01-23,,,No
 Georgia,2020-01-24,,,No
@@ -26880,6 +27007,7 @@ Georgia,2020-08-15,295803,lau,No
 Georgia,2020-08-16,305761,lau,No
 Georgia,2020-08-17,307568,,Yes
 Georgia,2020-08-18,309381,lau,No
+Georgia,2020-08-19,315142,lau,No
 Germany,2020-01-22,,,No
 Germany,2020-01-23,,,No
 Germany,2020-01-24,,,No
@@ -27032,64 +27160,65 @@ Germany,2020-06-18,5257849,,Yes
 Germany,2020-06-19,5313160,,Yes
 Germany,2020-06-20,5368364,,Yes
 Germany,2020-06-21,5423824,owid/roser,No
-Germany,2020-06-22,5490510,,Yes
-Germany,2020-06-23,5557430,,Yes
-Germany,2020-06-24,5624034,,Yes
-Germany,2020-06-25,5690763,,Yes
-Germany,2020-06-26,5757678,,Yes
-Germany,2020-06-27,5824349,,Yes
-Germany,2020-06-28,5890828,owid/roser,No
-Germany,2020-06-29,5962959,,Yes
-Germany,2020-06-30,6035126,,Yes
-Germany,2020-07-01,6107406,,Yes
-Germany,2020-07-02,6179699,,Yes
-Germany,2020-07-03,6251932,,Yes
-Germany,2020-07-04,6324184,,Yes
-Germany,2020-07-05,6396346,owid/roser,No
-Germany,2020-07-06,6469395,,Yes
-Germany,2020-07-07,6542189,,Yes
-Germany,2020-07-08,6615069,,Yes
-Germany,2020-07-09,6687900,,Yes
-Germany,2020-07-10,6760769,,Yes
-Germany,2020-07-11,6833695,,Yes
-Germany,2020-07-12,6906449,owid/roser,No
-Germany,2020-07-13,6983157,,Yes
-Germany,2020-07-14,7059886,,Yes
-Germany,2020-07-15,7136785,,Yes
-Germany,2020-07-16,7213824,,Yes
-Germany,2020-07-17,7290913,,Yes
-Germany,2020-07-18,7367788,,Yes
-Germany,2020-07-19,7444593,owid/roser,No
-Germany,2020-07-20,7526110,,Yes
-Germany,2020-07-21,7607439,,Yes
-Germany,2020-07-22,7688948,,Yes
-Germany,2020-07-23,7770517,,Yes
-Germany,2020-07-24,7852244,,Yes
-Germany,2020-07-25,7933895,,Yes
-Germany,2020-07-26,8015274,owid/roser,No
-Germany,2020-07-27,8097586,,Yes
-Germany,2020-07-28,8180060,,Yes
-Germany,2020-07-29,8262798,,Yes
-Germany,2020-07-30,8345709,,Yes
-Germany,2020-07-31,8428509,,Yes
-Germany,2020-08-01,8511052,,Yes
-Germany,2020-08-02,8593190,owid/roser,No
-Germany,2020-08-03,8689181,,Yes
-Germany,2020-08-04,8785014,,Yes
-Germany,2020-08-05,8881450,,Yes
-Germany,2020-08-06,8977539,,Yes
-Germany,2020-08-07,9073893,,Yes
-Germany,2020-08-08,9169792,,Yes
-Germany,2020-08-09,9265361,owid/roser,No
-Germany,2020-08-10,9266581,,Yes
-Germany,2020-08-11,9267613,,Yes
-Germany,2020-08-12,9268932,,Yes
-Germany,2020-08-13,9270354,,Yes
-Germany,2020-08-14,9271864,,Yes
-Germany,2020-08-15,9272561,,Yes
-Germany,2020-08-16,9273080,,Yes
-Germany,2020-08-17,9274773,,Yes
-Germany,2020-08-18,9276193,,Yes
+Germany,2020-06-22,5490432,,Yes
+Germany,2020-06-23,5557274,,Yes
+Germany,2020-06-24,5623801,,Yes
+Germany,2020-06-25,5690451,,Yes
+Germany,2020-06-26,5757289,,Yes
+Germany,2020-06-27,5823882,,Yes
+Germany,2020-06-28,5890283,owid/roser,No
+Germany,2020-06-29,5962209,,Yes
+Germany,2020-06-30,6034171,,Yes
+Germany,2020-07-01,6106245,,Yes
+Germany,2020-07-02,6178333,,Yes
+Germany,2020-07-03,6250362,,Yes
+Germany,2020-07-04,6322408,,Yes
+Germany,2020-07-05,6394365,owid/roser,No
+Germany,2020-07-06,6467414,,Yes
+Germany,2020-07-07,6540208,,Yes
+Germany,2020-07-08,6613088,,Yes
+Germany,2020-07-09,6685919,,Yes
+Germany,2020-07-10,6758788,,Yes
+Germany,2020-07-11,6831714,,Yes
+Germany,2020-07-12,6904468,owid/roser,No
+Germany,2020-07-13,6981188,,Yes
+Germany,2020-07-14,7057929,,Yes
+Germany,2020-07-15,7134840,,Yes
+Germany,2020-07-16,7211892,,Yes
+Germany,2020-07-17,7288993,,Yes
+Germany,2020-07-18,7365879,,Yes
+Germany,2020-07-19,7442697,owid/roser,No
+Germany,2020-07-20,7524224,,Yes
+Germany,2020-07-21,7605561,,Yes
+Germany,2020-07-22,7687080,,Yes
+Germany,2020-07-23,7768659,,Yes
+Germany,2020-07-24,7850395,,Yes
+Germany,2020-07-25,7932055,,Yes
+Germany,2020-07-26,8013443,owid/roser,No
+Germany,2020-07-27,8095781,,Yes
+Germany,2020-07-28,8178281,,Yes
+Germany,2020-07-29,8261045,,Yes
+Germany,2020-07-30,8343982,,Yes
+Germany,2020-07-31,8426808,,Yes
+Germany,2020-08-01,8509378,,Yes
+Germany,2020-08-02,8591542,owid/roser,No
+Germany,2020-08-03,8695832,,Yes
+Germany,2020-08-04,8799966,,Yes
+Germany,2020-08-05,8904705,,Yes
+Germany,2020-08-06,9009099,,Yes
+Germany,2020-08-07,9113760,,Yes
+Germany,2020-08-08,9217967,,Yes
+Germany,2020-08-09,9321842,owid/roser,No
+Germany,2020-08-10,9446947,,Yes
+Germany,2020-08-11,9571892,,Yes
+Germany,2020-08-12,9697164,,Yes
+Germany,2020-08-13,9822578,,Yes
+Germany,2020-08-14,9948124,,Yes
+Germany,2020-08-15,10072833,,Yes
+Germany,2020-08-16,10197366,owid/roser,No
+Germany,2020-08-17,10199059,,Yes
+Germany,2020-08-18,10200479,,Yes
+Germany,2020-08-19,10202065,,Yes
 Ghana,2020-01-22,,,No
 Ghana,2020-01-23,,,No
 Ghana,2020-01-24,,,No
@@ -27298,8 +27427,9 @@ Ghana,2020-08-13,424315,owid/roser,No
 Ghana,2020-08-14,425969,owid/roser,No
 Ghana,2020-08-15,427121,owid/roser,No
 Ghana,2020-08-16,428695,owid/roser,No
-Ghana,2020-08-17,428816,,Yes
-Ghana,2020-08-18,429156,,Yes
+Ghana,2020-08-17,429773,owid/roser,No
+Ghana,2020-08-18,430113,,Yes
+Ghana,2020-08-19,430214,,Yes
 Greece,2020-01-22,,,No
 Greece,2020-01-23,,,No
 Greece,2020-01-24,,,No
@@ -27510,6 +27640,7 @@ Greece,2020-08-15,715503,owid/roser,No
 Greece,2020-08-16,719311,owid/roser,No
 Greece,2020-08-17,726961,owid/roser,No
 Greece,2020-08-18,740871,owid/roser,No
+Greece,2020-08-19,804282,owid/roser,No
 Grenada,2020-01-22,,,No
 Grenada,2020-01-23,,,No
 Grenada,2020-01-24,,,No
@@ -27720,6 +27851,7 @@ Grenada,2020-08-15,6252,,Yes
 Grenada,2020-08-16,6252,,Yes
 Grenada,2020-08-17,6252,,Yes
 Grenada,2020-08-18,6252,,Yes
+Grenada,2020-08-19,6252,,Yes
 Guatemala,2020-01-22,,,No
 Guatemala,2020-01-23,,,No
 Guatemala,2020-01-24,,,No
@@ -27929,7 +28061,8 @@ Guatemala,2020-08-14,193147,worldometers,No
 Guatemala,2020-08-15,197068,worldometers,No
 Guatemala,2020-08-16,200558,worldometers,No
 Guatemala,2020-08-17,200984,worldometers,No
-Guatemala,2020-08-18,201887,,Yes
+Guatemala,2020-08-18,203110,,Yes
+Guatemala,2020-08-19,205381,worldometers,No
 Guinea,2020-01-22,,,No
 Guinea,2020-01-23,,,No
 Guinea,2020-01-24,,,No
@@ -28110,36 +28243,37 @@ Guinea,2020-07-16,34871,,Yes
 Guinea,2020-07-17,35348,,Yes
 Guinea,2020-07-18,35808,,Yes
 Guinea,2020-07-19,36254,wiki,No
-Guinea,2020-07-20,36300,,Yes
-Guinea,2020-07-21,36362,,Yes
-Guinea,2020-07-22,36457,,Yes
-Guinea,2020-07-23,36516,,Yes
-Guinea,2020-07-24,36577,,Yes
-Guinea,2020-07-25,36637,,Yes
-Guinea,2020-07-26,36718,,Yes
-Guinea,2020-07-27,36765,,Yes
-Guinea,2020-07-28,36836,,Yes
-Guinea,2020-07-29,36893,,Yes
-Guinea,2020-07-30,36952,,Yes
-Guinea,2020-07-31,37018,,Yes
-Guinea,2020-08-01,37018,,Yes
-Guinea,2020-08-02,37027,,Yes
-Guinea,2020-08-03,37074,,Yes
-Guinea,2020-08-04,37199,,Yes
-Guinea,2020-08-05,37285,,Yes
-Guinea,2020-08-06,37374,,Yes
-Guinea,2020-08-07,37487,,Yes
-Guinea,2020-08-08,37585,,Yes
-Guinea,2020-08-09,37640,,Yes
-Guinea,2020-08-10,37640,,Yes
-Guinea,2020-08-11,37728,,Yes
-Guinea,2020-08-12,37826,,Yes
-Guinea,2020-08-13,37908,,Yes
-Guinea,2020-08-14,37970,,Yes
-Guinea,2020-08-15,38053,,Yes
-Guinea,2020-08-16,38192,,Yes
-Guinea,2020-08-17,38330,,Yes
-Guinea,2020-08-18,38425,,Yes
+Guinea,2020-07-20,37334,,Yes
+Guinea,2020-07-21,38434,,Yes
+Guinea,2020-07-22,39573,,Yes
+Guinea,2020-07-23,40677,,Yes
+Guinea,2020-07-24,41787,,Yes
+Guinea,2020-07-25,42900,,Yes
+Guinea,2020-07-26,44041,,Yes
+Guinea,2020-07-27,45145,,Yes
+Guinea,2020-07-28,46282,,Yes
+Guinea,2020-07-29,47404,,Yes
+Guinea,2020-07-30,48533,,Yes
+Guinea,2020-07-31,49674,,Yes
+Guinea,2020-08-01,50729,,Yes
+Guinea,2020-08-02,51797,,Yes
+Guinea,2020-08-03,52919,,Yes
+Guinea,2020-08-04,54157,,Yes
+Guinea,2020-08-05,55345,,Yes
+Guinea,2020-08-06,56542,,Yes
+Guinea,2020-08-07,57781,,Yes
+Guinea,2020-08-08,59003,,Yes
+Guinea,2020-08-09,60161,,Yes
+Guinea,2020-08-10,61234,,Yes
+Guinea,2020-08-11,62452,,Yes
+Guinea,2020-08-12,63692,,Yes
+Guinea,2020-08-13,64910,,Yes
+Guinea,2020-08-14,66098,,Yes
+Guinea,2020-08-15,67327,,Yes
+Guinea,2020-08-16,68661,,Yes
+Guinea,2020-08-17,70001,,Yes
+Guinea,2020-08-18,71270,,Yes
+Guinea,2020-08-19,72510,wiki,No
 Guinea-Bissau,2020-01-22,,,No
 Guinea-Bissau,2020-01-23,,,No
 Guinea-Bissau,2020-01-24,,,No
@@ -28350,6 +28484,7 @@ Guinea-Bissau,2020-08-15,3581,,Yes
 Guinea-Bissau,2020-08-16,3581,,Yes
 Guinea-Bissau,2020-08-17,3581,,Yes
 Guinea-Bissau,2020-08-18,3581,,Yes
+Guinea-Bissau,2020-08-19,3581,,Yes
 Guyana,2020-01-22,,,No
 Guyana,2020-01-23,,,No
 Guyana,2020-01-24,,,No
@@ -28559,7 +28694,8 @@ Guyana,2020-08-14,5809,lau,No
 Guyana,2020-08-15,5933,lau,No
 Guyana,2020-08-16,6046,lau,No
 Guyana,2020-08-17,6046,worldometers,No
-Guyana,2020-08-18,6074,,Yes
+Guyana,2020-08-18,6103,,Yes
+Guyana,2020-08-19,6173,worldometers,No
 Haiti,2020-01-22,,,No
 Haiti,2020-01-23,,,No
 Haiti,2020-01-24,,,No
@@ -28769,7 +28905,8 @@ Haiti,2020-08-14,20230,,Yes
 Haiti,2020-08-15,20477,,Yes
 Haiti,2020-08-16,20754,,Yes
 Haiti,2020-08-17,20999,worldometers,No
-Haiti,2020-08-18,21023,,Yes
+Haiti,2020-08-18,21197,,Yes
+Haiti,2020-08-19,21400,worldometers,No
 Holy See,2020-01-22,,,No
 Holy See,2020-01-23,,,No
 Holy See,2020-01-24,,,No
@@ -28980,6 +29117,7 @@ Holy See,2020-08-15,,,No
 Holy See,2020-08-16,,,No
 Holy See,2020-08-17,,,No
 Holy See,2020-08-18,,,No
+Holy See,2020-08-19,,,No
 Honduras,2020-01-22,,,No
 Honduras,2020-01-23,,,No
 Honduras,2020-01-24,,,No
@@ -29189,7 +29327,8 @@ Honduras,2020-08-14,120181,worldometers,No
 Honduras,2020-08-15,121168,worldometers,No
 Honduras,2020-08-16,122434,worldometers,No
 Honduras,2020-08-17,123539,worldometers,No
-Honduras,2020-08-18,124214,,Yes
+Honduras,2020-08-18,124976,,Yes
+Honduras,2020-08-19,126374,worldometers,No
 Hungary,2020-01-22,,,No
 Hungary,2020-01-23,,,No
 Hungary,2020-01-24,,,No
@@ -29400,6 +29539,7 @@ Hungary,2020-08-15,375685,owid/roser,No
 Hungary,2020-08-16,378608,owid/roser,No
 Hungary,2020-08-17,380932,owid/roser,No
 Hungary,2020-08-18,383411,worldometers,No
+Hungary,2020-08-19,383443,,Yes
 Iceland,2020-01-22,,,No
 Iceland,2020-01-23,,,No
 Iceland,2020-01-24,,,No
@@ -29608,8 +29748,9 @@ Iceland,2020-08-13,81052,owid/roser,No
 Iceland,2020-08-14,81589,owid/roser,No
 Iceland,2020-08-15,81936,owid/roser,No
 Iceland,2020-08-16,82094,owid/roser,No
-Iceland,2020-08-17,82477,owid/roser,No
-Iceland,2020-08-18,183283,worldometers,No
+Iceland,2020-08-17,82502,owid/roser,No
+Iceland,2020-08-18,83006,owid/roser,No
+Iceland,2020-08-19,83461,owid/roser,No
 India,2020-01-22,,,No
 India,2020-01-23,,,No
 India,2020-01-24,,,No
@@ -29820,6 +29961,7 @@ India,2020-08-15,29309703,owid/roser,No
 India,2020-08-16,30041400,owid/roser,No
 India,2020-08-17,30941264,owid/roser,No
 India,2020-08-18,31742782,owid/roser,No
+India,2020-08-19,32661252,owid/roser,No
 Indonesia,2020-01-22,,,No
 Indonesia,2020-01-23,,,No
 Indonesia,2020-01-24,,,No
@@ -30030,6 +30172,7 @@ Indonesia,2020-08-15,1052503,owid/roser,No
 Indonesia,2020-08-16,1061721,owid/roser,No
 Indonesia,2020-08-17,1068945,owid/roser,No
 Indonesia,2020-08-18,1081354,owid/roser,No
+Indonesia,2020-08-19,1096294,owid/roser,No
 Iran,2020-01-22,,,No
 Iran,2020-01-23,,,No
 Iran,2020-01-24,,,No
@@ -30240,6 +30383,7 @@ Iran,2020-08-15,2836252,owid/roser,No
 Iran,2020-08-16,2861825,owid/roser,No
 Iran,2020-08-17,2887938,owid/roser,No
 Iran,2020-08-18,2914049,owid/roser,No
+Iran,2020-08-19,2939840,owid/roser,No
 Iraq,2020-01-22,,,No
 Iraq,2020-01-23,,,No
 Iraq,2020-01-24,,,No
@@ -30449,7 +30593,8 @@ Iraq,2020-08-14,1245355,owid/roser,No
 Iraq,2020-08-15,1263650,owid/roser,No
 Iraq,2020-08-16,1282928,owid/roser,No
 Iraq,2020-08-17,1304331,owid/roser,No
-Iraq,2020-08-18,1325103,lau,No
+Iraq,2020-08-18,1325103,owid/roser,No
+Iraq,2020-08-19,1345459,owid/roser,No
 Ireland,2020-01-22,,,No
 Ireland,2020-01-23,,,No
 Ireland,2020-01-24,,,No
@@ -30660,6 +30805,7 @@ Ireland,2020-08-15,709689,owid/roser,No
 Ireland,2020-08-16,720041,owid/roser,No
 Ireland,2020-08-17,725574,owid/roser,No
 Ireland,2020-08-18,729913,owid/roser,No
+Ireland,2020-08-19,735598,owid/roser,No
 Israel,2020-01-22,,,No
 Israel,2020-01-23,,,No
 Israel,2020-01-24,,,No
@@ -30870,6 +31016,7 @@ Israel,2020-08-15,2052630,worldometers,No
 Israel,2020-08-16,2071380,worldometers,No
 Israel,2020-08-17,2079941,worldometers,No
 Israel,2020-08-18,2081599,,Yes
+Israel,2020-08-19,2083159,,Yes
 Italy,2020-01-22,,,No
 Italy,2020-01-23,,,No
 Italy,2020-01-24,,,No
@@ -31080,6 +31227,7 @@ Italy,2020-08-15,7520610,owid/roser,No
 Italy,2020-08-16,7557417,owid/roser,No
 Italy,2020-08-17,7588083,owid/roser,No
 Italy,2020-08-18,7642059,owid/roser,No
+Italy,2020-08-19,7713154,owid/roser,No
 Jamaica,2020-01-22,,,No
 Jamaica,2020-01-23,,,No
 Jamaica,2020-01-24,,,No
@@ -31290,6 +31438,7 @@ Jamaica,2020-08-15,45720,worldometers,No
 Jamaica,2020-08-16,46125,,Yes
 Jamaica,2020-08-17,46517,worldometers,No
 Jamaica,2020-08-18,46924,worldometers,No
+Jamaica,2020-08-19,47865,worldometers,No
 Japan,2020-01-22,,,No
 Japan,2020-01-23,,,No
 Japan,2020-01-24,,,No
@@ -31491,15 +31640,16 @@ Japan,2020-08-06,1298426,owid/roser,No
 Japan,2020-08-07,1325702,owid/roser,No
 Japan,2020-08-08,1350059,owid/roser,No
 Japan,2020-08-09,1360533,owid/roser,No
-Japan,2020-08-10,1372470,owid/roser,No
-Japan,2020-08-11,1398775,owid/roser,No
-Japan,2020-08-12,1425459,owid/roser,No
-Japan,2020-08-13,1446579,owid/roser,No
-Japan,2020-08-14,1464537,owid/roser,No
-Japan,2020-08-15,1480024,owid/roser,No
-Japan,2020-08-16,1488614,owid/roser,No
-Japan,2020-08-17,1489257,,Yes
-Japan,2020-08-18,1490176,,Yes
+Japan,2020-08-10,1372751,owid/roser,No
+Japan,2020-08-11,1402344,owid/roser,No
+Japan,2020-08-12,1431697,owid/roser,No
+Japan,2020-08-13,1455537,owid/roser,No
+Japan,2020-08-14,1476596,owid/roser,No
+Japan,2020-08-15,1494781,owid/roser,No
+Japan,2020-08-16,1504950,owid/roser,No
+Japan,2020-08-17,1526180,owid/roser,No
+Japan,2020-08-18,1527099,,Yes
+Japan,2020-08-19,1528191,,Yes
 Jordan,2020-01-22,,,No
 Jordan,2020-01-23,,,No
 Jordan,2020-01-24,,,No
@@ -31710,6 +31860,7 @@ Jordan,2020-08-15,686351,lau,No
 Jordan,2020-08-16,692760,lau,No
 Jordan,2020-08-17,698931,lau,No
 Jordan,2020-08-18,705920,lau,No
+Jordan,2020-08-19,713214,lau,No
 Kazakhstan,2020-01-22,,,No
 Kazakhstan,2020-01-23,,,No
 Kazakhstan,2020-01-24,,,No
@@ -31920,6 +32071,7 @@ Kazakhstan,2020-08-15,2291736,,Yes
 Kazakhstan,2020-08-16,2292073,,Yes
 Kazakhstan,2020-08-17,2292340,,Yes
 Kazakhstan,2020-08-18,2292611,,Yes
+Kazakhstan,2020-08-19,2292855,,Yes
 Kenya,2020-01-22,,,No
 Kenya,2020-01-23,,,No
 Kenya,2020-01-24,,,No
@@ -32129,7 +32281,8 @@ Kenya,2020-08-14,381317,owid/roser,No
 Kenya,2020-08-15,386485,,Yes
 Kenya,2020-08-16,391416,owid/roser,No
 Kenya,2020-08-17,394566,owid/roser,No
-Kenya,2020-08-18,394837,,Yes
+Kenya,2020-08-18,396519,,Yes
+Kenya,2020-08-19,398585,worldometers,No
 Kosovo,2020-01-22,,,No
 Kosovo,2020-01-23,,,No
 Kosovo,2020-01-24,,,No
@@ -32340,6 +32493,7 @@ Kosovo,2020-08-15,43600,lau,No
 Kosovo,2020-08-16,44051,lau,No
 Kosovo,2020-08-17,44491,lau,No
 Kosovo,2020-08-18,44940,lau,No
+Kosovo,2020-08-19,45434,lau,No
 Kuwait,2020-01-22,,,No
 Kuwait,2020-01-23,,,No
 Kuwait,2020-01-24,,,No
@@ -32550,6 +32704,7 @@ Kuwait,2020-08-15,555937,owid/roser,No
 Kuwait,2020-08-16,558800,owid/roser,No
 Kuwait,2020-08-17,563134,owid/roser,No
 Kuwait,2020-08-18,568440,owid/roser,No
+Kuwait,2020-08-19,573251,owid/roser,No
 Kyrgyzstan,2020-01-22,,,No
 Kyrgyzstan,2020-01-23,,,No
 Kyrgyzstan,2020-01-24,,,No
@@ -32760,6 +32915,7 @@ Kyrgyzstan,2020-08-15,284501,,Yes
 Kyrgyzstan,2020-08-16,284712,,Yes
 Kyrgyzstan,2020-08-17,284847,,Yes
 Kyrgyzstan,2020-08-18,285002,,Yes
+Kyrgyzstan,2020-08-19,285181,,Yes
 Laos,2020-01-22,,,No
 Laos,2020-01-23,,,No
 Laos,2020-01-24,,,No
@@ -32970,6 +33126,7 @@ Laos,2020-08-15,33538,worldometers,No
 Laos,2020-08-16,33801,,Yes
 Laos,2020-08-17,34064,worldometers,No
 Laos,2020-08-18,34386,worldometers,No
+Laos,2020-08-19,34808,worldometers,No
 Latvia,2020-01-22,,,No
 Latvia,2020-01-23,,,No
 Latvia,2020-01-24,,,No
@@ -33180,6 +33337,7 @@ Latvia,2020-08-15,224412,owid/roser,No
 Latvia,2020-08-16,225636,owid/roser,No
 Latvia,2020-08-17,226524,owid/roser,No
 Latvia,2020-08-18,228758,owid/roser,No
+Latvia,2020-08-19,230921,owid/roser,No
 Lebanon,2020-01-22,,,No
 Lebanon,2020-01-23,,,No
 Lebanon,2020-01-24,,,No
@@ -33390,6 +33548,7 @@ Lebanon,2020-08-15,403174,lau,No
 Lebanon,2020-08-16,409538,lau,No
 Lebanon,2020-08-17,415184,lau,No
 Lebanon,2020-08-18,424427,lau,No
+Lebanon,2020-08-19,431634,lau,No
 Lesotho,2020-01-22,,,No
 Lesotho,2020-01-23,,,No
 Lesotho,2020-01-24,,,No
@@ -33600,6 +33759,7 @@ Lesotho,2020-08-15,11116,,Yes
 Lesotho,2020-08-16,11116,,Yes
 Lesotho,2020-08-17,11159,,Yes
 Lesotho,2020-08-18,11159,,Yes
+Lesotho,2020-08-19,11159,,Yes
 Liberia,2020-01-22,,,No
 Liberia,2020-01-23,,,No
 Liberia,2020-01-24,,,No
@@ -33810,6 +33970,7 @@ Liberia,2020-08-15,,,No
 Liberia,2020-08-16,,,No
 Liberia,2020-08-17,,,No
 Liberia,2020-08-18,,,No
+Liberia,2020-08-19,,,No
 Libya,2020-01-22,,,No
 Libya,2020-01-23,,,No
 Libya,2020-01-24,,,No
@@ -34019,7 +34180,8 @@ Libya,2020-08-14,70633,,Yes
 Libya,2020-08-15,73226,worldometers,No
 Libya,2020-08-16,75827,worldometers,No
 Libya,2020-08-17,79057,worldometers,No
-Libya,2020-08-18,79546,,Yes
+Libya,2020-08-18,80598,,Yes
+Libya,2020-08-19,82057,worldometers,No
 Liechtenstein,2020-01-22,,,No
 Liechtenstein,2020-01-23,,,No
 Liechtenstein,2020-01-24,,,No
@@ -34230,6 +34392,7 @@ Liechtenstein,2020-08-15,1721,,Yes
 Liechtenstein,2020-08-16,1721,,Yes
 Liechtenstein,2020-08-17,1724,,Yes
 Liechtenstein,2020-08-18,1727,,Yes
+Liechtenstein,2020-08-19,1728,,Yes
 Lithuania,2020-01-22,,,No
 Lithuania,2020-01-23,,,No
 Lithuania,2020-01-24,,,No
@@ -34440,6 +34603,7 @@ Lithuania,2020-08-15,576248,worldometers,No
 Lithuania,2020-08-16,578355,,Yes
 Lithuania,2020-08-17,580453,owid/roser,No
 Lithuania,2020-08-18,584641,owid/roser,No
+Lithuania,2020-08-19,589505,owid/roser,No
 Luxembourg,2020-01-22,,,No
 Luxembourg,2020-01-23,,,No
 Luxembourg,2020-01-24,,,No
@@ -34628,28 +34792,29 @@ Luxembourg,2020-07-24,396476,owid/roser,No
 Luxembourg,2020-07-25,400647,owid/roser,No
 Luxembourg,2020-07-26,401312,owid/roser,No
 Luxembourg,2020-07-27,411542,owid/roser,No
-Luxembourg,2020-07-28,416315,owid/roser,No
-Luxembourg,2020-07-29,420270,owid/roser,No
-Luxembourg,2020-07-30,425231,owid/roser,No
-Luxembourg,2020-07-31,429505,owid/roser,No
-Luxembourg,2020-08-01,432509,owid/roser,No
-Luxembourg,2020-08-02,432945,owid/roser,No
-Luxembourg,2020-08-03,435906,owid/roser,No
-Luxembourg,2020-08-04,439322,owid/roser,No
-Luxembourg,2020-08-05,443168,owid/roser,No
-Luxembourg,2020-08-06,445419,owid/roser,No
-Luxembourg,2020-08-07,447692,owid/roser,No
-Luxembourg,2020-08-08,449569,owid/roser,No
-Luxembourg,2020-08-09,449811,owid/roser,No
-Luxembourg,2020-08-10,451407,owid/roser,No
-Luxembourg,2020-08-11,453698,owid/roser,No
-Luxembourg,2020-08-12,455347,owid/roser,No
-Luxembourg,2020-08-13,456963,owid/roser,No
-Luxembourg,2020-08-14,459562,owid/roser,No
-Luxembourg,2020-08-15,460577,owid/roser,No
-Luxembourg,2020-08-16,460976,owid/roser,No
-Luxembourg,2020-08-17,462207,owid/roser,No
-Luxembourg,2020-08-18,685935,worldometers,No
+Luxembourg,2020-07-28,416314,owid/roser,No
+Luxembourg,2020-07-29,420269,owid/roser,No
+Luxembourg,2020-07-30,425230,owid/roser,No
+Luxembourg,2020-07-31,429504,owid/roser,No
+Luxembourg,2020-08-01,432508,owid/roser,No
+Luxembourg,2020-08-02,432944,owid/roser,No
+Luxembourg,2020-08-03,435905,owid/roser,No
+Luxembourg,2020-08-04,439321,owid/roser,No
+Luxembourg,2020-08-05,443167,owid/roser,No
+Luxembourg,2020-08-06,445418,owid/roser,No
+Luxembourg,2020-08-07,447691,owid/roser,No
+Luxembourg,2020-08-08,449568,owid/roser,No
+Luxembourg,2020-08-09,449810,owid/roser,No
+Luxembourg,2020-08-10,451406,owid/roser,No
+Luxembourg,2020-08-11,453697,owid/roser,No
+Luxembourg,2020-08-12,455346,owid/roser,No
+Luxembourg,2020-08-13,456962,owid/roser,No
+Luxembourg,2020-08-14,459561,owid/roser,No
+Luxembourg,2020-08-15,460576,owid/roser,No
+Luxembourg,2020-08-16,460975,owid/roser,No
+Luxembourg,2020-08-17,462206,owid/roser,No
+Luxembourg,2020-08-18,464183,owid/roser,No
+Luxembourg,2020-08-19,689916,worldometers,No
 MS Zaandam,2020-01-22,,,No
 MS Zaandam,2020-01-23,,,No
 MS Zaandam,2020-01-24,,,No
@@ -34860,6 +35025,7 @@ MS Zaandam,2020-08-15,,,No
 MS Zaandam,2020-08-16,,,No
 MS Zaandam,2020-08-17,,,No
 MS Zaandam,2020-08-18,,,No
+MS Zaandam,2020-08-19,,,No
 Madagascar,2020-01-22,,,No
 Madagascar,2020-01-23,,,No
 Madagascar,2020-01-24,,,No
@@ -35070,6 +35236,7 @@ Madagascar,2020-08-15,51559,worldometers,No
 Madagascar,2020-08-16,51961,,Yes
 Madagascar,2020-08-17,52321,worldometers,No
 Madagascar,2020-08-18,52657,worldometers,No
+Madagascar,2020-08-19,53278,worldometers,No
 Malawi,2020-01-22,,,No
 Malawi,2020-01-23,,,No
 Malawi,2020-01-24,,,No
@@ -35280,6 +35447,7 @@ Malawi,2020-08-15,38451,worldometers,No
 Malawi,2020-08-16,38798,worldometers,No
 Malawi,2020-08-17,39214,worldometers,No
 Malawi,2020-08-18,39764,worldometers,No
+Malawi,2020-08-19,40106,worldometers,No
 Malaysia,2020-01-22,,,No
 Malaysia,2020-01-23,,,No
 Malaysia,2020-01-24,,,No
@@ -35490,6 +35658,7 @@ Malaysia,2020-08-15,1106217,owid/roser,No
 Malaysia,2020-08-16,1114246,owid/roser,No
 Malaysia,2020-08-17,1120666,owid/roser,No
 Malaysia,2020-08-18,1129091,owid/roser,No
+Malaysia,2020-08-19,1141679,owid/roser,No
 Maldives,2020-01-22,,,No
 Maldives,2020-01-23,,,No
 Maldives,2020-01-24,,,No
@@ -35699,7 +35868,8 @@ Maldives,2020-08-14,94047,owid/roser,No
 Maldives,2020-08-15,94865,owid/roser,No
 Maldives,2020-08-16,96175,owid/roser,No
 Maldives,2020-08-17,97211,owid/roser,No
-Maldives,2020-08-18,97381,,Yes
+Maldives,2020-08-18,98175,owid/roser,No
+Maldives,2020-08-19,99300,owid/roser,No
 Mali,2020-01-22,,,No
 Mali,2020-01-23,,,No
 Mali,2020-01-24,,,No
@@ -35910,6 +36080,7 @@ Mali,2020-08-15,30772,worldometers,No
 Mali,2020-08-16,31412,worldometers,No
 Mali,2020-08-17,31712,,Yes
 Mali,2020-08-18,32039,worldometers,No
+Mali,2020-08-19,32040,,Yes
 Malta,2020-01-22,,,No
 Malta,2020-01-23,,,No
 Malta,2020-01-24,,,No
@@ -36119,7 +36290,8 @@ Malta,2020-08-14,154514,owid/roser,No
 Malta,2020-08-15,156654,owid/roser,No
 Malta,2020-08-16,158924,owid/roser,No
 Malta,2020-08-17,161047,owid/roser,No
-Malta,2020-08-18,161100,lau,No
+Malta,2020-08-18,163308,owid/roser,No
+Malta,2020-08-19,163355,,Yes
 Mauritania,2020-01-22,,,No
 Mauritania,2020-01-23,,,No
 Mauritania,2020-01-24,,,No
@@ -36325,11 +36497,12 @@ Mauritania,2020-08-10,58012,,Yes
 Mauritania,2020-08-11,58067,,Yes
 Mauritania,2020-08-12,58103,,Yes
 Mauritania,2020-08-13,58147,worldometers,No
-Mauritania,2020-08-14,58170,,Yes
-Mauritania,2020-08-15,58187,,Yes
-Mauritania,2020-08-16,58195,,Yes
-Mauritania,2020-08-17,58256,,Yes
-Mauritania,2020-08-18,58283,,Yes
+Mauritania,2020-08-14,59923,,Yes
+Mauritania,2020-08-15,61695,,Yes
+Mauritania,2020-08-16,63457,,Yes
+Mauritania,2020-08-17,65280,,Yes
+Mauritania,2020-08-18,67067,,Yes
+Mauritania,2020-08-19,68872,worldometers,No
 Mauritius,2020-01-22,,,No
 Mauritius,2020-01-23,,,No
 Mauritius,2020-01-24,,,No
@@ -36540,6 +36713,7 @@ Mauritius,2020-08-15,214705,,Yes
 Mauritius,2020-08-16,214705,,Yes
 Mauritius,2020-08-17,214705,,Yes
 Mauritius,2020-08-18,214705,,Yes
+Mauritius,2020-08-19,214705,,Yes
 Mexico,2020-01-22,679,owid/roser,No
 Mexico,2020-01-23,725,owid/roser,No
 Mexico,2020-01-24,771,owid/roser,No
@@ -36588,17 +36762,17 @@ Mexico,2020-03-06,2264,owid/roser,No
 Mexico,2020-03-07,2290,owid/roser,No
 Mexico,2020-03-08,2325,owid/roser,No
 Mexico,2020-03-09,2404,owid/roser,No
-Mexico,2020-03-10,2510,owid/roser,No
-Mexico,2020-03-11,2643,owid/roser,No
-Mexico,2020-03-12,2846,owid/roser,No
-Mexico,2020-03-13,3130,owid/roser,No
-Mexico,2020-03-14,3293,owid/roser,No
-Mexico,2020-03-15,3464,owid/roser,No
-Mexico,2020-03-16,3727,owid/roser,No
-Mexico,2020-03-17,4188,owid/roser,No
-Mexico,2020-03-18,4708,owid/roser,No
-Mexico,2020-03-19,5299,owid/roser,No
-Mexico,2020-03-20,5869,owid/roser,No
+Mexico,2020-03-10,2511,owid/roser,No
+Mexico,2020-03-11,2644,owid/roser,No
+Mexico,2020-03-12,2847,owid/roser,No
+Mexico,2020-03-13,3131,owid/roser,No
+Mexico,2020-03-14,3294,owid/roser,No
+Mexico,2020-03-15,3465,owid/roser,No
+Mexico,2020-03-16,3728,owid/roser,No
+Mexico,2020-03-17,4189,owid/roser,No
+Mexico,2020-03-18,4709,owid/roser,No
+Mexico,2020-03-19,5300,owid/roser,No
+Mexico,2020-03-20,5870,owid/roser,No
 Mexico,2020-03-21,6268,owid/roser,No
 Mexico,2020-03-22,6581,owid/roser,No
 Mexico,2020-03-23,7417,owid/roser,No
@@ -36609,8 +36783,8 @@ Mexico,2020-03-27,12479,owid/roser,No
 Mexico,2020-03-28,13245,owid/roser,No
 Mexico,2020-03-29,13987,owid/roser,No
 Mexico,2020-03-30,15655,owid/roser,No
-Mexico,2020-03-31,17139,owid/roser,No
-Mexico,2020-04-01,18719,owid/roser,No
+Mexico,2020-03-31,17138,owid/roser,No
+Mexico,2020-04-01,18718,owid/roser,No
 Mexico,2020-04-02,20407,owid/roser,No
 Mexico,2020-04-03,22131,owid/roser,No
 Mexico,2020-04-04,23207,owid/roser,No
@@ -36619,60 +36793,60 @@ Mexico,2020-04-06,26001,owid/roser,No
 Mexico,2020-04-07,27983,owid/roser,No
 Mexico,2020-04-08,30150,owid/roser,No
 Mexico,2020-04-09,31782,owid/roser,No
-Mexico,2020-04-10,33703,owid/roser,No
-Mexico,2020-04-11,35080,owid/roser,No
-Mexico,2020-04-12,36269,owid/roser,No
+Mexico,2020-04-10,33701,owid/roser,No
+Mexico,2020-04-11,35079,owid/roser,No
+Mexico,2020-04-12,36268,owid/roser,No
 Mexico,2020-04-13,39060,owid/roser,No
 Mexico,2020-04-14,41935,owid/roser,No
-Mexico,2020-04-15,44706,owid/roser,No
-Mexico,2020-04-16,47374,owid/roser,No
-Mexico,2020-04-17,50377,owid/roser,No
-Mexico,2020-04-18,51995,owid/roser,No
-Mexico,2020-04-19,53468,owid/roser,No
-Mexico,2020-04-20,57048,owid/roser,No
-Mexico,2020-04-21,60347,owid/roser,No
-Mexico,2020-04-22,63522,owid/roser,No
-Mexico,2020-04-23,67003,owid/roser,No
-Mexico,2020-04-24,70912,owid/roser,No
-Mexico,2020-04-25,73076,owid/roser,No
-Mexico,2020-04-26,76592,,Yes
-Mexico,2020-04-27,80186,,Yes
-Mexico,2020-04-28,84254,,Yes
-Mexico,2020-04-29,88210,owid/roser,No
-Mexico,2020-04-30,91741,,Yes
-Mexico,2020-05-01,95433,,Yes
-Mexico,2020-05-02,99020,owid/roser,No
-Mexico,2020-05-03,103667,,Yes
-Mexico,2020-05-04,108459,,Yes
-Mexico,2020-05-05,113000,,Yes
-Mexico,2020-05-06,118166,owid/roser,No
-Mexico,2020-05-07,123372,,Yes
-Mexico,2020-05-08,128604,,Yes
-Mexico,2020-05-09,133974,,Yes
-Mexico,2020-05-10,139031,,Yes
-Mexico,2020-05-11,143881,,Yes
-Mexico,2020-05-12,149604,owid/roser,No
-Mexico,2020-05-13,156249,,Yes
-Mexico,2020-05-14,163595,owid/roser,No
-Mexico,2020-05-15,168627,,Yes
-Mexico,2020-05-16,173401,,Yes
-Mexico,2020-05-17,178203,owid/roser,No
-Mexico,2020-05-18,185975,,Yes
-Mexico,2020-05-19,194207,owid/roser,No
-Mexico,2020-05-20,202383,owid/roser,No
-Mexico,2020-05-21,210502,owid/roser,No
-Mexico,2020-05-22,218957,owid/roser,No
-Mexico,2020-05-23,225676,,Yes
-Mexico,2020-05-24,231915,,Yes
-Mexico,2020-05-25,237947,,Yes
-Mexico,2020-05-26,245084,owid/roser,No
-Mexico,2020-05-27,254381,owid/roser,No
-Mexico,2020-05-28,263168,owid/roser,No
-Mexico,2020-05-29,272291,owid/roser,No
-Mexico,2020-05-30,275971,,Yes
-Mexico,2020-05-31,279937,,Yes
-Mexico,2020-06-01,283536,,Yes
-Mexico,2020-06-02,288285,,Yes
+Mexico,2020-04-15,44705,owid/roser,No
+Mexico,2020-04-16,47376,owid/roser,No
+Mexico,2020-04-17,50381,owid/roser,No
+Mexico,2020-04-18,51999,owid/roser,No
+Mexico,2020-04-19,53472,owid/roser,No
+Mexico,2020-04-20,57053,owid/roser,No
+Mexico,2020-04-21,60352,owid/roser,No
+Mexico,2020-04-22,63527,owid/roser,No
+Mexico,2020-04-23,67007,owid/roser,No
+Mexico,2020-04-24,70917,owid/roser,No
+Mexico,2020-04-25,73081,owid/roser,No
+Mexico,2020-04-26,76601,,Yes
+Mexico,2020-04-27,80201,,Yes
+Mexico,2020-04-28,84274,,Yes
+Mexico,2020-04-29,88235,owid/roser,No
+Mexico,2020-04-30,91766,,Yes
+Mexico,2020-05-01,95459,,Yes
+Mexico,2020-05-02,99046,owid/roser,No
+Mexico,2020-05-03,103693,,Yes
+Mexico,2020-05-04,108484,,Yes
+Mexico,2020-05-05,113024,,Yes
+Mexico,2020-05-06,118190,owid/roser,No
+Mexico,2020-05-07,123396,,Yes
+Mexico,2020-05-08,128628,,Yes
+Mexico,2020-05-09,133997,,Yes
+Mexico,2020-05-10,139054,,Yes
+Mexico,2020-05-11,143904,,Yes
+Mexico,2020-05-12,149627,owid/roser,No
+Mexico,2020-05-13,156271,,Yes
+Mexico,2020-05-14,163615,owid/roser,No
+Mexico,2020-05-15,168646,,Yes
+Mexico,2020-05-16,173419,,Yes
+Mexico,2020-05-17,178219,owid/roser,No
+Mexico,2020-05-18,185989,,Yes
+Mexico,2020-05-19,194220,owid/roser,No
+Mexico,2020-05-20,202396,owid/roser,No
+Mexico,2020-05-21,210516,owid/roser,No
+Mexico,2020-05-22,218971,owid/roser,No
+Mexico,2020-05-23,225701,,Yes
+Mexico,2020-05-24,231952,,Yes
+Mexico,2020-05-25,237995,,Yes
+Mexico,2020-05-26,245144,owid/roser,No
+Mexico,2020-05-27,254439,owid/roser,No
+Mexico,2020-05-28,263225,owid/roser,No
+Mexico,2020-05-29,272352,owid/roser,No
+Mexico,2020-05-30,276020,,Yes
+Mexico,2020-05-31,279974,,Yes
+Mexico,2020-06-01,283562,,Yes
+Mexico,2020-06-02,288298,,Yes
 Mexico,2020-06-03,293078,worldometers,No
 Mexico,2020-06-04,303461,worldometers,No
 Mexico,2020-06-05,314063,worldometers,No
@@ -36681,75 +36855,76 @@ Mexico,2020-06-07,329235,,Yes
 Mexico,2020-06-08,336395,worldometers,No
 Mexico,2020-06-09,344375,worldometers,No
 Mexico,2020-06-10,357055,worldometers,No
-Mexico,2020-06-11,387929,owid/roser,No
-Mexico,2020-06-12,399667,owid/roser,No
-Mexico,2020-06-13,407086,,Yes
-Mexico,2020-06-14,415240,,Yes
-Mexico,2020-06-15,422734,owid/roser,No
-Mexico,2020-06-16,435327,owid/roser,No
-Mexico,2020-06-17,447324,owid/roser,No
-Mexico,2020-06-18,459034,owid/roser,No
-Mexico,2020-06-19,470800,owid/roser,No
-Mexico,2020-06-20,479523,,Yes
-Mexico,2020-06-21,488962,,Yes
-Mexico,2020-06-22,497707,,Yes
-Mexico,2020-06-23,508296,,Yes
-Mexico,2020-06-24,518106,owid/roser,No
-Mexico,2020-06-25,530543,owid/roser,No
-Mexico,2020-06-26,543413,owid/roser,No
-Mexico,2020-06-27,549986,owid/roser,No
-Mexico,2020-06-28,559728,,Yes
-Mexico,2020-06-29,569304,owid/roser,No
-Mexico,2020-06-30,583190,owid/roser,No
-Mexico,2020-07-01,597692,owid/roser,No
-Mexico,2020-07-02,611018,owid/roser,No
-Mexico,2020-07-03,624733,owid/roser,No
-Mexico,2020-07-04,634799,,Yes
-Mexico,2020-07-05,642682,,Yes
-Mexico,2020-07-06,650834,owid/roser,No
-Mexico,2020-07-07,665739,owid/roser,No
-Mexico,2020-07-08,679931,owid/roser,No
-Mexico,2020-07-09,693507,owid/roser,No
-Mexico,2020-07-10,706931,owid/roser,No
-Mexico,2020-07-11,716887,,Yes
-Mexico,2020-07-12,725279,,Yes
-Mexico,2020-07-13,733927,owid/roser,No
-Mexico,2020-07-14,748786,owid/roser,No
-Mexico,2020-07-15,764802,owid/roser,No
-Mexico,2020-07-16,780082,owid/roser,No
-Mexico,2020-07-17,795410,owid/roser,No
-Mexico,2020-07-18,806683,,Yes
-Mexico,2020-07-19,815700,,Yes
-Mexico,2020-07-20,824626,owid/roser,No
-Mexico,2020-07-21,840381,owid/roser,No
-Mexico,2020-07-22,855873,owid/roser,No
-Mexico,2020-07-23,870901,owid/roser,No
-Mexico,2020-07-24,885643,owid/roser,No
-Mexico,2020-07-25,895517,,Yes
-Mexico,2020-07-26,904159,,Yes
-Mexico,2020-07-27,912327,owid/roser,No
-Mexico,2020-07-28,927377,owid/roser,No
-Mexico,2020-07-29,941691,owid/roser,No
-Mexico,2020-07-30,955626,owid/roser,No
-Mexico,2020-07-31,967513,,Yes
-Mexico,2020-08-01,980566,,Yes
-Mexico,2020-08-02,988934,,Yes
-Mexico,2020-08-03,997250,,Yes
-Mexico,2020-08-04,1007005,owid/roser,No
-Mexico,2020-08-05,1020591,owid/roser,No
-Mexico,2020-08-06,1033616,owid/roser,No
-Mexico,2020-08-07,1046548,owid/roser,No
-Mexico,2020-08-08,1056323,,Yes
-Mexico,2020-08-09,1064007,,Yes
-Mexico,2020-08-10,1072912,,Yes
-Mexico,2020-08-11,1082993,owid/roser,No
-Mexico,2020-08-12,1094753,owid/roser,No
-Mexico,2020-08-13,1104719,owid/roser,No
-Mexico,2020-08-14,1111567,owid/roser,No
+Mexico,2020-06-11,388014,owid/roser,No
+Mexico,2020-06-12,399760,owid/roser,No
+Mexico,2020-06-13,407187,,Yes
+Mexico,2020-06-14,415348,,Yes
+Mexico,2020-06-15,422849,owid/roser,No
+Mexico,2020-06-16,435444,owid/roser,No
+Mexico,2020-06-17,447454,owid/roser,No
+Mexico,2020-06-18,459169,owid/roser,No
+Mexico,2020-06-19,470937,owid/roser,No
+Mexico,2020-06-20,479665,,Yes
+Mexico,2020-06-21,489110,,Yes
+Mexico,2020-06-22,497860,,Yes
+Mexico,2020-06-23,508456,,Yes
+Mexico,2020-06-24,518271,owid/roser,No
+Mexico,2020-06-25,530716,owid/roser,No
+Mexico,2020-06-26,543595,owid/roser,No
+Mexico,2020-06-27,550173,owid/roser,No
+Mexico,2020-06-28,559922,,Yes
+Mexico,2020-06-29,569505,owid/roser,No
+Mexico,2020-06-30,583397,owid/roser,No
+Mexico,2020-07-01,597900,owid/roser,No
+Mexico,2020-07-02,611230,owid/roser,No
+Mexico,2020-07-03,624957,owid/roser,No
+Mexico,2020-07-04,635033,,Yes
+Mexico,2020-07-05,642925,,Yes
+Mexico,2020-07-06,651087,owid/roser,No
+Mexico,2020-07-07,666002,owid/roser,No
+Mexico,2020-07-08,680199,owid/roser,No
+Mexico,2020-07-09,693784,owid/roser,No
+Mexico,2020-07-10,707218,owid/roser,No
+Mexico,2020-07-11,717180,,Yes
+Mexico,2020-07-12,725580,,Yes
+Mexico,2020-07-13,734235,owid/roser,No
+Mexico,2020-07-14,749118,owid/roser,No
+Mexico,2020-07-15,765186,owid/roser,No
+Mexico,2020-07-16,780512,owid/roser,No
+Mexico,2020-07-17,795896,owid/roser,No
+Mexico,2020-07-18,807181,,Yes
+Mexico,2020-07-19,816210,,Yes
+Mexico,2020-07-20,825148,owid/roser,No
+Mexico,2020-07-21,840909,owid/roser,No
+Mexico,2020-07-22,856420,owid/roser,No
+Mexico,2020-07-23,871452,owid/roser,No
+Mexico,2020-07-24,886208,owid/roser,No
+Mexico,2020-07-25,896094,,Yes
+Mexico,2020-07-26,904749,,Yes
+Mexico,2020-07-27,912930,owid/roser,No
+Mexico,2020-07-28,928018,owid/roser,No
+Mexico,2020-07-29,942365,owid/roser,No
+Mexico,2020-07-30,956345,owid/roser,No
+Mexico,2020-07-31,968284,,Yes
+Mexico,2020-08-01,981390,,Yes
+Mexico,2020-08-02,989811,,Yes
+Mexico,2020-08-03,998180,,Yes
+Mexico,2020-08-04,1007990,owid/roser,No
+Mexico,2020-08-05,1021671,owid/roser,No
+Mexico,2020-08-06,1034775,owid/roser,No
+Mexico,2020-08-07,1047779,owid/roser,No
+Mexico,2020-08-08,1057708,,Yes
+Mexico,2020-08-09,1065547,,Yes
+Mexico,2020-08-10,1074608,,Yes
+Mexico,2020-08-11,1084848,owid/roser,No
+Mexico,2020-08-12,1097316,owid/roser,No
+Mexico,2020-08-13,1108855,owid/roser,No
+Mexico,2020-08-14,1118425,owid/roser,No
 Mexico,2020-08-15,1156852,worldometers,No
 Mexico,2020-08-16,1171007,worldometers,No
 Mexico,2020-08-17,1176931,worldometers,No
-Mexico,2020-08-18,1182437,,Yes
+Mexico,2020-08-18,1186655,,Yes
+Mexico,2020-08-19,1196707,worldometers,No
 Moldova,2020-01-22,,,No
 Moldova,2020-01-23,,,No
 Moldova,2020-01-24,,,No
@@ -36930,36 +37105,37 @@ Moldova,2020-07-16,123235,,Yes
 Moldova,2020-07-17,124834,,Yes
 Moldova,2020-07-18,126512,,Yes
 Moldova,2020-07-19,128076,worldometers,No
-Moldova,2020-07-20,128211,,Yes
-Moldova,2020-07-21,128538,,Yes
-Moldova,2020-07-22,128894,,Yes
-Moldova,2020-07-23,129201,,Yes
-Moldova,2020-07-24,129579,,Yes
-Moldova,2020-07-25,129924,,Yes
-Moldova,2020-07-26,130130,,Yes
-Moldova,2020-07-27,130250,,Yes
-Moldova,2020-07-28,130617,,Yes
-Moldova,2020-07-29,131043,,Yes
-Moldova,2020-07-30,131439,,Yes
-Moldova,2020-07-31,131829,,Yes
-Moldova,2020-08-01,132209,,Yes
-Moldova,2020-08-02,132458,,Yes
-Moldova,2020-08-03,132578,,Yes
-Moldova,2020-08-04,132910,,Yes
-Moldova,2020-08-05,133318,,Yes
-Moldova,2020-08-06,133724,,Yes
-Moldova,2020-08-07,134086,,Yes
-Moldova,2020-08-08,134539,,Yes
-Moldova,2020-08-09,134756,,Yes
-Moldova,2020-08-10,134937,,Yes
-Moldova,2020-08-11,135319,,Yes
-Moldova,2020-08-12,135793,,Yes
-Moldova,2020-08-13,136183,,Yes
-Moldova,2020-08-14,136579,,Yes
-Moldova,2020-08-15,137001,,Yes
-Moldova,2020-08-16,137279,,Yes
-Moldova,2020-08-17,137473,,Yes
-Moldova,2020-08-18,137885,,Yes
+Moldova,2020-07-20,129566,,Yes
+Moldova,2020-07-21,131256,,Yes
+Moldova,2020-07-22,132983,,Yes
+Moldova,2020-07-23,134666,,Yes
+Moldova,2020-07-24,136431,,Yes
+Moldova,2020-07-25,138168,,Yes
+Moldova,2020-07-26,139763,,Yes
+Moldova,2020-07-27,141270,,Yes
+Moldova,2020-07-28,143049,,Yes
+Moldova,2020-07-29,144902,,Yes
+Moldova,2020-07-30,146730,,Yes
+Moldova,2020-07-31,148559,,Yes
+Moldova,2020-08-01,150386,,Yes
+Moldova,2020-08-02,152070,,Yes
+Moldova,2020-08-03,153610,,Yes
+Moldova,2020-08-04,155400,,Yes
+Moldova,2020-08-05,157287,,Yes
+Moldova,2020-08-06,159180,,Yes
+Moldova,2020-08-07,161029,,Yes
+Moldova,2020-08-08,162996,,Yes
+Moldova,2020-08-09,164684,,Yes
+Moldova,2020-08-10,166333,,Yes
+Moldova,2020-08-11,168235,,Yes
+Moldova,2020-08-12,170260,,Yes
+Moldova,2020-08-13,172190,,Yes
+Moldova,2020-08-14,174135,,Yes
+Moldova,2020-08-15,176122,,Yes
+Moldova,2020-08-16,177931,,Yes
+Moldova,2020-08-17,179636,,Yes
+Moldova,2020-08-18,181633,,Yes
+Moldova,2020-08-19,183923,worldometers,No
 Monaco,2020-01-22,,,No
 Monaco,2020-01-23,,,No
 Monaco,2020-01-24,,,No
@@ -37170,6 +37346,7 @@ Monaco,2020-08-15,38246,,Yes
 Monaco,2020-08-16,38246,,Yes
 Monaco,2020-08-17,38248,,Yes
 Monaco,2020-08-18,38248,,Yes
+Monaco,2020-08-19,38248,,Yes
 Mongolia,2020-01-22,,,No
 Mongolia,2020-01-23,,,No
 Mongolia,2020-01-24,,,No
@@ -37380,6 +37557,7 @@ Mongolia,2020-08-15,43158,worldometers,No
 Mongolia,2020-08-16,43785,worldometers,No
 Mongolia,2020-08-17,44394,worldometers,No
 Mongolia,2020-08-18,44980,worldometers,No
+Mongolia,2020-08-19,45730,worldometers,No
 Montenegro,2020-01-22,,,No
 Montenegro,2020-01-23,,,No
 Montenegro,2020-01-24,,,No
@@ -37590,6 +37768,7 @@ Montenegro,2020-08-15,41729,worldometers,No
 Montenegro,2020-08-16,41951,worldometers,No
 Montenegro,2020-08-17,42434,worldometers,No
 Montenegro,2020-08-18,42735,worldometers,No
+Montenegro,2020-08-19,43256,worldometers,No
 Morocco,2020-01-22,,,No
 Morocco,2020-01-23,,,No
 Morocco,2020-01-24,,,No
@@ -37799,7 +37978,8 @@ Morocco,2020-08-14,1560527,owid/roser,No
 Morocco,2020-08-15,1583234,owid/roser,No
 Morocco,2020-08-16,1605613,owid/roser,No
 Morocco,2020-08-17,1626810,owid/roser,No
-Morocco,2020-08-18,1648728,lau,No
+Morocco,2020-08-18,1648728,owid/roser,No
+Morocco,2020-08-19,1670569,owid/roser,No
 Mozambique,2020-01-22,,,No
 Mozambique,2020-01-23,,,No
 Mozambique,2020-01-24,,,No
@@ -38010,6 +38190,7 @@ Mozambique,2020-08-15,76031,,Yes
 Mozambique,2020-08-16,76614,worldometers,No
 Mozambique,2020-08-17,77584,worldometers,No
 Mozambique,2020-08-18,78877,worldometers,No
+Mozambique,2020-08-19,79504,worldometers,No
 Namibia,2020-01-22,,,No
 Namibia,2020-01-23,,,No
 Namibia,2020-01-24,,,No
@@ -38220,6 +38401,7 @@ Namibia,2020-08-15,38743,worldometers,No
 Namibia,2020-08-16,40397,worldometers,No
 Namibia,2020-08-17,41146,worldometers,No
 Namibia,2020-08-18,41867,worldometers,No
+Namibia,2020-08-19,42945,worldometers,No
 Nepal,2020-01-22,,,No
 Nepal,2020-01-23,,,No
 Nepal,2020-01-24,,,No
@@ -38430,6 +38612,7 @@ Nepal,2020-08-15,505660,owid/roser,No
 Nepal,2020-08-16,517907,owid/roser,No
 Nepal,2020-08-17,529427,owid/roser,No
 Nepal,2020-08-18,542866,owid/roser,No
+Nepal,2020-08-19,554388,owid/roser,No
 Netherlands,2020-01-22,,,No
 Netherlands,2020-01-23,,,No
 Netherlands,2020-01-24,,,No
@@ -38640,6 +38823,7 @@ Netherlands,2020-08-15,1296983,,Yes
 Netherlands,2020-08-16,1312787,owid/roser,No
 Netherlands,2020-08-17,1313269,,Yes
 Netherlands,2020-08-18,1313758,,Yes
+Netherlands,2020-08-19,1314310,,Yes
 Netherlands – Aruba,2020-01-22,,,No
 Netherlands – Aruba,2020-01-23,,,No
 Netherlands – Aruba,2020-01-24,,,No
@@ -38849,7 +39033,8 @@ Netherlands – Aruba,2020-08-14,15733,,Yes
 Netherlands – Aruba,2020-08-15,15936,,Yes
 Netherlands – Aruba,2020-08-16,16117,,Yes
 Netherlands – Aruba,2020-08-17,16261,worldometers,No
-Netherlands – Aruba,2020-08-18,16345,,Yes
+Netherlands – Aruba,2020-08-18,16585,,Yes
+Netherlands – Aruba,2020-08-19,16919,worldometers,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-22,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-23,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-24,,,No
@@ -39060,6 +39245,7 @@ Netherlands – Aruba,2020-08-18,16345,,Yes
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-08-16,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-08-17,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-08-18,,,No
+"Netherlands – Bonaire, Sint Eustatius and Saba",2020-08-19,,,No
 Netherlands – Curacao,2020-01-22,,,No
 Netherlands – Curacao,2020-01-23,,,No
 Netherlands – Curacao,2020-01-24,,,No
@@ -39270,6 +39456,7 @@ Netherlands – Curacao,2020-08-15,1091,,Yes
 Netherlands – Curacao,2020-08-16,1092,,Yes
 Netherlands – Curacao,2020-08-17,1094,,Yes
 Netherlands – Curacao,2020-08-18,1094,,Yes
+Netherlands – Curacao,2020-08-19,1094,,Yes
 Netherlands – Sint Maarten,2020-01-22,,,No
 Netherlands – Sint Maarten,2020-01-23,,,No
 Netherlands – Sint Maarten,2020-01-24,,,No
@@ -39472,14 +39659,15 @@ Netherlands – Sint Maarten,2020-08-07,960,lau,No
 Netherlands – Sint Maarten,2020-08-08,968,,Yes
 Netherlands – Sint Maarten,2020-08-09,989,,Yes
 Netherlands – Sint Maarten,2020-08-10,997,lau,No
-Netherlands – Sint Maarten,2020-08-11,1226,,Yes
-Netherlands – Sint Maarten,2020-08-12,1502,worldometers,No
-Netherlands – Sint Maarten,2020-08-13,1537,worldometers,No
-Netherlands – Sint Maarten,2020-08-14,1637,worldometers,No
-Netherlands – Sint Maarten,2020-08-15,1672,worldometers,No
-Netherlands – Sint Maarten,2020-08-16,1752,,Yes
-Netherlands – Sint Maarten,2020-08-17,1826,worldometers,No
-Netherlands – Sint Maarten,2020-08-18,1917,worldometers,No
+Netherlands – Sint Maarten,2020-08-11,1033,,Yes
+Netherlands – Sint Maarten,2020-08-12,1099,,Yes
+Netherlands – Sint Maarten,2020-08-13,1137,,Yes
+Netherlands – Sint Maarten,2020-08-14,1166,,Yes
+Netherlands – Sint Maarten,2020-08-15,1222,,Yes
+Netherlands – Sint Maarten,2020-08-16,1264,,Yes
+Netherlands – Sint Maarten,2020-08-17,1298,,Yes
+Netherlands – Sint Maarten,2020-08-18,1330,lau,No
+Netherlands – Sint Maarten,2020-08-19,1948,worldometers,No
 New Zealand,2020-01-22,,,No
 New Zealand,2020-01-23,,,No
 New Zealand,2020-01-24,,,No
@@ -39690,6 +39878,7 @@ New Zealand,2020-08-15,571942,owid/roser,No
 New Zealand,2020-08-16,597956,owid/roser,No
 New Zealand,2020-08-17,616377,owid/roser,No
 New Zealand,2020-08-18,639415,owid/roser,No
+New Zealand,2020-08-19,657506,owid/roser,No
 Nicaragua,2020-01-22,,,No
 Nicaragua,2020-01-23,,,No
 Nicaragua,2020-01-24,,,No
@@ -39900,6 +40089,7 @@ Nicaragua,2020-08-15,,,No
 Nicaragua,2020-08-16,,,No
 Nicaragua,2020-08-17,,,No
 Nicaragua,2020-08-18,,,No
+Nicaragua,2020-08-19,,,No
 Niger,2020-01-22,,,No
 Niger,2020-01-23,,,No
 Niger,2020-01-24,,,No
@@ -40110,6 +40300,7 @@ Niger,2020-08-15,9113,,Yes
 Niger,2020-08-16,9115,,Yes
 Niger,2020-08-17,9115,,Yes
 Niger,2020-08-18,9115,,Yes
+Niger,2020-08-19,9115,,Yes
 Nigeria,2020-01-22,,,No
 Nigeria,2020-01-23,,,No
 Nigeria,2020-01-24,,,No
@@ -40320,6 +40511,7 @@ Nigeria,2020-08-15,347504,,Yes
 Nigeria,2020-08-16,350589,owid/roser,No
 Nigeria,2020-08-17,352625,owid/roser,No
 Nigeria,2020-08-18,355196,owid/roser,No
+Nigeria,2020-08-19,363331,owid/roser,No
 North Macedonia,2020-01-22,,,No
 North Macedonia,2020-01-23,,,No
 North Macedonia,2020-01-24,,,No
@@ -40529,7 +40721,8 @@ North Macedonia,2020-08-14,117333,lau,No
 North Macedonia,2020-08-15,118489,lau,No
 North Macedonia,2020-08-16,119401,lau,No
 North Macedonia,2020-08-17,121143,lau,No
-North Macedonia,2020-08-18,121273,,Yes
+North Macedonia,2020-08-18,123045,lau,No
+North Macedonia,2020-08-19,128938,worldometers,No
 Norway,2020-01-22,,,No
 Norway,2020-01-23,,,No
 Norway,2020-01-24,,,No
@@ -40613,133 +40806,134 @@ Norway,2020-04-10,106144,owid/roser,No
 Norway,2020-04-11,107445,owid/roser,No
 Norway,2020-04-12,108575,owid/roser,No
 Norway,2020-04-13,109737,owid/roser,No
-Norway,2020-04-14,112710,owid/roser,No
-Norway,2020-04-15,115753,owid/roser,No
-Norway,2020-04-16,118521,owid/roser,No
-Norway,2020-04-17,121321,owid/roser,No
-Norway,2020-04-18,122358,owid/roser,No
-Norway,2020-04-19,123380,owid/roser,No
-Norway,2020-04-20,126757,owid/roser,No
-Norway,2020-04-21,130014,owid/roser,No
-Norway,2020-04-22,132992,owid/roser,No
-Norway,2020-04-23,135629,owid/roser,No
-Norway,2020-04-24,138541,owid/roser,No
-Norway,2020-04-25,139525,owid/roser,No
-Norway,2020-04-26,140376,owid/roser,No
-Norway,2020-04-27,144023,,Yes
-Norway,2020-04-28,147664,owid/roser,No
-Norway,2020-04-29,151137,owid/roser,No
-Norway,2020-04-30,155119,owid/roser,No
-Norway,2020-05-01,156437,owid/roser,No
-Norway,2020-05-02,157808,owid/roser,No
-Norway,2020-05-03,158912,owid/roser,No
-Norway,2020-05-04,162901,,Yes
-Norway,2020-05-05,166887,,Yes
-Norway,2020-05-06,170865,owid/roser,No
-Norway,2020-05-07,174250,owid/roser,No
-Norway,2020-05-08,177650,owid/roser,No
-Norway,2020-05-09,178812,owid/roser,No
-Norway,2020-05-10,179661,owid/roser,No
-Norway,2020-05-11,183605,owid/roser,No
-Norway,2020-05-12,187429,owid/roser,No
-Norway,2020-05-13,191093,owid/roser,No
-Norway,2020-05-14,194838,owid/roser,No
-Norway,2020-05-15,198561,owid/roser,No
-Norway,2020-05-16,199693,owid/roser,No
-Norway,2020-05-17,200251,owid/roser,No
-Norway,2020-05-18,204184,owid/roser,No
-Norway,2020-05-19,208006,owid/roser,No
-Norway,2020-05-20,211534,owid/roser,No
-Norway,2020-05-21,212511,owid/roser,No
-Norway,2020-05-22,215450,owid/roser,No
-Norway,2020-05-23,216319,owid/roser,No
-Norway,2020-05-24,217056,owid/roser,No
-Norway,2020-05-25,220613,owid/roser,No
-Norway,2020-05-26,223606,owid/roser,No
-Norway,2020-05-27,226418,owid/roser,No
-Norway,2020-05-28,228876,owid/roser,No
-Norway,2020-05-29,231116,owid/roser,No
-Norway,2020-05-30,231785,owid/roser,No
-Norway,2020-05-31,232294,owid/roser,No
-Norway,2020-06-01,232897,owid/roser,No
-Norway,2020-06-02,235683,owid/roser,No
-Norway,2020-06-03,238168,owid/roser,No
-Norway,2020-06-04,240712,owid/roser,No
-Norway,2020-06-05,243232,owid/roser,No
-Norway,2020-06-06,244030,owid/roser,No
-Norway,2020-06-07,244793,owid/roser,No
-Norway,2020-06-08,250018,owid/roser,No
-Norway,2020-06-09,254820,owid/roser,No
-Norway,2020-06-10,258880,owid/roser,No
-Norway,2020-06-11,263246,owid/roser,No
-Norway,2020-06-12,267378,owid/roser,No
-Norway,2020-06-13,268436,owid/roser,No
-Norway,2020-06-14,269408,owid/roser,No
-Norway,2020-06-15,274616,owid/roser,No
-Norway,2020-06-16,279526,owid/roser,No
-Norway,2020-06-17,284007,owid/roser,No
-Norway,2020-06-18,288023,owid/roser,No
-Norway,2020-06-19,291346,owid/roser,No
-Norway,2020-06-20,292225,owid/roser,No
-Norway,2020-06-21,293074,owid/roser,No
-Norway,2020-06-22,297506,owid/roser,No
-Norway,2020-06-23,301588,owid/roser,No
-Norway,2020-06-24,305646,owid/roser,No
-Norway,2020-06-25,309260,owid/roser,No
-Norway,2020-06-26,312675,owid/roser,No
-Norway,2020-06-27,313571,owid/roser,No
-Norway,2020-06-28,314369,owid/roser,No
-Norway,2020-06-29,319441,owid/roser,No
-Norway,2020-06-30,323786,owid/roser,No
-Norway,2020-07-01,328172,owid/roser,No
-Norway,2020-07-02,332219,owid/roser,No
-Norway,2020-07-03,336048,owid/roser,No
-Norway,2020-07-04,337204,owid/roser,No
-Norway,2020-07-05,338166,owid/roser,No
-Norway,2020-07-06,343521,owid/roser,No
-Norway,2020-07-07,348080,owid/roser,No
-Norway,2020-07-08,352545,owid/roser,No
-Norway,2020-07-09,356615,owid/roser,No
-Norway,2020-07-10,360614,owid/roser,No
-Norway,2020-07-11,361742,owid/roser,No
-Norway,2020-07-12,362685,owid/roser,No
-Norway,2020-07-13,368047,owid/roser,No
-Norway,2020-07-14,372553,owid/roser,No
-Norway,2020-07-15,377157,owid/roser,No
-Norway,2020-07-16,381008,owid/roser,No
-Norway,2020-07-17,384510,owid/roser,No
-Norway,2020-07-18,385663,owid/roser,No
-Norway,2020-07-19,386736,owid/roser,No
-Norway,2020-07-20,391848,owid/roser,No
-Norway,2020-07-21,395932,owid/roser,No
-Norway,2020-07-22,399979,owid/roser,No
-Norway,2020-07-23,403718,owid/roser,No
-Norway,2020-07-24,407469,owid/roser,No
-Norway,2020-07-25,408867,owid/roser,No
-Norway,2020-07-26,410004,owid/roser,No
-Norway,2020-07-27,415690,owid/roser,No
-Norway,2020-07-28,420542,owid/roser,No
-Norway,2020-07-29,425419,owid/roser,No
-Norway,2020-07-30,430023,owid/roser,No
-Norway,2020-07-31,434552,owid/roser,No
-Norway,2020-08-01,436275,owid/roser,No
-Norway,2020-08-02,437728,owid/roser,No
-Norway,2020-08-03,445371,owid/roser,No
-Norway,2020-08-04,452391,owid/roser,No
-Norway,2020-08-05,459591,owid/roser,No
-Norway,2020-08-06,466769,owid/roser,No
-Norway,2020-08-07,473797,owid/roser,No
-Norway,2020-08-08,476525,owid/roser,No
-Norway,2020-08-09,479095,owid/roser,No
-Norway,2020-08-10,490091,owid/roser,No
-Norway,2020-08-11,500874,owid/roser,No
-Norway,2020-08-12,512064,owid/roser,No
-Norway,2020-08-13,523033,owid/roser,No
-Norway,2020-08-14,534350,owid/roser,No
-Norway,2020-08-15,539177,owid/roser,No
-Norway,2020-08-16,542888,owid/roser,No
-Norway,2020-08-17,544872,owid/roser,No
-Norway,2020-08-18,556653,worldometers,No
+Norway,2020-04-14,112709,owid/roser,No
+Norway,2020-04-15,115752,owid/roser,No
+Norway,2020-04-16,118520,owid/roser,No
+Norway,2020-04-17,121320,owid/roser,No
+Norway,2020-04-18,122357,owid/roser,No
+Norway,2020-04-19,123379,owid/roser,No
+Norway,2020-04-20,126756,owid/roser,No
+Norway,2020-04-21,130013,owid/roser,No
+Norway,2020-04-22,132991,owid/roser,No
+Norway,2020-04-23,135628,owid/roser,No
+Norway,2020-04-24,138540,owid/roser,No
+Norway,2020-04-25,139524,owid/roser,No
+Norway,2020-04-26,140375,owid/roser,No
+Norway,2020-04-27,144022,,Yes
+Norway,2020-04-28,147663,owid/roser,No
+Norway,2020-04-29,151136,owid/roser,No
+Norway,2020-04-30,155118,owid/roser,No
+Norway,2020-05-01,156436,owid/roser,No
+Norway,2020-05-02,157807,owid/roser,No
+Norway,2020-05-03,158911,owid/roser,No
+Norway,2020-05-04,162900,,Yes
+Norway,2020-05-05,166886,,Yes
+Norway,2020-05-06,170864,owid/roser,No
+Norway,2020-05-07,174249,owid/roser,No
+Norway,2020-05-08,177649,owid/roser,No
+Norway,2020-05-09,178811,owid/roser,No
+Norway,2020-05-10,179660,owid/roser,No
+Norway,2020-05-11,183604,owid/roser,No
+Norway,2020-05-12,187428,owid/roser,No
+Norway,2020-05-13,191092,owid/roser,No
+Norway,2020-05-14,194837,owid/roser,No
+Norway,2020-05-15,198560,owid/roser,No
+Norway,2020-05-16,199692,owid/roser,No
+Norway,2020-05-17,200250,owid/roser,No
+Norway,2020-05-18,204183,owid/roser,No
+Norway,2020-05-19,208005,owid/roser,No
+Norway,2020-05-20,211533,owid/roser,No
+Norway,2020-05-21,212510,owid/roser,No
+Norway,2020-05-22,215449,owid/roser,No
+Norway,2020-05-23,216318,owid/roser,No
+Norway,2020-05-24,217055,owid/roser,No
+Norway,2020-05-25,220612,owid/roser,No
+Norway,2020-05-26,223605,owid/roser,No
+Norway,2020-05-27,226417,owid/roser,No
+Norway,2020-05-28,228875,owid/roser,No
+Norway,2020-05-29,231115,owid/roser,No
+Norway,2020-05-30,231784,owid/roser,No
+Norway,2020-05-31,232293,owid/roser,No
+Norway,2020-06-01,232896,owid/roser,No
+Norway,2020-06-02,235682,owid/roser,No
+Norway,2020-06-03,238167,owid/roser,No
+Norway,2020-06-04,240711,owid/roser,No
+Norway,2020-06-05,243231,owid/roser,No
+Norway,2020-06-06,244029,owid/roser,No
+Norway,2020-06-07,244792,owid/roser,No
+Norway,2020-06-08,250016,owid/roser,No
+Norway,2020-06-09,254818,owid/roser,No
+Norway,2020-06-10,258878,owid/roser,No
+Norway,2020-06-11,263244,owid/roser,No
+Norway,2020-06-12,267375,owid/roser,No
+Norway,2020-06-13,268433,owid/roser,No
+Norway,2020-06-14,269405,owid/roser,No
+Norway,2020-06-15,274612,owid/roser,No
+Norway,2020-06-16,279521,owid/roser,No
+Norway,2020-06-17,284003,owid/roser,No
+Norway,2020-06-18,288019,owid/roser,No
+Norway,2020-06-19,291342,owid/roser,No
+Norway,2020-06-20,292221,owid/roser,No
+Norway,2020-06-21,293070,owid/roser,No
+Norway,2020-06-22,297502,owid/roser,No
+Norway,2020-06-23,301584,owid/roser,No
+Norway,2020-06-24,305641,owid/roser,No
+Norway,2020-06-25,309255,owid/roser,No
+Norway,2020-06-26,312669,owid/roser,No
+Norway,2020-06-27,313565,owid/roser,No
+Norway,2020-06-28,314363,owid/roser,No
+Norway,2020-06-29,319434,owid/roser,No
+Norway,2020-06-30,323779,owid/roser,No
+Norway,2020-07-01,328165,owid/roser,No
+Norway,2020-07-02,332212,owid/roser,No
+Norway,2020-07-03,336041,owid/roser,No
+Norway,2020-07-04,337197,owid/roser,No
+Norway,2020-07-05,338159,owid/roser,No
+Norway,2020-07-06,343514,owid/roser,No
+Norway,2020-07-07,348073,owid/roser,No
+Norway,2020-07-08,352537,owid/roser,No
+Norway,2020-07-09,356607,owid/roser,No
+Norway,2020-07-10,360606,owid/roser,No
+Norway,2020-07-11,361734,owid/roser,No
+Norway,2020-07-12,362677,owid/roser,No
+Norway,2020-07-13,368039,owid/roser,No
+Norway,2020-07-14,372545,owid/roser,No
+Norway,2020-07-15,377149,owid/roser,No
+Norway,2020-07-16,381000,owid/roser,No
+Norway,2020-07-17,384502,owid/roser,No
+Norway,2020-07-18,385655,owid/roser,No
+Norway,2020-07-19,386728,owid/roser,No
+Norway,2020-07-20,391840,owid/roser,No
+Norway,2020-07-21,395924,owid/roser,No
+Norway,2020-07-22,399970,owid/roser,No
+Norway,2020-07-23,403708,owid/roser,No
+Norway,2020-07-24,407459,owid/roser,No
+Norway,2020-07-25,408857,owid/roser,No
+Norway,2020-07-26,409994,owid/roser,No
+Norway,2020-07-27,415680,owid/roser,No
+Norway,2020-07-28,420532,owid/roser,No
+Norway,2020-07-29,425409,owid/roser,No
+Norway,2020-07-30,430013,owid/roser,No
+Norway,2020-07-31,434542,owid/roser,No
+Norway,2020-08-01,436265,owid/roser,No
+Norway,2020-08-02,437718,owid/roser,No
+Norway,2020-08-03,445360,owid/roser,No
+Norway,2020-08-04,452379,owid/roser,No
+Norway,2020-08-05,459579,owid/roser,No
+Norway,2020-08-06,466758,owid/roser,No
+Norway,2020-08-07,473788,owid/roser,No
+Norway,2020-08-08,476516,owid/roser,No
+Norway,2020-08-09,479087,owid/roser,No
+Norway,2020-08-10,490085,owid/roser,No
+Norway,2020-08-11,500870,owid/roser,No
+Norway,2020-08-12,512071,owid/roser,No
+Norway,2020-08-13,523084,owid/roser,No
+Norway,2020-08-14,534574,owid/roser,No
+Norway,2020-08-15,539638,owid/roser,No
+Norway,2020-08-16,543974,owid/roser,No
+Norway,2020-08-17,558575,owid/roser,No
+Norway,2020-08-18,567646,owid/roser,No
+Norway,2020-08-19,567697,,Yes
 Oman,2020-01-22,,,No
 Oman,2020-01-23,,,No
 Oman,2020-01-24,,,No
@@ -40950,6 +41144,7 @@ Oman,2020-08-15,311069,,Yes
 Oman,2020-08-16,311231,,Yes
 Oman,2020-08-17,311371,,Yes
 Oman,2020-08-18,311563,,Yes
+Oman,2020-08-19,311751,,Yes
 Pakistan,2020-01-22,,,No
 Pakistan,2020-01-23,,,No
 Pakistan,2020-01-24,,,No
@@ -41160,6 +41355,7 @@ Pakistan,2020-08-15,2253131,owid/roser,No
 Pakistan,2020-08-16,2277153,owid/roser,No
 Pakistan,2020-08-17,2299601,owid/roser,No
 Pakistan,2020-08-18,2317213,owid/roser,No
+Pakistan,2020-08-19,2340072,owid/roser,No
 Panama,2020-01-22,,,No
 Panama,2020-01-23,,,No
 Panama,2020-01-24,,,No
@@ -41370,6 +41566,7 @@ Panama,2020-08-15,264046,worldometers,No
 Panama,2020-08-16,268180,worldometers,No
 Panama,2020-08-17,271486,worldometers,No
 Panama,2020-08-18,273685,worldometers,No
+Panama,2020-08-19,276389,worldometers,No
 Papua New Guinea,2020-01-22,,,No
 Papua New Guinea,2020-01-23,,,No
 Papua New Guinea,2020-01-24,,,No
@@ -41580,6 +41777,7 @@ Papua New Guinea,2020-08-15,12614,,Yes
 Papua New Guinea,2020-08-16,13001,,Yes
 Papua New Guinea,2020-08-17,13361,worldometers,No
 Papua New Guinea,2020-08-18,13375,,Yes
+Papua New Guinea,2020-08-19,13375,,Yes
 Paraguay,2020-01-22,,,No
 Paraguay,2020-01-23,,,No
 Paraguay,2020-01-24,,,No
@@ -41790,6 +41988,7 @@ Paraguay,2020-08-15,151427,owid/roser,No
 Paraguay,2020-08-16,152940,,Yes
 Paraguay,2020-08-17,154392,worldometers,No
 Paraguay,2020-08-18,156611,worldometers,No
+Paraguay,2020-08-19,159666,worldometers,No
 Peru,2020-01-22,,,No
 Peru,2020-01-23,,,No
 Peru,2020-01-24,,,No
@@ -41827,51 +42026,51 @@ Peru,2020-02-24,,,No
 Peru,2020-02-25,,,No
 Peru,2020-02-26,,,No
 Peru,2020-02-27,,,No
-Peru,2020-02-28,,,No
-Peru,2020-02-29,,,No
-Peru,2020-03-01,,,No
-Peru,2020-03-02,,,No
-Peru,2020-03-03,,,No
-Peru,2020-03-04,107,owid/roser,No
-Peru,2020-03-05,130,,Yes
-Peru,2020-03-06,155,owid/roser,No
-Peru,2020-03-07,219,owid/roser,No
-Peru,2020-03-08,250,owid/roser,No
-Peru,2020-03-09,318,owid/roser,No
-Peru,2020-03-10,346,owid/roser,No
-Peru,2020-03-11,656,owid/roser,No
-Peru,2020-03-12,836,,Yes
-Peru,2020-03-13,1033,,Yes
-Peru,2020-03-14,1232,owid/roser,No
-Peru,2020-03-15,1822,owid/roser,No
-Peru,2020-03-16,2315,owid/roser,No
-Peru,2020-03-17,2797,owid/roser,No
-Peru,2020-03-18,3075,owid/roser,No
-Peru,2020-03-19,3841,owid/roser,No
-Peru,2020-03-20,4298,owid/roser,No
-Peru,2020-03-21,5185,owid/roser,No
-Peru,2020-03-22,6184,owid/roser,No
+Peru,2020-02-28,54,owid/roser,No
+Peru,2020-02-29,67,,Yes
+Peru,2020-03-01,80,,Yes
+Peru,2020-03-02,93,,Yes
+Peru,2020-03-03,107,owid/roser,No
+Peru,2020-03-04,131,,Yes
+Peru,2020-03-05,155,owid/roser,No
+Peru,2020-03-06,219,owid/roser,No
+Peru,2020-03-07,250,owid/roser,No
+Peru,2020-03-08,318,owid/roser,No
+Peru,2020-03-09,346,owid/roser,No
+Peru,2020-03-10,656,owid/roser,No
+Peru,2020-03-11,837,,Yes
+Peru,2020-03-12,1025,,Yes
+Peru,2020-03-13,1232,owid/roser,No
+Peru,2020-03-14,1822,owid/roser,No
+Peru,2020-03-15,2315,owid/roser,No
+Peru,2020-03-16,2797,owid/roser,No
+Peru,2020-03-17,3043,,Yes
+Peru,2020-03-18,3290,,Yes
+Peru,2020-03-19,3617,,Yes
+Peru,2020-03-20,3841,wiki,No
+Peru,2020-03-21,4985,wiki,No
+Peru,2020-03-22,6664,owid/roser,No
 Peru,2020-03-23,7013,owid/roser,No
-Peru,2020-03-24,7486,owid/roser,No
-Peru,2020-03-25,8040,owid/roser,No
-Peru,2020-03-26,9219,owid/roser,No
-Peru,2020-03-27,10065,owid/roser,No
-Peru,2020-03-28,10896,owid/roser,No
-Peru,2020-03-29,12669,owid/roser,No
-Peru,2020-03-30,13452,owid/roser,No
-Peru,2020-03-31,14463,owid/roser,No
-Peru,2020-04-01,15587,owid/roser,No
-Peru,2020-04-02,16518,owid/roser,No
-Peru,2020-04-03,17334,owid/roser,No
-Peru,2020-04-04,17841,owid/roser,No
-Peru,2020-04-05,19410,owid/roser,No
-Peru,2020-04-06,20414,owid/roser,No
-Peru,2020-04-07,21555,owid/roser,No
-Peru,2020-04-08,23255,owid/roser,No
-Peru,2020-04-09,24410,owid/roser,No
-Peru,2020-04-10,25643,owid/roser,No
-Peru,2020-04-11,27519,owid/roser,No
-Peru,2020-04-12,31234,owid/roser,No
+Peru,2020-03-24,8040,owid/roser,No
+Peru,2020-03-25,9219,owid/roser,No
+Peru,2020-03-26,10065,owid/roser,No
+Peru,2020-03-27,10896,owid/roser,No
+Peru,2020-03-28,12669,owid/roser,No
+Peru,2020-03-29,13452,owid/roser,No
+Peru,2020-03-30,14463,owid/roser,No
+Peru,2020-03-31,15587,owid/roser,No
+Peru,2020-04-01,16518,owid/roser,No
+Peru,2020-04-02,17334,owid/roser,No
+Peru,2020-04-03,17841,owid/roser,No
+Peru,2020-04-04,19410,owid/roser,No
+Peru,2020-04-05,20414,owid/roser,No
+Peru,2020-04-06,21555,owid/roser,No
+Peru,2020-04-07,23255,owid/roser,No
+Peru,2020-04-08,39599,worldometers,No
+Peru,2020-04-09,48465,worldometers,No
+Peru,2020-04-10,56681,worldometers,No
+Peru,2020-04-11,65712,wiki,No
+Peru,2020-04-12,76506,wiki,No
 Peru,2020-04-13,87116,wiki,No
 Peru,2020-04-14,102216,wiki,No
 Peru,2020-04-15,109385,wiki,No
@@ -42000,6 +42199,7 @@ Peru,2020-08-15,2738229,wiki,No
 Peru,2020-08-16,2793614,wiki,No
 Peru,2020-08-17,2808566,,Yes
 Peru,2020-08-18,2818943,wiki,No
+Peru,2020-08-19,2826771,,Yes
 Philippines,2020-01-22,,,No
 Philippines,2020-01-23,,,No
 Philippines,2020-01-24,,,No
@@ -42209,7 +42409,8 @@ Philippines,2020-08-14,1891767,owid/roser,No
 Philippines,2020-08-15,1923620,owid/roser,No
 Philippines,2020-08-16,1948932,owid/roser,No
 Philippines,2020-08-17,2071375,wiki,No
-Philippines,2020-08-18,2076114,,Yes
+Philippines,2020-08-18,2163050,wiki,No
+Philippines,2020-08-19,2167611,,Yes
 Poland,2020-01-22,,,No
 Poland,2020-01-23,,,No
 Poland,2020-01-24,,,No
@@ -42420,6 +42621,7 @@ Poland,2020-08-15,2441778,,Yes
 Poland,2020-08-16,2442372,,Yes
 Poland,2020-08-17,2442967,,Yes
 Poland,2020-08-18,2443564,,Yes
+Poland,2020-08-19,2444299,,Yes
 Portugal,2020-01-22,,,No
 Portugal,2020-01-23,,,No
 Portugal,2020-01-24,,,No
@@ -42630,6 +42832,7 @@ Portugal,2020-08-15,1799984,,Yes
 Portugal,2020-08-16,1800105,,Yes
 Portugal,2020-08-17,1800237,,Yes
 Portugal,2020-08-18,1800451,,Yes
+Portugal,2020-08-19,1800704,,Yes
 Qatar,2020-01-22,,,No
 Qatar,2020-01-23,,,No
 Qatar,2020-01-24,,,No
@@ -42840,6 +43043,7 @@ Qatar,2020-08-15,546285,owid/roser,No
 Qatar,2020-08-16,551273,owid/roser,No
 Qatar,2020-08-17,555970,owid/roser,No
 Qatar,2020-08-18,560990,owid/roser,No
+Qatar,2020-08-19,566013,owid/roser,No
 Romania,2020-01-22,,,No
 Romania,2020-01-23,,,No
 Romania,2020-01-24,,,No
@@ -43050,6 +43254,7 @@ Romania,2020-08-15,1502042,owid/roser,No
 Romania,2020-08-16,1513888,owid/roser,No
 Romania,2020-08-17,1520750,owid/roser,No
 Romania,2020-08-18,1542094,owid/roser,No
+Romania,2020-08-19,1566632,owid/roser,No
 Russia,2020-01-22,,,No
 Russia,2020-01-23,,,No
 Russia,2020-01-24,,,No
@@ -43260,6 +43465,7 @@ Russia,2020-08-15,32533818,owid/roser,No
 Russia,2020-08-16,32784478,owid/roser,No
 Russia,2020-08-17,32968759,owid/roser,No
 Russia,2020-08-18,33217468,owid/roser,No
+Russia,2020-08-19,33509273,owid/roser,No
 Rwanda,2020-01-22,,,No
 Rwanda,2020-01-23,,,No
 Rwanda,2020-01-24,,,No
@@ -43470,6 +43676,7 @@ Rwanda,2020-08-15,329474,lau,No
 Rwanda,2020-08-16,334270,lau,No
 Rwanda,2020-08-17,338288,lau,No
 Rwanda,2020-08-18,342614,lau,No
+Rwanda,2020-08-19,345920,lau,No
 Saint Kitts and Nevis,2020-01-22,,,No
 Saint Kitts and Nevis,2020-01-23,,,No
 Saint Kitts and Nevis,2020-01-24,,,No
@@ -43676,10 +43883,11 @@ Saint Kitts and Nevis,2020-08-11,1211,worldometers,No
 Saint Kitts and Nevis,2020-08-12,1294,worldometers,No
 Saint Kitts and Nevis,2020-08-13,1302,,Yes
 Saint Kitts and Nevis,2020-08-14,1312,worldometers,No
-Saint Kitts and Nevis,2020-08-15,1312,,Yes
-Saint Kitts and Nevis,2020-08-16,1312,,Yes
-Saint Kitts and Nevis,2020-08-17,1312,,Yes
-Saint Kitts and Nevis,2020-08-18,1312,,Yes
+Saint Kitts and Nevis,2020-08-15,1326,,Yes
+Saint Kitts and Nevis,2020-08-16,1341,,Yes
+Saint Kitts and Nevis,2020-08-17,1355,,Yes
+Saint Kitts and Nevis,2020-08-18,1370,,Yes
+Saint Kitts and Nevis,2020-08-19,1385,worldometers,No
 Saint Lucia,2020-01-22,,,No
 Saint Lucia,2020-01-23,,,No
 Saint Lucia,2020-01-24,,,No
@@ -43890,6 +44098,7 @@ Saint Lucia,2020-08-15,4552,,Yes
 Saint Lucia,2020-08-16,4584,,Yes
 Saint Lucia,2020-08-17,4616,worldometers,No
 Saint Lucia,2020-08-18,4768,worldometers,No
+Saint Lucia,2020-08-19,4801,worldometers,No
 Saint Vincent and the Grenadines,2020-01-22,,,No
 Saint Vincent and the Grenadines,2020-01-23,,,No
 Saint Vincent and the Grenadines,2020-01-24,,,No
@@ -44099,7 +44308,8 @@ Saint Vincent and the Grenadines,2020-08-14,2649,worldometers,No
 Saint Vincent and the Grenadines,2020-08-15,2725,,Yes
 Saint Vincent and the Grenadines,2020-08-16,2802,,Yes
 Saint Vincent and the Grenadines,2020-08-17,2880,worldometers,No
-Saint Vincent and the Grenadines,2020-08-18,2880,,Yes
+Saint Vincent and the Grenadines,2020-08-18,2917,,Yes
+Saint Vincent and the Grenadines,2020-08-19,2954,worldometers,No
 San Marino,2020-01-22,,,No
 San Marino,2020-01-23,,,No
 San Marino,2020-01-24,,,No
@@ -44310,6 +44520,7 @@ San Marino,2020-08-15,26596,,Yes
 San Marino,2020-08-16,26657,,Yes
 San Marino,2020-08-17,26718,lau,No
 San Marino,2020-08-18,26721,,Yes
+San Marino,2020-08-19,26723,,Yes
 Sao Tome and Principe,2020-01-22,,,No
 Sao Tome and Principe,2020-01-23,,,No
 Sao Tome and Principe,2020-01-24,,,No
@@ -44520,6 +44731,7 @@ Sao Tome and Principe,2020-08-15,3249,worldometers,No
 Sao Tome and Principe,2020-08-16,3261,worldometers,No
 Sao Tome and Principe,2020-08-17,3279,worldometers,No
 Sao Tome and Principe,2020-08-18,3279,,Yes
+Sao Tome and Principe,2020-08-19,3279,,Yes
 Saudi Arabia,2020-01-22,,,No
 Saudi Arabia,2020-01-23,,,No
 Saudi Arabia,2020-01-24,,,No
@@ -44730,6 +44942,7 @@ Saudi Arabia,2020-08-15,4202076,owid/roser,No
 Saudi Arabia,2020-08-16,4262092,owid/roser,No
 Saudi Arabia,2020-08-17,4317705,owid/roser,No
 Saudi Arabia,2020-08-18,4378417,owid/roser,No
+Saudi Arabia,2020-08-19,4439484,owid/roser,No
 Senegal,2020-01-22,,,No
 Senegal,2020-01-23,,,No
 Senegal,2020-01-24,,,No
@@ -44940,6 +45153,7 @@ Senegal,2020-08-15,132439,owid/roser,No
 Senegal,2020-08-16,133756,owid/roser,No
 Senegal,2020-08-17,134805,owid/roser,No
 Senegal,2020-08-18,135731,owid/roser,No
+Senegal,2020-08-19,137194,owid/roser,No
 Serbia,2020-01-22,,,No
 Serbia,2020-01-23,,,No
 Serbia,2020-01-24,,,No
@@ -45149,7 +45363,8 @@ Serbia,2020-08-14,789480,owid/roser,No
 Serbia,2020-08-15,798009,owid/roser,No
 Serbia,2020-08-16,804568,owid/roser,No
 Serbia,2020-08-17,811920,owid/roser,No
-Serbia,2020-08-18,812028,,Yes
+Serbia,2020-08-18,821106,owid/roser,No
+Serbia,2020-08-19,831677,owid/roser,No
 Seychelles,2020-01-22,,,No
 Seychelles,2020-01-23,,,No
 Seychelles,2020-01-24,,,No
@@ -45360,6 +45575,7 @@ Seychelles,2020-08-15,,,No
 Seychelles,2020-08-16,,,No
 Seychelles,2020-08-17,,,No
 Seychelles,2020-08-18,,,No
+Seychelles,2020-08-19,,,No
 Sierra Leone,2020-01-22,,,No
 Sierra Leone,2020-01-23,,,No
 Sierra Leone,2020-01-24,,,No
@@ -45570,6 +45786,7 @@ Sierra Leone,2020-08-15,1954,,Yes
 Sierra Leone,2020-08-16,1956,,Yes
 Sierra Leone,2020-08-17,1956,,Yes
 Sierra Leone,2020-08-18,1959,,Yes
+Sierra Leone,2020-08-19,1961,,Yes
 Singapore,2020-01-22,,,No
 Singapore,2020-01-23,,,No
 Singapore,2020-01-24,,,No
@@ -45780,6 +45997,7 @@ Singapore,2020-08-15,1688021,,Yes
 Singapore,2020-08-16,1707315,,Yes
 Singapore,2020-08-17,1726615,,Yes
 Singapore,2020-08-18,1745928,owid/roser,No
+Singapore,2020-08-19,1746021,,Yes
 Slovakia,2020-01-22,,,No
 Slovakia,2020-01-23,,,No
 Slovakia,2020-01-24,,,No
@@ -45990,6 +46208,7 @@ Slovakia,2020-08-15,292825,owid/roser,No
 Slovakia,2020-08-16,294838,owid/roser,No
 Slovakia,2020-08-17,295319,owid/roser,No
 Slovakia,2020-08-18,296902,owid/roser,No
+Slovakia,2020-08-19,300586,owid/roser,No
 Slovenia,2020-01-22,,,No
 Slovenia,2020-01-23,,,No
 Slovenia,2020-01-24,,,No
@@ -46200,6 +46419,7 @@ Slovenia,2020-08-15,141927,owid/roser,No
 Slovenia,2020-08-16,142320,owid/roser,No
 Slovenia,2020-08-17,143463,owid/roser,No
 Slovenia,2020-08-18,144555,owid/roser,No
+Slovenia,2020-08-19,145723,owid/roser,No
 Somalia,2020-01-22,,,No
 Somalia,2020-01-23,,,No
 Somalia,2020-01-24,,,No
@@ -46410,6 +46630,7 @@ Somalia,2020-08-15,,,No
 Somalia,2020-08-16,,,No
 Somalia,2020-08-17,,,No
 Somalia,2020-08-18,,,No
+Somalia,2020-08-19,,,No
 South Africa,2020-01-22,,,No
 South Africa,2020-01-23,,,No
 South Africa,2020-01-24,,,No
@@ -46620,6 +46841,7 @@ South Africa,2020-08-15,3378029,owid/roser,No
 South Africa,2020-08-16,3400638,owid/roser,No
 South Africa,2020-08-17,3415670,owid/roser,No
 South Africa,2020-08-18,3430347,owid/roser,No
+South Africa,2020-08-19,3455671,owid/roser,No
 South Korea,2020-01-22,16,owid/roser,No
 South Korea,2020-01-23,19,,Yes
 South Korea,2020-01-24,25,owid/roser,No
@@ -46830,6 +47052,7 @@ South Korea,2020-08-15,1653678,owid/roser,No
 South Korea,2020-08-16,1659782,owid/roser,No
 South Korea,2020-08-17,1665506,owid/roser,No
 South Korea,2020-08-18,1671823,owid/roser,No
+South Korea,2020-08-19,1684042,owid/roser,No
 South Sudan,2020-01-22,,,No
 South Sudan,2020-01-23,,,No
 South Sudan,2020-01-24,,,No
@@ -47040,6 +47263,7 @@ South Sudan,2020-08-15,12379,,Yes
 South Sudan,2020-08-16,12380,,Yes
 South Sudan,2020-08-17,12381,,Yes
 South Sudan,2020-08-18,12381,,Yes
+South Sudan,2020-08-19,12385,,Yes
 Spain,2020-01-22,,,No
 Spain,2020-01-23,,,No
 Spain,2020-01-24,,,No
@@ -47250,6 +47474,7 @@ Spain,2020-08-15,6393305,,Yes
 Spain,2020-08-16,6903562,,Yes
 Spain,2020-08-17,7436269,,Yes
 Spain,2020-08-18,7955615,worldometers,No
+Spain,2020-08-19,7962286,,Yes
 Sri Lanka,2020-01-22,,,No
 Sri Lanka,2020-01-23,,,No
 Sri Lanka,2020-01-24,,,No
@@ -47460,6 +47685,7 @@ Sri Lanka,2020-08-15,182685,,Yes
 Sri Lanka,2020-08-16,182688,,Yes
 Sri Lanka,2020-08-17,182695,,Yes
 Sri Lanka,2020-08-18,182697,,Yes
+Sri Lanka,2020-08-19,182697,,Yes
 Sudan,2020-01-22,,,No
 Sudan,2020-01-23,,,No
 Sudan,2020-01-24,,,No
@@ -47670,6 +47896,7 @@ Sudan,2020-08-15,32779,,Yes
 Sudan,2020-08-16,32882,,Yes
 Sudan,2020-08-17,32978,,Yes
 Sudan,2020-08-18,33053,,Yes
+Sudan,2020-08-19,33114,,Yes
 Suriname,2020-01-22,,,No
 Suriname,2020-01-23,,,No
 Suriname,2020-01-24,,,No
@@ -47880,6 +48107,7 @@ Suriname,2020-08-15,4573,,Yes
 Suriname,2020-08-16,4630,,Yes
 Suriname,2020-08-17,4693,,Yes
 Suriname,2020-08-18,4835,worldometers,No
+Suriname,2020-08-19,5284,worldometers,No
 Sweden,2020-01-22,,,No
 Sweden,2020-01-23,,,No
 Sweden,2020-01-24,,,No
@@ -48085,11 +48313,12 @@ Sweden,2020-08-10,893910,,Yes
 Sweden,2020-08-11,901468,,Yes
 Sweden,2020-08-12,909213,,Yes
 Sweden,2020-08-13,917036,worldometers,No
-Sweden,2020-08-14,917478,,Yes
-Sweden,2020-08-15,917478,,Yes
-Sweden,2020-08-16,917478,,Yes
-Sweden,2020-08-17,918229,,Yes
-Sweden,2020-08-18,918403,,Yes
+Sweden,2020-08-14,926621,,Yes
+Sweden,2020-08-15,935765,,Yes
+Sweden,2020-08-16,944908,,Yes
+Sweden,2020-08-17,954833,,Yes
+Sweden,2020-08-18,964166,,Yes
+Sweden,2020-08-19,973523,worldometers,No
 Switzerland,2020-01-22,,,No
 Switzerland,2020-01-23,,,No
 Switzerland,2020-01-24,3,owid/roser,No
@@ -48189,59 +48418,59 @@ Switzerland,2020-04-26,256290,owid/roser,No
 Switzerland,2020-04-27,260039,owid/roser,No
 Switzerland,2020-04-28,265633,owid/roser,No
 Switzerland,2020-04-29,270941,,Yes
-Switzerland,2020-04-30,276292,owid/roser,No
-Switzerland,2020-05-01,280743,owid/roser,No
-Switzerland,2020-05-02,283863,owid/roser,No
-Switzerland,2020-05-03,286382,owid/roser,No
-Switzerland,2020-05-04,290244,owid/roser,No
-Switzerland,2020-05-05,296134,owid/roser,No
-Switzerland,2020-05-06,301510,owid/roser,No
-Switzerland,2020-05-07,306174,owid/roser,No
-Switzerland,2020-05-08,310530,owid/roser,No
-Switzerland,2020-05-09,313666,owid/roser,No
-Switzerland,2020-05-10,315097,owid/roser,No
-Switzerland,2020-05-11,320172,owid/roser,No
-Switzerland,2020-05-12,325739,owid/roser,No
-Switzerland,2020-05-13,331970,owid/roser,No
-Switzerland,2020-05-14,337676,owid/roser,No
-Switzerland,2020-05-15,343274,owid/roser,No
-Switzerland,2020-05-16,346544,owid/roser,No
-Switzerland,2020-05-17,348288,owid/roser,No
-Switzerland,2020-05-18,352703,owid/roser,No
-Switzerland,2020-05-19,358703,owid/roser,No
-Switzerland,2020-05-20,363567,owid/roser,No
-Switzerland,2020-05-21,365684,owid/roser,No
-Switzerland,2020-05-22,369249,owid/roser,No
-Switzerland,2020-05-23,371777,owid/roser,No
-Switzerland,2020-05-24,373437,owid/roser,No
-Switzerland,2020-05-25,377441,owid/roser,No
-Switzerland,2020-05-26,383136,owid/roser,No
-Switzerland,2020-05-27,388138,owid/roser,No
-Switzerland,2020-05-28,392331,owid/roser,No
-Switzerland,2020-05-29,396043,owid/roser,No
-Switzerland,2020-05-30,398629,owid/roser,No
-Switzerland,2020-05-31,400201,owid/roser,No
-Switzerland,2020-06-01,401984,owid/roser,No
-Switzerland,2020-06-02,406267,owid/roser,No
-Switzerland,2020-06-03,411532,owid/roser,No
-Switzerland,2020-06-04,416750,owid/roser,No
-Switzerland,2020-06-05,421570,owid/roser,No
-Switzerland,2020-06-06,424691,owid/roser,No
-Switzerland,2020-06-07,426233,owid/roser,No
-Switzerland,2020-06-08,430946,owid/roser,No
-Switzerland,2020-06-09,437439,owid/roser,No
-Switzerland,2020-06-10,444039,owid/roser,No
-Switzerland,2020-06-11,449649,owid/roser,No
-Switzerland,2020-06-12,456105,owid/roser,No
-Switzerland,2020-06-13,460464,owid/roser,No
-Switzerland,2020-06-14,462258,owid/roser,No
-Switzerland,2020-06-15,468764,owid/roser,No
-Switzerland,2020-06-16,478809,owid/roser,No
-Switzerland,2020-06-17,488426,owid/roser,No
-Switzerland,2020-06-18,496858,owid/roser,No
-Switzerland,2020-06-19,504443,owid/roser,No
-Switzerland,2020-06-20,509136,owid/roser,No
-Switzerland,2020-06-21,510915,owid/roser,No
+Switzerland,2020-04-30,276293,owid/roser,No
+Switzerland,2020-05-01,280744,owid/roser,No
+Switzerland,2020-05-02,283864,owid/roser,No
+Switzerland,2020-05-03,286383,owid/roser,No
+Switzerland,2020-05-04,290245,owid/roser,No
+Switzerland,2020-05-05,296135,owid/roser,No
+Switzerland,2020-05-06,301511,owid/roser,No
+Switzerland,2020-05-07,306175,owid/roser,No
+Switzerland,2020-05-08,310531,owid/roser,No
+Switzerland,2020-05-09,313667,owid/roser,No
+Switzerland,2020-05-10,315098,owid/roser,No
+Switzerland,2020-05-11,320173,owid/roser,No
+Switzerland,2020-05-12,325740,owid/roser,No
+Switzerland,2020-05-13,331971,owid/roser,No
+Switzerland,2020-05-14,337677,owid/roser,No
+Switzerland,2020-05-15,343275,owid/roser,No
+Switzerland,2020-05-16,346545,owid/roser,No
+Switzerland,2020-05-17,348289,owid/roser,No
+Switzerland,2020-05-18,352704,owid/roser,No
+Switzerland,2020-05-19,358704,owid/roser,No
+Switzerland,2020-05-20,363568,owid/roser,No
+Switzerland,2020-05-21,365685,owid/roser,No
+Switzerland,2020-05-22,369250,owid/roser,No
+Switzerland,2020-05-23,371778,owid/roser,No
+Switzerland,2020-05-24,373438,owid/roser,No
+Switzerland,2020-05-25,377442,owid/roser,No
+Switzerland,2020-05-26,383137,owid/roser,No
+Switzerland,2020-05-27,388139,owid/roser,No
+Switzerland,2020-05-28,392332,owid/roser,No
+Switzerland,2020-05-29,396044,owid/roser,No
+Switzerland,2020-05-30,398630,owid/roser,No
+Switzerland,2020-05-31,400202,owid/roser,No
+Switzerland,2020-06-01,401985,owid/roser,No
+Switzerland,2020-06-02,406268,owid/roser,No
+Switzerland,2020-06-03,411533,owid/roser,No
+Switzerland,2020-06-04,416751,owid/roser,No
+Switzerland,2020-06-05,421571,owid/roser,No
+Switzerland,2020-06-06,424692,owid/roser,No
+Switzerland,2020-06-07,426234,owid/roser,No
+Switzerland,2020-06-08,430947,owid/roser,No
+Switzerland,2020-06-09,437440,owid/roser,No
+Switzerland,2020-06-10,444040,owid/roser,No
+Switzerland,2020-06-11,449650,owid/roser,No
+Switzerland,2020-06-12,456106,owid/roser,No
+Switzerland,2020-06-13,460465,owid/roser,No
+Switzerland,2020-06-14,462259,owid/roser,No
+Switzerland,2020-06-15,468765,owid/roser,No
+Switzerland,2020-06-16,478810,owid/roser,No
+Switzerland,2020-06-17,488427,owid/roser,No
+Switzerland,2020-06-18,496859,owid/roser,No
+Switzerland,2020-06-19,504444,owid/roser,No
+Switzerland,2020-06-20,509137,owid/roser,No
+Switzerland,2020-06-21,510916,owid/roser,No
 Switzerland,2020-06-22,519120,owid/roser,No
 Switzerland,2020-06-23,530785,owid/roser,No
 Switzerland,2020-06-24,539926,owid/roser,No
@@ -48284,22 +48513,23 @@ Switzerland,2020-07-30,793810,owid/roser,No
 Switzerland,2020-07-31,799521,owid/roser,No
 Switzerland,2020-08-01,802575,owid/roser,No
 Switzerland,2020-08-02,804705,owid/roser,No
-Switzerland,2020-08-03,810936,owid/roser,No
-Switzerland,2020-08-04,818193,owid/roser,No
-Switzerland,2020-08-05,824985,owid/roser,No
-Switzerland,2020-08-06,831606,owid/roser,No
-Switzerland,2020-08-07,837767,owid/roser,No
-Switzerland,2020-08-08,841434,owid/roser,No
-Switzerland,2020-08-09,843467,owid/roser,No
-Switzerland,2020-08-10,849524,owid/roser,No
-Switzerland,2020-08-11,856891,owid/roser,No
-Switzerland,2020-08-12,863581,owid/roser,No
-Switzerland,2020-08-13,870903,owid/roser,No
-Switzerland,2020-08-14,878073,owid/roser,No
-Switzerland,2020-08-15,882836,owid/roser,No
-Switzerland,2020-08-16,885189,owid/roser,No
-Switzerland,2020-08-17,890289,owid/roser,No
-Switzerland,2020-08-18,890486,,Yes
+Switzerland,2020-08-03,810941,owid/roser,No
+Switzerland,2020-08-04,818266,owid/roser,No
+Switzerland,2020-08-05,825060,owid/roser,No
+Switzerland,2020-08-06,831682,owid/roser,No
+Switzerland,2020-08-07,837853,owid/roser,No
+Switzerland,2020-08-08,841578,owid/roser,No
+Switzerland,2020-08-09,843612,owid/roser,No
+Switzerland,2020-08-10,849669,owid/roser,No
+Switzerland,2020-08-11,857037,owid/roser,No
+Switzerland,2020-08-12,863726,owid/roser,No
+Switzerland,2020-08-13,871087,owid/roser,No
+Switzerland,2020-08-14,878430,owid/roser,No
+Switzerland,2020-08-15,883286,owid/roser,No
+Switzerland,2020-08-16,885719,owid/roser,No
+Switzerland,2020-08-17,893929,owid/roser,No
+Switzerland,2020-08-18,904094,owid/roser,No
+Switzerland,2020-08-19,910283,owid/roser,No
 Syria,2020-01-22,,,No
 Syria,2020-01-23,,,No
 Syria,2020-01-24,,,No
@@ -48510,6 +48740,7 @@ Syria,2020-08-15,,,No
 Syria,2020-08-16,,,No
 Syria,2020-08-17,,,No
 Syria,2020-08-18,,,No
+Syria,2020-08-19,,,No
 Taiwan,2020-01-22,64,owid/roser,No
 Taiwan,2020-01-23,134,owid/roser,No
 Taiwan,2020-01-24,191,owid/roser,No
@@ -48714,12 +48945,13 @@ Taiwan,2020-08-09,83431,owid/roser,No
 Taiwan,2020-08-10,83678,owid/roser,No
 Taiwan,2020-08-11,83826,owid/roser,No
 Taiwan,2020-08-12,84017,owid/roser,No
-Taiwan,2020-08-13,84247,owid/roser,No
-Taiwan,2020-08-14,84445,owid/roser,No
-Taiwan,2020-08-15,84578,owid/roser,No
-Taiwan,2020-08-16,84702,owid/roser,No
-Taiwan,2020-08-17,84962,owid/roser,No
-Taiwan,2020-08-18,85128,owid/roser,No
+Taiwan,2020-08-13,84246,owid/roser,No
+Taiwan,2020-08-14,84444,owid/roser,No
+Taiwan,2020-08-15,84577,owid/roser,No
+Taiwan,2020-08-16,84701,owid/roser,No
+Taiwan,2020-08-17,84961,owid/roser,No
+Taiwan,2020-08-18,85127,owid/roser,No
+Taiwan,2020-08-19,85349,owid/roser,No
 Tajikistan,2020-01-22,,,No
 Tajikistan,2020-01-23,,,No
 Tajikistan,2020-01-24,,,No
@@ -48930,6 +49162,7 @@ Tajikistan,2020-08-15,,,No
 Tajikistan,2020-08-16,,,No
 Tajikistan,2020-08-17,,,No
 Tajikistan,2020-08-18,,,No
+Tajikistan,2020-08-19,,,No
 Tanzania,2020-01-22,,,No
 Tanzania,2020-01-23,,,No
 Tanzania,2020-01-24,,,No
@@ -49140,6 +49373,7 @@ Tanzania,2020-08-15,2680,,Yes
 Tanzania,2020-08-16,2680,,Yes
 Tanzania,2020-08-17,2680,,Yes
 Tanzania,2020-08-18,2680,,Yes
+Tanzania,2020-08-19,2680,,Yes
 Thailand,2020-01-22,,,No
 Thailand,2020-01-23,,,No
 Thailand,2020-01-24,,,No
@@ -49350,6 +49584,7 @@ Thailand,2020-08-15,781388,owid/roser,No
 Thailand,2020-08-16,782386,owid/roser,No
 Thailand,2020-08-17,783679,owid/roser,No
 Thailand,2020-08-18,785547,owid/roser,No
+Thailand,2020-08-19,787665,owid/roser,No
 Timor-Leste,2020-01-22,,,No
 Timor-Leste,2020-01-23,,,No
 Timor-Leste,2020-01-24,,,No
@@ -49560,6 +49795,7 @@ Timor-Leste,2020-08-15,4238,,Yes
 Timor-Leste,2020-08-16,4238,,Yes
 Timor-Leste,2020-08-17,4238,,Yes
 Timor-Leste,2020-08-18,4238,,Yes
+Timor-Leste,2020-08-19,4238,,Yes
 Togo,2020-01-22,,,No
 Togo,2020-01-23,,,No
 Togo,2020-01-24,,,No
@@ -49769,7 +50005,8 @@ Togo,2020-08-14,51126,owid/roser,No
 Togo,2020-08-15,51889,owid/roser,No
 Togo,2020-08-16,53017,lau,No
 Togo,2020-08-17,53475,lau,No
-Togo,2020-08-18,53494,,Yes
+Togo,2020-08-18,54291,,Yes
+Togo,2020-08-19,55106,lau,No
 Trinidad and Tobago,2020-01-22,,,No
 Trinidad and Tobago,2020-01-23,,,No
 Trinidad and Tobago,2020-01-24,,,No
@@ -49980,6 +50217,7 @@ Trinidad and Tobago,2020-08-15,13174,,Yes
 Trinidad and Tobago,2020-08-16,13398,worldometers,No
 Trinidad and Tobago,2020-08-17,14094,worldometers,No
 Trinidad and Tobago,2020-08-18,15277,worldometers,No
+Trinidad and Tobago,2020-08-19,16453,worldometers,No
 Tunisia,2020-01-22,,,No
 Tunisia,2020-01-23,,,No
 Tunisia,2020-01-24,,,No
@@ -50190,6 +50428,7 @@ Tunisia,2020-08-15,110644,owid/roser,No
 Tunisia,2020-08-16,112048,owid/roser,No
 Tunisia,2020-08-17,113025,worldometers,No
 Tunisia,2020-08-18,113972,worldometers,No
+Tunisia,2020-08-19,115376,worldometers,No
 Turkey,2020-01-22,,,No
 Turkey,2020-01-23,,,No
 Turkey,2020-01-24,,,No
@@ -50400,6 +50639,7 @@ Turkey,2020-08-15,5659286,owid/roser,No
 Turkey,2020-08-16,5725242,owid/roser,No
 Turkey,2020-08-17,5800088,owid/roser,No
 Turkey,2020-08-18,5882406,owid/roser,No
+Turkey,2020-08-19,5883709,,Yes
 US – Alabama,2020-01-22,,,No
 US – Alabama,2020-01-23,,,No
 US – Alabama,2020-01-24,,,No
@@ -50610,6 +50850,7 @@ US – Alabama,2020-08-15,837017,covidtracking.com,No
 US – Alabama,2020-08-16,846424,covidtracking.com,No
 US – Alabama,2020-08-17,852923,covidtracking.com,No
 US – Alabama,2020-08-18,868259,covidtracking.com,No
+US – Alabama,2020-08-19,885346,covidtracking.com,No
 US – Alaska,2020-01-22,,,No
 US – Alaska,2020-01-23,,,No
 US – Alaska,2020-01-24,,,No
@@ -50820,6 +51061,7 @@ US – Alaska,2020-08-15,296677,covidtracking.com,No
 US – Alaska,2020-08-16,301515,covidtracking.com,No
 US – Alaska,2020-08-17,305648,covidtracking.com,No
 US – Alaska,2020-08-18,310009,covidtracking.com,No
+US – Alaska,2020-08-19,310849,covidtracking.com,No
 US – American Samoa,2020-01-22,,,No
 US – American Samoa,2020-01-23,,,No
 US – American Samoa,2020-01-24,,,No
@@ -51030,6 +51272,7 @@ US – American Samoa,2020-08-15,1514,covidtracking.com,No
 US – American Samoa,2020-08-16,1514,covidtracking.com,No
 US – American Samoa,2020-08-17,1514,covidtracking.com,No
 US – American Samoa,2020-08-18,1514,covidtracking.com,No
+US – American Samoa,2020-08-19,1514,covidtracking.com,No
 US – Arizona,2020-01-22,,,No
 US – Arizona,2020-01-23,,,No
 US – Arizona,2020-01-24,,,No
@@ -51240,6 +51483,7 @@ US – Arizona,2020-08-15,1077191,covidtracking.com,No
 US – Arizona,2020-08-16,1091974,covidtracking.com,No
 US – Arizona,2020-08-17,1098388,covidtracking.com,No
 US – Arizona,2020-08-18,1103997,covidtracking.com,No
+US – Arizona,2020-08-19,1111239,covidtracking.com,No
 US – Arkansas,2020-01-22,,,No
 US – Arkansas,2020-01-23,,,No
 US – Arkansas,2020-01-24,,,No
@@ -51450,6 +51694,7 @@ US – Arkansas,2020-08-15,605210,,Yes
 US – Arkansas,2020-08-16,622050,covidtracking.com,No
 US – Arkansas,2020-08-17,622462,covidtracking.com,No
 US – Arkansas,2020-08-18,633062,covidtracking.com,No
+US – Arkansas,2020-08-19,641280,covidtracking.com,No
 US – California,2020-01-22,,,No
 US – California,2020-01-23,,,No
 US – California,2020-01-24,,,No
@@ -51660,6 +51905,7 @@ US – California,2020-08-15,9681111,covidtracking.com,No
 US – California,2020-08-16,9798135,covidtracking.com,No
 US – California,2020-08-17,9933780,covidtracking.com,No
 US – California,2020-08-18,10049039,covidtracking.com,No
+US – California,2020-08-19,10140683,covidtracking.com,No
 US – Colorado,2020-01-22,,,No
 US – Colorado,2020-01-23,,,No
 US – Colorado,2020-01-24,,,No
@@ -51870,6 +52116,7 @@ US – Colorado,2020-08-15,620325,covidtracking.com,No
 US – Colorado,2020-08-16,626305,covidtracking.com,No
 US – Colorado,2020-08-17,634573,covidtracking.com,No
 US – Colorado,2020-08-18,639650,covidtracking.com,No
+US – Colorado,2020-08-19,643831,covidtracking.com,No
 US – Connecticut,2020-01-22,,,No
 US – Connecticut,2020-01-23,,,No
 US – Connecticut,2020-01-24,,,No
@@ -52080,6 +52327,7 @@ US – Connecticut,2020-08-15,937690,covidtracking.com,No
 US – Connecticut,2020-08-16,937690,covidtracking.com,No
 US – Connecticut,2020-08-17,981968,covidtracking.com,No
 US – Connecticut,2020-08-18,992731,covidtracking.com,No
+US – Connecticut,2020-08-19,1002420,covidtracking.com,No
 US – Delaware,2020-01-22,,,No
 US – Delaware,2020-01-23,,,No
 US – Delaware,2020-01-24,,,No
@@ -52290,6 +52538,7 @@ US – Delaware,2020-08-15,208761,covidtracking.com,No
 US – Delaware,2020-08-16,210385,covidtracking.com,No
 US – Delaware,2020-08-17,212638,covidtracking.com,No
 US – Delaware,2020-08-18,213845,covidtracking.com,No
+US – Delaware,2020-08-19,214869,covidtracking.com,No
 US – District of Columbia,2020-01-22,,,No
 US – District of Columbia,2020-01-23,,,No
 US – District of Columbia,2020-01-24,,,No
@@ -52500,6 +52749,7 @@ US – District of Columbia,2020-08-15,239216,covidtracking.com,No
 US – District of Columbia,2020-08-16,242852,covidtracking.com,No
 US – District of Columbia,2020-08-17,245655,covidtracking.com,No
 US – District of Columbia,2020-08-18,249478,covidtracking.com,No
+US – District of Columbia,2020-08-19,251659,covidtracking.com,No
 US – Florida,2020-01-22,,,No
 US – Florida,2020-01-23,,,No
 US – Florida,2020-01-24,,,No
@@ -52710,6 +52960,7 @@ US – Florida,2020-08-15,4202725,covidtracking.com,No
 US – Florida,2020-08-16,4232628,covidtracking.com,No
 US – Florida,2020-08-17,4252876,covidtracking.com,No
 US – Florida,2020-08-18,4279040,covidtracking.com,No
+US – Florida,2020-08-19,4306239,covidtracking.com,No
 US – Georgia,2020-01-22,,,No
 US – Georgia,2020-01-23,,,No
 US – Georgia,2020-01-24,,,No
@@ -52920,6 +53171,7 @@ US – Georgia,2020-08-15,1988066,covidtracking.com,No
 US – Georgia,2020-08-16,2005273,covidtracking.com,No
 US – Georgia,2020-08-17,2027417,covidtracking.com,No
 US – Georgia,2020-08-18,2060319,covidtracking.com,No
+US – Georgia,2020-08-19,2075697,covidtracking.com,No
 US – Guam,2020-01-22,,,No
 US – Guam,2020-01-23,,,No
 US – Guam,2020-01-24,,,No
@@ -53130,6 +53382,7 @@ US – Guam,2020-08-15,27096,covidtracking.com,No
 US – Guam,2020-08-16,27773,covidtracking.com,No
 US – Guam,2020-08-17,28773,covidtracking.com,No
 US – Guam,2020-08-18,29226,covidtracking.com,No
+US – Guam,2020-08-19,29750,covidtracking.com,No
 US – Hawaii,2020-01-22,,,No
 US – Hawaii,2020-01-23,,,No
 US – Hawaii,2020-01-24,,,No
@@ -53340,6 +53593,7 @@ US – Hawaii,2020-08-15,156266,covidtracking.com,No
 US – Hawaii,2020-08-16,159299,covidtracking.com,No
 US – Hawaii,2020-08-17,161948,covidtracking.com,No
 US – Hawaii,2020-08-18,164199,covidtracking.com,No
+US – Hawaii,2020-08-19,166113,covidtracking.com,No
 US – Idaho,2020-01-22,,,No
 US – Idaho,2020-01-23,,,No
 US – Idaho,2020-01-24,,,No
@@ -53550,6 +53804,7 @@ US – Idaho,2020-08-15,221012,covidtracking.com,No
 US – Idaho,2020-08-16,223222,covidtracking.com,No
 US – Idaho,2020-08-17,224487,covidtracking.com,No
 US – Idaho,2020-08-18,226869,covidtracking.com,No
+US – Idaho,2020-08-19,229123,covidtracking.com,No
 US – Illinois,2020-01-22,,,No
 US – Illinois,2020-01-23,,,No
 US – Illinois,2020-01-24,,,No
@@ -53760,6 +54015,7 @@ US – Illinois,2020-08-15,3331094,covidtracking.com,No
 US – Illinois,2020-08-16,3368183,covidtracking.com,No
 US – Illinois,2020-08-17,3406429,covidtracking.com,No
 US – Illinois,2020-08-18,3440604,covidtracking.com,No
+US – Illinois,2020-08-19,3490903,covidtracking.com,No
 US – Indiana,2020-01-22,,,No
 US – Indiana,2020-01-23,,,No
 US – Indiana,2020-01-24,,,No
@@ -53970,6 +54226,7 @@ US – Indiana,2020-08-15,897615,covidtracking.com,No
 US – Indiana,2020-08-16,906851,covidtracking.com,No
 US – Indiana,2020-08-17,914633,covidtracking.com,No
 US – Indiana,2020-08-18,928614,covidtracking.com,No
+US – Indiana,2020-08-19,934033,covidtracking.com,No
 US – Iowa,2020-01-22,,,No
 US – Iowa,2020-01-23,,,No
 US – Iowa,2020-01-24,,,No
@@ -54180,6 +54437,7 @@ US – Iowa,2020-08-15,546074,covidtracking.com,No
 US – Iowa,2020-08-16,551193,covidtracking.com,No
 US – Iowa,2020-08-17,553984,covidtracking.com,No
 US – Iowa,2020-08-18,557098,covidtracking.com,No
+US – Iowa,2020-08-19,562322,covidtracking.com,No
 US – Kansas,2020-01-22,,,No
 US – Kansas,2020-01-23,,,No
 US – Kansas,2020-01-24,,,No
@@ -54389,7 +54647,8 @@ US – Kansas,2020-08-14,343043,covidtracking.com,No
 US – Kansas,2020-08-15,347102,,Yes
 US – Kansas,2020-08-16,350307,,Yes
 US – Kansas,2020-08-17,354262,covidtracking.com,No
-US – Kansas,2020-08-18,354522,,Yes
+US – Kansas,2020-08-18,356904,,Yes
+US – Kansas,2020-08-19,359840,covidtracking.com,No
 US – Kentucky,2020-01-22,,,No
 US – Kentucky,2020-01-23,,,No
 US – Kentucky,2020-01-24,,,No
@@ -54600,6 +54859,7 @@ US – Kentucky,2020-08-15,711976,covidtracking.com,No
 US – Kentucky,2020-08-16,712361,covidtracking.com,No
 US – Kentucky,2020-08-17,716816,covidtracking.com,No
 US – Kentucky,2020-08-18,726900,covidtracking.com,No
+US – Kentucky,2020-08-19,730820,covidtracking.com,No
 US – Louisiana,2020-01-22,,,No
 US – Louisiana,2020-01-23,,,No
 US – Louisiana,2020-01-24,,,No
@@ -54810,6 +55070,7 @@ US – Louisiana,2020-08-15,1637012,covidtracking.com,No
 US – Louisiana,2020-08-16,1658087,covidtracking.com,No
 US – Louisiana,2020-08-17,1674289,covidtracking.com,No
 US – Louisiana,2020-08-18,1689991,covidtracking.com,No
+US – Louisiana,2020-08-19,1704974,covidtracking.com,No
 US – Maine,2020-01-22,,,No
 US – Maine,2020-01-23,,,No
 US – Maine,2020-01-24,,,No
@@ -55020,6 +55281,7 @@ US – Maine,2020-08-15,207354,covidtracking.com,No
 US – Maine,2020-08-16,210223,covidtracking.com,No
 US – Maine,2020-08-17,212554,covidtracking.com,No
 US – Maine,2020-08-18,214326,covidtracking.com,No
+US – Maine,2020-08-19,217242,covidtracking.com,No
 US – Maryland,2020-01-22,,,No
 US – Maryland,2020-01-23,,,No
 US – Maryland,2020-01-24,,,No
@@ -55230,6 +55492,7 @@ US – Maryland,2020-08-15,1127652,covidtracking.com,No
 US – Maryland,2020-08-16,1142410,covidtracking.com,No
 US – Maryland,2020-08-17,1157612,covidtracking.com,No
 US – Maryland,2020-08-18,1167305,covidtracking.com,No
+US – Maryland,2020-08-19,1175768,covidtracking.com,No
 US – Massachusetts,2020-01-22,,,No
 US – Massachusetts,2020-01-23,,,No
 US – Massachusetts,2020-01-24,,,No
@@ -55440,6 +55703,7 @@ US – Massachusetts,2020-08-15,1434501,covidtracking.com,No
 US – Massachusetts,2020-08-16,1449968,covidtracking.com,No
 US – Massachusetts,2020-08-17,1464914,covidtracking.com,No
 US – Massachusetts,2020-08-18,1476567,covidtracking.com,No
+US – Massachusetts,2020-08-19,1496640,covidtracking.com,No
 US – Michigan,2020-01-22,,,No
 US – Michigan,2020-01-23,,,No
 US – Michigan,2020-01-24,,,No
@@ -55650,6 +55914,7 @@ US – Michigan,2020-08-15,2291779,covidtracking.com,No
 US – Michigan,2020-08-16,2321050,covidtracking.com,No
 US – Michigan,2020-08-17,2340207,covidtracking.com,No
 US – Michigan,2020-08-18,2362525,covidtracking.com,No
+US – Michigan,2020-08-19,2395188,covidtracking.com,No
 US – Minnesota,2020-01-22,,,No
 US – Minnesota,2020-01-23,,,No
 US – Minnesota,2020-01-24,,,No
@@ -55840,26 +56105,27 @@ US – Minnesota,2020-07-26,957374,covidtracking.com,No
 US – Minnesota,2020-07-27,970726,covidtracking.com,No
 US – Minnesota,2020-07-28,979988,covidtracking.com,No
 US – Minnesota,2020-07-29,993091,covidtracking.com,No
-US – Minnesota,2020-07-30,993836,,Yes
-US – Minnesota,2020-07-31,994607,,Yes
-US – Minnesota,2020-08-01,995332,,Yes
-US – Minnesota,2020-08-02,996091,,Yes
-US – Minnesota,2020-08-03,996704,,Yes
-US – Minnesota,2020-08-04,997306,,Yes
-US – Minnesota,2020-08-05,997923,,Yes
-US – Minnesota,2020-08-06,998784,,Yes
-US – Minnesota,2020-08-07,999329,,Yes
-US – Minnesota,2020-08-08,1000245,,Yes
-US – Minnesota,2020-08-09,1001042,,Yes
-US – Minnesota,2020-08-10,1001660,,Yes
-US – Minnesota,2020-08-11,1001983,,Yes
-US – Minnesota,2020-08-12,1002447,,Yes
-US – Minnesota,2020-08-13,1003137,,Yes
-US – Minnesota,2020-08-14,1003867,,Yes
-US – Minnesota,2020-08-15,1004557,,Yes
-US – Minnesota,2020-08-16,1005296,,Yes
-US – Minnesota,2020-08-17,1005860,,Yes
-US – Minnesota,2020-08-18,1006236,,Yes
+US – Minnesota,2020-07-30,994501,,Yes
+US – Minnesota,2020-07-31,995939,,Yes
+US – Minnesota,2020-08-01,997332,,Yes
+US – Minnesota,2020-08-02,998760,,Yes
+US – Minnesota,2020-08-03,1000042,,Yes
+US – Minnesota,2020-08-04,1001314,,Yes
+US – Minnesota,2020-08-05,1002602,,Yes
+US – Minnesota,2020-08-06,1004137,,Yes
+US – Minnesota,2020-08-07,1005354,,Yes
+US – Minnesota,2020-08-08,1006946,,Yes
+US – Minnesota,2020-08-09,1008419,,Yes
+US – Minnesota,2020-08-10,1009712,,Yes
+US – Minnesota,2020-08-11,1010709,,Yes
+US – Minnesota,2020-08-12,1011849,,Yes
+US – Minnesota,2020-08-13,1013217,,Yes
+US – Minnesota,2020-08-14,1014627,,Yes
+US – Minnesota,2020-08-15,1015997,,Yes
+US – Minnesota,2020-08-16,1017418,,Yes
+US – Minnesota,2020-08-17,1018663,,Yes
+US – Minnesota,2020-08-18,1019718,,Yes
+US – Minnesota,2020-08-19,1020926,covidtracking.com,No
 US – Mississippi,2020-01-22,,,No
 US – Mississippi,2020-01-23,,,No
 US – Mississippi,2020-01-24,,,No
@@ -56070,6 +56336,7 @@ US – Mississippi,2020-08-15,519765,covidtracking.com,No
 US – Mississippi,2020-08-16,520146,covidtracking.com,No
 US – Mississippi,2020-08-17,524589,covidtracking.com,No
 US – Mississippi,2020-08-18,525384,covidtracking.com,No
+US – Mississippi,2020-08-19,526732,covidtracking.com,No
 US – Missouri,2020-01-22,,,No
 US – Missouri,2020-01-23,,,No
 US – Missouri,2020-01-24,,,No
@@ -56280,6 +56547,7 @@ US – Missouri,2020-08-15,835441,covidtracking.com,No
 US – Missouri,2020-08-16,845618,covidtracking.com,No
 US – Missouri,2020-08-17,858617,covidtracking.com,No
 US – Missouri,2020-08-18,867481,covidtracking.com,No
+US – Missouri,2020-08-19,874795,covidtracking.com,No
 US – Montana,2020-01-22,,,No
 US – Montana,2020-01-23,,,No
 US – Montana,2020-01-24,,,No
@@ -56490,6 +56758,7 @@ US – Montana,2020-08-15,200936,covidtracking.com,No
 US – Montana,2020-08-16,201924,covidtracking.com,No
 US – Montana,2020-08-17,204725,covidtracking.com,No
 US – Montana,2020-08-18,205512,covidtracking.com,No
+US – Montana,2020-08-19,206533,covidtracking.com,No
 US – Nebraska,2020-01-22,,,No
 US – Nebraska,2020-01-23,,,No
 US – Nebraska,2020-01-24,,,No
@@ -56700,6 +56969,7 @@ US – Nebraska,2020-08-15,317683,covidtracking.com,No
 US – Nebraska,2020-08-16,320876,covidtracking.com,No
 US – Nebraska,2020-08-17,322991,covidtracking.com,No
 US – Nebraska,2020-08-18,325487,covidtracking.com,No
+US – Nebraska,2020-08-19,328378,covidtracking.com,No
 US – Nevada,2020-01-22,,,No
 US – Nevada,2020-01-23,,,No
 US – Nevada,2020-01-24,,,No
@@ -56910,6 +57180,7 @@ US – Nevada,2020-08-15,542850,covidtracking.com,No
 US – Nevada,2020-08-16,547463,covidtracking.com,No
 US – Nevada,2020-08-17,551423,covidtracking.com,No
 US – Nevada,2020-08-18,553928,covidtracking.com,No
+US – Nevada,2020-08-19,556526,covidtracking.com,No
 US – New Hampshire,2020-01-22,,,No
 US – New Hampshire,2020-01-23,,,No
 US – New Hampshire,2020-01-24,,,No
@@ -57120,6 +57391,7 @@ US – New Hampshire,2020-08-15,183377,covidtracking.com,No
 US – New Hampshire,2020-08-16,184929,covidtracking.com,No
 US – New Hampshire,2020-08-17,185971,covidtracking.com,No
 US – New Hampshire,2020-08-18,186907,covidtracking.com,No
+US – New Hampshire,2020-08-19,188009,covidtracking.com,No
 US – New Jersey,2020-01-22,,,No
 US – New Jersey,2020-01-23,,,No
 US – New Jersey,2020-01-24,,,No
@@ -57330,6 +57602,7 @@ US – New Jersey,2020-08-15,2461383,covidtracking.com,No
 US – New Jersey,2020-08-16,2490186,covidtracking.com,No
 US – New Jersey,2020-08-17,2511070,covidtracking.com,No
 US – New Jersey,2020-08-18,2532745,covidtracking.com,No
+US – New Jersey,2020-08-19,2557712,covidtracking.com,No
 US – New Mexico,2020-01-22,,,No
 US – New Mexico,2020-01-23,,,No
 US – New Mexico,2020-01-24,,,No
@@ -57540,6 +57813,7 @@ US – New Mexico,2020-08-15,659042,covidtracking.com,No
 US – New Mexico,2020-08-16,665291,covidtracking.com,No
 US – New Mexico,2020-08-17,670573,covidtracking.com,No
 US – New Mexico,2020-08-18,677150,covidtracking.com,No
+US – New Mexico,2020-08-19,688495,covidtracking.com,No
 US – New York,2020-01-22,,,No
 US – New York,2020-01-23,,,No
 US – New York,2020-01-24,,,No
@@ -57750,6 +58024,7 @@ US – New York,2020-08-15,6990504,covidtracking.com,No
 US – New York,2020-08-16,7068196,covidtracking.com,No
 US – New York,2020-08-17,7125087,covidtracking.com,No
 US – New York,2020-08-18,7191978,covidtracking.com,No
+US – New York,2020-08-19,7272403,covidtracking.com,No
 US – North Carolina,2020-01-22,,,No
 US – North Carolina,2020-01-23,,,No
 US – North Carolina,2020-01-24,,,No
@@ -57960,6 +58235,7 @@ US – North Carolina,2020-08-15,2022459,,Yes
 US – North Carolina,2020-08-16,2023707,,Yes
 US – North Carolina,2020-08-17,2024271,,Yes
 US – North Carolina,2020-08-18,2025534,,Yes
+US – North Carolina,2020-08-19,2026680,,Yes
 US – North Dakota,2020-01-22,,,No
 US – North Dakota,2020-01-23,,,No
 US – North Dakota,2020-01-24,,,No
@@ -58170,6 +58446,7 @@ US – North Dakota,2020-08-15,178145,covidtracking.com,No
 US – North Dakota,2020-08-16,179800,covidtracking.com,No
 US – North Dakota,2020-08-17,180419,covidtracking.com,No
 US – North Dakota,2020-08-18,180928,covidtracking.com,No
+US – North Dakota,2020-08-19,182526,covidtracking.com,No
 US – Northern Mariana Islands,2020-01-22,,,No
 US – Northern Mariana Islands,2020-01-23,,,No
 US – Northern Mariana Islands,2020-01-24,,,No
@@ -58380,6 +58657,7 @@ US – Northern Mariana Islands,2020-08-15,12814,,Yes
 US – Northern Mariana Islands,2020-08-16,12864,,Yes
 US – Northern Mariana Islands,2020-08-17,12920,covidtracking.com,No
 US – Northern Mariana Islands,2020-08-18,12920,covidtracking.com,No
+US – Northern Mariana Islands,2020-08-19,12920,covidtracking.com,No
 US – Ohio,2020-01-22,,,No
 US – Ohio,2020-01-23,,,No
 US – Ohio,2020-01-24,,,No
@@ -58590,6 +58868,7 @@ US – Ohio,2020-08-15,1802350,covidtracking.com,No
 US – Ohio,2020-08-16,1829645,covidtracking.com,No
 US – Ohio,2020-08-17,1849016,covidtracking.com,No
 US – Ohio,2020-08-18,1868998,covidtracking.com,No
+US – Ohio,2020-08-19,1888470,covidtracking.com,No
 US – Oklahoma,2020-01-22,,,No
 US – Oklahoma,2020-01-23,,,No
 US – Oklahoma,2020-01-24,,,No
@@ -58800,6 +59079,7 @@ US – Oklahoma,2020-08-15,754417,covidtracking.com,No
 US – Oklahoma,2020-08-16,754961,covidtracking.com,No
 US – Oklahoma,2020-08-17,755330,covidtracking.com,No
 US – Oklahoma,2020-08-18,775000,covidtracking.com,No
+US – Oklahoma,2020-08-19,782740,covidtracking.com,No
 US – Oregon,2020-01-22,,,No
 US – Oregon,2020-01-23,,,No
 US – Oregon,2020-01-24,,,No
@@ -59010,6 +59290,7 @@ US – Oregon,2020-08-15,484879,covidtracking.com,No
 US – Oregon,2020-08-16,488797,covidtracking.com,No
 US – Oregon,2020-08-17,491217,covidtracking.com,No
 US – Oregon,2020-08-18,496338,covidtracking.com,No
+US – Oregon,2020-08-19,501156,covidtracking.com,No
 US – Pennsylvania,2020-01-22,,,No
 US – Pennsylvania,2020-01-23,,,No
 US – Pennsylvania,2020-01-24,,,No
@@ -59220,6 +59501,7 @@ US – Pennsylvania,2020-08-15,1443684,covidtracking.com,No
 US – Pennsylvania,2020-08-16,1456863,covidtracking.com,No
 US – Pennsylvania,2020-08-17,1467319,covidtracking.com,No
 US – Pennsylvania,2020-08-18,1479566,covidtracking.com,No
+US – Pennsylvania,2020-08-19,1494467,covidtracking.com,No
 US – Puerto Rico,2020-01-22,,,No
 US – Puerto Rico,2020-01-23,,,No
 US – Puerto Rico,2020-01-24,,,No
@@ -59430,6 +59712,7 @@ US – Puerto Rico,2020-08-15,331667,covidtracking.com,No
 US – Puerto Rico,2020-08-16,331978,covidtracking.com,No
 US – Puerto Rico,2020-08-17,332732,covidtracking.com,No
 US – Puerto Rico,2020-08-18,333685,covidtracking.com,No
+US – Puerto Rico,2020-08-19,333906,covidtracking.com,No
 US – Rhode Island,2020-01-22,,,No
 US – Rhode Island,2020-01-23,,,No
 US – Rhode Island,2020-01-24,,,No
@@ -59629,9 +59912,9 @@ US – Rhode Island,2020-08-04,211953,covidtracking.com,No
 US – Rhode Island,2020-08-05,213535,covidtracking.com,No
 US – Rhode Island,2020-08-06,215723,covidtracking.com,No
 US – Rhode Island,2020-08-07,217973,covidtracking.com,No
-US – Rhode Island,2020-08-08,221490,covidtracking.com,No
-US – Rhode Island,2020-08-09,222347,covidtracking.com,No
-US – Rhode Island,2020-08-10,223296,,Yes
+US – Rhode Island,2020-08-08,220039,covidtracking.com,No
+US – Rhode Island,2020-08-09,221518,covidtracking.com,No
+US – Rhode Island,2020-08-10,222881,,Yes
 US – Rhode Island,2020-08-11,224170,covidtracking.com,No
 US – Rhode Island,2020-08-12,226133,covidtracking.com,No
 US – Rhode Island,2020-08-13,228474,covidtracking.com,No
@@ -59640,6 +59923,7 @@ US – Rhode Island,2020-08-15,231766,covidtracking.com,No
 US – Rhode Island,2020-08-16,233078,covidtracking.com,No
 US – Rhode Island,2020-08-17,233822,covidtracking.com,No
 US – Rhode Island,2020-08-18,236163,covidtracking.com,No
+US – Rhode Island,2020-08-19,258314,covidtracking.com,No
 US – South Carolina,2020-01-22,,,No
 US – South Carolina,2020-01-23,,,No
 US – South Carolina,2020-01-24,,,No
@@ -59850,6 +60134,7 @@ US – South Carolina,2020-08-15,860400,covidtracking.com,No
 US – South Carolina,2020-08-16,867601,covidtracking.com,No
 US – South Carolina,2020-08-17,873547,covidtracking.com,No
 US – South Carolina,2020-08-18,878481,covidtracking.com,No
+US – South Carolina,2020-08-19,884128,covidtracking.com,No
 US – South Dakota,2020-01-22,,,No
 US – South Dakota,2020-01-23,,,No
 US – South Dakota,2020-01-24,,,No
@@ -60060,6 +60345,7 @@ US – South Dakota,2020-08-15,127449,covidtracking.com,No
 US – South Dakota,2020-08-16,128774,covidtracking.com,No
 US – South Dakota,2020-08-17,129293,covidtracking.com,No
 US – South Dakota,2020-08-18,130013,covidtracking.com,No
+US – South Dakota,2020-08-19,131047,covidtracking.com,No
 US – Tennessee,2020-01-22,,,No
 US – Tennessee,2020-01-23,,,No
 US – Tennessee,2020-01-24,,,No
@@ -60270,6 +60556,7 @@ US – Tennessee,2020-08-15,1829758,covidtracking.com,No
 US – Tennessee,2020-08-16,1857340,covidtracking.com,No
 US – Tennessee,2020-08-17,1871108,covidtracking.com,No
 US – Tennessee,2020-08-18,1894372,covidtracking.com,No
+US – Tennessee,2020-08-19,1928954,covidtracking.com,No
 US – Texas,2020-01-22,,,No
 US – Texas,2020-01-23,,,No
 US – Texas,2020-01-24,,,No
@@ -60480,6 +60767,7 @@ US – Texas,2020-08-15,4321676,covidtracking.com,No
 US – Texas,2020-08-16,4439041,covidtracking.com,No
 US – Texas,2020-08-17,4476167,covidtracking.com,No
 US – Texas,2020-08-18,4500645,covidtracking.com,No
+US – Texas,2020-08-19,4517189,covidtracking.com,No
 US – Utah,2020-01-22,,,No
 US – Utah,2020-01-23,,,No
 US – Utah,2020-01-24,,,No
@@ -60690,6 +60978,7 @@ US – Utah,2020-08-15,594901,covidtracking.com,No
 US – Utah,2020-08-16,598527,covidtracking.com,No
 US – Utah,2020-08-17,601795,covidtracking.com,No
 US – Utah,2020-08-18,606516,covidtracking.com,No
+US – Utah,2020-08-19,610362,covidtracking.com,No
 US – Vermont,2020-01-22,,,No
 US – Vermont,2020-01-23,,,No
 US – Vermont,2020-01-24,,,No
@@ -60900,6 +61189,7 @@ US – Vermont,2020-08-15,110297,covidtracking.com,No
 US – Vermont,2020-08-16,111335,covidtracking.com,No
 US – Vermont,2020-08-17,113223,covidtracking.com,No
 US – Vermont,2020-08-18,114097,covidtracking.com,No
+US – Vermont,2020-08-19,114100,,Yes
 US – Virgin Islands,2020-01-22,,,No
 US – Virgin Islands,2020-01-23,,,No
 US – Virgin Islands,2020-01-24,,,No
@@ -61110,6 +61400,7 @@ US – Virgin Islands,2020-08-15,12117,covidtracking.com,No
 US – Virgin Islands,2020-08-16,12171,covidtracking.com,No
 US – Virgin Islands,2020-08-17,12418,covidtracking.com,No
 US – Virgin Islands,2020-08-18,12664,covidtracking.com,No
+US – Virgin Islands,2020-08-19,13345,covidtracking.com,No
 US – Virginia,2020-01-22,,,No
 US – Virginia,2020-01-23,,,No
 US – Virginia,2020-01-24,,,No
@@ -61320,6 +61611,7 @@ US – Virginia,2020-08-15,1337240,covidtracking.com,No
 US – Virginia,2020-08-16,1353848,covidtracking.com,No
 US – Virginia,2020-08-17,1373442,covidtracking.com,No
 US – Virginia,2020-08-18,1390305,covidtracking.com,No
+US – Virginia,2020-08-19,1407015,covidtracking.com,No
 US – Washington,2020-01-22,2,covidtracking.com,No
 US – Washington,2020-01-23,2,covidtracking.com,No
 US – Washington,2020-01-24,2,covidtracking.com,No
@@ -61530,6 +61822,7 @@ US – Washington,2020-08-15,1016650,,Yes
 US – Washington,2020-08-16,1017267,,Yes
 US – Washington,2020-08-17,1017568,covidtracking.com,No
 US – Washington,2020-08-18,1018110,,Yes
+US – Washington,2020-08-19,1018536,,Yes
 US – West Virginia,2020-01-22,,,No
 US – West Virginia,2020-01-23,,,No
 US – West Virginia,2020-01-24,,,No
@@ -61740,6 +62033,7 @@ US – West Virginia,2020-08-15,350244,covidtracking.com,No
 US – West Virginia,2020-08-16,355339,covidtracking.com,No
 US – West Virginia,2020-08-17,360839,covidtracking.com,No
 US – West Virginia,2020-08-18,365725,covidtracking.com,No
+US – West Virginia,2020-08-19,369724,covidtracking.com,No
 US – Wisconsin,2020-01-22,,,No
 US – Wisconsin,2020-01-23,,,No
 US – Wisconsin,2020-01-24,,,No
@@ -61950,6 +62244,7 @@ US – Wisconsin,2020-08-15,1124666,covidtracking.com,No
 US – Wisconsin,2020-08-16,1130779,covidtracking.com,No
 US – Wisconsin,2020-08-17,1136755,covidtracking.com,No
 US – Wisconsin,2020-08-18,1146821,covidtracking.com,No
+US – Wisconsin,2020-08-19,1156297,covidtracking.com,No
 US – Wyoming,2020-01-22,,,No
 US – Wyoming,2020-01-23,,,No
 US – Wyoming,2020-01-24,,,No
@@ -62160,6 +62455,7 @@ US – Wyoming,2020-08-15,60036,covidtracking.com,No
 US – Wyoming,2020-08-16,60095,covidtracking.com,No
 US – Wyoming,2020-08-17,60898,covidtracking.com,No
 US – Wyoming,2020-08-18,62441,covidtracking.com,No
+US – Wyoming,2020-08-19,63094,covidtracking.com,No
 Uganda,2020-01-22,,,No
 Uganda,2020-01-23,,,No
 Uganda,2020-01-24,,,No
@@ -62369,7 +62665,8 @@ Uganda,2020-08-14,317055,,Yes
 Uganda,2020-08-15,321336,,Yes
 Uganda,2020-08-16,325637,owid/roser,No
 Uganda,2020-08-17,329542,owid/roser,No
-Uganda,2020-08-18,329585,,Yes
+Uganda,2020-08-18,333667,owid/roser,No
+Uganda,2020-08-19,333720,,Yes
 Ukraine,2020-01-22,,,No
 Ukraine,2020-01-23,,,No
 Ukraine,2020-01-24,,,No
@@ -62580,6 +62877,7 @@ Ukraine,2020-08-15,1273821,owid/roser,No
 Ukraine,2020-08-16,1289589,owid/roser,No
 Ukraine,2020-08-17,1300289,owid/roser,No
 Ukraine,2020-08-18,1315409,owid/roser,No
+Ukraine,2020-08-19,1335000,owid/roser,No
 United Arab Emirates,2020-01-22,,,No
 United Arab Emirates,2020-01-23,,,No
 United Arab Emirates,2020-01-24,,,No
@@ -62790,6 +63088,7 @@ United Arab Emirates,2020-08-15,5925342,owid/roser,No
 United Arab Emirates,2020-08-16,5990528,owid/roser,No
 United Arab Emirates,2020-08-17,6061850,owid/roser,No
 United Arab Emirates,2020-08-18,6121609,owid/roser,No
+United Arab Emirates,2020-08-19,6193635,owid/roser,No
 United Kingdom,2020-01-22,,,No
 United Kingdom,2020-01-23,,,No
 United Kingdom,2020-01-24,,,No
@@ -62999,7 +63298,8 @@ United Kingdom,2020-08-14,11639184,owid/roser,No
 United Kingdom,2020-08-15,11814098,owid/roser,No
 United Kingdom,2020-08-16,11978298,owid/roser,No
 United Kingdom,2020-08-17,12118924,owid/roser,No
-United Kingdom,2020-08-18,12120013,,Yes
+United Kingdom,2020-08-18,12272157,owid/roser,No
+United Kingdom,2020-08-19,12272969,,Yes
 United Kingdom – Anguilla,2020-01-22,,,No
 United Kingdom – Anguilla,2020-01-23,,,No
 United Kingdom – Anguilla,2020-01-24,,,No
@@ -63210,6 +63510,7 @@ United Kingdom – Anguilla,2020-08-15,642,,Yes
 United Kingdom – Anguilla,2020-08-16,652,,Yes
 United Kingdom – Anguilla,2020-08-17,662,worldometers,No
 United Kingdom – Anguilla,2020-08-18,662,,Yes
+United Kingdom – Anguilla,2020-08-19,662,,Yes
 United Kingdom – Bermuda,2020-01-22,,,No
 United Kingdom – Bermuda,2020-01-23,,,No
 United Kingdom – Bermuda,2020-01-24,,,No
@@ -63420,6 +63721,7 @@ United Kingdom – Bermuda,2020-08-15,32415,lau,No
 United Kingdom – Bermuda,2020-08-16,32415,worldometers,No
 United Kingdom – Bermuda,2020-08-17,33659,lau,No
 United Kingdom – Bermuda,2020-08-18,34418,lau,No
+United Kingdom – Bermuda,2020-08-19,35054,lau,No
 United Kingdom – British Virgin Islands,2020-01-22,,,No
 United Kingdom – British Virgin Islands,2020-01-23,,,No
 United Kingdom – British Virgin Islands,2020-01-24,,,No
@@ -63618,18 +63920,19 @@ United Kingdom – British Virgin Islands,2020-08-03,1360,,Yes
 United Kingdom – British Virgin Islands,2020-08-04,1413,,Yes
 United Kingdom – British Virgin Islands,2020-08-05,1468,,Yes
 United Kingdom – British Virgin Islands,2020-08-06,1522,worldometers,No
-United Kingdom – British Virgin Islands,2020-08-07,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-08,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-09,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-10,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-11,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-12,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-13,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-14,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-15,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-16,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-17,1522,,Yes
-United Kingdom – British Virgin Islands,2020-08-18,1524,,Yes
+United Kingdom – British Virgin Islands,2020-08-07,1550,,Yes
+United Kingdom – British Virgin Islands,2020-08-08,1578,,Yes
+United Kingdom – British Virgin Islands,2020-08-09,1606,,Yes
+United Kingdom – British Virgin Islands,2020-08-10,1634,,Yes
+United Kingdom – British Virgin Islands,2020-08-11,1662,,Yes
+United Kingdom – British Virgin Islands,2020-08-12,1690,,Yes
+United Kingdom – British Virgin Islands,2020-08-13,1718,,Yes
+United Kingdom – British Virgin Islands,2020-08-14,1746,,Yes
+United Kingdom – British Virgin Islands,2020-08-15,1775,,Yes
+United Kingdom – British Virgin Islands,2020-08-16,1803,,Yes
+United Kingdom – British Virgin Islands,2020-08-17,1831,,Yes
+United Kingdom – British Virgin Islands,2020-08-18,1861,,Yes
+United Kingdom – British Virgin Islands,2020-08-19,1890,worldometers,No
 United Kingdom – Cayman Islands,2020-01-22,,,No
 United Kingdom – Cayman Islands,2020-01-23,,,No
 United Kingdom – Cayman Islands,2020-01-24,,,No
@@ -63840,6 +64143,7 @@ United Kingdom – Cayman Islands,2020-08-15,32468,worldometers,No
 United Kingdom – Cayman Islands,2020-08-16,32808,,Yes
 United Kingdom – Cayman Islands,2020-08-17,33148,lau,No
 United Kingdom – Cayman Islands,2020-08-18,33434,lau,No
+United Kingdom – Cayman Islands,2020-08-19,33617,lau,No
 United Kingdom – Channel Islands,2020-01-22,,,No
 United Kingdom – Channel Islands,2020-01-23,,,No
 United Kingdom – Channel Islands,2020-01-24,,,No
@@ -64049,7 +64353,8 @@ United Kingdom – Channel Islands,2020-08-14,63861,lau,No
 United Kingdom – Channel Islands,2020-08-15,65668,,Yes
 United Kingdom – Channel Islands,2020-08-16,67476,,Yes
 United Kingdom – Channel Islands,2020-08-17,69287,lau,No
-United Kingdom – Channel Islands,2020-08-18,69287,,Yes
+United Kingdom – Channel Islands,2020-08-18,70672,,Yes
+United Kingdom – Channel Islands,2020-08-19,72063,lau,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-22,,,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-23,,,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-24,,,No
@@ -64260,6 +64565,7 @@ United Kingdom – Falkland Islands (Malvinas),2020-08-15,2256,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-08-16,2256,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-08-17,2256,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-08-18,2256,,Yes
+United Kingdom – Falkland Islands (Malvinas),2020-08-19,2256,,Yes
 United Kingdom – Gibraltar,2020-01-22,,,No
 United Kingdom – Gibraltar,2020-01-23,,,No
 United Kingdom – Gibraltar,2020-01-24,,,No
@@ -64470,6 +64776,7 @@ United Kingdom – Gibraltar,2020-08-15,26816,lau,No
 United Kingdom – Gibraltar,2020-08-16,27104,lau,No
 United Kingdom – Gibraltar,2020-08-17,27412,lau,No
 United Kingdom – Gibraltar,2020-08-18,27818,lau,No
+United Kingdom – Gibraltar,2020-08-19,28366,lau,No
 United Kingdom – Isle of Man,2020-01-22,,,No
 United Kingdom – Isle of Man,2020-01-23,,,No
 United Kingdom – Isle of Man,2020-01-24,,,No
@@ -64680,6 +64987,7 @@ United Kingdom – Isle of Man,2020-08-15,8222,,Yes
 United Kingdom – Isle of Man,2020-08-16,8222,,Yes
 United Kingdom – Isle of Man,2020-08-17,8222,,Yes
 United Kingdom – Isle of Man,2020-08-18,8222,,Yes
+United Kingdom – Isle of Man,2020-08-19,8222,,Yes
 United Kingdom – Montserrat,2020-01-22,,,No
 United Kingdom – Montserrat,2020-01-23,,,No
 United Kingdom – Montserrat,2020-01-24,,,No
@@ -64890,6 +65198,7 @@ United Kingdom – Montserrat,2020-08-15,63,,Yes
 United Kingdom – Montserrat,2020-08-16,63,,Yes
 United Kingdom – Montserrat,2020-08-17,63,,Yes
 United Kingdom – Montserrat,2020-08-18,63,,Yes
+United Kingdom – Montserrat,2020-08-19,63,,Yes
 United Kingdom – Turks and Caicos Islands,2020-01-22,,,No
 United Kingdom – Turks and Caicos Islands,2020-01-23,,,No
 United Kingdom – Turks and Caicos Islands,2020-01-24,,,No
@@ -65098,8 +65407,9 @@ United Kingdom – Turks and Caicos Islands,2020-08-13,1567,worldometers,No
 United Kingdom – Turks and Caicos Islands,2020-08-14,1631,worldometers,No
 United Kingdom – Turks and Caicos Islands,2020-08-15,1672,worldometers,No
 United Kingdom – Turks and Caicos Islands,2020-08-16,1840,worldometers,No
-United Kingdom – Turks and Caicos Islands,2020-08-17,1840,,Yes
-United Kingdom – Turks and Caicos Islands,2020-08-18,1857,,Yes
+United Kingdom – Turks and Caicos Islands,2020-08-17,1847,,Yes
+United Kingdom – Turks and Caicos Islands,2020-08-18,1872,,Yes
+United Kingdom – Turks and Caicos Islands,2020-08-19,1892,worldometers,No
 Uruguay,2020-01-22,,,No
 Uruguay,2020-01-23,,,No
 Uruguay,2020-01-24,,,No
@@ -65310,6 +65620,7 @@ Uruguay,2020-08-15,144228,owid/roser,No
 Uruguay,2020-08-16,146266,owid/roser,No
 Uruguay,2020-08-17,147594,lau,No
 Uruguay,2020-08-18,150086,lau,No
+Uruguay,2020-08-19,152121,owid/roser,No
 Uzbekistan,2020-01-22,,,No
 Uzbekistan,2020-01-23,,,No
 Uzbekistan,2020-01-24,,,No
@@ -65520,6 +65831,7 @@ Uzbekistan,2020-08-15,1420443,,Yes
 Uzbekistan,2020-08-16,1421244,,Yes
 Uzbekistan,2020-08-17,1421617,,Yes
 Uzbekistan,2020-08-18,1422267,,Yes
+Uzbekistan,2020-08-19,1423027,,Yes
 Venezuela,2020-01-22,,,No
 Venezuela,2020-01-23,,,No
 Venezuela,2020-01-24,,,No
@@ -65730,6 +66042,7 @@ Venezuela,2020-08-15,1629650,,Yes
 Venezuela,2020-08-16,1640528,worldometers,No
 Venezuela,2020-08-17,1645796,,Yes
 Venezuela,2020-08-18,1650917,worldometers,No
+Venezuela,2020-08-19,1652088,,Yes
 Vietnam,2020-01-22,,,No
 Vietnam,2020-01-23,,,No
 Vietnam,2020-01-24,,,No
@@ -65940,6 +66253,7 @@ Vietnam,2020-08-15,723596,wiki,No
 Vietnam,2020-08-16,723609,,Yes
 Vietnam,2020-08-17,723628,,Yes
 Vietnam,2020-08-18,723634,,Yes
+Vietnam,2020-08-19,723639,,Yes
 West Bank and Gaza,2020-01-22,,,No
 West Bank and Gaza,2020-01-23,,,No
 West Bank and Gaza,2020-01-24,,,No
@@ -66149,7 +66463,8 @@ West Bank and Gaza,2020-08-14,229143,lau,No
 West Bank and Gaza,2020-08-15,232021,lau,No
 West Bank and Gaza,2020-08-16,234368,lau,No
 West Bank and Gaza,2020-08-17,237029,lau,No
-West Bank and Gaza,2020-08-18,237491,,Yes
+West Bank and Gaza,2020-08-18,239752,,Yes
+West Bank and Gaza,2020-08-19,242320,lau,No
 Western Sahara,2020-01-22,,,No
 Western Sahara,2020-01-23,,,No
 Western Sahara,2020-01-24,,,No
@@ -66360,6 +66675,7 @@ Western Sahara,2020-08-15,,,No
 Western Sahara,2020-08-16,,,No
 Western Sahara,2020-08-17,,,No
 Western Sahara,2020-08-18,,,No
+Western Sahara,2020-08-19,,,No
 Yemen,2020-01-22,,,No
 Yemen,2020-01-23,,,No
 Yemen,2020-01-24,,,No
@@ -66570,6 +66886,7 @@ Yemen,2020-08-15,1977,,Yes
 Yemen,2020-08-16,1988,,Yes
 Yemen,2020-08-17,2001,,Yes
 Yemen,2020-08-18,2008,,Yes
+Yemen,2020-08-19,2011,,Yes
 Zambia,2020-01-22,,,No
 Zambia,2020-01-23,,,No
 Zambia,2020-01-24,,,No
@@ -66780,6 +67097,7 @@ Zambia,2020-08-15,98766,lau,No
 Zambia,2020-08-16,99835,lau,No
 Zambia,2020-08-17,101384,lau,No
 Zambia,2020-08-18,102178,lau,No
+Zambia,2020-08-19,103023,lau,No
 Zimbabwe,2020-01-22,,,No
 Zimbabwe,2020-01-23,,,No
 Zimbabwe,2020-01-24,,,No
@@ -66990,3 +67308,4 @@ Zimbabwe,2020-08-15,81338,owid/roser,No
 Zimbabwe,2020-08-16,82884,owid/roser,No
 Zimbabwe,2020-08-17,82931,,Yes
 Zimbabwe,2020-08-18,83001,,Yes
+Zimbabwe,2020-08-19,83266,,Yes
