@@ -280,6 +280,7 @@ Afghanistan,2020-10-25,119994,worldometers,No
 Afghanistan,2020-10-26,120425,worldometers,No
 Afghanistan,2020-10-27,120948,,Yes
 Afghanistan,2020-10-28,121490,worldometers,No
+Afghanistan,2020-10-29,122013,worldometers,No
 Albania,2020-01-22,,,No
 Albania,2020-01-23,,,No
 Albania,2020-01-24,,,No
@@ -561,6 +562,7 @@ Albania,2020-10-25,114098,,Yes
 Albania,2020-10-26,114461,,Yes
 Albania,2020-10-27,114821,,Yes
 Albania,2020-10-28,115208,worldometers,No
+Albania,2020-10-29,116605,worldometers,No
 Algeria,2020-01-22,,,No
 Algeria,2020-01-23,,,No
 Algeria,2020-01-24,,,No
@@ -842,6 +844,7 @@ Algeria,2020-10-25,221497,,Yes
 Algeria,2020-10-26,225515,wiki,No
 Algeria,2020-10-27,225802,,Yes
 Algeria,2020-10-28,226122,,Yes
+Algeria,2020-10-29,226428,,Yes
 Andorra,2020-01-22,,,No
 Andorra,2020-01-23,,,No
 Andorra,2020-01-24,,,No
@@ -1055,74 +1058,75 @@ Andorra,2020-08-18,131965,,Yes
 Andorra,2020-08-19,133976,,Yes
 Andorra,2020-08-20,135358,,Yes
 Andorra,2020-08-21,137457,worldometers,No
-Andorra,2020-08-22,137457,,Yes
-Andorra,2020-08-23,137457,,Yes
-Andorra,2020-08-24,137472,,Yes
-Andorra,2020-08-25,137472,,Yes
-Andorra,2020-08-26,137510,,Yes
-Andorra,2020-08-27,137510,,Yes
-Andorra,2020-08-28,137536,,Yes
-Andorra,2020-08-29,137536,,Yes
-Andorra,2020-08-30,137536,,Yes
-Andorra,2020-08-31,137588,,Yes
-Andorra,2020-09-01,137596,,Yes
-Andorra,2020-09-02,137611,,Yes
-Andorra,2020-09-03,137611,,Yes
-Andorra,2020-09-04,137627,,Yes
-Andorra,2020-09-05,137627,,Yes
-Andorra,2020-09-06,137627,,Yes
-Andorra,2020-09-07,137673,,Yes
-Andorra,2020-09-08,137673,,Yes
-Andorra,2020-09-09,137713,,Yes
-Andorra,2020-09-10,137713,,Yes
-Andorra,2020-09-11,137756,,Yes
-Andorra,2020-09-12,137756,,Yes
-Andorra,2020-09-13,137756,,Yes
-Andorra,2020-09-14,137850,,Yes
-Andorra,2020-09-15,137850,,Yes
-Andorra,2020-09-16,137895,,Yes
-Andorra,2020-09-17,137895,,Yes
-Andorra,2020-09-18,137976,,Yes
-Andorra,2020-09-19,137976,,Yes
-Andorra,2020-09-20,137976,,Yes
-Andorra,2020-09-21,138093,,Yes
-Andorra,2020-09-22,138093,,Yes
-Andorra,2020-09-23,138165,,Yes
-Andorra,2020-09-24,138165,,Yes
-Andorra,2020-09-25,138248,,Yes
-Andorra,2020-09-26,138248,,Yes
-Andorra,2020-09-27,138248,,Yes
-Andorra,2020-09-28,138378,,Yes
-Andorra,2020-09-29,138378,,Yes
-Andorra,2020-09-30,138462,,Yes
-Andorra,2020-10-01,138462,,Yes
-Andorra,2020-10-02,138522,,Yes
-Andorra,2020-10-03,138522,,Yes
-Andorra,2020-10-04,138522,,Yes
-Andorra,2020-10-05,138782,,Yes
-Andorra,2020-10-06,138782,,Yes
-Andorra,2020-10-07,138980,,Yes
-Andorra,2020-10-08,138980,,Yes
-Andorra,2020-10-09,139108,,Yes
-Andorra,2020-10-10,139108,,Yes
-Andorra,2020-10-11,139108,,Yes
-Andorra,2020-10-12,139407,,Yes
-Andorra,2020-10-13,139407,,Yes
-Andorra,2020-10-14,139602,,Yes
-Andorra,2020-10-15,139602,,Yes
-Andorra,2020-10-16,139789,,Yes
-Andorra,2020-10-17,139789,,Yes
-Andorra,2020-10-18,139789,,Yes
-Andorra,2020-10-19,140035,,Yes
-Andorra,2020-10-20,140035,,Yes
-Andorra,2020-10-21,140223,,Yes
-Andorra,2020-10-22,140223,,Yes
-Andorra,2020-10-23,140450,,Yes
-Andorra,2020-10-24,140450,,Yes
-Andorra,2020-10-25,140450,,Yes
-Andorra,2020-10-26,140737,,Yes
-Andorra,2020-10-27,140822,,Yes
-Andorra,2020-10-28,140929,,Yes
+Andorra,2020-08-22,137532,,Yes
+Andorra,2020-08-23,137607,,Yes
+Andorra,2020-08-24,137697,,Yes
+Andorra,2020-08-25,137773,,Yes
+Andorra,2020-08-26,137886,,Yes
+Andorra,2020-08-27,137961,,Yes
+Andorra,2020-08-28,138063,,Yes
+Andorra,2020-08-29,138138,,Yes
+Andorra,2020-08-30,138214,,Yes
+Andorra,2020-08-31,138341,,Yes
+Andorra,2020-09-01,138425,,Yes
+Andorra,2020-09-02,138515,,Yes
+Andorra,2020-09-03,138591,,Yes
+Andorra,2020-09-04,138682,,Yes
+Andorra,2020-09-05,138757,,Yes
+Andorra,2020-09-06,138833,,Yes
+Andorra,2020-09-07,138955,,Yes
+Andorra,2020-09-08,139030,,Yes
+Andorra,2020-09-09,139146,,Yes
+Andorra,2020-09-10,139221,,Yes
+Andorra,2020-09-11,139340,,Yes
+Andorra,2020-09-12,139416,,Yes
+Andorra,2020-09-13,139491,,Yes
+Andorra,2020-09-14,139662,,Yes
+Andorra,2020-09-15,139737,,Yes
+Andorra,2020-09-16,139859,,Yes
+Andorra,2020-09-17,139934,,Yes
+Andorra,2020-09-18,140092,,Yes
+Andorra,2020-09-19,140168,,Yes
+Andorra,2020-09-20,140243,,Yes
+Andorra,2020-09-21,140438,,Yes
+Andorra,2020-09-22,140513,,Yes
+Andorra,2020-09-23,140662,,Yes
+Andorra,2020-09-24,140738,,Yes
+Andorra,2020-09-25,140898,,Yes
+Andorra,2020-09-26,140974,,Yes
+Andorra,2020-09-27,141050,,Yes
+Andorra,2020-09-28,141258,,Yes
+Andorra,2020-09-29,141334,,Yes
+Andorra,2020-09-30,141496,,Yes
+Andorra,2020-10-01,141571,,Yes
+Andorra,2020-10-02,141709,,Yes
+Andorra,2020-10-03,141785,,Yes
+Andorra,2020-10-04,141860,,Yes
+Andorra,2020-10-05,142203,,Yes
+Andorra,2020-10-06,142279,,Yes
+Andorra,2020-10-07,142558,,Yes
+Andorra,2020-10-08,142634,,Yes
+Andorra,2020-10-09,142842,,Yes
+Andorra,2020-10-10,142918,,Yes
+Andorra,2020-10-11,142994,,Yes
+Andorra,2020-10-12,143378,,Yes
+Andorra,2020-10-13,143454,,Yes
+Andorra,2020-10-14,143731,,Yes
+Andorra,2020-10-15,143808,,Yes
+Andorra,2020-10-16,144077,,Yes
+Andorra,2020-10-17,144154,,Yes
+Andorra,2020-10-18,144230,,Yes
+Andorra,2020-10-19,144561,,Yes
+Andorra,2020-10-20,144637,,Yes
+Andorra,2020-10-21,144908,,Yes
+Andorra,2020-10-22,144985,,Yes
+Andorra,2020-10-23,145297,,Yes
+Andorra,2020-10-24,145374,,Yes
+Andorra,2020-10-25,145451,,Yes
+Andorra,2020-10-26,145825,,Yes
+Andorra,2020-10-27,145990,,Yes
+Andorra,2020-10-28,146178,,Yes
+Andorra,2020-10-29,146308,worldometers,No
 Angola,2020-01-22,,,No
 Angola,2020-01-23,,,No
 Angola,2020-01-24,,,No
@@ -1404,6 +1408,7 @@ Angola,2020-10-25,89876,,Yes
 Angola,2020-10-26,90139,,Yes
 Angola,2020-10-27,90366,,Yes
 Angola,2020-10-28,90569,,Yes
+Angola,2020-10-29,90764,,Yes
 Antigua and Barbuda,2020-01-22,,,No
 Antigua and Barbuda,2020-01-23,,,No
 Antigua and Barbuda,2020-01-24,,,No
@@ -1682,9 +1687,10 @@ Antigua and Barbuda,2020-10-22,3260,worldometers,No
 Antigua and Barbuda,2020-10-23,3366,worldometers,No
 Antigua and Barbuda,2020-10-24,3409,,Yes
 Antigua and Barbuda,2020-10-25,3450,worldometers,No
-Antigua and Barbuda,2020-10-26,3450,,Yes
-Antigua and Barbuda,2020-10-27,3450,,Yes
-Antigua and Barbuda,2020-10-28,3450,,Yes
+Antigua and Barbuda,2020-10-26,3481,,Yes
+Antigua and Barbuda,2020-10-27,3513,,Yes
+Antigua and Barbuda,2020-10-28,3545,,Yes
+Antigua and Barbuda,2020-10-29,3577,worldometers,No
 Argentina,2020-01-22,,,No
 Argentina,2020-01-23,,,No
 Argentina,2020-01-24,,,No
@@ -1966,6 +1972,7 @@ Argentina,2020-10-25,2804114,worldometers,No
 Argentina,2020-10-26,2850102,wiki,No
 Argentina,2020-10-27,2866706,,Yes
 Argentina,2020-10-28,2882949,worldometers,No
+Argentina,2020-10-29,2915776,worldometers,No
 Armenia,2020-01-22,,,No
 Armenia,2020-01-23,,,No
 Armenia,2020-01-24,,,No
@@ -2247,6 +2254,7 @@ Armenia,2020-10-25,377340,lau,No
 Armenia,2020-10-26,379541,lau,No
 Armenia,2020-10-27,382938,lau,No
 Armenia,2020-10-28,387633,lau,No
+Armenia,2020-10-29,392660,lau,No
 Australia – Australian Capital Territory,2020-01-22,,,No
 Australia – Australian Capital Territory,2020-01-23,,,No
 Australia – Australian Capital Territory,2020-01-24,,,No
@@ -2528,6 +2536,7 @@ Australia – Australian Capital Territory,2020-10-25,104285,lau,No
 Australia – Australian Capital Territory,2020-10-26,104681,lau,No
 Australia – Australian Capital Territory,2020-10-27,105163,lau,No
 Australia – Australian Capital Territory,2020-10-28,105737,lau,No
+Australia – Australian Capital Territory,2020-10-29,106177,lau,No
 Australia – New South Wales,2020-01-22,,,No
 Australia – New South Wales,2020-01-23,,,No
 Australia – New South Wales,2020-01-24,,,No
@@ -2809,6 +2818,7 @@ Australia – New South Wales,2020-10-25,2986756,lau,No
 Australia – New South Wales,2020-10-26,2994203,lau,No
 Australia – New South Wales,2020-10-27,3000641,lau,No
 Australia – New South Wales,2020-10-28,3015023,lau,No
+Australia – New South Wales,2020-10-29,3029253,lau,No
 Australia – Northern Territory,2020-01-22,,,No
 Australia – Northern Territory,2020-01-23,,,No
 Australia – Northern Territory,2020-01-24,,,No
@@ -3090,6 +3100,7 @@ Australia – Northern Territory,2020-10-25,56316,lau,No
 Australia – Northern Territory,2020-10-26,56651,lau,No
 Australia – Northern Territory,2020-10-27,57069,lau,No
 Australia – Northern Territory,2020-10-28,57427,lau,No
+Australia – Northern Territory,2020-10-29,57962,lau,No
 Australia – Queensland,2020-01-22,,,No
 Australia – Queensland,2020-01-23,,,No
 Australia – Queensland,2020-01-24,,,No
@@ -3371,6 +3382,7 @@ Australia – Queensland,2020-10-25,1214121,lau,No
 Australia – Queensland,2020-10-26,1215772,lau,No
 Australia – Queensland,2020-10-27,1219570,lau,No
 Australia – Queensland,2020-10-28,1224099,lau,No
+Australia – Queensland,2020-10-29,1229045,lau,No
 Australia – South Australia,2020-01-22,,,No
 Australia – South Australia,2020-01-23,,,No
 Australia – South Australia,2020-01-24,,,No
@@ -3652,6 +3664,7 @@ Australia – South Australia,2020-10-25,534150,lau,No
 Australia – South Australia,2020-10-26,536113,lau,No
 Australia – South Australia,2020-10-27,538497,lau,No
 Australia – South Australia,2020-10-28,542038,lau,No
+Australia – South Australia,2020-10-29,545230,lau,No
 Australia – Tasmania,2020-01-22,,,No
 Australia – Tasmania,2020-01-23,,,No
 Australia – Tasmania,2020-01-24,,,No
@@ -3933,6 +3946,7 @@ Australia – Tasmania,2020-10-25,114617,lau,No
 Australia – Tasmania,2020-10-26,114731,lau,No
 Australia – Tasmania,2020-10-27,115108,lau,No
 Australia – Tasmania,2020-10-28,115990,lau,No
+Australia – Tasmania,2020-10-29,116415,lau,No
 Australia – Victoria,2020-01-22,,,No
 Australia – Victoria,2020-01-23,,,No
 Australia – Victoria,2020-01-24,,,No
@@ -4214,6 +4228,7 @@ Australia – Victoria,2020-10-25,3046029,,Yes
 Australia – Victoria,2020-10-26,3052477,lau,No
 Australia – Victoria,2020-10-27,3081980,lau,No
 Australia – Victoria,2020-10-28,3106653,lau,No
+Australia – Victoria,2020-10-29,3130788,lau,No
 Australia – Western Australia,2020-01-22,,,No
 Australia – Western Australia,2020-01-23,,,No
 Australia – Western Australia,2020-01-24,,,No
@@ -4495,6 +4510,7 @@ Australia – Western Australia,2020-10-25,476627,,Yes
 Australia – Western Australia,2020-10-26,478376,lau,No
 Australia – Western Australia,2020-10-27,480530,lau,No
 Australia – Western Australia,2020-10-28,483274,lau,No
+Australia – Western Australia,2020-10-29,486041,lau,No
 Austria,2020-01-22,,,No
 Austria,2020-01-23,,,No
 Austria,2020-01-24,,,No
@@ -4775,7 +4791,8 @@ Austria,2020-10-24,2067784,,Yes
 Austria,2020-10-25,2088359,owid/roser,No
 Austria,2020-10-26,2111575,owid/roser,No
 Austria,2020-10-27,2125687,owid/roser,No
-Austria,2020-10-28,2129081,,Yes
+Austria,2020-10-28,2138826,,Yes
+Austria,2020-10-29,2153066,worldometers,No
 Azerbaijan,2020-01-22,,,No
 Azerbaijan,2020-01-23,,,No
 Azerbaijan,2020-01-24,,,No
@@ -5057,6 +5074,7 @@ Azerbaijan,2020-10-25,1281497,lau,No
 Azerbaijan,2020-10-26,1291534,lau,No
 Azerbaijan,2020-10-27,1298348,lau,No
 Azerbaijan,2020-10-28,1308048,lau,No
+Azerbaijan,2020-10-29,1319474,lau,No
 Bahamas,2020-01-22,,,No
 Bahamas,2020-01-23,,,No
 Bahamas,2020-01-24,,,No
@@ -5338,6 +5356,7 @@ Bahamas,2020-10-25,33765,,Yes
 Bahamas,2020-10-26,34088,worldometers,No
 Bahamas,2020-10-27,34318,,Yes
 Bahamas,2020-10-28,34504,worldometers,No
+Bahamas,2020-10-29,34948,worldometers,No
 Bahrain,2020-01-22,,,No
 Bahrain,2020-01-23,,,No
 Bahrain,2020-01-24,,,No
@@ -5619,6 +5638,7 @@ Bahrain,2020-10-25,1678847,owid/roser,No
 Bahrain,2020-10-26,1698489,owid/roser,No
 Bahrain,2020-10-27,1704182,,Yes
 Bahrain,2020-10-28,1709902,owid/roser,No
+Bahrain,2020-10-29,1721676,worldometers,No
 Bangladesh,2020-01-22,,,No
 Bangladesh,2020-01-23,,,No
 Bangladesh,2020-01-24,,,No
@@ -5899,7 +5919,8 @@ Bangladesh,2020-10-24,2249449,owid/roser,No
 Bangladesh,2020-10-25,2260447,owid/roser,No
 Bangladesh,2020-10-26,2271550,owid/roser,No
 Bangladesh,2020-10-27,2284167,owid/roser,No
-Bangladesh,2020-10-28,2285660,,Yes
+Bangladesh,2020-10-28,2297275,,Yes
+Bangladesh,2020-10-29,2310589,worldometers,No
 Barbados,2020-01-22,,,No
 Barbados,2020-01-23,,,No
 Barbados,2020-01-24,,,No
@@ -6181,6 +6202,7 @@ Barbados,2020-10-25,33467,lau,No
 Barbados,2020-10-26,33795,lau,No
 Barbados,2020-10-27,34310,lau,No
 Barbados,2020-10-28,34311,,Yes
+Barbados,2020-10-29,34311,,Yes
 Belarus,2020-01-22,,,No
 Belarus,2020-01-23,,,No
 Belarus,2020-01-24,,,No
@@ -6462,6 +6484,7 @@ Belarus,2020-10-25,2372445,wiki,No
 Belarus,2020-10-26,2386740,worldometers,No
 Belarus,2020-10-27,2391035,,Yes
 Belarus,2020-10-28,2395368,worldometers,No
+Belarus,2020-10-29,2444162,worldometers,No
 Belgium,2020-01-22,,,No
 Belgium,2020-01-23,,,No
 Belgium,2020-01-24,,,No
@@ -6741,8 +6764,9 @@ Belgium,2020-10-23,4520452,owid/roser,No
 Belgium,2020-10-24,4583069,owid/roser,No
 Belgium,2020-10-25,4621571,owid/roser,No
 Belgium,2020-10-26,4668661,owid/roser,No
-Belgium,2020-10-27,4681348,,Yes
-Belgium,2020-10-28,4715967,,Yes
+Belgium,2020-10-27,4688347,,Yes
+Belgium,2020-10-28,4715565,,Yes
+Belgium,2020-10-29,4745723,worldometers,No
 Belize,2020-01-22,,,No
 Belize,2020-01-23,,,No
 Belize,2020-01-24,,,No
@@ -7024,6 +7048,7 @@ Belize,2020-10-25,21150,worldometers,No
 Belize,2020-10-26,21400,worldometers,No
 Belize,2020-10-27,21646,worldometers,No
 Belize,2020-10-28,21802,worldometers,No
+Belize,2020-10-29,21991,worldometers,No
 Benin,2020-01-22,,,No
 Benin,2020-01-23,,,No
 Benin,2020-01-24,,,No
@@ -7306,6 +7331,7 @@ Benin,2020-10-25,238166,,Yes
 Benin,2020-10-26,238166,,Yes
 Benin,2020-10-27,238166,,Yes
 Benin,2020-10-28,238252,,Yes
+Benin,2020-10-29,238252,,Yes
 Bhutan,2020-01-22,,,No
 Bhutan,2020-01-23,,,No
 Bhutan,2020-01-24,,,No
@@ -7587,6 +7613,7 @@ Bhutan,2020-10-25,165822,,Yes
 Bhutan,2020-10-26,166087,worldometers,No
 Bhutan,2020-10-27,167043,worldometers,No
 Bhutan,2020-10-28,168223,worldometers,No
+Bhutan,2020-10-29,169479,worldometers,No
 Bolivia,2020-01-22,,,No
 Bolivia,2020-01-23,,,No
 Bolivia,2020-01-24,,,No
@@ -7868,6 +7895,7 @@ Bolivia,2020-10-25,325450,owid/roser,No
 Bolivia,2020-10-26,326162,owid/roser,No
 Bolivia,2020-10-27,328257,worldometers,No
 Bolivia,2020-10-28,329963,worldometers,No
+Bolivia,2020-10-29,330975,worldometers,No
 Bosnia and Herzegovina,2020-01-22,,,No
 Bosnia and Herzegovina,2020-01-23,,,No
 Bosnia and Herzegovina,2020-01-24,,,No
@@ -8149,6 +8177,7 @@ Bosnia and Herzegovina,2020-10-25,180819,,Yes
 Bosnia and Herzegovina,2020-10-26,181598,lau,No
 Bosnia and Herzegovina,2020-10-27,183987,lau,No
 Bosnia and Herzegovina,2020-10-28,186044,lau,No
+Bosnia and Herzegovina,2020-10-29,303136,worldometers,No
 Botswana,2020-01-22,,,No
 Botswana,2020-01-23,,,No
 Botswana,2020-01-24,,,No
@@ -8430,6 +8459,7 @@ Botswana,2020-10-25,283964,,Yes
 Botswana,2020-10-26,286781,,Yes
 Botswana,2020-10-27,289232,worldometers,No
 Botswana,2020-10-28,289232,,Yes
+Botswana,2020-10-29,289591,,Yes
 Brazil,2020-01-22,,,No
 Brazil,2020-01-23,,,No
 Brazil,2020-01-24,,,No
@@ -8711,6 +8741,7 @@ Brazil,2020-10-25,7287329,,Yes
 Brazil,2020-10-26,7303055,,Yes
 Brazil,2020-10-27,7332842,,Yes
 Brazil,2020-10-28,7361471,,Yes
+Brazil,2020-10-29,7387577,,Yes
 Brunei,2020-01-22,,,No
 Brunei,2020-01-23,,,No
 Brunei,2020-01-24,,,No
@@ -8985,13 +9016,14 @@ Brunei,2020-10-18,64661,lau,No
 Brunei,2020-10-19,65083,lau,No
 Brunei,2020-10-20,65207,lau,No
 Brunei,2020-10-21,65663,lau,No
-Brunei,2020-10-22,65901,,Yes
-Brunei,2020-10-23,66139,,Yes
+Brunei,2020-10-22,65947,lau,No
+Brunei,2020-10-23,66268,lau,No
 Brunei,2020-10-24,66377,lau,No
 Brunei,2020-10-25,66583,lau,No
 Brunei,2020-10-26,66995,lau,No
 Brunei,2020-10-27,66995,,Yes
 Brunei,2020-10-28,66995,,Yes
+Brunei,2020-10-29,66995,,Yes
 Bulgaria,2020-01-22,,,No
 Bulgaria,2020-01-23,,,No
 Bulgaria,2020-01-24,,,No
@@ -9273,6 +9305,7 @@ Bulgaria,2020-10-25,659602,owid/roser,No
 Bulgaria,2020-10-26,661859,owid/roser,No
 Bulgaria,2020-10-27,669518,owid/roser,No
 Bulgaria,2020-10-28,680744,owid/roser,No
+Bulgaria,2020-10-29,702066,lau,No
 Burkina Faso,2020-01-22,,,No
 Burkina Faso,2020-01-23,,,No
 Burkina Faso,2020-01-24,,,No
@@ -9554,6 +9587,7 @@ Burkina Faso,2020-10-25,18746,,Yes
 Burkina Faso,2020-10-26,18754,,Yes
 Burkina Faso,2020-10-27,18761,,Yes
 Burkina Faso,2020-10-28,18761,,Yes
+Burkina Faso,2020-10-29,18766,,Yes
 Burma,2020-01-22,,,No
 Burma,2020-01-23,,,No
 Burma,2020-01-24,,,No
@@ -9835,6 +9869,7 @@ Burma,2020-10-25,605843,lau,No
 Burma,2020-10-26,618423,lau,No
 Burma,2020-10-27,634041,lau,No
 Burma,2020-10-28,648247,lau,No
+Burma,2020-10-29,662449,lau,No
 Burundi,2020-01-22,,,No
 Burundi,2020-01-23,,,No
 Burundi,2020-01-24,,,No
@@ -10116,6 +10151,7 @@ Burundi,2020-10-25,49179,,Yes
 Burundi,2020-10-26,49642,worldometers,No
 Burundi,2020-10-27,49643,,Yes
 Burundi,2020-10-28,49644,,Yes
+Burundi,2020-10-29,49645,,Yes
 Cabo Verde,2020-01-22,,,No
 Cabo Verde,2020-01-23,,,No
 Cabo Verde,2020-01-24,,,No
@@ -10397,6 +10433,7 @@ Cabo Verde,2020-10-25,88954,,Yes
 Cabo Verde,2020-10-26,88981,,Yes
 Cabo Verde,2020-10-27,89030,,Yes
 Cabo Verde,2020-10-28,89106,,Yes
+Cabo Verde,2020-10-29,89161,,Yes
 Cambodia,2020-01-22,2,lau,No
 Cambodia,2020-01-23,2,lau,No
 Cambodia,2020-01-24,7,lau,No
@@ -10678,6 +10715,7 @@ Cambodia,2020-10-25,173538,worldometers,No
 Cambodia,2020-10-26,174301,worldometers,No
 Cambodia,2020-10-27,175536,,Yes
 Cambodia,2020-10-28,176769,worldometers,No
+Cambodia,2020-10-29,178303,worldometers,No
 Cameroon,2020-01-22,,,No
 Cameroon,2020-01-23,,,No
 Cameroon,2020-01-24,,,No
@@ -10959,6 +10997,7 @@ Cameroon,2020-10-25,153315,,Yes
 Cameroon,2020-10-26,153538,,Yes
 Cameroon,2020-10-27,153538,,Yes
 Cameroon,2020-10-28,153538,,Yes
+Cameroon,2020-10-29,153538,,Yes
 Canada – Alberta,2020-01-22,,,No
 Canada – Alberta,2020-01-23,,,No
 Canada – Alberta,2020-01-24,,,No
@@ -11240,6 +11279,7 @@ Canada – Alberta,2020-10-25,1220803,lau,No
 Canada – Alberta,2020-10-26,1245294,lau,No
 Canada – Alberta,2020-10-27,1250099,lau,No
 Canada – Alberta,2020-10-28,1255081,lau,No
+Canada – Alberta,2020-10-29,1261145,lau,No
 Canada – British Columbia,2020-01-22,,,No
 Canada – British Columbia,2020-01-23,2,lau,No
 Canada – British Columbia,2020-01-24,10,,Yes
@@ -11521,6 +11561,7 @@ Canada – British Columbia,2020-10-25,792224,lau,No
 Canada – British Columbia,2020-10-26,797381,lau,No
 Canada – British Columbia,2020-10-27,806953,lau,No
 Canada – British Columbia,2020-10-28,807240,,Yes
+Canada – British Columbia,2020-10-29,807474,,Yes
 Canada – Manitoba,2020-01-22,,,No
 Canada – Manitoba,2020-01-23,,,No
 Canada – Manitoba,2020-01-24,,,No
@@ -11802,6 +11843,7 @@ Canada – Manitoba,2020-10-25,240639,lau,No
 Canada – Manitoba,2020-10-26,242787,lau,No
 Canada – Manitoba,2020-10-27,244606,lau,No
 Canada – Manitoba,2020-10-28,248077,lau,No
+Canada – Manitoba,2020-10-29,251461,lau,No
 Canada – New Brunswick,2020-01-22,,,No
 Canada – New Brunswick,2020-01-23,,,No
 Canada – New Brunswick,2020-01-24,,,No
@@ -12083,6 +12125,7 @@ Canada – New Brunswick,2020-10-25,96747,lau,No
 Canada – New Brunswick,2020-10-26,98251,lau,No
 Canada – New Brunswick,2020-10-27,99756,lau,No
 Canada – New Brunswick,2020-10-28,99759,,Yes
+Canada – New Brunswick,2020-10-29,99763,,Yes
 Canada – Newfoundland and Labrador,2020-01-22,,,No
 Canada – Newfoundland and Labrador,2020-01-23,,,No
 Canada – Newfoundland and Labrador,2020-01-24,,,No
@@ -12364,6 +12407,7 @@ Canada – Newfoundland and Labrador,2020-10-25,50682,lau,No
 Canada – Newfoundland and Labrador,2020-10-26,50871,lau,No
 Canada – Newfoundland and Labrador,2020-10-27,51177,lau,No
 Canada – Newfoundland and Labrador,2020-10-28,51529,lau,No
+Canada – Newfoundland and Labrador,2020-10-29,51876,lau,No
 Canada – Northwest Territories,2020-01-22,,,No
 Canada – Northwest Territories,2020-01-23,,,No
 Canada – Northwest Territories,2020-01-24,,,No
@@ -12645,6 +12689,7 @@ Canada – Northwest Territories,2020-10-25,6227,,Yes
 Canada – Northwest Territories,2020-10-26,6267,lau,No
 Canada – Northwest Territories,2020-10-27,6298,lau,No
 Canada – Northwest Territories,2020-10-28,6355,lau,No
+Canada – Northwest Territories,2020-10-29,6399,lau,No
 Canada – Nova Scotia,2020-01-22,,,No
 Canada – Nova Scotia,2020-01-23,,,No
 Canada – Nova Scotia,2020-01-24,,,No
@@ -12925,7 +12970,8 @@ Canada – Nova Scotia,2020-10-24,109387,lau,No
 Canada – Nova Scotia,2020-10-25,109790,lau,No
 Canada – Nova Scotia,2020-10-26,110133,lau,No
 Canada – Nova Scotia,2020-10-27,111181,lau,No
-Canada – Nova Scotia,2020-10-28,111181,,Yes
+Canada – Nova Scotia,2020-10-28,111825,lau,No
+Canada – Nova Scotia,2020-10-29,111825,,Yes
 Canada – Ontario,2020-01-22,,,No
 Canada – Ontario,2020-01-23,,,No
 Canada – Ontario,2020-01-24,,,No
@@ -13206,7 +13252,8 @@ Canada – Ontario,2020-10-24,4908771,lau,No
 Canada – Ontario,2020-10-25,4937423,lau,No
 Canada – Ontario,2020-10-26,4961368,lau,No
 Canada – Ontario,2020-10-27,4991378,lau,No
-Canada – Ontario,2020-10-28,4992176,,Yes
+Canada – Ontario,2020-10-28,5026999,lau,No
+Canada – Ontario,2020-10-29,5027994,,Yes
 Canada – Prince Edward Island,2020-01-22,,,No
 Canada – Prince Edward Island,2020-01-23,,,No
 Canada – Prince Edward Island,2020-01-24,,,No
@@ -13488,6 +13535,7 @@ Canada – Prince Edward Island,2020-10-25,22353,,Yes
 Canada – Prince Edward Island,2020-10-26,22353,,Yes
 Canada – Prince Edward Island,2020-10-27,22353,,Yes
 Canada – Prince Edward Island,2020-10-28,22353,,Yes
+Canada – Prince Edward Island,2020-10-29,22353,,Yes
 Canada – Quebec,2020-01-22,,,No
 Canada – Quebec,2020-01-23,,,No
 Canada – Quebec,2020-01-24,,,No
@@ -13767,8 +13815,9 @@ Canada – Quebec,2020-10-23,1835921,lau,No
 Canada – Quebec,2020-10-24,1846594,lau,No
 Canada – Quebec,2020-10-25,1856752,lau,No
 Canada – Quebec,2020-10-26,1875899,lau,No
-Canada – Quebec,2020-10-27,1876862,,Yes
-Canada – Quebec,2020-10-28,1877791,,Yes
+Canada – Quebec,2020-10-27,1885867,lau,No
+Canada – Quebec,2020-10-28,1886796,,Yes
+Canada – Quebec,2020-10-29,1887826,,Yes
 Canada – Saskatchewan,2020-01-22,,,No
 Canada – Saskatchewan,2020-01-23,,,No
 Canada – Saskatchewan,2020-01-24,,,No
@@ -14050,6 +14099,7 @@ Canada – Saskatchewan,2020-10-25,134528,,Yes
 Canada – Saskatchewan,2020-10-26,134582,,Yes
 Canada – Saskatchewan,2020-10-27,134640,,Yes
 Canada – Saskatchewan,2020-10-28,134707,,Yes
+Canada – Saskatchewan,2020-10-29,134789,,Yes
 Canada – Yukon,2020-01-22,,,No
 Canada – Yukon,2020-01-23,,,No
 Canada – Yukon,2020-01-24,,,No
@@ -14331,6 +14381,7 @@ Canada – Yukon,2020-10-25,3891,,Yes
 Canada – Yukon,2020-10-26,3909,lau,No
 Canada – Yukon,2020-10-27,3946,lau,No
 Canada – Yukon,2020-10-28,4004,lau,No
+Canada – Yukon,2020-10-29,4031,lau,No
 Central African Republic,2020-01-22,,,No
 Central African Republic,2020-01-23,,,No
 Central African Republic,2020-01-24,,,No
@@ -14612,6 +14663,7 @@ Central African Republic,2020-10-25,32719,,Yes
 Central African Republic,2020-10-26,32720,,Yes
 Central African Republic,2020-10-27,32720,,Yes
 Central African Republic,2020-10-28,32720,,Yes
+Central African Republic,2020-10-29,32720,,Yes
 Chad,2020-01-22,,,No
 Chad,2020-01-23,,,No
 Chad,2020-01-24,,,No
@@ -14893,6 +14945,7 @@ Chad,2020-10-25,,,No
 Chad,2020-10-26,,,No
 Chad,2020-10-27,,,No
 Chad,2020-10-28,,,No
+Chad,2020-10-29,,,No
 Chile,2020-01-22,,,No
 Chile,2020-01-23,,,No
 Chile,2020-01-24,,,No
@@ -15174,6 +15227,7 @@ Chile,2020-10-25,4111528,owid/roser,No
 Chile,2020-10-26,4149360,owid/roser,No
 Chile,2020-10-27,4169372,owid/roser,No
 Chile,2020-10-28,4177395,worldometers,No
+Chile,2020-10-29,4199217,worldometers,No
 China – Anhui,2020-01-22,,,No
 China – Anhui,2020-01-23,,,No
 China – Anhui,2020-01-24,,,No
@@ -15455,6 +15509,7 @@ China – Anhui,2020-10-25,,,No
 China – Anhui,2020-10-26,,,No
 China – Anhui,2020-10-27,,,No
 China – Anhui,2020-10-28,,,No
+China – Anhui,2020-10-29,,,No
 China – Beijing,2020-01-22,,,No
 China – Beijing,2020-01-23,,,No
 China – Beijing,2020-01-24,,,No
@@ -15736,6 +15791,7 @@ China – Beijing,2020-10-25,,,No
 China – Beijing,2020-10-26,,,No
 China – Beijing,2020-10-27,,,No
 China – Beijing,2020-10-28,,,No
+China – Beijing,2020-10-29,,,No
 China – Chongqing,2020-01-22,,,No
 China – Chongqing,2020-01-23,,,No
 China – Chongqing,2020-01-24,,,No
@@ -16017,6 +16073,7 @@ China – Chongqing,2020-10-25,,,No
 China – Chongqing,2020-10-26,,,No
 China – Chongqing,2020-10-27,,,No
 China – Chongqing,2020-10-28,,,No
+China – Chongqing,2020-10-29,,,No
 China – Fujian,2020-01-22,,,No
 China – Fujian,2020-01-23,,,No
 China – Fujian,2020-01-24,,,No
@@ -16298,6 +16355,7 @@ China – Fujian,2020-10-25,,,No
 China – Fujian,2020-10-26,,,No
 China – Fujian,2020-10-27,,,No
 China – Fujian,2020-10-28,,,No
+China – Fujian,2020-10-29,,,No
 China – Gansu,2020-01-22,,,No
 China – Gansu,2020-01-23,,,No
 China – Gansu,2020-01-24,,,No
@@ -16579,6 +16637,7 @@ China – Gansu,2020-10-25,,,No
 China – Gansu,2020-10-26,,,No
 China – Gansu,2020-10-27,,,No
 China – Gansu,2020-10-28,,,No
+China – Gansu,2020-10-29,,,No
 China – Guangdong,2020-01-22,,,No
 China – Guangdong,2020-01-23,,,No
 China – Guangdong,2020-01-24,,,No
@@ -16860,6 +16919,7 @@ China – Guangdong,2020-10-25,24930221,,Yes
 China – Guangdong,2020-10-26,24930222,,Yes
 China – Guangdong,2020-10-27,24930224,,Yes
 China – Guangdong,2020-10-28,24930227,,Yes
+China – Guangdong,2020-10-29,24930229,,Yes
 China – Guangxi,2020-01-22,,,No
 China – Guangxi,2020-01-23,,,No
 China – Guangxi,2020-01-24,,,No
@@ -17141,6 +17201,7 @@ China – Guangxi,2020-10-25,,,No
 China – Guangxi,2020-10-26,,,No
 China – Guangxi,2020-10-27,,,No
 China – Guangxi,2020-10-28,,,No
+China – Guangxi,2020-10-29,,,No
 China – Guizhou,2020-01-22,,,No
 China – Guizhou,2020-01-23,,,No
 China – Guizhou,2020-01-24,,,No
@@ -17422,6 +17483,7 @@ China – Guizhou,2020-10-25,,,No
 China – Guizhou,2020-10-26,,,No
 China – Guizhou,2020-10-27,,,No
 China – Guizhou,2020-10-28,,,No
+China – Guizhou,2020-10-29,,,No
 China – Hainan,2020-01-22,,,No
 China – Hainan,2020-01-23,,,No
 China – Hainan,2020-01-24,,,No
@@ -17703,6 +17765,7 @@ China – Hainan,2020-10-25,,,No
 China – Hainan,2020-10-26,,,No
 China – Hainan,2020-10-27,,,No
 China – Hainan,2020-10-28,,,No
+China – Hainan,2020-10-29,,,No
 China – Hebei,2020-01-22,,,No
 China – Hebei,2020-01-23,,,No
 China – Hebei,2020-01-24,,,No
@@ -17984,6 +18047,7 @@ China – Hebei,2020-10-25,,,No
 China – Hebei,2020-10-26,,,No
 China – Hebei,2020-10-27,,,No
 China – Hebei,2020-10-28,,,No
+China – Hebei,2020-10-29,,,No
 China – Heilongjiang,2020-01-22,,,No
 China – Heilongjiang,2020-01-23,,,No
 China – Heilongjiang,2020-01-24,,,No
@@ -18265,6 +18329,7 @@ China – Heilongjiang,2020-10-25,784273,,Yes
 China – Heilongjiang,2020-10-26,784274,,Yes
 China – Heilongjiang,2020-10-27,784274,,Yes
 China – Heilongjiang,2020-10-28,784274,,Yes
+China – Heilongjiang,2020-10-29,784274,,Yes
 China – Henan,2020-01-22,,,No
 China – Henan,2020-01-23,,,No
 China – Henan,2020-01-24,,,No
@@ -18546,6 +18611,7 @@ China – Henan,2020-10-25,,,No
 China – Henan,2020-10-26,,,No
 China – Henan,2020-10-27,,,No
 China – Henan,2020-10-28,,,No
+China – Henan,2020-10-29,,,No
 China – Hong Kong,2020-01-22,,,No
 China – Hong Kong,2020-01-23,,,No
 China – Hong Kong,2020-01-24,,,No
@@ -18827,6 +18893,7 @@ China – Hong Kong,2020-10-25,3691614,,Yes
 China – Hong Kong,2020-10-26,3707664,worldometers,No
 China – Hong Kong,2020-10-27,3707669,,Yes
 China – Hong Kong,2020-10-28,3707671,,Yes
+China – Hong Kong,2020-10-29,3707674,,Yes
 China – Hubei,2020-01-22,,,No
 China – Hubei,2020-01-23,,,No
 China – Hubei,2020-01-24,,,No
@@ -19108,6 +19175,7 @@ China – Hubei,2020-10-25,12537796,,Yes
 China – Hubei,2020-10-26,12537796,,Yes
 China – Hubei,2020-10-27,12537796,,Yes
 China – Hubei,2020-10-28,12537796,,Yes
+China – Hubei,2020-10-29,12537796,,Yes
 China – Hunan,2020-01-22,,,No
 China – Hunan,2020-01-23,,,No
 China – Hunan,2020-01-24,,,No
@@ -19389,6 +19457,7 @@ China – Hunan,2020-10-25,,,No
 China – Hunan,2020-10-26,,,No
 China – Hunan,2020-10-27,,,No
 China – Hunan,2020-10-28,,,No
+China – Hunan,2020-10-29,,,No
 China – Inner Mongolia,2020-01-22,,,No
 China – Inner Mongolia,2020-01-23,,,No
 China – Inner Mongolia,2020-01-24,,,No
@@ -19670,6 +19739,7 @@ China – Inner Mongolia,2020-10-25,,,No
 China – Inner Mongolia,2020-10-26,,,No
 China – Inner Mongolia,2020-10-27,,,No
 China – Inner Mongolia,2020-10-28,,,No
+China – Inner Mongolia,2020-10-29,,,No
 China – Jiangsu,2020-01-22,,,No
 China – Jiangsu,2020-01-23,,,No
 China – Jiangsu,2020-01-24,,,No
@@ -19951,6 +20021,7 @@ China – Jiangsu,2020-10-25,,,No
 China – Jiangsu,2020-10-26,,,No
 China – Jiangsu,2020-10-27,,,No
 China – Jiangsu,2020-10-28,,,No
+China – Jiangsu,2020-10-29,,,No
 China – Jiangxi,2020-01-22,,,No
 China – Jiangxi,2020-01-23,,,No
 China – Jiangxi,2020-01-24,,,No
@@ -20232,6 +20303,7 @@ China – Jiangxi,2020-10-25,,,No
 China – Jiangxi,2020-10-26,,,No
 China – Jiangxi,2020-10-27,,,No
 China – Jiangxi,2020-10-28,,,No
+China – Jiangxi,2020-10-29,,,No
 China – Jilin,2020-01-22,,,No
 China – Jilin,2020-01-23,,,No
 China – Jilin,2020-01-24,,,No
@@ -20513,6 +20585,7 @@ China – Jilin,2020-10-25,,,No
 China – Jilin,2020-10-26,,,No
 China – Jilin,2020-10-27,,,No
 China – Jilin,2020-10-28,,,No
+China – Jilin,2020-10-29,,,No
 China – Liaoning,2020-01-22,,,No
 China – Liaoning,2020-01-23,,,No
 China – Liaoning,2020-01-24,,,No
@@ -20794,6 +20867,7 @@ China – Liaoning,2020-10-25,,,No
 China – Liaoning,2020-10-26,,,No
 China – Liaoning,2020-10-27,,,No
 China – Liaoning,2020-10-28,,,No
+China – Liaoning,2020-10-29,,,No
 China – Macau,2020-01-22,,,No
 China – Macau,2020-01-23,,,No
 China – Macau,2020-01-24,,,No
@@ -21075,6 +21149,7 @@ China – Macau,2020-10-25,,,No
 China – Macau,2020-10-26,,,No
 China – Macau,2020-10-27,,,No
 China – Macau,2020-10-28,,,No
+China – Macau,2020-10-29,,,No
 China – Ningxia,2020-01-22,,,No
 China – Ningxia,2020-01-23,,,No
 China – Ningxia,2020-01-24,,,No
@@ -21356,6 +21431,7 @@ China – Ningxia,2020-10-25,,,No
 China – Ningxia,2020-10-26,,,No
 China – Ningxia,2020-10-27,,,No
 China – Ningxia,2020-10-28,,,No
+China – Ningxia,2020-10-29,,,No
 China – Qinghai,2020-01-22,,,No
 China – Qinghai,2020-01-23,,,No
 China – Qinghai,2020-01-24,,,No
@@ -21637,6 +21713,7 @@ China – Qinghai,2020-10-25,,,No
 China – Qinghai,2020-10-26,,,No
 China – Qinghai,2020-10-27,,,No
 China – Qinghai,2020-10-28,,,No
+China – Qinghai,2020-10-29,,,No
 China – Shaanxi,2020-01-22,,,No
 China – Shaanxi,2020-01-23,,,No
 China – Shaanxi,2020-01-24,,,No
@@ -21918,6 +21995,7 @@ China – Shaanxi,2020-10-25,,,No
 China – Shaanxi,2020-10-26,,,No
 China – Shaanxi,2020-10-27,,,No
 China – Shaanxi,2020-10-28,,,No
+China – Shaanxi,2020-10-29,,,No
 China – Shandong,2020-01-22,,,No
 China – Shandong,2020-01-23,,,No
 China – Shandong,2020-01-24,,,No
@@ -22199,6 +22277,7 @@ China – Shandong,2020-10-25,,,No
 China – Shandong,2020-10-26,,,No
 China – Shandong,2020-10-27,,,No
 China – Shandong,2020-10-28,,,No
+China – Shandong,2020-10-29,,,No
 China – Shanghai,2020-01-22,,,No
 China – Shanghai,2020-01-23,,,No
 China – Shanghai,2020-01-24,,,No
@@ -22480,6 +22559,7 @@ China – Shanghai,2020-10-25,,,No
 China – Shanghai,2020-10-26,,,No
 China – Shanghai,2020-10-27,,,No
 China – Shanghai,2020-10-28,,,No
+China – Shanghai,2020-10-29,,,No
 China – Shanxi,2020-01-22,,,No
 China – Shanxi,2020-01-23,,,No
 China – Shanxi,2020-01-24,,,No
@@ -22761,6 +22841,7 @@ China – Shanxi,2020-10-25,,,No
 China – Shanxi,2020-10-26,,,No
 China – Shanxi,2020-10-27,,,No
 China – Shanxi,2020-10-28,,,No
+China – Shanxi,2020-10-29,,,No
 China – Sichuan,2020-01-22,,,No
 China – Sichuan,2020-01-23,,,No
 China – Sichuan,2020-01-24,,,No
@@ -23042,6 +23123,7 @@ China – Sichuan,2020-10-25,,,No
 China – Sichuan,2020-10-26,,,No
 China – Sichuan,2020-10-27,,,No
 China – Sichuan,2020-10-28,,,No
+China – Sichuan,2020-10-29,,,No
 China – Tianjin,2020-01-22,,,No
 China – Tianjin,2020-01-23,,,No
 China – Tianjin,2020-01-24,,,No
@@ -23323,6 +23405,7 @@ China – Tianjin,2020-10-25,,,No
 China – Tianjin,2020-10-26,,,No
 China – Tianjin,2020-10-27,,,No
 China – Tianjin,2020-10-28,,,No
+China – Tianjin,2020-10-29,,,No
 China – Tibet,2020-01-22,,,No
 China – Tibet,2020-01-23,,,No
 China – Tibet,2020-01-24,,,No
@@ -23604,6 +23687,7 @@ China – Tibet,2020-10-25,,,No
 China – Tibet,2020-10-26,,,No
 China – Tibet,2020-10-27,,,No
 China – Tibet,2020-10-28,,,No
+China – Tibet,2020-10-29,,,No
 China – Xinjiang,2020-01-22,,,No
 China – Xinjiang,2020-01-23,,,No
 China – Xinjiang,2020-01-24,,,No
@@ -23885,6 +23969,7 @@ China – Xinjiang,2020-10-25,,,No
 China – Xinjiang,2020-10-26,,,No
 China – Xinjiang,2020-10-27,,,No
 China – Xinjiang,2020-10-28,,,No
+China – Xinjiang,2020-10-29,,,No
 China – Yunnan,2020-01-22,,,No
 China – Yunnan,2020-01-23,,,No
 China – Yunnan,2020-01-24,,,No
@@ -24166,6 +24251,7 @@ China – Yunnan,2020-10-25,,,No
 China – Yunnan,2020-10-26,,,No
 China – Yunnan,2020-10-27,,,No
 China – Yunnan,2020-10-28,,,No
+China – Yunnan,2020-10-29,,,No
 China – Zhejiang,2020-01-22,,,No
 China – Zhejiang,2020-01-23,,,No
 China – Zhejiang,2020-01-24,,,No
@@ -24447,6 +24533,7 @@ China – Zhejiang,2020-10-25,,,No
 China – Zhejiang,2020-10-26,,,No
 China – Zhejiang,2020-10-27,,,No
 China – Zhejiang,2020-10-28,,,No
+China – Zhejiang,2020-10-29,,,No
 Colombia,2020-01-22,,,No
 Colombia,2020-01-23,,,No
 Colombia,2020-01-24,,,No
@@ -24728,6 +24815,7 @@ Colombia,2020-10-25,4018323,owid/roser,No
 Colombia,2020-10-26,4048373,owid/roser,No
 Colombia,2020-10-27,4074671,owid/roser,No
 Colombia,2020-10-28,4838104,worldometers,No
+Colombia,2020-10-29,4887294,worldometers,No
 Comoros,2020-01-22,,,No
 Comoros,2020-01-23,,,No
 Comoros,2020-01-24,,,No
@@ -25009,6 +25097,7 @@ Comoros,2020-10-25,,,No
 Comoros,2020-10-26,,,No
 Comoros,2020-10-27,,,No
 Comoros,2020-10-28,,,No
+Comoros,2020-10-29,,,No
 Congo (Brazzaville),2020-01-22,,,No
 Congo (Brazzaville),2020-01-23,,,No
 Congo (Brazzaville),2020-01-24,,,No
@@ -25290,6 +25379,7 @@ Congo (Brazzaville),2020-10-25,,,No
 Congo (Brazzaville),2020-10-26,,,No
 Congo (Brazzaville),2020-10-27,,,No
 Congo (Brazzaville),2020-10-28,,,No
+Congo (Brazzaville),2020-10-29,,,No
 Congo (Kinshasa),2020-01-22,,,No
 Congo (Kinshasa),2020-01-23,,,No
 Congo (Kinshasa),2020-01-24,,,No
@@ -25571,6 +25661,7 @@ Congo (Kinshasa),2020-10-25,61516,,Yes
 Congo (Kinshasa),2020-10-26,61547,,Yes
 Congo (Kinshasa),2020-10-27,61564,,Yes
 Congo (Kinshasa),2020-10-28,61584,,Yes
+Congo (Kinshasa),2020-10-29,61584,,Yes
 Costa Rica,2020-01-22,,,No
 Costa Rica,2020-01-23,,,No
 Costa Rica,2020-01-24,,,No
@@ -25852,6 +25943,7 @@ Costa Rica,2020-10-25,296363,worldometers,No
 Costa Rica,2020-10-26,298509,,Yes
 Costa Rica,2020-10-27,300150,,Yes
 Costa Rica,2020-10-28,302168,worldometers,No
+Costa Rica,2020-10-29,305146,worldometers,No
 Cote d'Ivoire,2020-01-22,,,No
 Cote d'Ivoire,2020-01-23,,,No
 Cote d'Ivoire,2020-01-24,,,No
@@ -26133,6 +26225,7 @@ Cote d'Ivoire,2020-10-25,188017,owid/roser,No
 Cote d'Ivoire,2020-10-26,188176,lau,No
 Cote d'Ivoire,2020-10-27,189052,lau,No
 Cote d'Ivoire,2020-10-28,190116,lau,No
+Cote d'Ivoire,2020-10-29,192394,lau,No
 Croatia,2020-01-22,,,No
 Croatia,2020-01-23,,,No
 Croatia,2020-01-24,,,No
@@ -26414,6 +26507,7 @@ Croatia,2020-10-25,445568,owid/roser,No
 Croatia,2020-10-26,449541,owid/roser,No
 Croatia,2020-10-27,457726,owid/roser,No
 Croatia,2020-10-28,466315,owid/roser,No
+Croatia,2020-10-29,475994,worldometers,No
 Cuba,2020-01-22,,,No
 Cuba,2020-01-23,,,No
 Cuba,2020-01-24,,,No
@@ -26695,6 +26789,7 @@ Cuba,2020-10-25,800187,owid/roser,No
 Cuba,2020-10-26,808077,owid/roser,No
 Cuba,2020-10-27,816278,wiki,No
 Cuba,2020-10-28,816327,,Yes
+Cuba,2020-10-29,816366,,Yes
 Cyprus,2020-01-22,,,No
 Cyprus,2020-01-23,,,No
 Cyprus,2020-01-24,,,No
@@ -26974,8 +27069,9 @@ Cyprus,2020-10-23,459698,owid/roser,No
 Cyprus,2020-10-24,463982,owid/roser,No
 Cyprus,2020-10-25,466763,owid/roser,No
 Cyprus,2020-10-26,469048,owid/roser,No
-Cyprus,2020-10-27,469229,,Yes
-Cyprus,2020-10-28,469342,,Yes
+Cyprus,2020-10-27,469775,,Yes
+Cyprus,2020-10-28,470435,,Yes
+Cyprus,2020-10-29,471104,worldometers,No
 Czechia,2020-01-22,,,No
 Czechia,2020-01-23,,,No
 Czechia,2020-01-24,,,No
@@ -27257,6 +27353,7 @@ Czechia,2020-10-25,2083370,owid/roser,No
 Czechia,2020-10-26,2118316,owid/roser,No
 Czechia,2020-10-27,2142631,,Yes
 Czechia,2020-10-28,2164370,wiki,No
+Czechia,2020-10-29,2177425,,Yes
 Denmark,2020-01-22,,,No
 Denmark,2020-01-23,,,No
 Denmark,2020-01-24,,,No
@@ -27538,6 +27635,7 @@ Denmark,2020-10-25,4912420,owid/roser,No
 Denmark,2020-10-26,4928153,owid/roser,No
 Denmark,2020-10-27,4965356,worldometers,No
 Denmark,2020-10-28,5011110,worldometers,No
+Denmark,2020-10-29,5074769,worldometers,No
 Denmark – Faroe Islands,2020-01-22,,,No
 Denmark – Faroe Islands,2020-01-23,,,No
 Denmark – Faroe Islands,2020-01-24,,,No
@@ -27819,6 +27917,7 @@ Denmark – Faroe Islands,2020-10-25,150610,lau,No
 Denmark – Faroe Islands,2020-10-26,150952,lau,No
 Denmark – Faroe Islands,2020-10-27,151668,lau,No
 Denmark – Faroe Islands,2020-10-28,152102,lau,No
+Denmark – Faroe Islands,2020-10-29,152906,lau,No
 Denmark – Greenland,2020-01-22,,,No
 Denmark – Greenland,2020-01-23,,,No
 Denmark – Greenland,2020-01-24,,,No
@@ -28100,6 +28199,7 @@ Denmark – Greenland,2020-10-25,10273,,Yes
 Denmark – Greenland,2020-10-26,10273,,Yes
 Denmark – Greenland,2020-10-27,10273,,Yes
 Denmark – Greenland,2020-10-28,10273,,Yes
+Denmark – Greenland,2020-10-29,10273,,Yes
 Diamond Princess,2020-01-22,,,No
 Diamond Princess,2020-01-23,,,No
 Diamond Princess,2020-01-24,,,No
@@ -28381,6 +28481,7 @@ Diamond Princess,2020-10-25,,,No
 Diamond Princess,2020-10-26,,,No
 Diamond Princess,2020-10-27,,,No
 Diamond Princess,2020-10-28,,,No
+Diamond Princess,2020-10-29,,,No
 Djibouti,2020-01-22,,,No
 Djibouti,2020-01-23,,,No
 Djibouti,2020-01-24,,,No
@@ -28662,6 +28763,7 @@ Djibouti,2020-10-25,83738,worldometers,No
 Djibouti,2020-10-26,83918,worldometers,No
 Djibouti,2020-10-27,84133,worldometers,No
 Djibouti,2020-10-28,84334,worldometers,No
+Djibouti,2020-10-29,84606,worldometers,No
 Dominica,2020-01-22,,,No
 Dominica,2020-01-23,,,No
 Dominica,2020-01-24,,,No
@@ -28943,6 +29045,7 @@ Dominica,2020-10-25,4268,,Yes
 Dominica,2020-10-26,4268,,Yes
 Dominica,2020-10-27,4268,,Yes
 Dominica,2020-10-28,4268,,Yes
+Dominica,2020-10-29,4268,,Yes
 Dominican Republic,2020-01-22,,,No
 Dominican Republic,2020-01-23,,,No
 Dominican Republic,2020-01-24,,,No
@@ -29222,8 +29325,9 @@ Dominican Republic,2020-10-23,563639,lau,No
 Dominican Republic,2020-10-24,567510,,Yes
 Dominican Republic,2020-10-25,570751,owid/roser,No
 Dominican Republic,2020-10-26,572506,lau,No
-Dominican Republic,2020-10-27,572671,,Yes
-Dominican Republic,2020-10-28,573233,,Yes
+Dominican Republic,2020-10-27,577403,,Yes
+Dominican Republic,2020-10-28,582708,lau,No
+Dominican Republic,2020-10-29,583051,,Yes
 Ecuador,2020-01-22,,,No
 Ecuador,2020-01-23,,,No
 Ecuador,2020-01-24,,,No
@@ -29505,6 +29609,7 @@ Ecuador,2020-10-25,465301,owid/roser,No
 Ecuador,2020-10-26,521891,worldometers,No
 Ecuador,2020-10-27,522957,worldometers,No
 Ecuador,2020-10-28,534444,worldometers,No
+Ecuador,2020-10-29,536849,worldometers,No
 Egypt,2020-01-22,,,No
 Egypt,2020-01-23,,,No
 Egypt,2020-01-24,,,No
@@ -29786,6 +29891,7 @@ Egypt,2020-10-25,643203,,Yes
 Egypt,2020-10-26,643370,,Yes
 Egypt,2020-10-27,643540,,Yes
 Egypt,2020-10-28,643693,,Yes
+Egypt,2020-10-29,643872,,Yes
 El Salvador,2020-01-22,,,No
 El Salvador,2020-01-23,,,No
 El Salvador,2020-01-24,,,No
@@ -30067,6 +30173,7 @@ El Salvador,2020-10-25,463545,owid/roser,No
 El Salvador,2020-10-26,463885,,Yes
 El Salvador,2020-10-27,463885,,Yes
 El Salvador,2020-10-28,463885,,Yes
+El Salvador,2020-10-29,464405,,Yes
 Equatorial Guinea,2020-01-22,,,No
 Equatorial Guinea,2020-01-23,,,No
 Equatorial Guinea,2020-01-24,,,No
@@ -30348,6 +30455,7 @@ Equatorial Guinea,2020-10-25,65033,,Yes
 Equatorial Guinea,2020-10-26,65156,,Yes
 Equatorial Guinea,2020-10-27,65284,,Yes
 Equatorial Guinea,2020-10-28,65408,worldometers,No
+Equatorial Guinea,2020-10-29,65408,,Yes
 Eritrea,2020-01-22,,,No
 Eritrea,2020-01-23,,,No
 Eritrea,2020-01-24,,,No
@@ -30629,6 +30737,7 @@ Eritrea,2020-10-25,,,No
 Eritrea,2020-10-26,,,No
 Eritrea,2020-10-27,,,No
 Eritrea,2020-10-28,,,No
+Eritrea,2020-10-29,,,No
 Estonia,2020-01-22,,,No
 Estonia,2020-01-23,,,No
 Estonia,2020-01-24,,,No
@@ -30909,7 +31018,8 @@ Estonia,2020-10-24,252311,owid/roser,No
 Estonia,2020-10-25,252941,owid/roser,No
 Estonia,2020-10-26,254535,owid/roser,No
 Estonia,2020-10-27,256522,owid/roser,No
-Estonia,2020-10-28,256647,,Yes
+Estonia,2020-10-28,257410,,Yes
+Estonia,2020-10-29,258256,worldometers,No
 Eswatini,2020-01-22,,,No
 Eswatini,2020-01-23,,,No
 Eswatini,2020-01-24,,,No
@@ -31184,13 +31294,14 @@ Eswatini,2020-10-18,45785,,Yes
 Eswatini,2020-10-19,45813,,Yes
 Eswatini,2020-10-20,45845,,Yes
 Eswatini,2020-10-21,45870,worldometers,No
-Eswatini,2020-10-22,45879,,Yes
-Eswatini,2020-10-23,45896,,Yes
-Eswatini,2020-10-24,45912,,Yes
-Eswatini,2020-10-25,45919,,Yes
-Eswatini,2020-10-26,45928,,Yes
-Eswatini,2020-10-27,45940,,Yes
-Eswatini,2020-10-28,45951,,Yes
+Eswatini,2020-10-22,45908,,Yes
+Eswatini,2020-10-23,45955,,Yes
+Eswatini,2020-10-24,46001,,Yes
+Eswatini,2020-10-25,46037,,Yes
+Eswatini,2020-10-26,46076,,Yes
+Eswatini,2020-10-27,46118,,Yes
+Eswatini,2020-10-28,46159,,Yes
+Eswatini,2020-10-29,46202,worldometers,No
 Ethiopia,2020-01-22,,,No
 Ethiopia,2020-01-23,,,No
 Ethiopia,2020-01-24,,,No
@@ -31471,7 +31582,8 @@ Ethiopia,2020-10-24,1437497,owid/roser,No
 Ethiopia,2020-10-25,1444542,owid/roser,No
 Ethiopia,2020-10-26,1449170,owid/roser,No
 Ethiopia,2020-10-27,1455054,owid/roser,No
-Ethiopia,2020-10-28,1455656,,Yes
+Ethiopia,2020-10-28,1461344,wiki,No
+Ethiopia,2020-10-29,1461825,,Yes
 Fiji,2020-01-22,,,No
 Fiji,2020-01-23,,,No
 Fiji,2020-01-24,,,No
@@ -31753,6 +31865,7 @@ Fiji,2020-10-25,12463,,Yes
 Fiji,2020-10-26,12527,owid/roser,No
 Fiji,2020-10-27,12527,,No
 Fiji,2020-10-28,12527,worldometers,No
+Fiji,2020-10-29,12528,,Yes
 Finland,2020-01-22,,,No
 Finland,2020-01-23,,,No
 Finland,2020-01-24,,,No
@@ -32033,7 +32146,8 @@ Finland,2020-10-24,1446040,owid/roser,No
 Finland,2020-10-25,1453235,owid/roser,No
 Finland,2020-10-26,1460471,owid/roser,No
 Finland,2020-10-27,1460811,wiki,No
-Finland,2020-10-28,1461026,,Yes
+Finland,2020-10-28,1482631,,Yes
+Finland,2020-10-29,1504430,worldometers,No
 France,2020-01-22,,,No
 France,2020-01-23,,,No
 France,2020-01-24,,,No
@@ -32315,6 +32429,7 @@ France,2020-10-25,14696279,,Yes
 France,2020-10-26,14880040,worldometers,No
 France,2020-10-27,15074715,,Yes
 France,2020-10-28,15271734,worldometers,No
+France,2020-10-29,15319350,,Yes
 France – French Guiana,2020-01-22,,,No
 France – French Guiana,2020-01-23,,,No
 France – French Guiana,2020-01-24,,,No
@@ -32596,6 +32711,7 @@ France – French Guiana,2020-10-25,73165,worldometers,No
 France – French Guiana,2020-10-26,73234,,Yes
 France – French Guiana,2020-10-27,73307,worldometers,No
 France – French Guiana,2020-10-28,73598,worldometers,No
+France – French Guiana,2020-10-29,73744,worldometers,No
 France – French Polynesia,2020-01-22,,,No
 France – French Polynesia,2020-01-23,,,No
 France – French Polynesia,2020-01-24,,,No
@@ -32877,6 +32993,7 @@ France – French Polynesia,2020-10-25,23077,,Yes
 France – French Polynesia,2020-10-26,23649,,Yes
 France – French Polynesia,2020-10-27,23649,,Yes
 France – French Polynesia,2020-10-28,24480,,Yes
+France – French Polynesia,2020-10-29,24480,,Yes
 France – Guadeloupe,2020-01-22,,,No
 France – Guadeloupe,2020-01-23,,,No
 France – Guadeloupe,2020-01-24,,,No
@@ -33151,13 +33268,14 @@ France – Guadeloupe,2020-10-18,63834,,Yes
 France – Guadeloupe,2020-10-19,64161,,Yes
 France – Guadeloupe,2020-10-20,64702,,Yes
 France – Guadeloupe,2020-10-21,65030,worldometers,No
-France – Guadeloupe,2020-10-22,65030,,Yes
-France – Guadeloupe,2020-10-23,65030,,Yes
-France – Guadeloupe,2020-10-24,65030,,Yes
-France – Guadeloupe,2020-10-25,65030,,Yes
-France – Guadeloupe,2020-10-26,65175,,Yes
-France – Guadeloupe,2020-10-27,65175,,Yes
-France – Guadeloupe,2020-10-28,65306,,Yes
+France – Guadeloupe,2020-10-22,65296,,Yes
+France – Guadeloupe,2020-10-23,65562,,Yes
+France – Guadeloupe,2020-10-24,65828,,Yes
+France – Guadeloupe,2020-10-25,66094,,Yes
+France – Guadeloupe,2020-10-26,66509,,Yes
+France – Guadeloupe,2020-10-27,66776,,Yes
+France – Guadeloupe,2020-10-28,67177,,Yes
+France – Guadeloupe,2020-10-29,67445,worldometers,No
 France – Martinique,2020-01-22,,,No
 France – Martinique,2020-01-23,,,No
 France – Martinique,2020-01-24,,,No
@@ -33439,6 +33557,7 @@ France – Martinique,2020-10-25,47286,,Yes
 France – Martinique,2020-10-26,47721,,Yes
 France – Martinique,2020-10-27,49623,,Yes
 France – Martinique,2020-10-28,50071,worldometers,No
+France – Martinique,2020-10-29,50071,,Yes
 France – Mayotte,2020-01-22,,,No
 France – Mayotte,2020-01-23,,,No
 France – Mayotte,2020-01-24,,,No
@@ -33720,6 +33839,7 @@ France – Mayotte,2020-10-25,28830,,Yes
 France – Mayotte,2020-10-26,28875,,Yes
 France – Mayotte,2020-10-27,28875,,Yes
 France – Mayotte,2020-10-28,28920,,Yes
+France – Mayotte,2020-10-29,28920,,Yes
 France – New Caledonia,2020-01-22,,,No
 France – New Caledonia,2020-01-23,,,No
 France – New Caledonia,2020-01-24,,,No
@@ -34001,6 +34121,7 @@ France – New Caledonia,2020-10-25,15180,,Yes
 France – New Caledonia,2020-10-26,15180,,Yes
 France – New Caledonia,2020-10-27,15180,,Yes
 France – New Caledonia,2020-10-28,15180,,Yes
+France – New Caledonia,2020-10-29,15180,,Yes
 France – Reunion,2020-01-22,,,No
 France – Reunion,2020-01-23,,,No
 France – Reunion,2020-01-24,,,No
@@ -34282,6 +34403,7 @@ France – Reunion,2020-10-25,40040,,Yes
 France – Reunion,2020-10-26,40252,,Yes
 France – Reunion,2020-10-27,40252,,Yes
 France – Reunion,2020-10-28,40363,,Yes
+France – Reunion,2020-10-29,40363,,Yes
 France – Saint Barthelemy,2020-01-22,,,No
 France – Saint Barthelemy,2020-01-23,,,No
 France – Saint Barthelemy,2020-01-24,,,No
@@ -34563,6 +34685,7 @@ France – Saint Barthelemy,2020-10-25,3526,,Yes
 France – Saint Barthelemy,2020-10-26,3532,,Yes
 France – Saint Barthelemy,2020-10-27,3532,,Yes
 France – Saint Barthelemy,2020-10-28,3532,,Yes
+France – Saint Barthelemy,2020-10-29,3532,,Yes
 France – Saint Pierre and Miquelon,2020-01-22,,,No
 France – Saint Pierre and Miquelon,2020-01-23,,,No
 France – Saint Pierre and Miquelon,2020-01-24,,,No
@@ -34844,6 +34967,7 @@ France – Saint Pierre and Miquelon,2020-10-25,2222,,Yes
 France – Saint Pierre and Miquelon,2020-10-26,2222,,Yes
 France – Saint Pierre and Miquelon,2020-10-27,2222,,Yes
 France – Saint Pierre and Miquelon,2020-10-28,2222,,Yes
+France – Saint Pierre and Miquelon,2020-10-29,2222,,Yes
 France – St Martin,2020-01-22,,,No
 France – St Martin,2020-01-23,,,No
 France – St Martin,2020-01-24,,,No
@@ -35125,6 +35249,7 @@ France – St Martin,2020-10-25,6072,,Yes
 France – St Martin,2020-10-26,6076,,Yes
 France – St Martin,2020-10-27,6100,,Yes
 France – St Martin,2020-10-28,6100,,Yes
+France – St Martin,2020-10-29,6100,,Yes
 Gabon,2020-01-22,,,No
 Gabon,2020-01-23,,,No
 Gabon,2020-01-24,,,No
@@ -35405,7 +35530,8 @@ Gabon,2020-10-24,225105,worldometers,No
 Gabon,2020-10-25,226756,,Yes
 Gabon,2020-10-26,228427,wiki,No
 Gabon,2020-10-27,228427,worldometers,No
-Gabon,2020-10-28,228447,,Yes
+Gabon,2020-10-28,231394,,Yes
+Gabon,2020-10-29,234341,worldometers,No
 Gambia,2020-01-22,,,No
 Gambia,2020-01-23,,,No
 Gambia,2020-01-24,,,No
@@ -35687,6 +35813,7 @@ Gambia,2020-10-25,19132,,Yes
 Gambia,2020-10-26,19611,,Yes
 Gambia,2020-10-27,20086,,Yes
 Gambia,2020-10-28,20561,worldometers,No
+Gambia,2020-10-29,20561,,Yes
 Georgia,2020-01-22,,,No
 Georgia,2020-01-23,,,No
 Georgia,2020-01-24,,,No
@@ -35968,6 +36095,7 @@ Georgia,2020-10-25,845729,,Yes
 Georgia,2020-10-26,853086,,Yes
 Georgia,2020-10-27,860418,lau,No
 Georgia,2020-10-28,869544,lau,No
+Georgia,2020-10-29,880014,lau,No
 Germany,2020-01-22,,,No
 Germany,2020-01-23,,,No
 Germany,2020-01-24,,,No
@@ -36249,6 +36377,7 @@ Germany,2020-10-25,21416076,,Yes
 Germany,2020-10-26,21567411,,Yes
 Germany,2020-10-27,21719553,,Yes
 Germany,2020-10-28,21882967,wiki,No
+Germany,2020-10-29,21894349,,Yes
 Ghana,2020-01-22,,,No
 Ghana,2020-01-23,,,No
 Ghana,2020-01-24,,,No
@@ -36530,6 +36659,7 @@ Ghana,2020-10-25,522374,,Yes
 Ghana,2020-10-26,522459,,Yes
 Ghana,2020-10-27,522459,,Yes
 Ghana,2020-10-28,522459,,Yes
+Ghana,2020-10-29,522739,,Yes
 Greece,2020-01-22,,,No
 Greece,2020-01-23,,,No
 Greece,2020-01-24,,,No
@@ -36811,6 +36941,7 @@ Greece,2020-10-25,1666151,owid/roser,No
 Greece,2020-10-26,1678129,owid/roser,No
 Greece,2020-10-27,1698327,owid/roser,No
 Greece,2020-10-28,1718450,wiki,No
+Greece,2020-10-29,1719661,,Yes
 Grenada,2020-01-22,,,No
 Grenada,2020-01-23,,,No
 Grenada,2020-01-24,,,No
@@ -37092,6 +37223,7 @@ Grenada,2020-10-25,6256,,Yes
 Grenada,2020-10-26,6256,,Yes
 Grenada,2020-10-27,6256,,Yes
 Grenada,2020-10-28,6256,,Yes
+Grenada,2020-10-29,6256,,Yes
 Guatemala,2020-01-22,,,No
 Guatemala,2020-01-23,,,No
 Guatemala,2020-01-24,,,No
@@ -37373,6 +37505,7 @@ Guatemala,2020-10-25,407148,owid/roser,No
 Guatemala,2020-10-26,412369,owid/roser,No
 Guatemala,2020-10-27,414190,,Yes
 Guatemala,2020-10-28,416088,worldometers,No
+Guatemala,2020-10-29,421237,worldometers,No
 Guinea,2020-01-22,,,No
 Guinea,2020-01-23,,,No
 Guinea,2020-01-24,,,No
@@ -37654,6 +37787,7 @@ Guinea,2020-10-25,89626,,Yes
 Guinea,2020-10-26,89626,,Yes
 Guinea,2020-10-27,89810,,Yes
 Guinea,2020-10-28,89810,,Yes
+Guinea,2020-10-29,90011,,Yes
 Guinea-Bissau,2020-01-22,,,No
 Guinea-Bissau,2020-01-23,,,No
 Guinea-Bissau,2020-01-24,,,No
@@ -37935,6 +38069,7 @@ Guinea-Bissau,2020-10-25,3867,,Yes
 Guinea-Bissau,2020-10-26,3867,,Yes
 Guinea-Bissau,2020-10-27,3867,,Yes
 Guinea-Bissau,2020-10-28,3867,,Yes
+Guinea-Bissau,2020-10-29,3867,,Yes
 Guyana,2020-01-22,,,No
 Guyana,2020-01-23,,,No
 Guyana,2020-01-24,,,No
@@ -38216,6 +38351,7 @@ Guyana,2020-10-25,18143,worldometers,No
 Guyana,2020-10-26,18417,worldometers,No
 Guyana,2020-10-27,18489,worldometers,No
 Guyana,2020-10-28,18685,worldometers,No
+Guyana,2020-10-29,18900,worldometers,No
 Haiti,2020-01-22,,,No
 Haiti,2020-01-23,,,No
 Haiti,2020-01-24,,,No
@@ -38497,6 +38633,7 @@ Haiti,2020-10-25,31807,,Yes
 Haiti,2020-10-26,31821,,Yes
 Haiti,2020-10-27,31849,,Yes
 Haiti,2020-10-28,31869,worldometers,No
+Haiti,2020-10-29,32056,worldometers,No
 Holy See,2020-01-22,,,No
 Holy See,2020-01-23,,,No
 Holy See,2020-01-24,,,No
@@ -38778,6 +38915,7 @@ Holy See,2020-10-25,,,No
 Holy See,2020-10-26,,,No
 Holy See,2020-10-27,,,No
 Holy See,2020-10-28,,,No
+Holy See,2020-10-29,,,No
 Honduras,2020-01-22,,,No
 Honduras,2020-01-23,,,No
 Honduras,2020-01-24,,,No
@@ -39058,7 +39196,8 @@ Honduras,2020-10-24,217953,worldometers,No
 Honduras,2020-10-25,220422,worldometers,No
 Honduras,2020-10-26,221619,worldometers,No
 Honduras,2020-10-27,223346,worldometers,No
-Honduras,2020-10-28,225439,worldometers,No
+Honduras,2020-10-28,225439,wiki,No
+Honduras,2020-10-29,226390,,Yes
 Hungary,2020-01-22,,,No
 Hungary,2020-01-23,,,No
 Hungary,2020-01-24,,,No
@@ -39340,6 +39479,7 @@ Hungary,2020-10-25,980373,owid/roser,No
 Hungary,2020-10-26,990383,owid/roser,No
 Hungary,2020-10-27,1002093,owid/roser,No
 Hungary,2020-10-28,1017689,owid/roser,No
+Hungary,2020-10-29,1032942,worldometers,No
 Iceland,2020-01-22,,,No
 Iceland,2020-01-23,,,No
 Iceland,2020-01-24,,,No
@@ -39621,6 +39761,7 @@ Iceland,2020-10-25,174681,owid/roser,No
 Iceland,2020-10-26,176967,owid/roser,No
 Iceland,2020-10-27,340310,worldometers,No
 Iceland,2020-10-28,343009,worldometers,No
+Iceland,2020-10-29,346162,worldometers,No
 India,2020-01-22,,,No
 India,2020-01-23,,,No
 India,2020-01-24,,,No
@@ -39902,6 +40043,7 @@ India,2020-10-25,102523469,owid/roser,No
 India,2020-10-26,103462778,owid/roser,No
 India,2020-10-27,104420894,owid/roser,No
 India,2020-10-28,105487680,owid/roser,No
+India,2020-10-29,106563440,wiki,No
 Indonesia,2020-01-22,,,No
 Indonesia,2020-01-23,,,No
 Indonesia,2020-01-24,,,No
@@ -40183,6 +40325,7 @@ Indonesia,2020-10-25,2730231,wiki,No
 Indonesia,2020-10-26,2753924,,Yes
 Indonesia,2020-10-27,2777969,owid/roser,No
 Indonesia,2020-10-28,2805313,owid/roser,No
+Indonesia,2020-10-29,4429567,worldometers,No
 Iran,2020-01-22,,,No
 Iran,2020-01-23,,,No
 Iran,2020-01-24,,,No
@@ -40463,7 +40606,8 @@ Iran,2020-10-24,4673721,,Yes
 Iran,2020-10-25,4689118,worldometers,No
 Iran,2020-10-26,4719597,owid/roser,No
 Iran,2020-10-27,4786769,owid/roser,No
-Iran,2020-10-28,4793593,,Yes
+Iran,2020-10-28,4821298,,Yes
+Iran,2020-10-29,4857392,worldometers,No
 Iraq,2020-01-22,,,No
 Iraq,2020-01-23,,,No
 Iraq,2020-01-24,,,No
@@ -40744,7 +40888,8 @@ Iraq,2020-10-24,2739678,owid/roser,No
 Iraq,2020-10-25,2756365,owid/roser,No
 Iraq,2020-10-26,2775402,owid/roser,No
 Iraq,2020-10-27,2794774,owid/roser,No
-Iraq,2020-10-28,2798817,,Yes
+Iraq,2020-10-28,2804745,,Yes
+Iraq,2020-10-29,2814495,worldometers,No
 Ireland,2020-01-22,,,No
 Ireland,2020-01-23,,,No
 Ireland,2020-01-24,,,No
@@ -41025,7 +41170,8 @@ Ireland,2020-10-24,1538473,owid/roser,No
 Ireland,2020-10-25,1554245,owid/roser,No
 Ireland,2020-10-26,1568509,owid/roser,No
 Ireland,2020-10-27,1579944,owid/roser,No
-Ireland,2020-10-28,1580611,,Yes
+Ireland,2020-10-28,1585556,,Yes
+Ireland,2020-10-29,1591370,worldometers,No
 Israel,2020-01-22,,,No
 Israel,2020-01-23,,,No
 Israel,2020-01-24,,,No
@@ -41307,6 +41453,7 @@ Israel,2020-10-25,4671554,,Yes
 Israel,2020-10-26,4702816,,Yes
 Israel,2020-10-27,4734057,,Yes
 Israel,2020-10-28,4765260,wiki,No
+Israel,2020-10-29,4765824,,Yes
 Italy,2020-01-22,,,No
 Italy,2020-01-23,,,No
 Italy,2020-01-24,,,No
@@ -41588,6 +41735,7 @@ Italy,2020-10-25,14654002,owid/roser,No
 Italy,2020-10-26,14778688,owid/roser,No
 Italy,2020-10-27,14953086,owid/roser,No
 Italy,2020-10-28,15152038,wiki,No
+Italy,2020-10-29,15353490,wiki,No
 Jamaica,2020-01-22,,,No
 Jamaica,2020-01-23,,,No
 Jamaica,2020-01-24,,,No
@@ -41867,8 +42015,9 @@ Jamaica,2020-10-23,91980,owid/roser,No
 Jamaica,2020-10-24,92441,owid/roser,No
 Jamaica,2020-10-25,92900,owid/roser,No
 Jamaica,2020-10-26,93357,owid/roser,No
-Jamaica,2020-10-27,93395,,Yes
-Jamaica,2020-10-28,93459,,Yes
+Jamaica,2020-10-27,93511,,Yes
+Jamaica,2020-10-28,93692,,Yes
+Jamaica,2020-10-29,93886,worldometers,No
 Japan,2020-01-22,,,No
 Japan,2020-01-23,,,No
 Japan,2020-01-24,,,No
@@ -42150,6 +42299,7 @@ Japan,2020-10-25,2955134,wiki,No
 Japan,2020-10-26,2955542,,Yes
 Japan,2020-10-27,2956185,,Yes
 Japan,2020-10-28,2956916,,Yes
+Japan,2020-10-29,2957713,,Yes
 Jordan,2020-01-22,,,No
 Jordan,2020-01-23,,,No
 Jordan,2020-01-24,,,No
@@ -42431,6 +42581,7 @@ Jordan,2020-10-25,1710076,lau,No
 Jordan,2020-10-26,1729235,lau,No
 Jordan,2020-10-27,1758841,lau,No
 Jordan,2020-10-28,1783338,lau,No
+Jordan,2020-10-29,1808896,lau,No
 Kazakhstan,2020-01-22,,,No
 Kazakhstan,2020-01-23,,,No
 Kazakhstan,2020-01-24,,,No
@@ -42712,6 +42863,7 @@ Kazakhstan,2020-10-25,3310545,,Yes
 Kazakhstan,2020-10-26,3310687,,Yes
 Kazakhstan,2020-10-27,3310835,,Yes
 Kazakhstan,2020-10-28,3311103,,Yes
+Kazakhstan,2020-10-29,3311495,,Yes
 Kenya,2020-01-22,,,No
 Kenya,2020-01-23,,,No
 Kenya,2020-01-24,,,No
@@ -42993,6 +43145,7 @@ Kenya,2020-10-25,656900,,Yes
 Kenya,2020-10-26,659920,worldometers,No
 Kenya,2020-10-27,662046,worldometers,No
 Kenya,2020-10-28,672771,wiki,No
+Kenya,2020-10-29,673532,,Yes
 Kosovo,2020-01-22,,,No
 Kosovo,2020-01-23,,,No
 Kosovo,2020-01-24,,,No
@@ -43274,6 +43427,7 @@ Kosovo,2020-10-25,86811,lau,No
 Kosovo,2020-10-26,87860,lau,No
 Kosovo,2020-10-27,88803,lau,No
 Kosovo,2020-10-28,89735,lau,No
+Kosovo,2020-10-29,90667,lau,No
 Kuwait,2020-01-22,,,No
 Kuwait,2020-01-23,,,No
 Kuwait,2020-01-24,,,No
@@ -43554,7 +43708,8 @@ Kuwait,2020-10-24,870754,owid/roser,No
 Kuwait,2020-10-25,876250,owid/roser,No
 Kuwait,2020-10-26,881681,owid/roser,No
 Kuwait,2020-10-27,889555,owid/roser,No
-Kuwait,2020-10-28,890369,,Yes
+Kuwait,2020-10-28,893295,,Yes
+Kuwait,2020-10-29,896986,worldometers,No
 Kyrgyzstan,2020-01-22,,,No
 Kyrgyzstan,2020-01-23,,,No
 Kyrgyzstan,2020-01-24,,,No
@@ -43836,6 +43991,7 @@ Kyrgyzstan,2020-10-25,400314,,Yes
 Kyrgyzstan,2020-10-26,402860,wiki,No
 Kyrgyzstan,2020-10-27,404661,,Yes
 Kyrgyzstan,2020-10-28,406437,worldometers,No
+Kyrgyzstan,2020-10-29,414064,worldometers,No
 Laos,2020-01-22,,,No
 Laos,2020-01-23,,,No
 Laos,2020-01-24,,,No
@@ -44117,6 +44273,7 @@ Laos,2020-10-25,63324,,Yes
 Laos,2020-10-26,63749,worldometers,No
 Laos,2020-10-27,64157,,Yes
 Laos,2020-10-28,64567,worldometers,No
+Laos,2020-10-29,64965,worldometers,No
 Latvia,2020-01-22,,,No
 Latvia,2020-01-23,,,No
 Latvia,2020-01-24,,,No
@@ -44397,7 +44554,8 @@ Latvia,2020-10-24,419537,owid/roser,No
 Latvia,2020-10-25,423995,owid/roser,No
 Latvia,2020-10-26,426232,owid/roser,No
 Latvia,2020-10-27,431325,owid/roser,No
-Latvia,2020-10-28,431576,,Yes
+Latvia,2020-10-28,436881,,Yes
+Latvia,2020-10-29,442445,worldometers,No
 Lebanon,2020-01-22,,,No
 Lebanon,2020-01-23,,,No
 Lebanon,2020-01-24,,,No
@@ -44678,7 +44836,8 @@ Lebanon,2020-10-24,1081557,,Yes
 Lebanon,2020-10-25,1092975,,Yes
 Lebanon,2020-10-26,1103707,lau,No
 Lebanon,2020-10-27,1118037,lau,No
-Lebanon,2020-10-28,1171367,worldometers,No
+Lebanon,2020-10-28,1132616,,Yes
+Lebanon,2020-10-29,1147322,lau,No
 Lesotho,2020-01-22,,,No
 Lesotho,2020-01-23,,,No
 Lesotho,2020-01-24,,,No
@@ -44960,6 +45119,7 @@ Lesotho,2020-10-25,22264,worldometers,No
 Lesotho,2020-10-26,22301,,Yes
 Lesotho,2020-10-27,22340,worldometers,No
 Lesotho,2020-10-28,22451,worldometers,No
+Lesotho,2020-10-29,22451,,Yes
 Liberia,2020-01-22,,,No
 Liberia,2020-01-23,,,No
 Liberia,2020-01-24,,,No
@@ -45241,6 +45401,7 @@ Liberia,2020-10-25,30362,,Yes
 Liberia,2020-10-26,30385,,Yes
 Liberia,2020-10-27,30388,,Yes
 Liberia,2020-10-28,30388,,Yes
+Liberia,2020-10-29,30395,,Yes
 Libya,2020-01-22,,,No
 Libya,2020-01-23,,,No
 Libya,2020-01-24,,,No
@@ -45522,6 +45683,7 @@ Libya,2020-10-25,296868,,Yes
 Libya,2020-10-26,301577,worldometers,No
 Libya,2020-10-27,303203,,Yes
 Libya,2020-10-28,304982,worldometers,No
+Libya,2020-10-29,308911,worldometers,No
 Liechtenstein,2020-01-22,,,No
 Liechtenstein,2020-01-23,,,No
 Liechtenstein,2020-01-24,,,No
@@ -45803,6 +45965,7 @@ Liechtenstein,2020-10-25,9180,,Yes
 Liechtenstein,2020-10-26,9217,,Yes
 Liechtenstein,2020-10-27,9243,,Yes
 Liechtenstein,2020-10-28,9265,,Yes
+Liechtenstein,2020-10-29,9291,,Yes
 Lithuania,2020-01-22,,,No
 Lithuania,2020-01-23,,,No
 Lithuania,2020-01-24,,,No
@@ -46084,6 +46247,7 @@ Lithuania,2020-10-25,950616,,Yes
 Lithuania,2020-10-26,954962,owid/roser,No
 Lithuania,2020-10-27,964352,owid/roser,No
 Lithuania,2020-10-28,975158,owid/roser,No
+Lithuania,2020-10-29,997860,worldometers,No
 Luxembourg,2020-01-22,,,No
 Luxembourg,2020-01-23,,,No
 Luxembourg,2020-01-24,,,No
@@ -46363,8 +46527,9 @@ Luxembourg,2020-10-23,996167,owid/roser,No
 Luxembourg,2020-10-24,1006540,owid/roser,No
 Luxembourg,2020-10-25,1008445,owid/roser,No
 Luxembourg,2020-10-26,1017308,owid/roser,No
-Luxembourg,2020-10-27,1017793,,Yes
-Luxembourg,2020-10-28,1018568,,Yes
+Luxembourg,2020-10-27,1021395,,Yes
+Luxembourg,2020-10-28,1025779,,Yes
+Luxembourg,2020-10-29,1030089,worldometers,No
 MS Zaandam,2020-01-22,,,No
 MS Zaandam,2020-01-23,,,No
 MS Zaandam,2020-01-24,,,No
@@ -46646,6 +46811,7 @@ MS Zaandam,2020-10-25,,,No
 MS Zaandam,2020-10-26,,,No
 MS Zaandam,2020-10-27,,,No
 MS Zaandam,2020-10-28,,,No
+MS Zaandam,2020-10-29,,,No
 Madagascar,2020-01-22,,,No
 Madagascar,2020-01-23,,,No
 Madagascar,2020-01-24,,,No
@@ -46927,6 +47093,7 @@ Madagascar,2020-10-25,87817,,Yes
 Madagascar,2020-10-26,87817,,Yes
 Madagascar,2020-10-27,87817,,Yes
 Madagascar,2020-10-28,87817,,Yes
+Madagascar,2020-10-29,87817,,Yes
 Malawi,2020-01-22,,,No
 Malawi,2020-01-23,,,No
 Malawi,2020-01-24,,,No
@@ -47208,6 +47375,7 @@ Malawi,2020-10-25,60115,owid/roser,No
 Malawi,2020-10-26,60211,,Yes
 Malawi,2020-10-27,60308,worldometers,No
 Malawi,2020-10-28,60907,wiki,No
+Malawi,2020-10-29,60919,,Yes
 Malaysia,2020-01-22,,,No
 Malaysia,2020-01-23,,,No
 Malaysia,2020-01-24,,,No
@@ -47488,7 +47656,8 @@ Malaysia,2020-10-24,1989231,owid/roser,No
 Malaysia,2020-10-25,2006716,owid/roser,No
 Malaysia,2020-10-26,2025727,worldometers,No
 Malaysia,2020-10-27,2044398,wiki,No
-Malaysia,2020-10-28,2045199,,Yes
+Malaysia,2020-10-28,2054280,,Yes
+Malaysia,2020-10-29,2064016,worldometers,No
 Maldives,2020-01-22,,,No
 Maldives,2020-01-23,,,No
 Maldives,2020-01-24,,,No
@@ -47770,6 +47939,7 @@ Maldives,2020-10-25,190358,owid/roser,No
 Maldives,2020-10-26,191659,owid/roser,No
 Maldives,2020-10-27,193176,owid/roser,No
 Maldives,2020-10-28,194589,wiki,No
+Maldives,2020-10-29,194614,,Yes
 Mali,2020-01-22,,,No
 Mali,2020-01-23,,,No
 Mali,2020-01-24,,,No
@@ -48051,6 +48221,7 @@ Mali,2020-10-25,70223,worldometers,No
 Mali,2020-10-26,70734,,Yes
 Mali,2020-10-27,71254,worldometers,No
 Mali,2020-10-28,71919,worldometers,No
+Mali,2020-10-29,72670,worldometers,No
 Malta,2020-01-22,,,No
 Malta,2020-01-23,,,No
 Malta,2020-01-24,,,No
@@ -48332,6 +48503,7 @@ Malta,2020-10-25,317688,,Yes
 Malta,2020-10-26,320715,worldometers,No
 Malta,2020-10-27,322190,,Yes
 Malta,2020-10-28,323634,worldometers,No
+Malta,2020-10-29,326580,worldometers,No
 Marshall Islands,2020-01-22,,,No
 Marshall Islands,2020-01-23,,,No
 Marshall Islands,2020-01-24,,,No
@@ -48613,6 +48785,7 @@ Marshall Islands,2020-10-25,,,No
 Marshall Islands,2020-10-26,,,No
 Marshall Islands,2020-10-27,,,No
 Marshall Islands,2020-10-28,,,No
+Marshall Islands,2020-10-29,,,No
 Mauritania,2020-01-22,,,No
 Mauritania,2020-01-23,,,No
 Mauritania,2020-01-24,,,No
@@ -48894,6 +49067,7 @@ Mauritania,2020-10-25,85683,,Yes
 Mauritania,2020-10-26,85750,worldometers,No
 Mauritania,2020-10-27,86073,worldometers,No
 Mauritania,2020-10-28,86331,worldometers,No
+Mauritania,2020-10-29,86758,worldometers,No
 Mauritius,2020-01-22,,,No
 Mauritius,2020-01-23,,,No
 Mauritius,2020-01-24,,,No
@@ -49175,6 +49349,7 @@ Mauritius,2020-10-25,266723,,Yes
 Mauritius,2020-10-26,266727,,Yes
 Mauritius,2020-10-27,266727,,Yes
 Mauritius,2020-10-28,266727,,Yes
+Mauritius,2020-10-29,266727,,Yes
 Mexico,2020-01-22,3537,owid/roser,No
 Mexico,2020-01-23,3803,owid/roser,No
 Mexico,2020-01-24,4013,owid/roser,No
@@ -49455,7 +49630,8 @@ Mexico,2020-10-24,2269833,worldometers,No
 Mexico,2020-10-25,2288589,worldometers,No
 Mexico,2020-10-26,2295678,worldometers,No
 Mexico,2020-10-27,2301629,worldometers,No
-Mexico,2020-10-28,2307224,,Yes
+Mexico,2020-10-28,2322999,,Yes
+Mexico,2020-10-29,2344805,worldometers,No
 Moldova,2020-01-22,,,No
 Moldova,2020-01-23,,,No
 Moldova,2020-01-24,,,No
@@ -49737,6 +49913,7 @@ Moldova,2020-10-25,342748,,Yes
 Moldova,2020-10-26,343554,worldometers,No
 Moldova,2020-10-27,344986,worldometers,No
 Moldova,2020-10-28,347905,worldometers,No
+Moldova,2020-10-29,363396,worldometers,No
 Monaco,2020-01-22,,,No
 Monaco,2020-01-23,,,No
 Monaco,2020-01-24,,,No
@@ -50018,6 +50195,7 @@ Monaco,2020-10-25,52105,,Yes
 Monaco,2020-10-26,52109,,Yes
 Monaco,2020-10-27,52119,,Yes
 Monaco,2020-10-28,52136,,Yes
+Monaco,2020-10-29,52146,,Yes
 Mongolia,2020-01-22,,,No
 Mongolia,2020-01-23,,,No
 Mongolia,2020-01-24,,,No
@@ -50299,6 +50477,7 @@ Mongolia,2020-10-25,85383,worldometers,No
 Mongolia,2020-10-26,85753,worldometers,No
 Mongolia,2020-10-27,86167,worldometers,No
 Mongolia,2020-10-28,86986,worldometers,No
+Mongolia,2020-10-29,87563,worldometers,No
 Montenegro,2020-01-22,,,No
 Montenegro,2020-01-23,,,No
 Montenegro,2020-01-24,,,No
@@ -50580,6 +50759,7 @@ Montenegro,2020-10-25,84817,worldometers,No
 Montenegro,2020-10-26,85455,worldometers,No
 Montenegro,2020-10-27,85877,worldometers,No
 Montenegro,2020-10-28,86633,worldometers,No
+Montenegro,2020-10-29,87426,worldometers,No
 Morocco,2020-01-22,,,No
 Morocco,2020-01-23,,,No
 Morocco,2020-01-24,,,No
@@ -50860,7 +51040,8 @@ Morocco,2020-10-24,3176249,owid/roser,No
 Morocco,2020-10-25,3197617,owid/roser,No
 Morocco,2020-10-26,3217978,owid/roser,No
 Morocco,2020-10-27,3240758,owid/roser,No
-Morocco,2020-10-28,3244743,,Yes
+Morocco,2020-10-28,3262710,,Yes
+Morocco,2020-10-29,3285045,lau,No
 Mozambique,2020-01-22,,,No
 Mozambique,2020-01-23,,,No
 Mozambique,2020-01-24,,,No
@@ -51142,6 +51323,7 @@ Mozambique,2020-10-25,180557,owid/roser,No
 Mozambique,2020-10-26,181195,,Yes
 Mozambique,2020-10-27,181772,worldometers,No
 Mozambique,2020-10-28,183031,worldometers,No
+Mozambique,2020-10-29,184284,worldometers,No
 Namibia,2020-01-22,,,No
 Namibia,2020-01-23,,,No
 Namibia,2020-01-24,,,No
@@ -51422,7 +51604,8 @@ Namibia,2020-10-24,121708,owid/roser,No
 Namibia,2020-10-25,122261,owid/roser,No
 Namibia,2020-10-26,122924,owid/roser,No
 Namibia,2020-10-27,123455,owid/roser,No
-Namibia,2020-10-28,123532,,Yes
+Namibia,2020-10-28,124024,,Yes
+Namibia,2020-10-29,124570,worldometers,No
 Nepal,2020-01-22,,,No
 Nepal,2020-01-23,,,No
 Nepal,2020-01-24,,,No
@@ -51703,7 +51886,8 @@ Nepal,2020-10-24,1380862,owid/roser,No
 Nepal,2020-10-25,1393173,owid/roser,No
 Nepal,2020-10-26,1398179,owid/roser,No
 Nepal,2020-10-27,1400694,owid/roser,No
-Nepal,2020-10-28,1402648,,Yes
+Nepal,2020-10-28,1409662,,Yes
+Nepal,2020-10-29,1419064,wiki,No
 Netherlands,2020-01-22,,,No
 Netherlands,2020-01-23,,,No
 Netherlands,2020-01-24,,,No
@@ -51985,6 +52169,7 @@ Netherlands,2020-10-25,2986070,,Yes
 Netherlands,2020-10-26,3009741,,Yes
 Netherlands,2020-10-27,3033448,wiki,No
 Netherlands,2020-10-28,3327701,worldometers,No
+Netherlands,2020-10-29,3337965,,Yes
 Netherlands – Aruba,2020-01-22,,,No
 Netherlands – Aruba,2020-01-23,,,No
 Netherlands – Aruba,2020-01-24,,,No
@@ -52266,6 +52451,7 @@ Netherlands – Aruba,2020-10-25,37909,worldometers,No
 Netherlands – Aruba,2020-10-26,38206,worldometers,No
 Netherlands – Aruba,2020-10-27,38406,worldometers,No
 Netherlands – Aruba,2020-10-28,38701,worldometers,No
+Netherlands – Aruba,2020-10-29,38867,worldometers,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-22,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-23,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-01-24,,,No
@@ -52547,6 +52733,7 @@ Netherlands – Aruba,2020-10-28,38701,worldometers,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-10-26,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-10-27,,,No
 "Netherlands – Bonaire, Sint Eustatius and Saba",2020-10-28,,,No
+"Netherlands – Bonaire, Sint Eustatius and Saba",2020-10-29,,,No
 Netherlands – Curacao,2020-01-22,,,No
 Netherlands – Curacao,2020-01-23,,,No
 Netherlands – Curacao,2020-01-24,,,No
@@ -52828,6 +53015,7 @@ Netherlands – Curacao,2020-10-25,11500,worldometers,No
 Netherlands – Curacao,2020-10-26,11634,worldometers,No
 Netherlands – Curacao,2020-10-27,11761,worldometers,No
 Netherlands – Curacao,2020-10-28,11990,worldometers,No
+Netherlands – Curacao,2020-10-29,12319,worldometers,No
 Netherlands – Sint Maarten,2020-01-22,,,No
 Netherlands – Sint Maarten,2020-01-23,,,No
 Netherlands – Sint Maarten,2020-01-24,,,No
@@ -53109,6 +53297,7 @@ Netherlands – Sint Maarten,2020-10-25,4825,lau,No
 Netherlands – Sint Maarten,2020-10-26,5558,lau,No
 Netherlands – Sint Maarten,2020-10-27,5565,lau,No
 Netherlands – Sint Maarten,2020-10-28,5582,lau,No
+Netherlands – Sint Maarten,2020-10-29,5582,lau,No
 New Zealand,2020-01-22,,,No
 New Zealand,2020-01-23,,,No
 New Zealand,2020-01-24,,,No
@@ -53389,7 +53578,8 @@ New Zealand,2020-10-24,1067143,owid/roser,No
 New Zealand,2020-10-25,1070181,owid/roser,No
 New Zealand,2020-10-26,1072492,owid/roser,No
 New Zealand,2020-10-27,1075827,owid/roser,No
-New Zealand,2020-10-28,1075833,,Yes
+New Zealand,2020-10-28,1079530,,Yes
+New Zealand,2020-10-29,1083230,worldometers,No
 Nicaragua,2020-01-22,,,No
 Nicaragua,2020-01-23,,,No
 Nicaragua,2020-01-24,,,No
@@ -53671,6 +53861,7 @@ Nicaragua,2020-10-25,,,No
 Nicaragua,2020-10-26,,,No
 Nicaragua,2020-10-27,,,No
 Nicaragua,2020-10-28,,,No
+Nicaragua,2020-10-29,,,No
 Niger,2020-01-22,,,No
 Niger,2020-01-23,,,No
 Niger,2020-01-24,,,No
@@ -53952,6 +54143,7 @@ Niger,2020-10-25,35103,worldometers,No
 Niger,2020-10-26,35257,worldometers,No
 Niger,2020-10-27,35895,,Yes
 Niger,2020-10-28,36531,worldometers,No
+Niger,2020-10-29,36756,worldometers,No
 Nigeria,2020-01-22,,,No
 Nigeria,2020-01-23,,,No
 Nigeria,2020-01-24,,,No
@@ -54233,6 +54425,7 @@ Nigeria,2020-10-25,607853,,Yes
 Nigeria,2020-10-26,612154,owid/roser,No
 Nigeria,2020-10-27,614480,owid/roser,No
 Nigeria,2020-10-28,617750,owid/roser,No
+Nigeria,2020-10-29,617900,,Yes
 North Macedonia,2020-01-22,,,No
 North Macedonia,2020-01-23,,,No
 North Macedonia,2020-01-24,,,No
@@ -54514,6 +54707,7 @@ North Macedonia,2020-10-25,233137,worldometers,No
 North Macedonia,2020-10-26,235038,worldometers,No
 North Macedonia,2020-10-27,235775,worldometers,No
 North Macedonia,2020-10-28,238011,worldometers,No
+North Macedonia,2020-10-29,240658,worldometers,No
 Norway,2020-01-22,,,No
 Norway,2020-01-23,,,No
 Norway,2020-01-24,,,No
@@ -54795,6 +54989,7 @@ Norway,2020-10-25,1581682,,Yes
 Norway,2020-10-26,1592076,wiki,No
 Norway,2020-10-27,1592400,,Yes
 Norway,2020-10-28,1592803,,Yes
+Norway,2020-10-29,1593298,,Yes
 Oman,2020-01-22,,,No
 Oman,2020-01-23,,,No
 Oman,2020-01-24,,,No
@@ -55076,6 +55271,7 @@ Oman,2020-10-25,393725,,Yes
 Oman,2020-10-26,394147,,Yes
 Oman,2020-10-27,394613,,Yes
 Oman,2020-10-28,395227,,Yes
+Oman,2020-10-29,395227,,Yes
 Pakistan,2020-01-22,,,No
 Pakistan,2020-01-23,,,No
 Pakistan,2020-01-24,,,No
@@ -55357,6 +55553,7 @@ Pakistan,2020-10-25,4264053,owid/roser,No
 Pakistan,2020-10-26,4290545,owid/roser,No
 Pakistan,2020-10-27,4317678,owid/roser,No
 Pakistan,2020-10-28,4347155,owid/roser,No
+Pakistan,2020-10-29,4376604,worldometers,No
 Panama,2020-01-22,,,No
 Panama,2020-01-23,,,No
 Panama,2020-01-24,,,No
@@ -55638,6 +55835,7 @@ Panama,2020-10-25,624225,owid/roser,No
 Panama,2020-10-26,627880,owid/roser,No
 Panama,2020-10-27,631430,worldometers,No
 Panama,2020-10-28,638429,worldometers,No
+Panama,2020-10-29,646325,worldometers,No
 Papua New Guinea,2020-01-22,,,No
 Papua New Guinea,2020-01-23,,,No
 Papua New Guinea,2020-01-24,,,No
@@ -55919,6 +56117,7 @@ Papua New Guinea,2020-10-25,29002,,Yes
 Papua New Guinea,2020-10-26,29007,,Yes
 Papua New Guinea,2020-10-27,29007,,Yes
 Papua New Guinea,2020-10-28,29007,,Yes
+Papua New Guinea,2020-10-29,29008,,Yes
 Paraguay,2020-01-22,,,No
 Paraguay,2020-01-23,,,No
 Paraguay,2020-01-24,,,No
@@ -56198,8 +56397,9 @@ Paraguay,2020-10-23,342331,owid/roser,No
 Paraguay,2020-10-24,345336,owid/roser,No
 Paraguay,2020-10-25,347863,owid/roser,No
 Paraguay,2020-10-26,350289,owid/roser,No
-Paraguay,2020-10-27,351356,,Yes
-Paraguay,2020-10-28,352711,worldometers,No
+Paraguay,2020-10-27,352711,wiki,No
+Paraguay,2020-10-28,354117,,Yes
+Paraguay,2020-10-29,355553,worldometers,No
 Peru,2020-01-22,,,No
 Peru,2020-01-23,,,No
 Peru,2020-01-24,,,No
@@ -56481,6 +56681,7 @@ Peru,2020-10-25,4381985,,Yes
 Peru,2020-10-26,4390402,worldometers,No
 Peru,2020-10-27,4407293,worldometers,No
 Peru,2020-10-28,4449985,wiki,No
+Peru,2020-10-29,4452416,,Yes
 Philippines,2020-01-22,,,No
 Philippines,2020-01-23,,,No
 Philippines,2020-01-24,,,No
@@ -56762,6 +56963,7 @@ Philippines,2020-10-25,4358459,owid/roser,No
 Philippines,2020-10-26,4381908,owid/roser,No
 Philippines,2020-10-27,4687646,wiki,No
 Philippines,2020-10-28,4689682,,Yes
+Philippines,2020-10-29,4691437,,Yes
 Poland,2020-01-22,,,No
 Poland,2020-01-23,,,No
 Poland,2020-01-24,,,No
@@ -57043,6 +57245,7 @@ Poland,2020-10-25,4330602,owid/roser,No
 Poland,2020-10-26,4381009,worldometers,No
 Poland,2020-10-27,4412714,,Yes
 Poland,2020-10-28,4447071,worldometers,No
+Poland,2020-10-29,4575570,worldometers,No
 Portugal,2020-01-22,,,No
 Portugal,2020-01-23,,,No
 Portugal,2020-01-24,,,No
@@ -57322,8 +57525,9 @@ Portugal,2020-10-23,3189976,owid/roser,No
 Portugal,2020-10-24,3215024,owid/roser,No
 Portugal,2020-10-25,3231946,owid/roser,No
 Portugal,2020-10-26,3258604,owid/roser,No
-Portugal,2020-10-27,3261903,,Yes
-Portugal,2020-10-28,3265863,,Yes
+Portugal,2020-10-27,3268620,,Yes
+Portugal,2020-10-28,3279314,,Yes
+Portugal,2020-10-29,3290290,worldometers,No
 Qatar,2020-01-22,,,No
 Qatar,2020-01-23,,,No
 Qatar,2020-01-24,,,No
@@ -57605,6 +57809,7 @@ Qatar,2020-10-25,934283,wiki,No
 Qatar,2020-10-26,944018,owid/roser,No
 Qatar,2020-10-27,950031,owid/roser,No
 Qatar,2020-10-28,960075,owid/roser,No
+Qatar,2020-10-29,960286,,Yes
 Romania,2020-01-22,,,No
 Romania,2020-01-23,,,No
 Romania,2020-01-24,,,No
@@ -57885,7 +58090,8 @@ Romania,2020-10-24,3036643,worldometers,No
 Romania,2020-10-25,3055989,owid/roser,No
 Romania,2020-10-26,3064698,owid/roser,No
 Romania,2020-10-27,3096526,owid/roser,No
-Romania,2020-10-28,3101869,,Yes
+Romania,2020-10-28,3132618,,Yes
+Romania,2020-10-29,3169978,worldometers,No
 Russia,2020-01-22,,,No
 Russia,2020-01-23,,,No
 Russia,2020-01-24,,,No
@@ -58166,7 +58372,8 @@ Russia,2020-10-24,57344952,owid/roser,No
 Russia,2020-10-25,57821260,owid/roser,No
 Russia,2020-10-26,58223852,owid/roser,No
 Russia,2020-10-27,58730811,owid/roser,No
-Russia,2020-10-28,58746697,,Yes
+Russia,2020-10-28,59006621,,Yes
+Russia,2020-10-29,59284119,worldometers,No
 Rwanda,2020-01-22,,,No
 Rwanda,2020-01-23,,,No
 Rwanda,2020-01-24,,,No
@@ -58448,6 +58655,7 @@ Rwanda,2020-10-25,547202,lau,No
 Rwanda,2020-10-26,548938,lau,No
 Rwanda,2020-10-27,550532,lau,No
 Rwanda,2020-10-28,552151,lau,No
+Rwanda,2020-10-29,553876,lau,No
 Saint Kitts and Nevis,2020-01-22,,,No
 Saint Kitts and Nevis,2020-01-23,,,No
 Saint Kitts and Nevis,2020-01-24,,,No
@@ -58729,6 +58937,7 @@ Saint Kitts and Nevis,2020-10-25,2933,,Yes
 Saint Kitts and Nevis,2020-10-26,2933,,Yes
 Saint Kitts and Nevis,2020-10-27,2933,,Yes
 Saint Kitts and Nevis,2020-10-28,2933,,Yes
+Saint Kitts and Nevis,2020-10-29,2933,,Yes
 Saint Lucia,2020-01-22,,,No
 Saint Lucia,2020-01-23,,,No
 Saint Lucia,2020-01-24,,,No
@@ -59008,8 +59217,9 @@ Saint Lucia,2020-10-23,9597,worldometers,No
 Saint Lucia,2020-10-24,9621,worldometers,No
 Saint Lucia,2020-10-25,9852,worldometers,No
 Saint Lucia,2020-10-26,10441,wiki,No
-Saint Lucia,2020-10-27,10443,,Yes
-Saint Lucia,2020-10-28,10445,,Yes
+Saint Lucia,2020-10-27,10497,,Yes
+Saint Lucia,2020-10-28,10553,,Yes
+Saint Lucia,2020-10-29,10617,worldometers,No
 Saint Vincent and the Grenadines,2020-01-22,,,No
 Saint Vincent and the Grenadines,2020-01-23,,,No
 Saint Vincent and the Grenadines,2020-01-24,,,No
@@ -59291,6 +59501,7 @@ Saint Vincent and the Grenadines,2020-10-25,6437,worldometers,No
 Saint Vincent and the Grenadines,2020-10-26,6615,worldometers,No
 Saint Vincent and the Grenadines,2020-10-27,6703,,Yes
 Saint Vincent and the Grenadines,2020-10-28,6790,worldometers,No
+Saint Vincent and the Grenadines,2020-10-29,6790,,Yes
 San Marino,2020-01-22,,,No
 San Marino,2020-01-23,,,No
 San Marino,2020-01-24,,,No
@@ -59572,6 +59783,7 @@ San Marino,2020-10-25,31235,,Yes
 San Marino,2020-10-26,31268,,Yes
 San Marino,2020-10-27,31268,,Yes
 San Marino,2020-10-28,31268,,Yes
+San Marino,2020-10-29,31344,,Yes
 Sao Tome and Principe,2020-01-22,,,No
 Sao Tome and Principe,2020-01-23,,,No
 Sao Tome and Principe,2020-01-24,,,No
@@ -59853,6 +60065,7 @@ Sao Tome and Principe,2020-10-25,6022,worldometers,No
 Sao Tome and Principe,2020-10-26,6047,worldometers,No
 Sao Tome and Principe,2020-10-27,6069,,Yes
 Sao Tome and Principe,2020-10-28,6094,worldometers,No
+Sao Tome and Principe,2020-10-29,6116,worldometers,No
 Saudi Arabia,2020-01-22,,,No
 Saudi Arabia,2020-01-23,,,No
 Saudi Arabia,2020-01-24,,,No
@@ -60132,8 +60345,9 @@ Saudi Arabia,2020-10-23,7670348,owid/roser,No
 Saudi Arabia,2020-10-24,7720362,owid/roser,No
 Saudi Arabia,2020-10-25,7772683,owid/roser,No
 Saudi Arabia,2020-10-26,7830553,owid/roser,No
-Saudi Arabia,2020-10-27,7830952,,Yes
-Saudi Arabia,2020-10-28,7831368,,Yes
+Saudi Arabia,2020-10-27,7850053,,Yes
+Saudi Arabia,2020-10-28,7869573,,Yes
+Saudi Arabia,2020-10-29,7889114,worldometers,No
 Senegal,2020-01-22,,,No
 Senegal,2020-01-23,,,No
 Senegal,2020-01-24,,,No
@@ -60415,6 +60629,7 @@ Senegal,2020-10-25,211519,owid/roser,No
 Senegal,2020-10-26,212095,owid/roser,No
 Senegal,2020-10-27,212548,owid/roser,No
 Senegal,2020-10-28,213269,owid/roser,No
+Senegal,2020-10-29,213280,,Yes
 Serbia,2020-01-22,,,No
 Serbia,2020-01-23,,,No
 Serbia,2020-01-24,,,No
@@ -60695,7 +60910,8 @@ Serbia,2020-10-24,1278277,owid/roser,No
 Serbia,2020-10-25,1283016,owid/roser,No
 Serbia,2020-10-26,1289519,owid/roser,No
 Serbia,2020-10-27,1298949,owid/roser,No
-Serbia,2020-10-28,1300277,,Yes
+Serbia,2020-10-28,1308639,wiki,No
+Serbia,2020-10-29,1310023,,Yes
 Seychelles,2020-01-22,,,No
 Seychelles,2020-01-23,,,No
 Seychelles,2020-01-24,,,No
@@ -60977,6 +61193,7 @@ Seychelles,2020-10-25,5217,,Yes
 Seychelles,2020-10-26,5217,,Yes
 Seychelles,2020-10-27,5217,,Yes
 Seychelles,2020-10-28,5217,,Yes
+Seychelles,2020-10-29,5217,,Yes
 Sierra Leone,2020-01-22,,,No
 Sierra Leone,2020-01-23,,,No
 Sierra Leone,2020-01-24,,,No
@@ -61258,6 +61475,7 @@ Sierra Leone,2020-10-25,2346,,Yes
 Sierra Leone,2020-10-26,2346,,Yes
 Sierra Leone,2020-10-27,2350,,Yes
 Sierra Leone,2020-10-28,2354,,Yes
+Sierra Leone,2020-10-29,2362,,Yes
 Singapore,2020-01-22,,,No
 Singapore,2020-01-23,,,No
 Singapore,2020-01-24,,,No
@@ -61539,6 +61757,7 @@ Singapore,2020-10-25,3652328,,Yes
 Singapore,2020-10-26,3680000,owid/roser,No
 Singapore,2020-10-27,3680007,,Yes
 Singapore,2020-10-28,3680014,,Yes
+Singapore,2020-10-29,3680021,,Yes
 Slovakia,2020-01-22,,,No
 Slovakia,2020-01-23,,,No
 Slovakia,2020-01-24,,,No
@@ -61819,7 +62038,8 @@ Slovakia,2020-10-24,694117,owid/roser,No
 Slovakia,2020-10-25,700292,owid/roser,No
 Slovakia,2020-10-26,706191,owid/roser,No
 Slovakia,2020-10-27,720833,owid/roser,No
-Slovakia,2020-10-28,723720,,Yes
+Slovakia,2020-10-28,728044,,Yes
+Slovakia,2020-10-29,735188,worldometers,No
 Slovenia,2020-01-22,,,No
 Slovenia,2020-01-23,,,No
 Slovenia,2020-01-24,,,No
@@ -62099,8 +62319,9 @@ Slovenia,2020-10-23,319645,owid/roser,No
 Slovenia,2020-10-24,325421,owid/roser,No
 Slovenia,2020-10-25,329103,owid/roser,No
 Slovenia,2020-10-26,334859,owid/roser,No
-Slovenia,2020-10-27,336382,,Yes
-Slovenia,2020-10-28,338994,,Yes
+Slovenia,2020-10-27,339473,,Yes
+Slovenia,2020-10-28,345225,,Yes
+Slovenia,2020-10-29,350900,worldometers,No
 Solomon Islands,2020-01-22,,,No
 Solomon Islands,2020-01-23,,,No
 Solomon Islands,2020-01-24,,,No
@@ -62368,20 +62589,21 @@ Solomon Islands,2020-10-11,92,worldometers,No
 Solomon Islands,2020-10-12,95,,Yes
 Solomon Islands,2020-10-13,96,worldometers,No
 Solomon Islands,2020-10-14,96,,Yes
-Solomon Islands,2020-10-15,97,,Yes
-Solomon Islands,2020-10-16,97,,Yes
-Solomon Islands,2020-10-17,97,,Yes
-Solomon Islands,2020-10-18,97,,Yes
-Solomon Islands,2020-10-19,97,,Yes
-Solomon Islands,2020-10-20,97,,Yes
-Solomon Islands,2020-10-21,97,,Yes
-Solomon Islands,2020-10-22,98,,Yes
-Solomon Islands,2020-10-23,98,,Yes
-Solomon Islands,2020-10-24,98,,Yes
-Solomon Islands,2020-10-25,98,,Yes
-Solomon Islands,2020-10-26,98,,Yes
-Solomon Islands,2020-10-27,102,,Yes
-Solomon Islands,2020-10-28,102,,Yes
+Solomon Islands,2020-10-15,98,,Yes
+Solomon Islands,2020-10-16,99,,Yes
+Solomon Islands,2020-10-17,100,,Yes
+Solomon Islands,2020-10-18,100,,Yes
+Solomon Islands,2020-10-19,101,,Yes
+Solomon Islands,2020-10-20,102,,Yes
+Solomon Islands,2020-10-21,103,,Yes
+Solomon Islands,2020-10-22,105,,Yes
+Solomon Islands,2020-10-23,105,,Yes
+Solomon Islands,2020-10-24,106,,Yes
+Solomon Islands,2020-10-25,107,,Yes
+Solomon Islands,2020-10-26,108,,Yes
+Solomon Islands,2020-10-27,113,,Yes
+Solomon Islands,2020-10-28,114,,Yes
+Solomon Islands,2020-10-29,115,worldometers,No
 Somalia,2020-01-22,,,No
 Somalia,2020-01-23,,,No
 Somalia,2020-01-24,,,No
@@ -62663,6 +62885,7 @@ Somalia,2020-10-25,,,No
 Somalia,2020-10-26,,,No
 Somalia,2020-10-27,,,No
 Somalia,2020-10-28,,,No
+Somalia,2020-10-29,,,No
 South Africa,2020-01-22,,,No
 South Africa,2020-01-23,,,No
 South Africa,2020-01-24,,,No
@@ -62943,7 +63166,8 @@ South Africa,2020-10-24,4677942,owid/roser,No
 South Africa,2020-10-25,4697939,owid/roser,No
 South Africa,2020-10-26,4709403,owid/roser,No
 South Africa,2020-10-27,4726875,owid/roser,No
-South Africa,2020-10-28,4728738,,Yes
+South Africa,2020-10-28,4739634,,Yes
+South Africa,2020-10-29,4752596,worldometers,No
 South Korea,2020-01-22,16,owid/roser,No
 South Korea,2020-01-23,19,,Yes
 South Korea,2020-01-24,25,owid/roser,No
@@ -63225,6 +63449,7 @@ South Korea,2020-10-25,2524464,owid/roser,No
 South Korea,2020-10-26,2531501,owid/roser,No
 South Korea,2020-10-27,2544584,owid/roser,No
 South Korea,2020-10-28,2560056,owid/roser,No
+South Korea,2020-10-29,2597978,worldometers,No
 South Sudan,2020-01-22,,,No
 South Sudan,2020-01-23,,,No
 South Sudan,2020-01-24,,,No
@@ -63506,6 +63731,7 @@ South Sudan,2020-10-25,12774,,Yes
 South Sudan,2020-10-26,12774,,Yes
 South Sudan,2020-10-27,12781,,Yes
 South Sudan,2020-10-28,12781,,Yes
+South Sudan,2020-10-29,12794,,Yes
 Spain,2020-01-22,,,No
 Spain,2020-01-23,,,No
 Spain,2020-01-24,,,No
@@ -63787,6 +64013,7 @@ Spain,2020-10-25,12891044,,Yes
 Spain,2020-10-26,12943232,,Yes
 Spain,2020-10-27,12961650,,Yes
 Spain,2020-10-28,12981415,,Yes
+Spain,2020-10-29,13004995,,Yes
 Sri Lanka,2020-01-22,,,No
 Sri Lanka,2020-01-23,,,No
 Sri Lanka,2020-01-24,,,No
@@ -64068,6 +64295,7 @@ Sri Lanka,2020-10-25,450836,owid/roser,No
 Sri Lanka,2020-10-26,460455,owid/roser,No
 Sri Lanka,2020-10-27,469286,owid/roser,No
 Sri Lanka,2020-10-28,469621,,Yes
+Sri Lanka,2020-10-29,470207,,Yes
 Sudan,2020-01-22,,,No
 Sudan,2020-01-23,,,No
 Sudan,2020-01-24,,,No
@@ -64349,6 +64577,7 @@ Sudan,2020-10-25,39400,,Yes
 Sudan,2020-10-26,39405,,Yes
 Sudan,2020-10-27,39405,,Yes
 Sudan,2020-10-28,39423,,Yes
+Sudan,2020-10-29,39430,,Yes
 Suriname,2020-01-22,,,No
 Suriname,2020-01-23,,,No
 Suriname,2020-01-24,,,No
@@ -64630,6 +64859,7 @@ Suriname,2020-10-25,18094,worldometers,No
 Suriname,2020-10-26,18133,worldometers,No
 Suriname,2020-10-27,18274,worldometers,No
 Suriname,2020-10-28,18439,worldometers,No
+Suriname,2020-10-29,18586,worldometers,No
 Sweden,2020-01-22,,,No
 Sweden,2020-01-23,,,No
 Sweden,2020-01-24,,,No
@@ -64911,6 +65141,7 @@ Sweden,2020-10-25,2074744,,Yes
 Sweden,2020-10-26,2074744,,Yes
 Sweden,2020-10-27,2079935,,Yes
 Sweden,2020-10-28,2082063,,Yes
+Sweden,2020-10-29,2085317,,Yes
 Switzerland,2020-01-22,,,No
 Switzerland,2020-01-23,,,No
 Switzerland,2020-01-24,3,owid/roser,No
@@ -65189,9 +65420,10 @@ Switzerland,2020-10-22,1746395,owid/roser,No
 Switzerland,2020-10-23,1778830,owid/roser,No
 Switzerland,2020-10-24,1801450,owid/roser,No
 Switzerland,2020-10-25,1814261,owid/roser,No
-Switzerland,2020-10-26,1831701,,Yes
-Switzerland,2020-10-27,1837650,,Yes
-Switzerland,2020-10-28,1846266,,Yes
+Switzerland,2020-10-26,1841454,,Yes
+Switzerland,2020-10-27,1857219,,Yes
+Switzerland,2020-10-28,1875758,,Yes
+Switzerland,2020-10-29,1895175,worldometers,No
 Syria,2020-01-22,,,No
 Syria,2020-01-23,,,No
 Syria,2020-01-24,,,No
@@ -65473,6 +65705,7 @@ Syria,2020-10-25,,,No
 Syria,2020-10-26,,,No
 Syria,2020-10-27,,,No
 Syria,2020-10-28,,,No
+Syria,2020-10-29,,,No
 Taiwan,2020-01-22,64,owid/roser,No
 Taiwan,2020-01-23,134,owid/roser,No
 Taiwan,2020-01-24,191,owid/roser,No
@@ -65754,6 +65987,7 @@ Taiwan,2020-10-25,100520,owid/roser,No
 Taiwan,2020-10-26,100813,owid/roser,No
 Taiwan,2020-10-27,101021,owid/roser,No
 Taiwan,2020-10-28,101021,worldometers,No
+Taiwan,2020-10-29,101218,worldometers,No
 Tajikistan,2020-01-22,,,No
 Tajikistan,2020-01-23,,,No
 Tajikistan,2020-01-24,,,No
@@ -66035,6 +66269,7 @@ Tajikistan,2020-10-25,,,No
 Tajikistan,2020-10-26,,,No
 Tajikistan,2020-10-27,,,No
 Tajikistan,2020-10-28,,,No
+Tajikistan,2020-10-29,,,No
 Tanzania,2020-01-22,,,No
 Tanzania,2020-01-23,,,No
 Tanzania,2020-01-24,,,No
@@ -66316,6 +66551,7 @@ Tanzania,2020-10-25,2680,,Yes
 Tanzania,2020-10-26,2680,,Yes
 Tanzania,2020-10-27,2680,,Yes
 Tanzania,2020-10-28,2680,,Yes
+Tanzania,2020-10-29,2680,,Yes
 Thailand,2020-01-22,194,owid/roser,No
 Thailand,2020-01-23,218,owid/roser,No
 Thailand,2020-01-24,237,owid/roser,No
@@ -66597,6 +66833,7 @@ Thailand,2020-10-25,1090482,,Yes
 Thailand,2020-10-26,1090492,,Yes
 Thailand,2020-10-27,1090505,,Yes
 Thailand,2020-10-28,1090509,,Yes
+Thailand,2020-10-29,1090521,,Yes
 Timor-Leste,2020-01-22,,,No
 Timor-Leste,2020-01-23,,,No
 Timor-Leste,2020-01-24,,,No
@@ -66878,6 +67115,7 @@ Timor-Leste,2020-10-25,10337,,Yes
 Timor-Leste,2020-10-26,10547,worldometers,No
 Timor-Leste,2020-10-27,10635,worldometers,No
 Timor-Leste,2020-10-28,10890,worldometers,No
+Timor-Leste,2020-10-29,10890,,Yes
 Togo,2020-01-22,,,No
 Togo,2020-01-23,,,No
 Togo,2020-01-24,,,No
@@ -67157,8 +67395,9 @@ Togo,2020-10-23,112708,owid/roser,No
 Togo,2020-10-24,113827,owid/roser,No
 Togo,2020-10-25,114462,owid/roser,No
 Togo,2020-10-26,114702,,Yes
-Togo,2020-10-27,114964,wiki,No
-Togo,2020-10-28,114973,,Yes
+Togo,2020-10-27,114964,lau,No
+Togo,2020-10-28,115836,lau,No
+Togo,2020-10-29,117117,lau,No
 Trinidad and Tobago,2020-01-22,,,No
 Trinidad and Tobago,2020-01-23,,,No
 Trinidad and Tobago,2020-01-24,,,No
@@ -67440,6 +67679,7 @@ Trinidad and Tobago,2020-10-25,33561,,Yes
 Trinidad and Tobago,2020-10-26,33585,,Yes
 Trinidad and Tobago,2020-10-27,33618,,Yes
 Trinidad and Tobago,2020-10-28,33644,,Yes
+Trinidad and Tobago,2020-10-29,33686,,Yes
 Tunisia,2020-01-22,,,No
 Tunisia,2020-01-23,,,No
 Tunisia,2020-01-24,,,No
@@ -67719,8 +67959,9 @@ Tunisia,2020-10-23,321221,,Yes
 Tunisia,2020-10-24,324126,,Yes
 Tunisia,2020-10-25,325439,,Yes
 Tunisia,2020-10-26,330412,worldometers,No
-Tunisia,2020-10-27,330412,,Yes
-Tunisia,2020-10-28,332291,,Yes
+Tunisia,2020-10-27,331767,,Yes
+Tunisia,2020-10-28,335017,,Yes
+Tunisia,2020-10-29,336380,worldometers,No
 Turkey,2020-01-22,,,No
 Turkey,2020-01-23,,,No
 Turkey,2020-01-24,,,No
@@ -68001,7 +68242,8 @@ Turkey,2020-10-24,13105673,owid/roser,No
 Turkey,2020-10-25,13217888,owid/roser,No
 Turkey,2020-10-26,13350801,owid/roser,No
 Turkey,2020-10-27,13478452,owid/roser,No
-Turkey,2020-10-28,13480757,,Yes
+Turkey,2020-10-28,13542590,,Yes
+Turkey,2020-10-29,13606764,worldometers,No
 US – Alabama,2020-01-22,,,No
 US – Alabama,2020-01-23,,,No
 US – Alabama,2020-01-24,,,No
@@ -68283,6 +68525,7 @@ US – Alabama,2020-10-25,1329140,covidtracking.com,No
 US – Alabama,2020-10-26,1334315,covidtracking.com,No
 US – Alabama,2020-10-27,1339885,covidtracking.com,No
 US – Alabama,2020-10-28,1347632,covidtracking.com,No
+US – Alabama,2020-10-29,1355047,covidtracking.com,No
 US – Alaska,2020-01-22,,,No
 US – Alaska,2020-01-23,,,No
 US – Alaska,2020-01-24,,,No
@@ -68564,6 +68807,7 @@ US – Alaska,2020-10-25,559969,covidtracking.com,No
 US – Alaska,2020-10-26,570844,covidtracking.com,No
 US – Alaska,2020-10-27,577429,covidtracking.com,No
 US – Alaska,2020-10-28,580599,covidtracking.com,No
+US – Alaska,2020-10-29,584268,covidtracking.com,No
 US – American Samoa,2020-01-22,,,No
 US – American Samoa,2020-01-23,,,No
 US – American Samoa,2020-01-24,,,No
@@ -68845,6 +69089,7 @@ US – American Samoa,2020-10-25,1616,covidtracking.com,No
 US – American Samoa,2020-10-26,1616,covidtracking.com,No
 US – American Samoa,2020-10-27,1616,covidtracking.com,No
 US – American Samoa,2020-10-28,1616,covidtracking.com,No
+US – American Samoa,2020-10-29,1616,covidtracking.com,No
 US – Arizona,2020-01-22,,,No
 US – Arizona,2020-01-23,,,No
 US – Arizona,2020-01-24,,,No
@@ -69126,6 +69371,7 @@ US – Arizona,2020-10-25,1711869,covidtracking.com,No
 US – Arizona,2020-10-26,1720285,covidtracking.com,No
 US – Arizona,2020-10-27,1730162,covidtracking.com,No
 US – Arizona,2020-10-28,1736979,covidtracking.com,No
+US – Arizona,2020-10-29,1751307,covidtracking.com,No
 US – Arkansas,2020-01-22,,,No
 US – Arkansas,2020-01-23,,,No
 US – Arkansas,2020-01-24,,,No
@@ -69407,6 +69653,7 @@ US – Arkansas,2020-10-25,1295235,covidtracking.com,No
 US – Arkansas,2020-10-26,1302162,covidtracking.com,No
 US – Arkansas,2020-10-27,1310854,covidtracking.com,No
 US – Arkansas,2020-10-28,1320831,covidtracking.com,No
+US – Arkansas,2020-10-29,1333414,covidtracking.com,No
 US – California,2020-01-22,,,No
 US – California,2020-01-23,,,No
 US – California,2020-01-24,,,No
@@ -69688,6 +69935,7 @@ US – California,2020-10-25,17787885,covidtracking.com,No
 US – California,2020-10-26,17982829,covidtracking.com,No
 US – California,2020-10-27,18127049,covidtracking.com,No
 US – California,2020-10-28,18223596,covidtracking.com,No
+US – California,2020-10-29,18323771,covidtracking.com,No
 US – Colorado,2020-01-22,,,No
 US – Colorado,2020-01-23,,,No
 US – Colorado,2020-01-24,,,No
@@ -69969,6 +70217,7 @@ US – Colorado,2020-10-25,1144155,covidtracking.com,No
 US – Colorado,2020-10-26,1156234,covidtracking.com,No
 US – Colorado,2020-10-27,1175350,covidtracking.com,No
 US – Colorado,2020-10-28,1183754,covidtracking.com,No
+US – Colorado,2020-10-29,1191858,covidtracking.com,No
 US – Connecticut,2020-01-22,,,No
 US – Connecticut,2020-01-23,,,No
 US – Connecticut,2020-01-24,,,No
@@ -70250,6 +70499,7 @@ US – Connecticut,2020-10-25,2115744,covidtracking.com,No
 US – Connecticut,2020-10-26,2207937,covidtracking.com,No
 US – Connecticut,2020-10-27,2221034,covidtracking.com,No
 US – Connecticut,2020-10-28,2235373,covidtracking.com,No
+US – Connecticut,2020-10-29,2257892,covidtracking.com,No
 US – Delaware,2020-01-22,,,No
 US – Delaware,2020-01-23,,,No
 US – Delaware,2020-01-24,,,No
@@ -70531,6 +70781,7 @@ US – Delaware,2020-10-25,339341,covidtracking.com,No
 US – Delaware,2020-10-26,342071,covidtracking.com,No
 US – Delaware,2020-10-27,343141,covidtracking.com,No
 US – Delaware,2020-10-28,344939,covidtracking.com,No
+US – Delaware,2020-10-29,346423,covidtracking.com,No
 US – District of Columbia,2020-01-22,,,No
 US – District of Columbia,2020-01-23,,,No
 US – District of Columbia,2020-01-24,,,No
@@ -70812,6 +71063,7 @@ US – District of Columbia,2020-10-25,496232,covidtracking.com,No
 US – District of Columbia,2020-10-26,498190,covidtracking.com,No
 US – District of Columbia,2020-10-27,502538,covidtracking.com,No
 US – District of Columbia,2020-10-28,505407,covidtracking.com,No
+US – District of Columbia,2020-10-29,509864,covidtracking.com,No
 US – Florida,2020-01-22,,,No
 US – Florida,2020-01-23,,,No
 US – Florida,2020-01-24,,,No
@@ -71093,6 +71345,7 @@ US – Florida,2020-10-25,5942740,covidtracking.com,No
 US – Florida,2020-10-26,5974725,covidtracking.com,No
 US – Florida,2020-10-27,5991638,covidtracking.com,No
 US – Florida,2020-10-28,6030177,covidtracking.com,No
+US – Florida,2020-10-29,6068498,covidtracking.com,No
 US – Georgia,2020-01-22,,,No
 US – Georgia,2020-01-23,,,No
 US – Georgia,2020-01-24,,,No
@@ -71374,6 +71627,7 @@ US – Georgia,2020-10-25,3445032,covidtracking.com,No
 US – Georgia,2020-10-26,3461388,covidtracking.com,No
 US – Georgia,2020-10-27,3474891,covidtracking.com,No
 US – Georgia,2020-10-28,3495407,covidtracking.com,No
+US – Georgia,2020-10-29,3516162,covidtracking.com,No
 US – Guam,2020-01-22,,,No
 US – Guam,2020-01-23,,,No
 US – Guam,2020-01-24,,,No
@@ -71655,6 +71909,7 @@ US – Guam,2020-10-25,63494,covidtracking.com,No
 US – Guam,2020-10-26,64454,covidtracking.com,No
 US – Guam,2020-10-27,65045,covidtracking.com,No
 US – Guam,2020-10-28,65664,covidtracking.com,No
+US – Guam,2020-10-29,66385,covidtracking.com,No
 US – Hawaii,2020-01-22,,,No
 US – Hawaii,2020-01-23,,,No
 US – Hawaii,2020-01-24,,,No
@@ -71936,6 +72191,7 @@ US – Hawaii,2020-10-25,309991,,Yes
 US – Hawaii,2020-10-26,310030,covidtracking.com,No
 US – Hawaii,2020-10-27,310094,,Yes
 US – Hawaii,2020-10-28,310155,,Yes
+US – Hawaii,2020-10-29,310232,,Yes
 US – Idaho,2020-01-22,,,No
 US – Idaho,2020-01-23,,,No
 US – Idaho,2020-01-24,,,No
@@ -72217,6 +72473,7 @@ US – Idaho,2020-10-25,375527,covidtracking.com,No
 US – Idaho,2020-10-26,377823,covidtracking.com,No
 US – Idaho,2020-10-27,380532,covidtracking.com,No
 US – Idaho,2020-10-28,382784,covidtracking.com,No
+US – Idaho,2020-10-29,385806,covidtracking.com,No
 US – Illinois,2020-01-22,,,No
 US – Illinois,2020-01-23,,,No
 US – Illinois,2020-01-24,,,No
@@ -72498,6 +72755,7 @@ US – Illinois,2020-10-25,7273665,covidtracking.com,No
 US – Illinois,2020-10-26,7330929,covidtracking.com,No
 US – Illinois,2020-10-27,7393003,covidtracking.com,No
 US – Illinois,2020-10-28,7463755,covidtracking.com,No
+US – Illinois,2020-10-29,7546811,covidtracking.com,No
 US – Indiana,2020-01-22,,,No
 US – Indiana,2020-01-23,,,No
 US – Indiana,2020-01-24,,,No
@@ -72779,6 +73037,7 @@ US – Indiana,2020-10-25,1629468,covidtracking.com,No
 US – Indiana,2020-10-26,1638232,covidtracking.com,No
 US – Indiana,2020-10-27,1646542,covidtracking.com,No
 US – Indiana,2020-10-28,1657090,covidtracking.com,No
+US – Indiana,2020-10-29,1671093,covidtracking.com,No
 US – Iowa,2020-01-22,,,No
 US – Iowa,2020-01-23,,,No
 US – Iowa,2020-01-24,,,No
@@ -73060,6 +73319,7 @@ US – Iowa,2020-10-25,863361,covidtracking.com,No
 US – Iowa,2020-10-26,866323,covidtracking.com,No
 US – Iowa,2020-10-27,869020,covidtracking.com,No
 US – Iowa,2020-10-28,873362,covidtracking.com,No
+US – Iowa,2020-10-29,878864,covidtracking.com,No
 US – Kansas,2020-01-22,,,No
 US – Kansas,2020-01-23,,,No
 US – Kansas,2020-01-24,,,No
@@ -73341,6 +73601,7 @@ US – Kansas,2020-10-25,622134,,Yes
 US – Kansas,2020-10-26,625931,covidtracking.com,No
 US – Kansas,2020-10-27,629250,,Yes
 US – Kansas,2020-10-28,633033,covidtracking.com,No
+US – Kansas,2020-10-29,633921,,Yes
 US – Kentucky,2020-01-22,,,No
 US – Kentucky,2020-01-23,,,No
 US – Kentucky,2020-01-24,,,No
@@ -73622,6 +73883,7 @@ US – Kentucky,2020-10-25,1801393,covidtracking.com,No
 US – Kentucky,2020-10-26,1824845,covidtracking.com,No
 US – Kentucky,2020-10-27,1836688,covidtracking.com,No
 US – Kentucky,2020-10-28,1847286,covidtracking.com,No
+US – Kentucky,2020-10-29,1857453,covidtracking.com,No
 US – Louisiana,2020-01-22,,,No
 US – Louisiana,2020-01-23,,,No
 US – Louisiana,2020-01-24,,,No
@@ -73903,6 +74165,7 @@ US – Louisiana,2020-10-25,2697507,covidtracking.com,No
 US – Louisiana,2020-10-26,2702566,covidtracking.com,No
 US – Louisiana,2020-10-27,2723277,covidtracking.com,No
 US – Louisiana,2020-10-28,2738401,covidtracking.com,No
+US – Louisiana,2020-10-29,2751797,covidtracking.com,No
 US – Maine,2020-01-22,,,No
 US – Maine,2020-01-23,,,No
 US – Maine,2020-01-24,,,No
@@ -74184,6 +74447,7 @@ US – Maine,2020-10-25,574389,covidtracking.com,No
 US – Maine,2020-10-26,588653,covidtracking.com,No
 US – Maine,2020-10-27,595786,covidtracking.com,No
 US – Maine,2020-10-28,603303,covidtracking.com,No
+US – Maine,2020-10-29,611912,covidtracking.com,No
 US – Maryland,2020-01-22,,,No
 US – Maryland,2020-01-23,,,No
 US – Maryland,2020-01-24,,,No
@@ -74465,6 +74729,7 @@ US – Maryland,2020-10-25,1878929,covidtracking.com,No
 US – Maryland,2020-10-26,1888371,covidtracking.com,No
 US – Maryland,2020-10-27,1898094,covidtracking.com,No
 US – Maryland,2020-10-28,1905952,covidtracking.com,No
+US – Maryland,2020-10-29,1916848,covidtracking.com,No
 US – Massachusetts,2020-01-22,,,No
 US – Massachusetts,2020-01-23,,,No
 US – Massachusetts,2020-01-24,,,No
@@ -74746,6 +75011,7 @@ US – Massachusetts,2020-10-25,2635607,covidtracking.com,No
 US – Massachusetts,2020-10-26,2655689,covidtracking.com,No
 US – Massachusetts,2020-10-27,2669651,covidtracking.com,No
 US – Massachusetts,2020-10-28,2688340,covidtracking.com,No
+US – Massachusetts,2020-10-29,2706776,covidtracking.com,No
 US – Michigan,2020-01-22,,,No
 US – Michigan,2020-01-23,,,No
 US – Michigan,2020-01-24,,,No
@@ -75027,6 +75293,7 @@ US – Michigan,2020-10-25,4579991,covidtracking.com,No
 US – Michigan,2020-10-26,4652388,covidtracking.com,No
 US – Michigan,2020-10-27,4693470,covidtracking.com,No
 US – Michigan,2020-10-28,4748002,covidtracking.com,No
+US – Michigan,2020-10-29,4800717,covidtracking.com,No
 US – Minnesota,2020-01-22,,,No
 US – Minnesota,2020-01-23,,,No
 US – Minnesota,2020-01-24,,,No
@@ -75308,6 +75575,7 @@ US – Minnesota,2020-10-25,1770733,covidtracking.com,No
 US – Minnesota,2020-10-26,1784312,covidtracking.com,No
 US – Minnesota,2020-10-27,1792078,covidtracking.com,No
 US – Minnesota,2020-10-28,1801504,covidtracking.com,No
+US – Minnesota,2020-10-29,1820395,covidtracking.com,No
 US – Mississippi,2020-01-22,,,No
 US – Mississippi,2020-01-23,,,No
 US – Mississippi,2020-01-24,,,No
@@ -75589,6 +75857,7 @@ US – Mississippi,2020-10-25,844632,covidtracking.com,No
 US – Mississippi,2020-10-26,845307,covidtracking.com,No
 US – Mississippi,2020-10-27,846161,covidtracking.com,No
 US – Mississippi,2020-10-28,881604,covidtracking.com,No
+US – Mississippi,2020-10-29,922851,covidtracking.com,No
 US – Missouri,2020-01-22,,,No
 US – Missouri,2020-01-23,,,No
 US – Missouri,2020-01-24,,,No
@@ -75870,6 +76139,7 @@ US – Missouri,2020-10-25,1458840,covidtracking.com,No
 US – Missouri,2020-10-26,1465949,covidtracking.com,No
 US – Missouri,2020-10-27,1474405,covidtracking.com,No
 US – Missouri,2020-10-28,1481236,covidtracking.com,No
+US – Missouri,2020-10-29,1490617,covidtracking.com,No
 US – Montana,2020-01-22,,,No
 US – Montana,2020-01-23,,,No
 US – Montana,2020-01-24,,,No
@@ -76151,6 +76421,7 @@ US – Montana,2020-10-25,465607,covidtracking.com,No
 US – Montana,2020-10-26,476325,covidtracking.com,No
 US – Montana,2020-10-27,481322,covidtracking.com,No
 US – Montana,2020-10-28,484470,covidtracking.com,No
+US – Montana,2020-10-29,487607,covidtracking.com,No
 US – Nebraska,2020-01-22,,,No
 US – Nebraska,2020-01-23,,,No
 US – Nebraska,2020-01-24,,,No
@@ -76432,6 +76703,7 @@ US – Nebraska,2020-10-25,567426,covidtracking.com,No
 US – Nebraska,2020-10-26,569834,covidtracking.com,No
 US – Nebraska,2020-10-27,572760,covidtracking.com,No
 US – Nebraska,2020-10-28,577023,covidtracking.com,No
+US – Nebraska,2020-10-29,580729,covidtracking.com,No
 US – Nevada,2020-01-22,,,No
 US – Nevada,2020-01-23,,,No
 US – Nevada,2020-01-24,,,No
@@ -76713,6 +76985,7 @@ US – Nevada,2020-10-25,787869,covidtracking.com,No
 US – Nevada,2020-10-26,791321,covidtracking.com,No
 US – Nevada,2020-10-27,794921,covidtracking.com,No
 US – Nevada,2020-10-28,798250,covidtracking.com,No
+US – Nevada,2020-10-29,799323,,Yes
 US – New Hampshire,2020-01-22,,,No
 US – New Hampshire,2020-01-23,,,No
 US – New Hampshire,2020-01-24,,,No
@@ -76994,6 +77267,7 @@ US – New Hampshire,2020-10-25,331561,covidtracking.com,No
 US – New Hampshire,2020-10-26,333115,covidtracking.com,No
 US – New Hampshire,2020-10-27,334409,covidtracking.com,No
 US – New Hampshire,2020-10-28,336063,covidtracking.com,No
+US – New Hampshire,2020-10-29,338508,covidtracking.com,No
 US – New Jersey,2020-01-22,,,No
 US – New Jersey,2020-01-23,,,No
 US – New Jersey,2020-01-24,,,No
@@ -77275,6 +77549,7 @@ US – New Jersey,2020-10-25,4385882,covidtracking.com,No
 US – New Jersey,2020-10-26,4455234,covidtracking.com,No
 US – New Jersey,2020-10-27,4484813,covidtracking.com,No
 US – New Jersey,2020-10-28,4523611,covidtracking.com,No
+US – New Jersey,2020-10-29,4572531,covidtracking.com,No
 US – New Mexico,2020-01-22,,,No
 US – New Mexico,2020-01-23,,,No
 US – New Mexico,2020-01-24,,,No
@@ -77556,6 +77831,7 @@ US – New Mexico,2020-10-25,1109095,covidtracking.com,No
 US – New Mexico,2020-10-26,1118844,covidtracking.com,No
 US – New Mexico,2020-10-27,1124922,covidtracking.com,No
 US – New Mexico,2020-10-28,1129419,covidtracking.com,No
+US – New Mexico,2020-10-29,1141186,covidtracking.com,No
 US – New York,2020-01-22,,,No
 US – New York,2020-01-23,,,No
 US – New York,2020-01-24,,,No
@@ -77837,6 +78113,7 @@ US – New York,2020-10-25,13752123,covidtracking.com,No
 US – New York,2020-10-26,13834240,covidtracking.com,No
 US – New York,2020-10-27,13945858,covidtracking.com,No
 US – New York,2020-10-28,14075518,covidtracking.com,No
+US – New York,2020-10-29,14243871,covidtracking.com,No
 US – North Carolina,2020-01-22,,,No
 US – North Carolina,2020-01-23,,,No
 US – North Carolina,2020-01-24,,,No
@@ -78118,6 +78395,7 @@ US – North Carolina,2020-10-25,3844453,covidtracking.com,No
 US – North Carolina,2020-10-26,3872913,covidtracking.com,No
 US – North Carolina,2020-10-27,3890764,covidtracking.com,No
 US – North Carolina,2020-10-28,3923042,covidtracking.com,No
+US – North Carolina,2020-10-29,3961343,covidtracking.com,No
 US – North Dakota,2020-01-22,,,No
 US – North Dakota,2020-01-23,,,No
 US – North Dakota,2020-01-24,,,No
@@ -78399,6 +78677,7 @@ US – North Dakota,2020-10-25,283410,covidtracking.com,No
 US – North Dakota,2020-10-26,284478,covidtracking.com,No
 US – North Dakota,2020-10-27,286196,covidtracking.com,No
 US – North Dakota,2020-10-28,287524,covidtracking.com,No
+US – North Dakota,2020-10-29,289520,covidtracking.com,No
 US – Northern Mariana Islands,2020-01-22,,,No
 US – Northern Mariana Islands,2020-01-23,,,No
 US – Northern Mariana Islands,2020-01-24,,,No
@@ -78680,6 +78959,7 @@ US – Northern Mariana Islands,2020-10-25,15811,covidtracking.com,No
 US – Northern Mariana Islands,2020-10-26,15815,covidtracking.com,No
 US – Northern Mariana Islands,2020-10-27,16085,covidtracking.com,No
 US – Northern Mariana Islands,2020-10-28,16085,covidtracking.com,No
+US – Northern Mariana Islands,2020-10-29,16085,covidtracking.com,No
 US – Ohio,2020-01-22,,,No
 US – Ohio,2020-01-23,,,No
 US – Ohio,2020-01-24,,,No
@@ -78961,6 +79241,7 @@ US – Ohio,2020-10-25,4199457,covidtracking.com,No
 US – Ohio,2020-10-26,4235663,covidtracking.com,No
 US – Ohio,2020-10-27,4282604,covidtracking.com,No
 US – Ohio,2020-10-28,4314037,covidtracking.com,No
+US – Ohio,2020-10-29,4365090,covidtracking.com,No
 US – Oklahoma,2020-01-22,,,No
 US – Oklahoma,2020-01-23,,,No
 US – Oklahoma,2020-01-24,,,No
@@ -79242,6 +79523,7 @@ US – Oklahoma,2020-10-25,1533760,covidtracking.com,No
 US – Oklahoma,2020-10-26,1534423,covidtracking.com,No
 US – Oklahoma,2020-10-27,1564476,covidtracking.com,No
 US – Oklahoma,2020-10-28,1575866,covidtracking.com,No
+US – Oklahoma,2020-10-29,1586185,covidtracking.com,No
 US – Oregon,2020-01-22,,,No
 US – Oregon,2020-01-23,,,No
 US – Oregon,2020-01-24,,,No
@@ -79523,6 +79805,7 @@ US – Oregon,2020-10-25,825250,covidtracking.com,No
 US – Oregon,2020-10-26,830284,covidtracking.com,No
 US – Oregon,2020-10-27,836995,covidtracking.com,No
 US – Oregon,2020-10-28,841049,covidtracking.com,No
+US – Oregon,2020-10-29,848795,covidtracking.com,No
 US – Pennsylvania,2020-01-22,,,No
 US – Pennsylvania,2020-01-23,,,No
 US – Pennsylvania,2020-01-24,,,No
@@ -79804,6 +80087,7 @@ US – Pennsylvania,2020-10-25,2424265,covidtracking.com,No
 US – Pennsylvania,2020-10-26,2437125,covidtracking.com,No
 US – Pennsylvania,2020-10-27,2452969,covidtracking.com,No
 US – Pennsylvania,2020-10-28,2469920,covidtracking.com,No
+US – Pennsylvania,2020-10-29,2485704,covidtracking.com,No
 US – Puerto Rico,2020-01-22,,,No
 US – Puerto Rico,2020-01-23,,,No
 US – Puerto Rico,2020-01-24,,,No
@@ -80085,6 +80369,7 @@ US – Puerto Rico,2020-10-25,368475,covidtracking.com,No
 US – Puerto Rico,2020-10-26,369107,covidtracking.com,No
 US – Puerto Rico,2020-10-27,369469,covidtracking.com,No
 US – Puerto Rico,2020-10-28,369559,covidtracking.com,No
+US – Puerto Rico,2020-10-29,370770,covidtracking.com,No
 US – Rhode Island,2020-01-22,,,No
 US – Rhode Island,2020-01-23,,,No
 US – Rhode Island,2020-01-24,,,No
@@ -80366,6 +80651,7 @@ US – Rhode Island,2020-10-25,418420,covidtracking.com,No
 US – Rhode Island,2020-10-26,419892,covidtracking.com,No
 US – Rhode Island,2020-10-27,423469,covidtracking.com,No
 US – Rhode Island,2020-10-28,426355,covidtracking.com,No
+US – Rhode Island,2020-10-29,429340,covidtracking.com,No
 US – South Carolina,2020-01-22,,,No
 US – South Carolina,2020-01-23,,,No
 US – South Carolina,2020-01-24,,,No
@@ -80647,6 +80933,7 @@ US – South Carolina,2020-10-25,1706414,covidtracking.com,No
 US – South Carolina,2020-10-26,1733232,covidtracking.com,No
 US – South Carolina,2020-10-27,1745026,covidtracking.com,No
 US – South Carolina,2020-10-28,1753781,covidtracking.com,No
+US – South Carolina,2020-10-29,1773742,covidtracking.com,No
 US – South Dakota,2020-01-22,,,No
 US – South Dakota,2020-01-23,,,No
 US – South Dakota,2020-01-24,,,No
@@ -80928,6 +81215,7 @@ US – South Dakota,2020-10-25,245930,covidtracking.com,No
 US – South Dakota,2020-10-26,247094,covidtracking.com,No
 US – South Dakota,2020-10-27,249165,covidtracking.com,No
 US – South Dakota,2020-10-28,251296,covidtracking.com,No
+US – South Dakota,2020-10-29,253514,covidtracking.com,No
 US – Tennessee,2020-01-22,,,No
 US – Tennessee,2020-01-23,,,No
 US – Tennessee,2020-01-24,,,No
@@ -81209,6 +81497,7 @@ US – Tennessee,2020-10-25,3546736,covidtracking.com,No
 US – Tennessee,2020-10-26,3569435,covidtracking.com,No
 US – Tennessee,2020-10-27,3586241,covidtracking.com,No
 US – Tennessee,2020-10-28,3608613,covidtracking.com,No
+US – Tennessee,2020-10-29,3637643,covidtracking.com,No
 US – Texas,2020-01-22,,,No
 US – Texas,2020-01-23,,,No
 US – Texas,2020-01-24,,,No
@@ -81490,6 +81779,7 @@ US – Texas,2020-10-25,7762242,covidtracking.com,No
 US – Texas,2020-10-26,7809150,covidtracking.com,No
 US – Texas,2020-10-27,7883440,covidtracking.com,No
 US – Texas,2020-10-28,7933477,covidtracking.com,No
+US – Texas,2020-10-29,8005112,covidtracking.com,No
 US – Utah,2020-01-22,,,No
 US – Utah,2020-01-23,,,No
 US – Utah,2020-01-24,,,No
@@ -81771,6 +82061,7 @@ US – Utah,2020-10-25,1031511,covidtracking.com,No
 US – Utah,2020-10-26,1037256,covidtracking.com,No
 US – Utah,2020-10-27,1044695,covidtracking.com,No
 US – Utah,2020-10-28,1052059,covidtracking.com,No
+US – Utah,2020-10-29,1063291,covidtracking.com,No
 US – Vermont,2020-01-22,,,No
 US – Vermont,2020-01-23,,,No
 US – Vermont,2020-01-24,,,No
@@ -82052,6 +82343,7 @@ US – Vermont,2020-10-25,185607,covidtracking.com,No
 US – Vermont,2020-10-26,186058,covidtracking.com,No
 US – Vermont,2020-10-27,186291,covidtracking.com,No
 US – Vermont,2020-10-28,187037,covidtracking.com,No
+US – Vermont,2020-10-29,188102,covidtracking.com,No
 US – Virgin Islands,2020-01-22,,,No
 US – Virgin Islands,2020-01-23,,,No
 US – Virgin Islands,2020-01-24,,,No
@@ -82333,6 +82625,7 @@ US – Virgin Islands,2020-10-25,23435,covidtracking.com,No
 US – Virgin Islands,2020-10-26,23617,covidtracking.com,No
 US – Virgin Islands,2020-10-27,23659,covidtracking.com,No
 US – Virgin Islands,2020-10-28,23945,covidtracking.com,No
+US – Virgin Islands,2020-10-29,23945,covidtracking.com,No
 US – Virginia,2020-01-22,,,No
 US – Virginia,2020-01-23,,,No
 US – Virginia,2020-01-24,,,No
@@ -82614,6 +82907,7 @@ US – Virginia,2020-10-25,2521816,covidtracking.com,No
 US – Virginia,2020-10-26,2537269,covidtracking.com,No
 US – Virginia,2020-10-27,2555585,covidtracking.com,No
 US – Virginia,2020-10-28,2575759,covidtracking.com,No
+US – Virginia,2020-10-29,2596604,covidtracking.com,No
 US – Washington,2020-01-22,,,No
 US – Washington,2020-01-23,,,No
 US – Washington,2020-01-24,,,No
@@ -82895,6 +83189,7 @@ US – Washington,2020-10-25,2360387,covidtracking.com,No
 US – Washington,2020-10-26,2361099,,Yes
 US – Washington,2020-10-27,2361752,,Yes
 US – Washington,2020-10-28,2362595,covidtracking.com,No
+US – Washington,2020-10-29,2383332,covidtracking.com,No
 US – West Virginia,2020-01-22,,,No
 US – West Virginia,2020-01-23,,,No
 US – West Virginia,2020-01-24,,,No
@@ -83176,6 +83471,7 @@ US – West Virginia,2020-10-25,723207,covidtracking.com,No
 US – West Virginia,2020-10-26,736376,covidtracking.com,No
 US – West Virginia,2020-10-27,743737,covidtracking.com,No
 US – West Virginia,2020-10-28,748959,covidtracking.com,No
+US – West Virginia,2020-10-29,759646,covidtracking.com,No
 US – Wisconsin,2020-01-22,,,No
 US – Wisconsin,2020-01-23,,,No
 US – Wisconsin,2020-01-24,,,No
@@ -83457,6 +83753,7 @@ US – Wisconsin,2020-10-25,1976943,covidtracking.com,No
 US – Wisconsin,2020-10-26,1989820,covidtracking.com,No
 US – Wisconsin,2020-10-27,2006587,covidtracking.com,No
 US – Wisconsin,2020-10-28,2016720,covidtracking.com,No
+US – Wisconsin,2020-10-29,2030170,covidtracking.com,No
 US – Wyoming,2020-01-22,,,No
 US – Wyoming,2020-01-23,,,No
 US – Wyoming,2020-01-24,,,No
@@ -83738,6 +84035,7 @@ US – Wyoming,2020-10-25,124727,covidtracking.com,No
 US – Wyoming,2020-10-26,125163,covidtracking.com,No
 US – Wyoming,2020-10-27,125492,covidtracking.com,No
 US – Wyoming,2020-10-28,125832,covidtracking.com,No
+US – Wyoming,2020-10-29,129462,covidtracking.com,No
 Uganda,2020-01-22,,,No
 Uganda,2020-01-23,,,No
 Uganda,2020-01-24,,,No
@@ -84019,6 +84317,7 @@ Uganda,2020-10-25,537677,,Yes
 Uganda,2020-10-26,539146,worldometers,No
 Uganda,2020-10-27,539632,,Yes
 Uganda,2020-10-28,540202,worldometers,No
+Uganda,2020-10-29,541422,worldometers,No
 Ukraine,2020-01-22,,,No
 Ukraine,2020-01-23,,,No
 Ukraine,2020-01-24,,,No
@@ -84300,6 +84599,7 @@ Ukraine,2020-10-25,3025148,owid/roser,No
 Ukraine,2020-10-26,3053927,owid/roser,No
 Ukraine,2020-10-27,3087288,owid/roser,No
 Ukraine,2020-10-28,3095078,,Yes
+Ukraine,2020-10-29,3102719,,Yes
 United Arab Emirates,2020-01-22,,,No
 United Arab Emirates,2020-01-23,,,No
 United Arab Emirates,2020-01-24,,,No
@@ -84581,6 +84881,7 @@ United Arab Emirates,2020-10-25,12465687,owid/roser,No
 United Arab Emirates,2020-10-26,12550780,owid/roser,No
 United Arab Emirates,2020-10-27,12661587,owid/roser,No
 United Arab Emirates,2020-10-28,12766260,owid/roser,No
+United Arab Emirates,2020-10-29,12896833,worldometers,No
 United Kingdom,2020-01-22,,,No
 United Kingdom,2020-01-23,,,No
 United Kingdom,2020-01-24,,,No
@@ -84862,6 +85163,7 @@ United Kingdom,2020-10-25,27599062,owid/roser,No
 United Kingdom,2020-10-26,27823158,owid/roser,No
 United Kingdom,2020-10-27,27846043,,Yes
 United Kingdom,2020-10-28,27870743,,Yes
+United Kingdom,2020-10-29,27893808,,Yes
 United Kingdom – Anguilla,2020-01-22,,,No
 United Kingdom – Anguilla,2020-01-23,,,No
 United Kingdom – Anguilla,2020-01-24,,,No
@@ -85143,6 +85445,7 @@ United Kingdom – Anguilla,2020-10-25,1329,,Yes
 United Kingdom – Anguilla,2020-10-26,1329,,Yes
 United Kingdom – Anguilla,2020-10-27,1329,,Yes
 United Kingdom – Anguilla,2020-10-28,1329,,Yes
+United Kingdom – Anguilla,2020-10-29,1329,,Yes
 United Kingdom – Bermuda,2020-01-22,,,No
 United Kingdom – Bermuda,2020-01-23,,,No
 United Kingdom – Bermuda,2020-01-24,,,No
@@ -85422,8 +85725,9 @@ United Kingdom – Bermuda,2020-10-23,80821,,Yes
 United Kingdom – Bermuda,2020-10-24,81955,,Yes
 United Kingdom – Bermuda,2020-10-25,83089,lau,No
 United Kingdom – Bermuda,2020-10-26,83853,lau,No
-United Kingdom – Bermuda,2020-10-27,83854,,Yes
-United Kingdom – Bermuda,2020-10-28,83854,,Yes
+United Kingdom – Bermuda,2020-10-27,84259,,Yes
+United Kingdom – Bermuda,2020-10-28,84664,lau,No
+United Kingdom – Bermuda,2020-10-29,84668,,Yes
 United Kingdom – British Virgin Islands,2020-01-22,,,No
 United Kingdom – British Virgin Islands,2020-01-23,,,No
 United Kingdom – British Virgin Islands,2020-01-24,,,No
@@ -85705,6 +86009,7 @@ United Kingdom – British Virgin Islands,2020-10-25,5193,,Yes
 United Kingdom – British Virgin Islands,2020-10-26,5193,,Yes
 United Kingdom – British Virgin Islands,2020-10-27,5193,,Yes
 United Kingdom – British Virgin Islands,2020-10-28,5193,,Yes
+United Kingdom – British Virgin Islands,2020-10-29,5193,,Yes
 United Kingdom – Cayman Islands,2020-01-22,,,No
 United Kingdom – Cayman Islands,2020-01-23,,,No
 United Kingdom – Cayman Islands,2020-01-24,,,No
@@ -85986,6 +86291,7 @@ United Kingdom – Cayman Islands,2020-10-25,45534,,Yes
 United Kingdom – Cayman Islands,2020-10-26,45703,lau,No
 United Kingdom – Cayman Islands,2020-10-27,46055,lau,No
 United Kingdom – Cayman Islands,2020-10-28,46399,lau,No
+United Kingdom – Cayman Islands,2020-10-29,46399,worldometers,No
 United Kingdom – Channel Islands,2020-01-22,,,No
 United Kingdom – Channel Islands,2020-01-23,,,No
 United Kingdom – Channel Islands,2020-01-24,,,No
@@ -86267,6 +86573,7 @@ United Kingdom – Channel Islands,2020-10-25,162421,,Yes
 United Kingdom – Channel Islands,2020-10-26,163544,lau,No
 United Kingdom – Channel Islands,2020-10-27,164346,lau,No
 United Kingdom – Channel Islands,2020-10-28,165282,lau,No
+United Kingdom – Channel Islands,2020-10-29,166169,lau,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-22,,,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-23,,,No
 United Kingdom – Falkland Islands (Malvinas),2020-01-24,,,No
@@ -86548,6 +86855,7 @@ United Kingdom – Falkland Islands (Malvinas),2020-10-25,2682,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-10-26,2682,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-10-27,2682,,Yes
 United Kingdom – Falkland Islands (Malvinas),2020-10-28,2682,,Yes
+United Kingdom – Falkland Islands (Malvinas),2020-10-29,2682,,Yes
 United Kingdom – Gibraltar,2020-01-22,,,No
 United Kingdom – Gibraltar,2020-01-23,,,No
 United Kingdom – Gibraltar,2020-01-24,,,No
@@ -86829,6 +87137,7 @@ United Kingdom – Gibraltar,2020-10-25,62021,lau,No
 United Kingdom – Gibraltar,2020-10-26,62264,lau,No
 United Kingdom – Gibraltar,2020-10-27,63053,lau,No
 United Kingdom – Gibraltar,2020-10-28,63754,lau,No
+United Kingdom – Gibraltar,2020-10-29,64458,lau,No
 United Kingdom – Isle of Man,2020-01-22,,,No
 United Kingdom – Isle of Man,2020-01-23,,,No
 United Kingdom – Isle of Man,2020-01-24,,,No
@@ -87110,6 +87419,7 @@ United Kingdom – Isle of Man,2020-10-25,8234,,Yes
 United Kingdom – Isle of Man,2020-10-26,8237,,Yes
 United Kingdom – Isle of Man,2020-10-27,8238,,Yes
 United Kingdom – Isle of Man,2020-10-28,8238,,Yes
+United Kingdom – Isle of Man,2020-10-29,8238,,Yes
 United Kingdom – Montserrat,2020-01-22,,,No
 United Kingdom – Montserrat,2020-01-23,,,No
 United Kingdom – Montserrat,2020-01-24,,,No
@@ -87391,6 +87701,7 @@ United Kingdom – Montserrat,2020-10-25,483,,Yes
 United Kingdom – Montserrat,2020-10-26,483,,Yes
 United Kingdom – Montserrat,2020-10-27,483,,Yes
 United Kingdom – Montserrat,2020-10-28,483,,Yes
+United Kingdom – Montserrat,2020-10-29,483,,Yes
 United Kingdom – Turks and Caicos Islands,2020-01-22,,,No
 United Kingdom – Turks and Caicos Islands,2020-01-23,,,No
 United Kingdom – Turks and Caicos Islands,2020-01-24,,,No
@@ -87672,6 +87983,7 @@ United Kingdom – Turks and Caicos Islands,2020-10-25,4194,worldometers,No
 United Kingdom – Turks and Caicos Islands,2020-10-26,4215,,Yes
 United Kingdom – Turks and Caicos Islands,2020-10-27,4239,,Yes
 United Kingdom – Turks and Caicos Islands,2020-10-28,4261,worldometers,No
+United Kingdom – Turks and Caicos Islands,2020-10-29,4261,,Yes
 Uruguay,2020-01-22,,,No
 Uruguay,2020-01-23,,,No
 Uruguay,2020-01-24,,,No
@@ -87953,6 +88265,7 @@ Uruguay,2020-10-25,302334,owid/roser,No
 Uruguay,2020-10-26,304815,owid/roser,No
 Uruguay,2020-10-27,307253,owid/roser,No
 Uruguay,2020-10-28,310019,lau,No
+Uruguay,2020-10-29,310963,wiki,No
 Uzbekistan,2020-01-22,,,No
 Uzbekistan,2020-01-23,,,No
 Uzbekistan,2020-01-24,,,No
@@ -88234,6 +88547,7 @@ Uzbekistan,2020-10-25,1451222,,Yes
 Uzbekistan,2020-10-26,1451582,,Yes
 Uzbekistan,2020-10-27,1451796,,Yes
 Uzbekistan,2020-10-28,1452056,,Yes
+Uzbekistan,2020-10-29,1452307,,Yes
 Venezuela,2020-01-22,,,No
 Venezuela,2020-01-23,,,No
 Venezuela,2020-01-24,,,No
@@ -88514,7 +88828,8 @@ Venezuela,2020-10-24,2054769,,Yes
 Venezuela,2020-10-25,2062781,,Yes
 Venezuela,2020-10-26,2070856,,Yes
 Venezuela,2020-10-27,2078803,worldometers,No
-Venezuela,2020-10-28,2079279,,Yes
+Venezuela,2020-10-28,2091171,,Yes
+Venezuela,2020-10-29,2103473,worldometers,No
 Vietnam,2020-01-22,,,No
 Vietnam,2020-01-23,,,No
 Vietnam,2020-01-24,,,No
@@ -88796,6 +89111,7 @@ Vietnam,2020-10-25,1260843,,Yes
 Vietnam,2020-10-26,1260844,,Yes
 Vietnam,2020-10-27,1260847,,Yes
 Vietnam,2020-10-28,1260848,,Yes
+Vietnam,2020-10-29,1260852,,Yes
 West Bank and Gaza,2020-01-22,,,No
 West Bank and Gaza,2020-01-23,,,No
 West Bank and Gaza,2020-01-24,,,No
@@ -89077,6 +89393,7 @@ West Bank and Gaza,2020-10-25,499629,lau,No
 West Bank and Gaza,2020-10-26,500380,,Yes
 West Bank and Gaza,2020-10-27,501199,lau,No
 West Bank and Gaza,2020-10-28,510162,lau,No
+West Bank and Gaza,2020-10-29,510785,,Yes
 Western Sahara,2020-01-22,,,No
 Western Sahara,2020-01-23,,,No
 Western Sahara,2020-01-24,,,No
@@ -89358,6 +89675,7 @@ Western Sahara,2020-10-25,,,No
 Western Sahara,2020-10-26,,,No
 Western Sahara,2020-10-27,,,No
 Western Sahara,2020-10-28,,,No
+Western Sahara,2020-10-29,,,No
 Yemen,2020-01-22,,,No
 Yemen,2020-01-23,,,No
 Yemen,2020-01-24,,,No
@@ -89639,6 +89957,7 @@ Yemen,2020-10-25,2179,,Yes
 Yemen,2020-10-26,2179,,Yes
 Yemen,2020-10-27,2179,,Yes
 Yemen,2020-10-28,2180,,Yes
+Yemen,2020-10-29,2181,,Yes
 Zambia,2020-01-22,,,No
 Zambia,2020-01-23,,,No
 Zambia,2020-01-24,,,No
@@ -89919,7 +90238,8 @@ Zambia,2020-10-24,229872,owid/roser,No
 Zambia,2020-10-25,233033,owid/roser,No
 Zambia,2020-10-26,237710,owid/roser,No
 Zambia,2020-10-27,241276,owid/roser,No
-Zambia,2020-10-28,241318,,Yes
+Zambia,2020-10-28,244447,lau,No
+Zambia,2020-10-29,249204,lau,No
 Zimbabwe,2020-01-22,,,No
 Zimbabwe,2020-01-23,,,No
 Zimbabwe,2020-01-24,,,No
@@ -90201,3 +90521,4 @@ Zimbabwe,2020-10-25,136352,owid/roser,No
 Zimbabwe,2020-10-26,137050,owid/roser,No
 Zimbabwe,2020-10-27,138100,owid/roser,No
 Zimbabwe,2020-10-28,138105,,Yes
+Zimbabwe,2020-10-29,138134,,Yes
